@@ -1,0 +1,2417 @@
+id,employeeId,assessmentId,courseName,skill,courseDepartment,testScore,status,noOfAttempts
+SKS1,JMD1,ASSESS1,Angular,Angular,Development,35.75767918088737,Reject,1
+SKS3,JMD1,ASSESS2,Python,Python,Data Science,11.0,Reject,2
+SKS4,JMD1,ASSESS3,Node,Node,Development,56.0,Reject,3
+SKS6,JMD1,ASSESS4,Redis,Redis,Cloud,46.0,Reject,3
+SKS7,JMD1,ASSESS4,GCP,GCP,Cloud,20.0,Reject,2
+SKS9,JMD1,ASSESS5,Azure,Azure,Cloud,60.0,Reject,3
+SKS10,JMD2,ASSESS1,Big Data,Big Data,Data Science,52.0,Reject,3
+SKS11,JMD2,ASSESS2,Azure,Azure,Cloud,35.62128325508607,Reject,2
+SKS12,JMD2,ASSESS2,Redis,Redis,Cloud,63.0,Reject,3
+SKS14,JMD2,ASSESS3,Python,Python,Data Engineering,4.0,Reject,2
+SKS20,JMD3,ASSESS2,Big Data,Big Data,Data Science,65.0,Reject,3
+SKS22,JMD3,ASSESS3,Data Bricks,Data Bricks,Data Engineering,46.0,Reject,1
+SKS27,JMD3,ASSESS5,React Native,React Native,Development,16.0,Reject,2
+SKS29,JMD3,ASSESS5,Node,Node,Development,23.0,Reject,3
+SKS32,JMD4,ASSESS1,MySQL,MySQL,Data Engineering,23.0,Reject,3
+SKS36,JMD4,ASSESS3,Applied ML,Applied ML,Data Science,21.0,Reject,2
+SKS38,JMD4,ASSESS5,Azure,Azure,Cloud,48.0,Reject,1
+SKS41,JMD5,ASSESS1,Big Data,Big Data,Data Science,48.0,Reject,3
+SKS44,JMD5,ASSESS3,Redis,Redis,Cloud,41.0,Reject,2
+SKS46,JMD5,ASSESS4,GCP,GCP,Cloud,55.0,Reject,3
+SKS47,JMD5,ASSESS4,AWS,AWS,Cloud,5.0,Reject,1
+SKS48,JMD5,ASSESS5,Applied ML,Applied ML,Data Science,64.0,Reject,3
+SKS50,JMD6,ASSESS2,Reactjs,Reactjs,Development,41.0,Reject,2
+SKS53,JMD6,ASSESS4,DBT,DBT,Data Engineering,68.0,Reject,2
+SKS54,JMD6,ASSESS5,Reactjs,Reactjs,Development,26.0,Reject,1
+SKS55,JMD7,ASSESS1,Python,Python,Data Science,63.0,Reject,1
+SKS56,JMD7,ASSESS1,Applied ML,Applied ML,Data Science,44.0,Reject,3
+SKS58,JMD7,ASSESS2,Applied ML,Applied ML,Data Science,62.0,Reject,1
+SKS60,JMD7,ASSESS3,React Native,React Native,Development,67.0,Reject,3
+SKS63,JMD7,ASSESS4,Redis,Redis,Cloud,18.0,Reject,1
+SKS66,JMD8,ASSESS2,Python,Python,Data Science,32.0,Reject,2
+SKS67,JMD8,ASSESS2,Big Data,Big Data,Data Science,59.0,Reject,3
+SKS70,JMD8,ASSESS4,React Native,React Native,Development,61.0,Reject,3
+SKS72,JMD8,ASSESS5,Azure,Azure,Cloud,41.0,Reject,3
+SKS73,JMD8,ASSESS5,Redis,Redis,Cloud,39.0,Reject,1
+SKS76,JMD9,ASSESS1,Redis,Redis,Cloud,53.0,Reject,3
+SKS78,JMD9,ASSESS3,React Native,React Native,Development,56.0,Reject,1
+SKS79,JMD9,ASSESS4,Data Bricks,Data Bricks,Data Engineering,10.0,Reject,3
+SKS82,JMD10,ASSESS2,AWS,AWS,Cloud,54.0,Reject,2
+SKS85,JMD10,ASSESS3,GCP,GCP,Cloud,21.0,Reject,3
+SKS86,JMD10,ASSESS4,Redis,Redis,Cloud,55.0,Reject,1
+SKS88,JMD10,ASSESS5,AWS,AWS,Cloud,54.0,Reject,3
+SKS89,JMD10,ASSESS5,GCP,GCP,Cloud,13.0,Reject,2
+SKS90,JMD11,ASSESS1,Reactjs,Reactjs,Development,31.0,Reject,2
+SKS92,JMD11,ASSESS2,Python,Python,Data Science,45.0,Reject,1
+SKS93,JMD11,ASSESS2,Applied ML,Applied ML,Data Science,38.0,Reject,2
+SKS96,JMD11,ASSESS4,Applied ML,Applied ML,Data Science,43.0,Reject,3
+SKS97,JMD11,ASSESS4,Big Data,Big Data,Data Science,36.0,Reject,1
+SKS100,JMD12,ASSESS1,SnowFlake,SnowFlake,Data Engineering,68.0,Reject,2
+SKS101,JMD12,ASSESS1,Web Scraping,Web Scraping,Data Engineering,45.0,Reject,2
+SKS102,JMD12,ASSESS1,Python,Python,Data Engineering,25.0,Reject,3
+SKS103,JMD12,ASSESS2,Redis,Redis,Cloud,61.0,Reject,3
+SKS104,JMD12,ASSESS3,Python,Python,Data Science,35.0,Reject,1
+SKS105,JMD12,ASSESS3,Big Data,Big Data,Data Science,70.0,Reject,1
+SKS106,JMD12,ASSESS3,Applied ML,Applied ML,Data Science,43.0,Reject,3
+SKS110,JMD12,ASSESS5,Reactjs,Reactjs,Development,39.0,Reject,3
+SKS112,JMD13,ASSESS2,Angular,Angular,Development,42.0,Reject,1
+SKS114,JMD13,ASSESS3,Python,Python,Data Science,28.0,Reject,2
+SKS117,JMD13,ASSESS5,Angular,Angular,Development,12.0,Reject,2
+SKS118,JMD14,ASSESS1,React Native,React Native,Development,12.0,Reject,1
+SKS121,JMD14,ASSESS2,Azure,Azure,Cloud,40.0,Reject,1
+SKS122,JMD14,ASSESS2,AWS,AWS,Cloud,14.0,Reject,3
+SKS126,JMD14,ASSESS4,Python,Python,Data Science,35.0,Reject,1
+SKS127,JMD14,ASSESS4,Applied ML,Applied ML,Data Science,51.0,Reject,3
+SKS131,JMD15,ASSESS1,Laravel,Laravel,Development,41.0,Reject,2
+SKS132,JMD15,ASSESS1,React Native,React Native,Development,62.0,Reject,2
+SKS138,JMD15,ASSESS4,Big Data,Big Data,Data Science,2.0,Reject,1
+SKS139,JMD15,ASSESS4,Applied ML,Applied ML,Data Science,23.0,Reject,2
+SKS141,JMD15,ASSESS5,Redis,Redis,Cloud,57.0,Reject,2
+SKS142,JMD15,ASSESS5,AWS,AWS,Cloud,24.0,Reject,1
+SKS144,JMD16,ASSESS2,SnowFlake,SnowFlake,Data Engineering,61.0,Reject,1
+SKS145,JMD16,ASSESS2,Web Scraping,Web Scraping,Data Engineering,24.0,Reject,2
+SKS146,JMD16,ASSESS2,Data Bricks,Data Bricks,Data Engineering,66.0,Reject,2
+SKS149,JMD16,ASSESS4,DBT,DBT,Data Engineering,39.0,Reject,3
+SKS153,JMD17,ASSESS1,Angular,Angular,Development,60.0,Reject,2
+SKS154,JMD17,ASSESS1,Flutter,Flutter,Development,45.0,Reject,3
+SKS155,JMD17,ASSESS1,Next Js,Next Js,Development,39.0,Reject,1
+SKS157,JMD17,ASSESS2,Reactjs,Reactjs,Development,44.0,Reject,2
+SKS159,JMD17,ASSESS4,Azure,Azure,Cloud,34.0,Reject,3
+SKS163,JMD17,ASSESS5,Reactjs,Reactjs,Development,2.0,Reject,1
+SKS164,JMD18,ASSESS1,Data Bricks,Data Bricks,Data Engineering,59.0,Reject,3
+SKS165,JMD18,ASSESS1,DBT,DBT,Data Engineering,66.0,Reject,1
+SKS169,JMD18,ASSESS3,Python,Python,Data Science,48.0,Reject,3
+SKS170,JMD18,ASSESS3,Applied ML,Applied ML,Data Science,62.0,Reject,2
+SKS174,JMD18,ASSESS5,Flutter,Flutter,Development,60.0,Reject,2
+SKS175,JMD19,ASSESS1,MySQL,MySQL,Data Engineering,23.0,Reject,3
+SKS176,JMD19,ASSESS1,SnowFlake,SnowFlake,Data Engineering,55.0,Reject,1
+SKS177,JMD19,ASSESS2,Big Data,Big Data,Data Science,2.0,Reject,2
+SKS184,JMD20,ASSESS1,Node,Node,Development,1.0,Reject,2
+SKS186,JMD20,ASSESS3,React Native,React Native,Development,25.0,Reject,2
+SKS187,JMD20,ASSESS4,GCP,GCP,Cloud,13.0,Reject,3
+SKS190,JMD20,ASSESS5,AWS,AWS,Cloud,62.0,Reject,3
+SKS191,JMD21,ASSESS1,Data Bricks,Data Bricks,Data Engineering,50.0,Reject,3
+SKS192,JMD21,ASSESS2,AWS,AWS,Cloud,4.0,Reject,2
+SKS194,JMD21,ASSESS3,Web Scraping,Web Scraping,Data Engineering,37.0,Reject,3
+SKS197,JMD21,ASSESS5,Python,Python,Data Engineering,65.0,Reject,1
+SKS202,JMD22,ASSESS3,GCP,GCP,Cloud,46.0,Reject,1
+SKS207,JMD23,ASSESS1,Big Data,Big Data,Data Science,20.0,Reject,2
+SKS208,JMD23,ASSESS2,Azure,Azure,Cloud,35.62128325508607,Reject,1
+SKS209,JMD23,ASSESS2,GCP,GCP,Cloud,58.0,Reject,3
+SKS212,JMD23,ASSESS4,Azure,Azure,Cloud,54.0,Reject,1
+SKS213,JMD23,ASSESS4,GCP,GCP,Cloud,46.0,Reject,1
+SKS214,JMD23,ASSESS5,Python,Python,Data Engineering,9.0,Reject,2
+SKS215,JMD23,ASSESS5,Data Bricks,Data Bricks,Data Engineering,23.0,Reject,3
+SKS218,JMD24,ASSESS3,Flutter,Flutter,Development,61.0,Reject,3
+SKS219,JMD24,ASSESS3,Reactjs,Reactjs,Development,23.0,Reject,3
+SKS220,JMD24,ASSESS3,Node,Node,Development,17.0,Reject,1
+SKS221,JMD24,ASSESS4,Laravel,Laravel,Development,35.0,Reject,1
+SKS222,JMD24,ASSESS5,Applied ML,Applied ML,Data Science,40.0,Reject,3
+SKS223,JMD25,ASSESS1,Redis,Redis,Cloud,20.0,Reject,3
+SKS225,JMD25,ASSESS2,DBT,DBT,Data Engineering,49.0,Reject,1
+SKS229,JMD25,ASSESS4,Python,Python,Data Science,65.0,Reject,1
+SKS231,JMD26,ASSESS1,GCP,GCP,Cloud,10.0,Reject,1
+SKS232,JMD26,ASSESS1,Azure,Azure,Cloud,17.0,Reject,1
+SKS233,JMD26,ASSESS2,Azure,Azure,Cloud,57.0,Reject,1
+SKS236,JMD26,ASSESS4,MySQL,MySQL,Data Engineering,15.0,Reject,3
+SKS237,JMD26,ASSESS4,DBT,DBT,Data Engineering,10.0,Reject,2
+SKS238,JMD26,ASSESS5,Node,Node,Development,54.0,Reject,2
+SKS239,JMD27,ASSESS1,Flutter,Flutter,Development,55.0,Reject,1
+SKS244,JMD27,ASSESS4,GCP,GCP,Cloud,55.0,Reject,1
+SKS245,JMD27,ASSESS5,Azure,Azure,Cloud,65.0,Reject,3
+SKS246,JMD27,ASSESS5,Redis,Redis,Cloud,6.0,Reject,2
+SKS248,JMD28,ASSESS1,React Native,React Native,Development,59.0,Reject,2
+SKS249,JMD28,ASSESS1,Node,Node,Development,53.0,Reject,3
+SKS255,JMD28,ASSESS4,React Native,React Native,Development,28.0,Reject,2
+SKS256,JMD28,ASSESS4,Flutter,Flutter,Development,57.0,Reject,1
+SKS257,JMD28,ASSESS5,Big Data,Big Data,Data Science,47.0,Reject,1
+SKS263,JMD29,ASSESS3,Next Js,Next Js,Development,16.0,Reject,1
+SKS267,JMD29,ASSESS4,Redis,Redis,Cloud,59.0,Reject,2
+SKS269,JMD30,ASSESS1,Big Data,Big Data,Data Science,14.0,Reject,2
+SKS270,JMD30,ASSESS1,Applied ML,Applied ML,Data Science,27.0,Reject,3
+SKS273,JMD30,ASSESS2,AWS,AWS,Cloud,24.0,Reject,1
+SKS274,JMD30,ASSESS3,GCP,GCP,Cloud,30.0,Reject,2
+SKS275,JMD30,ASSESS4,Big Data,Big Data,Data Science,15.0,Reject,3
+SKS276,JMD30,ASSESS4,Applied ML,Applied ML,Data Science,5.0,Reject,1
+SKS278,JMD30,ASSESS5,React Native,React Native,Development,1.0,Reject,3
+SKS280,JMD31,ASSESS1,AWS,AWS,Cloud,11.0,Reject,1
+SKS282,JMD31,ASSESS2,MySQL,MySQL,Data Engineering,40.0,Reject,2
+SKS288,JMD32,ASSESS1,Applied ML,Applied ML,Data Science,61.0,Reject,2
+SKS289,JMD32,ASSESS1,Python,Python,Data Science,51.0,Reject,3
+SKS290,JMD32,ASSESS2,SnowFlake,SnowFlake,Data Engineering,17.0,Reject,1
+SKS291,JMD32,ASSESS2,DBT,DBT,Data Engineering,57.0,Reject,1
+SKS294,JMD32,ASSESS3,Reactjs,Reactjs,Development,45.0,Reject,2
+SKS295,JMD32,ASSESS3,React Native,React Native,Development,62.0,Reject,1
+SKS300,JMD32,ASSESS5,GCP,GCP,Cloud,66.0,Reject,2
+SKS301,JMD32,ASSESS5,AWS,AWS,Cloud,61.0,Reject,2
+SKS302,JMD33,ASSESS1,Azure,Azure,Cloud,60.0,Reject,1
+SKS303,JMD33,ASSESS1,AWS,AWS,Cloud,31.0,Reject,1
+SKS306,JMD33,ASSESS3,Laravel,Laravel,Development,68.0,Reject,3
+SKS307,JMD33,ASSESS3,Angular,Angular,Development,12.0,Reject,2
+SKS308,JMD33,ASSESS3,Flutter,Flutter,Development,17.0,Reject,3
+SKS309,JMD33,ASSESS4,Laravel,Laravel,Development,22.0,Reject,2
+SKS312,JMD34,ASSESS2,AWS,AWS,Cloud,4.0,Reject,1
+SKS313,JMD34,ASSESS2,Azure,Azure,Cloud,45.0,Reject,2
+SKS314,JMD34,ASSESS2,GCP,GCP,Cloud,43.0,Reject,2
+SKS315,JMD34,ASSESS3,Data Bricks,Data Bricks,Data Engineering,32.0,Reject,1
+SKS316,JMD34,ASSESS3,SnowFlake,SnowFlake,Data Engineering,35.012455516014235,Reject,1
+SKS317,JMD34,ASSESS4,Reactjs,Reactjs,Development,35.75767918088737,Reject,3
+SKS318,JMD34,ASSESS5,Flutter,Flutter,Development,20.0,Reject,2
+SKS320,JMD35,ASSESS1,GCP,GCP,Cloud,53.0,Reject,3
+SKS321,JMD35,ASSESS1,Redis,Redis,Cloud,41.0,Reject,2
+SKS323,JMD35,ASSESS2,Reactjs,Reactjs,Development,49.0,Reject,2
+SKS324,JMD35,ASSESS3,Azure,Azure,Cloud,17.0,Reject,2
+SKS327,JMD35,ASSESS5,DBT,DBT,Data Engineering,64.0,Reject,2
+SKS328,JMD36,ASSESS1,Applied ML,Applied ML,Data Science,69.0,Reject,1
+SKS331,JMD36,ASSESS2,React Native,React Native,Development,39.0,Reject,3
+SKS333,JMD36,ASSESS4,AWS,AWS,Cloud,57.0,Reject,2
+SKS336,JMD36,ASSESS5,Applied ML,Applied ML,Data Science,21.0,Reject,1
+SKS339,JMD37,ASSESS1,Redis,Redis,Cloud,56.0,Reject,2
+SKS341,JMD37,ASSESS2,Flutter,Flutter,Development,61.0,Reject,1
+SKS343,JMD37,ASSESS3,Python,Python,Data Science,53.0,Reject,3
+SKS346,JMD37,ASSESS4,Next Js,Next Js,Development,67.0,Reject,2
+SKS350,JMD38,ASSESS1,Laravel,Laravel,Development,11.0,Reject,2
+SKS352,JMD38,ASSESS2,Data Bricks,Data Bricks,Data Engineering,65.0,Reject,1
+SKS354,JMD38,ASSESS4,Python,Python,Data Engineering,39.0,Reject,1
+SKS355,JMD38,ASSESS4,Web Scraping,Web Scraping,Data Engineering,1.0,Reject,1
+SKS359,JMD38,ASSESS5,SnowFlake,SnowFlake,Data Engineering,10.0,Reject,3
+SKS361,JMD39,ASSESS1,Data Bricks,Data Bricks,Data Engineering,37.0,Reject,3
+SKS362,JMD39,ASSESS1,Web Scraping,Web Scraping,Data Engineering,48.0,Reject,3
+SKS363,JMD39,ASSESS2,Applied ML,Applied ML,Data Science,10.0,Reject,3
+SKS364,JMD39,ASSESS2,Big Data,Big Data,Data Science,8.0,Reject,2
+SKS365,JMD39,ASSESS2,Python,Python,Data Science,37.0,Reject,2
+SKS366,JMD39,ASSESS3,Redis,Redis,Cloud,65.0,Reject,3
+SKS369,JMD39,ASSESS4,DBT,DBT,Data Engineering,66.0,Reject,1
+SKS370,JMD39,ASSESS5,Angular,Angular,Development,54.0,Reject,2
+SKS373,JMD40,ASSESS1,GCP,GCP,Cloud,43.0,Reject,1
+SKS374,JMD40,ASSESS2,AWS,AWS,Cloud,28.0,Reject,2
+SKS375,JMD40,ASSESS3,Big Data,Big Data,Data Science,45.0,Reject,3
+SKS378,JMD40,ASSESS4,AWS,AWS,Cloud,9.0,Reject,1
+SKS379,JMD40,ASSESS4,Azure,Azure,Cloud,11.0,Reject,3
+SKS385,JMD41,ASSESS3,Big Data,Big Data,Data Science,65.0,Reject,1
+SKS386,JMD41,ASSESS4,Node,Node,Development,50.0,Reject,3
+SKS390,JMD42,ASSESS2,MySQL,MySQL,Data Engineering,66.0,Reject,3
+SKS391,JMD42,ASSESS3,Redis,Redis,Cloud,14.0,Reject,1
+SKS393,JMD42,ASSESS3,Azure,Azure,Cloud,66.0,Reject,1
+SKS394,JMD42,ASSESS4,Python,Python,Data Science,42.0,Reject,2
+SKS396,JMD42,ASSESS5,MySQL,MySQL,Data Engineering,16.0,Reject,1
+SKS397,JMD43,ASSESS1,Big Data,Big Data,Data Science,31.0,Reject,1
+SKS399,JMD43,ASSESS1,Applied ML,Applied ML,Data Science,62.0,Reject,2
+SKS401,JMD43,ASSESS3,Big Data,Big Data,Data Science,23.0,Reject,3
+SKS405,JMD43,ASSESS4,Node,Node,Development,69.0,Reject,1
+SKS406,JMD43,ASSESS4,Laravel,Laravel,Development,36.0,Reject,2
+SKS407,JMD43,ASSESS5,Python,Python,Data Science,27.0,Reject,3
+SKS409,JMD43,ASSESS5,Applied ML,Applied ML,Data Science,24.0,Reject,1
+SKS410,JMD44,ASSESS1,Angular,Angular,Development,40.0,Reject,1
+SKS411,JMD44,ASSESS2,Angular,Angular,Development,3.0,Reject,2
+SKS417,JMD44,ASSESS4,Big Data,Big Data,Data Science,14.0,Reject,2
+SKS419,JMD44,ASSESS5,Applied ML,Applied ML,Data Science,21.0,Reject,3
+SKS420,JMD44,ASSESS5,Python,Python,Data Science,5.0,Reject,2
+SKS421,JMD45,ASSESS1,Python,Python,Data Science,31.0,Reject,1
+SKS422,JMD45,ASSESS1,Big Data,Big Data,Data Science,25.0,Reject,2
+SKS425,JMD45,ASSESS3,Flutter,Flutter,Development,41.0,Reject,2
+SKS428,JMD45,ASSESS4,Web Scraping,Web Scraping,Data Engineering,21.0,Reject,1
+SKS429,JMD45,ASSESS4,MySQL,MySQL,Data Engineering,62.0,Reject,3
+SKS431,JMD45,ASSESS5,React Native,React Native,Development,58.0,Reject,2
+SKS435,JMD46,ASSESS2,Python,Python,Data Science,62.0,Reject,2
+SKS436,JMD46,ASSESS2,Applied ML,Applied ML,Data Science,53.0,Reject,3
+SKS439,JMD46,ASSESS4,MySQL,MySQL,Data Engineering,14.0,Reject,3
+SKS444,JMD47,ASSESS1,Reactjs,Reactjs,Development,9.0,Reject,3
+SKS447,JMD47,ASSESS2,GCP,GCP,Cloud,21.0,Reject,1
+SKS452,JMD47,ASSESS5,AWS,AWS,Cloud,21.0,Reject,2
+SKS453,JMD48,ASSESS1,SnowFlake,SnowFlake,Data Engineering,1.0,Reject,2
+SKS458,JMD48,ASSESS2,Angular,Angular,Development,35.0,Reject,1
+SKS461,JMD48,ASSESS4,DBT,DBT,Data Engineering,5.0,Reject,2
+SKS462,JMD48,ASSESS4,Data Bricks,Data Bricks,Data Engineering,25.0,Reject,1
+SKS463,JMD48,ASSESS5,React Native,React Native,Development,37.0,Reject,1
+SKS466,JMD49,ASSESS1,Next Js,Next Js,Development,57.0,Reject,2
+SKS467,JMD49,ASSESS1,Angular,Angular,Development,15.0,Reject,1
+SKS469,JMD49,ASSESS2,AWS,AWS,Cloud,64.0,Reject,2
+SKS470,JMD49,ASSESS3,GCP,GCP,Cloud,39.0,Reject,3
+SKS473,JMD49,ASSESS4,Python,Python,Data Science,69.0,Reject,1
+SKS474,JMD49,ASSESS5,GCP,GCP,Cloud,7.0,Reject,2
+SKS475,JMD49,ASSESS5,Azure,Azure,Cloud,28.0,Reject,2
+SKS476,JMD50,ASSESS1,GCP,GCP,Cloud,8.0,Reject,2
+SKS481,JMD50,ASSESS3,Big Data,Big Data,Data Science,52.0,Reject,3
+SKS483,JMD50,ASSESS4,Laravel,Laravel,Development,34.0,Reject,1
+SKS485,JMD50,ASSESS5,Web Scraping,Web Scraping,Data Engineering,52.0,Reject,3
+SKS486,JMD51,ASSESS1,Laravel,Laravel,Development,13.0,Reject,3
+SKS488,JMD51,ASSESS2,Applied ML,Applied ML,Data Science,3.0,Reject,1
+SKS489,JMD51,ASSESS3,Redis,Redis,Cloud,51.0,Reject,1
+SKS490,JMD51,ASSESS4,Node,Node,Development,5.0,Reject,2
+SKS492,JMD51,ASSESS5,SnowFlake,SnowFlake,Data Engineering,52.0,Reject,1
+SKS494,JMD52,ASSESS1,Next Js,Next Js,Development,27.0,Reject,1
+SKS499,JMD52,ASSESS2,Flutter,Flutter,Development,59.0,Reject,2
+SKS501,JMD52,ASSESS4,Python,Python,Data Science,51.0,Reject,2
+SKS502,JMD52,ASSESS5,Python,Python,Data Engineering,7.0,Reject,2
+SKS507,JMD53,ASSESS2,Data Bricks,Data Bricks,Data Engineering,36.0,Reject,1
+SKS508,JMD53,ASSESS3,Web Scraping,Web Scraping,Data Engineering,50.0,Reject,1
+SKS512,JMD53,ASSESS5,MySQL,MySQL,Data Engineering,56.0,Reject,1
+SKS513,JMD53,ASSESS5,SnowFlake,SnowFlake,Data Engineering,66.0,Reject,2
+SKS517,JMD54,ASSESS4,AWS,AWS,Cloud,14.0,Reject,3
+SKS518,JMD54,ASSESS5,Big Data,Big Data,Data Science,52.0,Reject,3
+SKS519,JMD54,ASSESS5,Python,Python,Data Science,66.0,Reject,3
+SKS522,JMD55,ASSESS2,Next Js,Next Js,Development,38.0,Reject,3
+SKS524,JMD55,ASSESS3,Node,Node,Development,65.0,Reject,3
+SKS527,JMD55,ASSESS5,React Native,React Native,Development,12.0,Reject,1
+SKS528,JMD56,ASSESS1,Python,Python,Data Science,36.0,Reject,2
+SKS531,JMD56,ASSESS3,AWS,AWS,Cloud,57.0,Reject,1
+SKS532,JMD56,ASSESS3,Azure,Azure,Cloud,26.0,Reject,3
+SKS533,JMD56,ASSESS4,Applied ML,Applied ML,Data Science,24.0,Reject,3
+SKS534,JMD56,ASSESS4,Python,Python,Data Science,44.0,Reject,3
+SKS535,JMD56,ASSESS4,Big Data,Big Data,Data Science,6.0,Reject,2
+SKS538,JMD56,ASSESS5,MySQL,MySQL,Data Engineering,29.0,Reject,2
+SKS541,JMD57,ASSESS2,Big Data,Big Data,Data Science,15.0,Reject,3
+SKS542,JMD57,ASSESS2,Python,Python,Data Science,44.0,Reject,1
+SKS544,JMD57,ASSESS4,Azure,Azure,Cloud,53.0,Reject,3
+SKS545,JMD57,ASSESS4,GCP,GCP,Cloud,64.0,Reject,2
+SKS547,JMD57,ASSESS5,Python,Python,Data Science,4.0,Reject,1
+SKS551,JMD58,ASSESS2,Web Scraping,Web Scraping,Data Engineering,28.0,Reject,1
+SKS552,JMD58,ASSESS2,Data Bricks,Data Bricks,Data Engineering,42.0,Reject,3
+SKS553,JMD58,ASSESS3,Applied ML,Applied ML,Data Science,55.0,Reject,3
+SKS554,JMD58,ASSESS3,Python,Python,Data Science,6.0,Reject,3
+SKS555,JMD58,ASSESS3,Big Data,Big Data,Data Science,4.0,Reject,3
+SKS562,JMD59,ASSESS2,AWS,AWS,Cloud,54.0,Reject,2
+SKS563,JMD59,ASSESS2,GCP,GCP,Cloud,56.0,Reject,1
+SKS564,JMD59,ASSESS3,React Native,React Native,Development,27.0,Reject,1
+SKS565,JMD59,ASSESS3,Angular,Angular,Development,35.75767918088737,Reject,1
+SKS566,JMD59,ASSESS4,Data Bricks,Data Bricks,Data Engineering,59.0,Reject,3
+SKS568,JMD59,ASSESS5,Big Data,Big Data,Data Science,25.0,Reject,2
+SKS570,JMD60,ASSESS1,GCP,GCP,Cloud,24.0,Reject,2
+SKS571,JMD60,ASSESS1,Azure,Azure,Cloud,33.0,Reject,2
+SKS574,JMD60,ASSESS4,Laravel,Laravel,Development,66.0,Reject,3
+SKS581,JMD61,ASSESS2,Node,Node,Development,43.0,Reject,1
+SKS584,JMD61,ASSESS4,Applied ML,Applied ML,Data Science,46.0,Reject,1
+SKS585,JMD61,ASSESS4,Big Data,Big Data,Data Science,52.0,Reject,2
+SKS586,JMD61,ASSESS5,Python,Python,Data Engineering,52.0,Reject,2
+SKS589,JMD62,ASSESS2,Flutter,Flutter,Development,69.0,Reject,1
+SKS591,JMD62,ASSESS2,Reactjs,Reactjs,Development,7.0,Reject,2
+SKS597,JMD62,ASSESS5,Python,Python,Data Engineering,9.0,Reject,2
+SKS598,JMD62,ASSESS5,DBT,DBT,Data Engineering,21.0,Reject,3
+SKS600,JMD63,ASSESS1,AWS,AWS,Cloud,56.0,Reject,3
+SKS602,JMD63,ASSESS2,SnowFlake,SnowFlake,Data Engineering,24.0,Reject,1
+SKS603,JMD63,ASSESS2,MySQL,MySQL,Data Engineering,5.0,Reject,1
+SKS607,JMD63,ASSESS5,Angular,Angular,Development,36.0,Reject,2
+SKS610,JMD64,ASSESS2,Web Scraping,Web Scraping,Data Engineering,37.0,Reject,2
+SKS611,JMD64,ASSESS2,Data Bricks,Data Bricks,Data Engineering,46.0,Reject,1
+SKS613,JMD64,ASSESS3,GCP,GCP,Cloud,61.0,Reject,1
+SKS614,JMD64,ASSESS3,Azure,Azure,Cloud,41.0,Reject,2
+SKS615,JMD64,ASSESS4,Node,Node,Development,13.0,Reject,1
+SKS616,JMD64,ASSESS4,Flutter,Flutter,Development,52.0,Reject,2
+SKS623,JMD65,ASSESS3,SnowFlake,SnowFlake,Data Engineering,50.0,Reject,1
+SKS624,JMD65,ASSESS3,MySQL,MySQL,Data Engineering,9.0,Reject,3
+SKS626,JMD65,ASSESS5,Python,Python,Data Science,21.0,Reject,3
+SKS627,JMD66,ASSESS1,Python,Python,Data Engineering,24.0,Reject,2
+SKS630,JMD66,ASSESS2,Redis,Redis,Cloud,15.0,Reject,2
+SKS631,JMD66,ASSESS3,Node,Node,Development,2.0,Reject,3
+SKS633,JMD66,ASSESS4,Next Js,Next Js,Development,66.0,Reject,1
+SKS639,JMD67,ASSESS1,GCP,GCP,Cloud,4.0,Reject,3
+SKS641,JMD67,ASSESS2,MySQL,MySQL,Data Engineering,16.0,Reject,2
+SKS643,JMD67,ASSESS2,DBT,DBT,Data Engineering,49.0,Reject,2
+SKS644,JMD67,ASSESS3,Data Bricks,Data Bricks,Data Engineering,40.0,Reject,1
+SKS645,JMD67,ASSESS3,Python,Python,Data Engineering,41.0,Reject,1
+SKS648,JMD67,ASSESS4,Python,Python,Data Engineering,67.0,Reject,2
+SKS650,JMD67,ASSESS5,Big Data,Big Data,Data Science,65.0,Reject,2
+SKS651,JMD68,ASSESS1,Big Data,Big Data,Data Science,58.0,Reject,2
+SKS652,JMD68,ASSESS1,Applied ML,Applied ML,Data Science,37.0,Reject,3
+SKS657,JMD68,ASSESS3,Python,Python,Data Science,40.0,Reject,2
+SKS660,JMD68,ASSESS5,SnowFlake,SnowFlake,Data Engineering,64.0,Reject,1
+SKS663,JMD69,ASSESS1,MySQL,MySQL,Data Engineering,19.0,Reject,1
+SKS665,JMD69,ASSESS2,Web Scraping,Web Scraping,Data Engineering,21.0,Reject,2
+SKS668,JMD69,ASSESS3,Laravel,Laravel,Development,67.0,Reject,3
+SKS672,JMD69,ASSESS4,Applied ML,Applied ML,Data Science,47.0,Reject,2
+SKS673,JMD69,ASSESS5,GCP,GCP,Cloud,3.0,Reject,1
+SKS674,JMD70,ASSESS1,AWS,AWS,Cloud,42.0,Reject,2
+SKS675,JMD70,ASSESS1,GCP,GCP,Cloud,40.0,Reject,1
+SKS676,JMD70,ASSESS1,Redis,Redis,Cloud,64.0,Reject,2
+SKS677,JMD70,ASSESS2,Angular,Angular,Development,54.0,Reject,3
+SKS681,JMD70,ASSESS4,Python,Python,Data Science,62.0,Reject,3
+SKS683,JMD70,ASSESS5,Redis,Redis,Cloud,63.0,Reject,1
+SKS684,JMD71,ASSESS1,Angular,Angular,Development,48.0,Reject,3
+SKS685,JMD71,ASSESS1,Laravel,Laravel,Development,55.0,Reject,2
+SKS686,JMD71,ASSESS2,Azure,Azure,Cloud,13.0,Reject,2
+SKS687,JMD71,ASSESS2,Redis,Redis,Cloud,58.0,Reject,1
+SKS692,JMD72,ASSESS1,Web Scraping,Web Scraping,Data Engineering,70.0,Reject,1
+SKS694,JMD72,ASSESS2,Next Js,Next Js,Development,66.0,Reject,1
+SKS695,JMD72,ASSESS2,Reactjs,Reactjs,Development,52.0,Reject,1
+SKS696,JMD72,ASSESS3,Data Bricks,Data Bricks,Data Engineering,64.0,Reject,3
+SKS697,JMD72,ASSESS4,Azure,Azure,Cloud,34.0,Reject,2
+SKS701,JMD73,ASSESS1,SnowFlake,SnowFlake,Data Engineering,3.0,Reject,2
+SKS706,JMD73,ASSESS4,Applied ML,Applied ML,Data Science,6.0,Reject,1
+SKS707,JMD73,ASSESS5,DBT,DBT,Data Engineering,68.0,Reject,3
+SKS709,JMD74,ASSESS1,DBT,DBT,Data Engineering,21.0,Reject,2
+SKS711,JMD74,ASSESS3,Applied ML,Applied ML,Data Science,47.0,Reject,2
+SKS712,JMD74,ASSESS3,Big Data,Big Data,Data Science,15.0,Reject,2
+SKS713,JMD74,ASSESS4,Data Bricks,Data Bricks,Data Engineering,14.0,Reject,2
+SKS714,JMD74,ASSESS4,MySQL,MySQL,Data Engineering,48.0,Reject,3
+SKS715,JMD74,ASSESS5,Applied ML,Applied ML,Data Science,66.0,Reject,3
+SKS716,JMD74,ASSESS5,Python,Python,Data Science,44.0,Reject,3
+SKS717,JMD74,ASSESS5,Big Data,Big Data,Data Science,14.0,Reject,1
+SKS719,JMD75,ASSESS1,MySQL,MySQL,Data Engineering,25.0,Reject,1
+SKS724,JMD75,ASSESS4,GCP,GCP,Cloud,30.0,Reject,1
+SKS725,JMD75,ASSESS5,React Native,React Native,Development,24.0,Reject,2
+SKS726,JMD76,ASSESS1,Angular,Angular,Development,34.0,Reject,2
+SKS727,JMD76,ASSESS1,Laravel,Laravel,Development,45.0,Reject,1
+SKS728,JMD76,ASSESS1,Node,Node,Development,12.0,Reject,3
+SKS731,JMD76,ASSESS4,AWS,AWS,Cloud,54.0,Reject,3
+SKS732,JMD76,ASSESS4,Azure,Azure,Cloud,53.0,Reject,1
+SKS734,JMD76,ASSESS5,SnowFlake,SnowFlake,Data Engineering,4.0,Reject,1
+SKS736,JMD77,ASSESS1,DBT,DBT,Data Engineering,66.0,Reject,1
+SKS739,JMD77,ASSESS2,DBT,DBT,Data Engineering,55.0,Reject,2
+SKS742,JMD77,ASSESS3,Flutter,Flutter,Development,43.0,Reject,3
+SKS743,JMD77,ASSESS4,Python,Python,Data Science,57.0,Reject,1
+SKS748,JMD78,ASSESS1,Applied ML,Applied ML,Data Science,5.0,Reject,2
+SKS749,JMD78,ASSESS2,Redis,Redis,Cloud,47.0,Reject,1
+SKS752,JMD78,ASSESS3,Applied ML,Applied ML,Data Science,2.0,Reject,1
+SKS754,JMD78,ASSESS4,Web Scraping,Web Scraping,Data Engineering,23.0,Reject,2
+SKS755,JMD78,ASSESS4,SnowFlake,SnowFlake,Data Engineering,69.0,Reject,2
+SKS757,JMD78,ASSESS5,Big Data,Big Data,Data Science,51.0,Reject,3
+SKS758,JMD78,ASSESS5,Python,Python,Data Science,22.0,Reject,2
+SKS760,JMD79,ASSESS1,Data Bricks,Data Bricks,Data Engineering,14.0,Reject,1
+SKS761,JMD79,ASSESS2,Python,Python,Data Science,23.0,Reject,2
+SKS762,JMD79,ASSESS2,Big Data,Big Data,Data Science,1.0,Reject,1
+SKS764,JMD79,ASSESS4,Angular,Angular,Development,8.0,Reject,3
+SKS766,JMD79,ASSESS5,AWS,AWS,Cloud,5.0,Reject,1
+SKS767,JMD79,ASSESS5,Redis,Redis,Cloud,35.0,Reject,1
+SKS768,JMD79,ASSESS5,GCP,GCP,Cloud,28.0,Reject,3
+SKS769,JMD80,ASSESS1,Python,Python,Data Engineering,66.0,Reject,3
+SKS770,JMD80,ASSESS1,DBT,DBT,Data Engineering,67.0,Reject,3
+SKS772,JMD80,ASSESS2,Big Data,Big Data,Data Science,36.0,Reject,3
+SKS774,JMD80,ASSESS3,Redis,Redis,Cloud,60.0,Reject,3
+SKS775,JMD80,ASSESS4,Node,Node,Development,43.0,Reject,2
+SKS777,JMD80,ASSESS4,Flutter,Flutter,Development,49.0,Reject,3
+SKS779,JMD81,ASSESS1,Applied ML,Applied ML,Data Science,11.0,Reject,1
+SKS781,JMD81,ASSESS2,MySQL,MySQL,Data Engineering,47.0,Reject,3
+SKS783,JMD81,ASSESS2,SnowFlake,SnowFlake,Data Engineering,53.0,Reject,1
+SKS785,JMD81,ASSESS3,Applied ML,Applied ML,Data Science,10.0,Reject,2
+SKS789,JMD81,ASSESS5,DBT,DBT,Data Engineering,23.0,Reject,1
+SKS790,JMD82,ASSESS1,Angular,Angular,Development,9.0,Reject,2
+SKS791,JMD82,ASSESS1,Laravel,Laravel,Development,14.0,Reject,1
+SKS796,JMD82,ASSESS3,SnowFlake,SnowFlake,Data Engineering,61.0,Reject,1
+SKS799,JMD83,ASSESS1,React Native,React Native,Development,6.0,Reject,2
+SKS800,JMD83,ASSESS1,Reactjs,Reactjs,Development,55.0,Reject,1
+SKS802,JMD83,ASSESS3,Applied ML,Applied ML,Data Science,53.0,Reject,1
+SKS804,JMD83,ASSESS3,Big Data,Big Data,Data Science,53.0,Reject,3
+SKS805,JMD83,ASSESS4,Azure,Azure,Cloud,67.0,Reject,1
+SKS806,JMD83,ASSESS4,GCP,GCP,Cloud,1.0,Reject,1
+SKS808,JMD83,ASSESS5,Applied ML,Applied ML,Data Science,53.0,Reject,2
+SKS809,JMD84,ASSESS1,Next Js,Next Js,Development,46.0,Reject,3
+SKS810,JMD84,ASSESS1,Laravel,Laravel,Development,60.0,Reject,1
+SKS811,JMD84,ASSESS1,Node,Node,Development,11.0,Reject,2
+SKS812,JMD84,ASSESS2,Reactjs,Reactjs,Development,20.0,Reject,2
+SKS813,JMD84,ASSESS2,Angular,Angular,Development,44.0,Reject,3
+SKS814,JMD84,ASSESS3,Azure,Azure,Cloud,51.0,Reject,3
+SKS816,JMD84,ASSESS4,Big Data,Big Data,Data Science,3.0,Reject,1
+SKS820,JMD85,ASSESS2,Web Scraping,Web Scraping,Data Engineering,38.0,Reject,3
+SKS822,JMD85,ASSESS2,SnowFlake,SnowFlake,Data Engineering,68.0,Reject,2
+SKS823,JMD85,ASSESS3,GCP,GCP,Cloud,65.0,Reject,1
+SKS824,JMD85,ASSESS4,SnowFlake,SnowFlake,Data Engineering,60.0,Reject,2
+SKS826,JMD85,ASSESS5,Applied ML,Applied ML,Data Science,58.0,Reject,1
+SKS827,JMD86,ASSESS1,Big Data,Big Data,Data Science,6.0,Reject,3
+SKS828,JMD86,ASSESS1,Python,Python,Data Science,41.0,Reject,2
+SKS829,JMD86,ASSESS1,Applied ML,Applied ML,Data Science,45.0,Reject,2
+SKS830,JMD86,ASSESS2,Python,Python,Data Science,66.0,Reject,2
+SKS831,JMD86,ASSESS2,Big Data,Big Data,Data Science,67.0,Reject,3
+SKS832,JMD86,ASSESS3,Redis,Redis,Cloud,12.0,Reject,1
+SKS833,JMD86,ASSESS3,Azure,Azure,Cloud,13.0,Reject,2
+SKS836,JMD86,ASSESS5,Azure,Azure,Cloud,26.0,Reject,1
+SKS839,JMD87,ASSESS1,Web Scraping,Web Scraping,Data Engineering,18.0,Reject,3
+SKS841,JMD87,ASSESS3,Python,Python,Data Engineering,60.0,Reject,3
+SKS843,JMD87,ASSESS3,Web Scraping,Web Scraping,Data Engineering,56.0,Reject,1
+SKS844,JMD87,ASSESS4,GCP,GCP,Cloud,41.0,Reject,2
+SKS845,JMD87,ASSESS4,Azure,Azure,Cloud,47.0,Reject,3
+SKS847,JMD87,ASSESS5,Python,Python,Data Science,48.0,Reject,2
+SKS848,JMD87,ASSESS5,Applied ML,Applied ML,Data Science,43.0,Reject,2
+SKS850,JMD88,ASSESS1,Python,Python,Data Science,50.0,Reject,1
+SKS852,JMD88,ASSESS1,Big Data,Big Data,Data Science,58.0,Reject,1
+SKS853,JMD88,ASSESS2,Big Data,Big Data,Data Science,24.0,Reject,1
+SKS854,JMD88,ASSESS2,Applied ML,Applied ML,Data Science,23.0,Reject,1
+SKS855,JMD88,ASSESS2,Python,Python,Data Science,48.0,Reject,2
+SKS856,JMD88,ASSESS3,Next Js,Next Js,Development,22.0,Reject,3
+SKS858,JMD88,ASSESS4,Python,Python,Data Engineering,69.0,Reject,1
+SKS859,JMD88,ASSESS5,Redis,Redis,Cloud,64.0,Reject,3
+SKS861,JMD89,ASSESS1,Big Data,Big Data,Data Science,35.0,Reject,3
+SKS868,JMD89,ASSESS4,AWS,AWS,Cloud,34.0,Reject,3
+SKS869,JMD89,ASSESS5,MySQL,MySQL,Data Engineering,52.0,Reject,2
+SKS871,JMD90,ASSESS1,GCP,GCP,Cloud,7.0,Reject,2
+SKS872,JMD90,ASSESS2,MySQL,MySQL,Data Engineering,33.0,Reject,1
+SKS873,JMD90,ASSESS3,Web Scraping,Web Scraping,Data Engineering,19.0,Reject,1
+SKS876,JMD90,ASSESS4,Flutter,Flutter,Development,12.0,Reject,2
+SKS877,JMD90,ASSESS4,Angular,Angular,Development,40.0,Reject,3
+SKS879,JMD91,ASSESS1,Angular,Angular,Development,65.0,Reject,2
+SKS880,JMD91,ASSESS1,Reactjs,Reactjs,Development,68.0,Reject,3
+SKS882,JMD91,ASSESS2,GCP,GCP,Cloud,10.0,Reject,3
+SKS885,JMD91,ASSESS3,Web Scraping,Web Scraping,Data Engineering,8.0,Reject,1
+SKS886,JMD91,ASSESS3,Python,Python,Data Engineering,51.0,Reject,2
+SKS892,JMD92,ASSESS1,Azure,Azure,Cloud,46.0,Reject,2
+SKS894,JMD92,ASSESS2,Applied ML,Applied ML,Data Science,33.0,Reject,2
+SKS896,JMD92,ASSESS3,Redis,Redis,Cloud,55.0,Reject,2
+SKS897,JMD92,ASSESS4,DBT,DBT,Data Engineering,49.0,Reject,1
+SKS899,JMD92,ASSESS4,MySQL,MySQL,Data Engineering,41.0,Reject,3
+SKS900,JMD92,ASSESS5,Next Js,Next Js,Development,48.0,Reject,3
+SKS902,JMD93,ASSESS1,Data Bricks,Data Bricks,Data Engineering,34.0,Reject,1
+SKS907,JMD93,ASSESS3,GCP,GCP,Cloud,49.0,Reject,1
+SKS908,JMD93,ASSESS3,Redis,Redis,Cloud,47.0,Reject,2
+SKS912,JMD93,ASSESS5,Big Data,Big Data,Data Science,32.0,Reject,3
+SKS915,JMD94,ASSESS1,Azure,Azure,Cloud,59.0,Reject,2
+SKS918,JMD94,ASSESS3,MySQL,MySQL,Data Engineering,50.0,Reject,1
+SKS920,JMD94,ASSESS4,Python,Python,Data Science,42.0,Reject,3
+SKS921,JMD94,ASSESS5,Applied ML,Applied ML,Data Science,54.0,Reject,3
+SKS923,JMD95,ASSESS1,React Native,React Native,Development,40.0,Reject,1
+SKS924,JMD95,ASSESS1,Laravel,Laravel,Development,8.0,Reject,2
+SKS926,JMD95,ASSESS2,Applied ML,Applied ML,Data Science,30.0,Reject,2
+SKS927,JMD95,ASSESS3,GCP,GCP,Cloud,2.0,Reject,3
+SKS928,JMD95,ASSESS3,Redis,Redis,Cloud,5.0,Reject,3
+SKS929,JMD95,ASSESS3,Azure,Azure,Cloud,60.0,Reject,2
+SKS930,JMD95,ASSESS4,GCP,GCP,Cloud,46.0,Reject,1
+SKS934,JMD96,ASSESS1,Data Bricks,Data Bricks,Data Engineering,41.0,Reject,1
+SKS935,JMD96,ASSESS2,Redis,Redis,Cloud,52.0,Reject,1
+SKS936,JMD96,ASSESS3,Node,Node,Development,15.0,Reject,1
+SKS937,JMD96,ASSESS4,Web Scraping,Web Scraping,Data Engineering,40.0,Reject,2
+SKS939,JMD96,ASSESS4,Python,Python,Data Engineering,56.0,Reject,3
+SKS940,JMD96,ASSESS5,GCP,GCP,Cloud,52.0,Reject,3
+SKS941,JMD96,ASSESS5,AWS,AWS,Cloud,24.0,Reject,1
+SKS942,JMD96,ASSESS5,Azure,Azure,Cloud,13.0,Reject,1
+SKS943,JMD97,ASSESS1,DBT,DBT,Data Engineering,66.0,Reject,2
+SKS946,JMD97,ASSESS2,Angular,Angular,Development,22.0,Reject,1
+SKS948,JMD97,ASSESS3,DBT,DBT,Data Engineering,50.0,Reject,2
+SKS951,JMD97,ASSESS4,Python,Python,Data Science,35.0,Reject,2
+SKS952,JMD97,ASSESS5,Big Data,Big Data,Data Science,68.0,Reject,3
+SKS957,JMD98,ASSESS2,Web Scraping,Web Scraping,Data Engineering,53.0,Reject,1
+SKS958,JMD98,ASSESS3,Redis,Redis,Cloud,50.0,Reject,2
+SKS960,JMD98,ASSESS4,Applied ML,Applied ML,Data Science,5.0,Reject,1
+SKS961,JMD98,ASSESS4,Python,Python,Data Science,38.0,Reject,3
+SKS973,JMD100,ASSESS1,Flutter,Flutter,Development,32.0,Reject,1
+SKS975,JMD100,ASSESS3,React Native,React Native,Development,47.0,Reject,1
+SKS976,JMD100,ASSESS4,Angular,Angular,Development,30.0,Reject,3
+SKS977,JMD100,ASSESS4,Next Js,Next Js,Development,60.0,Reject,3
+SKS980,JMD101,ASSESS2,Python,Python,Data Science,30.0,Reject,3
+SKS986,JMD101,ASSESS4,Redis,Redis,Cloud,45.0,Reject,3
+SKS987,JMD101,ASSESS5,Angular,Angular,Development,37.0,Reject,2
+SKS991,JMD102,ASSESS2,Next Js,Next Js,Development,14.0,Reject,3
+SKS993,JMD102,ASSESS2,React Native,React Native,Development,30.0,Reject,1
+SKS1000,JMD102,ASSESS5,MySQL,MySQL,Data Engineering,35.0,Reject,2
+SKS1003,JMD103,ASSESS1,Flutter,Flutter,Development,53.0,Reject,1
+SKS1007,JMD103,ASSESS3,Big Data,Big Data,Data Science,15.0,Reject,3
+SKS1008,JMD103,ASSESS4,Redis,Redis,Cloud,42.0,Reject,3
+SKS1011,JMD103,ASSESS5,Angular,Angular,Development,44.0,Reject,1
+SKS1012,JMD103,ASSESS5,Node,Node,Development,38.0,Reject,1
+SKS1016,JMD104,ASSESS3,Big Data,Big Data,Data Science,32.0,Reject,3
+SKS1017,JMD104,ASSESS3,Applied ML,Applied ML,Data Science,33.0,Reject,2
+SKS1018,JMD104,ASSESS4,MySQL,MySQL,Data Engineering,52.0,Reject,1
+SKS1022,JMD105,ASSESS1,Applied ML,Applied ML,Data Science,36.0,Reject,3
+SKS1026,JMD105,ASSESS3,Flutter,Flutter,Development,21.0,Reject,3
+SKS1029,JMD105,ASSESS5,Big Data,Big Data,Data Science,46.0,Reject,2
+SKS1030,JMD105,ASSESS5,Applied ML,Applied ML,Data Science,48.0,Reject,3
+SKS1031,JMD106,ASSESS1,MySQL,MySQL,Data Engineering,56.0,Reject,2
+SKS1035,JMD106,ASSESS3,Big Data,Big Data,Data Science,53.0,Reject,3
+SKS1037,JMD106,ASSESS4,Flutter,Flutter,Development,43.0,Reject,2
+SKS1038,JMD106,ASSESS4,Reactjs,Reactjs,Development,44.0,Reject,3
+SKS1039,JMD106,ASSESS5,Flutter,Flutter,Development,69.0,Reject,1
+SKS1040,JMD107,ASSESS1,Redis,Redis,Cloud,10.0,Reject,1
+SKS1044,JMD107,ASSESS2,Big Data,Big Data,Data Science,55.0,Reject,2
+SKS1045,JMD107,ASSESS2,Applied ML,Applied ML,Data Science,66.0,Reject,2
+SKS1047,JMD107,ASSESS3,Python,Python,Data Science,56.0,Reject,3
+SKS1048,JMD107,ASSESS3,Big Data,Big Data,Data Science,24.0,Reject,3
+SKS1049,JMD107,ASSESS4,Redis,Redis,Cloud,66.0,Reject,3
+SKS1050,JMD107,ASSESS4,GCP,GCP,Cloud,15.0,Reject,1
+SKS1051,JMD107,ASSESS4,AWS,AWS,Cloud,15.0,Reject,1
+SKS1052,JMD107,ASSESS5,Redis,Redis,Cloud,7.0,Reject,1
+SKS1053,JMD107,ASSESS5,Azure,Azure,Cloud,15.0,Reject,2
+SKS1054,JMD107,ASSESS5,AWS,AWS,Cloud,27.0,Reject,3
+SKS1055,JMD108,ASSESS1,Python,Python,Data Science,25.0,Reject,1
+SKS1056,JMD108,ASSESS1,Big Data,Big Data,Data Science,26.0,Reject,1
+SKS1058,JMD108,ASSESS2,Big Data,Big Data,Data Science,40.0,Reject,2
+SKS1059,JMD108,ASSESS2,Applied ML,Applied ML,Data Science,32.0,Reject,3
+SKS1060,JMD108,ASSESS3,Python,Python,Data Engineering,10.0,Reject,3
+SKS1064,JMD108,ASSESS4,Laravel,Laravel,Development,32.0,Reject,1
+SKS1067,JMD109,ASSESS1,Redis,Redis,Cloud,61.0,Reject,3
+SKS1072,JMD109,ASSESS3,Redis,Redis,Cloud,56.0,Reject,3
+SKS1073,JMD109,ASSESS3,Azure,Azure,Cloud,70.0,Reject,3
+SKS1075,JMD109,ASSESS5,Azure,Azure,Cloud,14.0,Reject,3
+SKS1078,JMD110,ASSESS1,SnowFlake,SnowFlake,Data Engineering,22.0,Reject,1
+SKS1079,JMD110,ASSESS2,Python,Python,Data Science,32.0,Reject,3
+SKS1082,JMD110,ASSESS3,Redis,Redis,Cloud,3.0,Reject,1
+SKS1084,JMD110,ASSESS5,MySQL,MySQL,Data Engineering,40.0,Reject,2
+SKS1087,JMD111,ASSESS1,Next Js,Next Js,Development,35.0,Reject,1
+SKS1088,JMD111,ASSESS1,Reactjs,Reactjs,Development,28.0,Reject,2
+SKS1089,JMD111,ASSESS2,Big Data,Big Data,Data Science,31.0,Reject,1
+SKS1091,JMD111,ASSESS3,Data Bricks,Data Bricks,Data Engineering,34.0,Reject,2
+SKS1094,JMD111,ASSESS5,Azure,Azure,Cloud,2.0,Reject,3
+SKS1095,JMD112,ASSESS1,Big Data,Big Data,Data Science,54.0,Reject,2
+SKS1097,JMD112,ASSESS2,React Native,React Native,Development,27.0,Reject,2
+SKS1103,JMD112,ASSESS4,Node,Node,Development,16.0,Reject,2
+SKS1108,JMD113,ASSESS2,AWS,AWS,Cloud,25.0,Reject,3
+SKS1111,JMD113,ASSESS3,MySQL,MySQL,Data Engineering,52.0,Reject,2
+SKS1112,JMD113,ASSESS4,Flutter,Flutter,Development,62.0,Reject,3
+SKS1114,JMD113,ASSESS5,Big Data,Big Data,Data Science,64.0,Reject,2
+SKS1118,JMD114,ASSESS1,GCP,GCP,Cloud,40.0,Reject,2
+SKS1120,JMD114,ASSESS2,SnowFlake,SnowFlake,Data Engineering,60.0,Reject,3
+SKS1121,JMD114,ASSESS3,React Native,React Native,Development,33.0,Reject,1
+SKS1124,JMD114,ASSESS4,Applied ML,Applied ML,Data Science,33.0,Reject,1
+SKS1126,JMD114,ASSESS5,React Native,React Native,Development,31.0,Reject,3
+SKS1127,JMD115,ASSESS1,Azure,Azure,Cloud,58.0,Reject,3
+SKS1132,JMD115,ASSESS4,Node,Node,Development,59.0,Reject,1
+SKS1133,JMD115,ASSESS5,Flutter,Flutter,Development,21.0,Reject,2
+SKS1137,JMD116,ASSESS1,Flutter,Flutter,Development,1.0,Reject,2
+SKS1138,JMD116,ASSESS2,Big Data,Big Data,Data Science,31.0,Reject,3
+SKS1141,JMD116,ASSESS3,Reactjs,Reactjs,Development,62.0,Reject,3
+SKS1143,JMD116,ASSESS3,Next Js,Next Js,Development,9.0,Reject,3
+SKS1151,JMD117,ASSESS4,Angular,Angular,Development,50.0,Reject,3
+SKS1154,JMD117,ASSESS5,Python,Python,Data Science,30.0,Reject,2
+SKS1156,JMD117,ASSESS5,Applied ML,Applied ML,Data Science,18.0,Reject,2
+SKS1157,JMD118,ASSESS1,AWS,AWS,Cloud,24.0,Reject,1
+SKS1159,JMD118,ASSESS1,Azure,Azure,Cloud,45.0,Reject,3
+SKS1163,JMD118,ASSESS4,Angular,Angular,Development,24.0,Reject,1
+SKS1165,JMD118,ASSESS5,Azure,Azure,Cloud,24.0,Reject,2
+SKS1167,JMD119,ASSESS1,Reactjs,Reactjs,Development,6.0,Reject,3
+SKS1169,JMD119,ASSESS3,Python,Python,Data Engineering,28.0,Reject,2
+SKS1170,JMD119,ASSESS4,Reactjs,Reactjs,Development,65.0,Reject,2
+SKS1174,JMD119,ASSESS5,MySQL,MySQL,Data Engineering,11.0,Reject,2
+SKS1175,JMD120,ASSESS1,Web Scraping,Web Scraping,Data Engineering,43.0,Reject,2
+SKS1176,JMD120,ASSESS2,Python,Python,Data Engineering,44.0,Reject,2
+SKS1178,JMD120,ASSESS3,GCP,GCP,Cloud,67.0,Reject,3
+SKS1179,JMD120,ASSESS4,React Native,React Native,Development,26.0,Reject,1
+SKS1180,JMD120,ASSESS4,Reactjs,Reactjs,Development,53.0,Reject,1
+SKS1182,JMD120,ASSESS5,Azure,Azure,Cloud,34.0,Reject,3
+SKS1184,JMD121,ASSESS2,Big Data,Big Data,Data Science,67.0,Reject,3
+SKS1187,JMD121,ASSESS4,Flutter,Flutter,Development,30.0,Reject,1
+SKS1188,JMD121,ASSESS5,Data Bricks,Data Bricks,Data Engineering,60.0,Reject,2
+SKS1190,JMD122,ASSESS1,React Native,React Native,Development,22.0,Reject,2
+SKS1194,JMD122,ASSESS3,SnowFlake,SnowFlake,Data Engineering,2.0,Reject,2
+SKS1196,JMD122,ASSESS4,Azure,Azure,Cloud,63.0,Reject,2
+SKS1199,JMD122,ASSESS5,Node,Node,Development,57.0,Reject,3
+SKS1200,JMD122,ASSESS5,Reactjs,Reactjs,Development,37.0,Reject,3
+SKS1202,JMD123,ASSESS1,SnowFlake,SnowFlake,Data Engineering,35.0,Reject,1
+SKS1203,JMD123,ASSESS1,Web Scraping,Web Scraping,Data Engineering,20.0,Reject,3
+SKS1204,JMD123,ASSESS2,Python,Python,Data Engineering,45.0,Reject,1
+SKS1207,JMD123,ASSESS3,Redis,Redis,Cloud,36.0,Reject,1
+SKS1209,JMD123,ASSESS4,Azure,Azure,Cloud,4.0,Reject,2
+SKS1215,JMD124,ASSESS2,Laravel,Laravel,Development,49.0,Reject,2
+SKS1216,JMD124,ASSESS2,Node,Node,Development,30.0,Reject,2
+SKS1218,JMD124,ASSESS3,Big Data,Big Data,Data Science,2.0,Reject,3
+SKS1220,JMD124,ASSESS4,GCP,GCP,Cloud,46.0,Reject,2
+SKS1222,JMD124,ASSESS4,Azure,Azure,Cloud,12.0,Reject,2
+SKS1223,JMD124,ASSESS5,AWS,AWS,Cloud,48.0,Reject,1
+SKS1224,JMD124,ASSESS5,Redis,Redis,Cloud,56.0,Reject,2
+SKS1225,JMD125,ASSESS1,Data Bricks,Data Bricks,Data Engineering,16.0,Reject,3
+SKS1229,JMD125,ASSESS3,Azure,Azure,Cloud,26.0,Reject,2
+SKS1231,JMD125,ASSESS4,Applied ML,Applied ML,Data Science,33.0,Reject,3
+SKS1235,JMD126,ASSESS1,Big Data,Big Data,Data Science,43.0,Reject,1
+SKS1237,JMD126,ASSESS2,Python,Python,Data Science,15.0,Reject,2
+SKS1241,JMD126,ASSESS3,Reactjs,Reactjs,Development,45.0,Reject,1
+SKS1244,JMD126,ASSESS4,Azure,Azure,Cloud,23.0,Reject,1
+SKS1245,JMD126,ASSESS5,Azure,Azure,Cloud,32.0,Reject,3
+SKS1246,JMD126,ASSESS5,Redis,Redis,Cloud,50.0,Reject,2
+SKS1247,JMD127,ASSESS1,Azure,Azure,Cloud,70.0,Reject,1
+SKS1249,JMD127,ASSESS2,Big Data,Big Data,Data Science,40.0,Reject,1
+SKS1251,JMD127,ASSESS2,Python,Python,Data Science,2.0,Reject,1
+SKS1253,JMD127,ASSESS4,Big Data,Big Data,Data Science,35.570747217806044,Reject,2
+SKS1256,JMD127,ASSESS5,Python,Python,Data Science,51.0,Reject,3
+SKS1270,JMD129,ASSESS3,Web Scraping,Web Scraping,Data Engineering,13.0,Reject,3
+SKS1273,JMD129,ASSESS4,Big Data,Big Data,Data Science,33.0,Reject,3
+SKS1276,JMD130,ASSESS2,React Native,React Native,Development,35.75767918088737,Reject,1
+SKS1281,JMD130,ASSESS4,AWS,AWS,Cloud,14.0,Reject,2
+SKS1282,JMD130,ASSESS4,Azure,Azure,Cloud,63.0,Reject,2
+SKS1284,JMD131,ASSESS1,Python,Python,Data Science,8.0,Reject,2
+SKS1285,JMD131,ASSESS1,Big Data,Big Data,Data Science,58.0,Reject,2
+SKS1286,JMD131,ASSESS1,Applied ML,Applied ML,Data Science,48.0,Reject,1
+SKS1288,JMD131,ASSESS3,Data Bricks,Data Bricks,Data Engineering,68.0,Reject,2
+SKS1295,JMD132,ASSESS1,Data Bricks,Data Bricks,Data Engineering,61.0,Reject,3
+SKS1297,JMD132,ASSESS2,MySQL,MySQL,Data Engineering,58.0,Reject,2
+SKS1300,JMD132,ASSESS3,AWS,AWS,Cloud,43.0,Reject,3
+SKS1301,JMD132,ASSESS4,Applied ML,Applied ML,Data Science,12.0,Reject,1
+SKS1302,JMD132,ASSESS5,SnowFlake,SnowFlake,Data Engineering,46.0,Reject,2
+SKS1303,JMD132,ASSESS5,Data Bricks,Data Bricks,Data Engineering,16.0,Reject,2
+SKS1308,JMD133,ASSESS2,MySQL,MySQL,Data Engineering,5.0,Reject,3
+SKS1309,JMD133,ASSESS3,Angular,Angular,Development,35.0,Reject,1
+SKS1312,JMD133,ASSESS5,GCP,GCP,Cloud,4.0,Reject,1
+SKS1313,JMD133,ASSESS5,Redis,Redis,Cloud,60.0,Reject,3
+SKS1316,JMD134,ASSESS1,Flutter,Flutter,Development,37.0,Reject,3
+SKS1318,JMD134,ASSESS3,Python,Python,Data Engineering,12.0,Reject,1
+SKS1324,JMD134,ASSESS5,Python,Python,Data Science,11.0,Reject,2
+SKS1326,JMD134,ASSESS5,Applied ML,Applied ML,Data Science,11.0,Reject,1
+SKS1328,JMD135,ASSESS1,Python,Python,Data Science,26.0,Reject,1
+SKS1330,JMD135,ASSESS2,Data Bricks,Data Bricks,Data Engineering,2.0,Reject,2
+SKS1331,JMD135,ASSESS3,Python,Python,Data Science,19.0,Reject,2
+SKS1333,JMD135,ASSESS3,Applied ML,Applied ML,Data Science,44.0,Reject,3
+SKS1334,JMD135,ASSESS4,Flutter,Flutter,Development,2.0,Reject,2
+SKS1335,JMD135,ASSESS4,Angular,Angular,Development,35.0,Reject,3
+SKS1336,JMD135,ASSESS5,Applied ML,Applied ML,Data Science,44.0,Reject,2
+SKS1338,JMD135,ASSESS5,Big Data,Big Data,Data Science,58.0,Reject,2
+SKS1339,JMD136,ASSESS1,Azure,Azure,Cloud,41.0,Reject,2
+SKS1340,JMD136,ASSESS1,Redis,Redis,Cloud,23.0,Reject,2
+SKS1341,JMD136,ASSESS2,Azure,Azure,Cloud,19.0,Reject,2
+SKS1344,JMD136,ASSESS3,Big Data,Big Data,Data Science,46.0,Reject,3
+SKS1345,JMD136,ASSESS3,Python,Python,Data Science,15.0,Reject,2
+SKS1346,JMD136,ASSESS4,Angular,Angular,Development,23.0,Reject,2
+SKS1348,JMD136,ASSESS5,Python,Python,Data Engineering,46.0,Reject,1
+SKS1351,JMD137,ASSESS1,Web Scraping,Web Scraping,Data Engineering,52.0,Reject,3
+SKS1359,JMD137,ASSESS4,Flutter,Flutter,Development,30.0,Reject,3
+SKS1360,JMD137,ASSESS5,Python,Python,Data Science,61.0,Reject,3
+SKS1361,JMD137,ASSESS5,Big Data,Big Data,Data Science,62.0,Reject,1
+SKS1373,JMD139,ASSESS1,Web Scraping,Web Scraping,Data Engineering,4.0,Reject,3
+SKS1374,JMD139,ASSESS1,MySQL,MySQL,Data Engineering,32.0,Reject,2
+SKS1376,JMD139,ASSESS3,Python,Python,Data Engineering,15.0,Reject,3
+SKS1377,JMD139,ASSESS3,Web Scraping,Web Scraping,Data Engineering,10.0,Reject,2
+SKS1383,JMD140,ASSESS2,Flutter,Flutter,Development,12.0,Reject,1
+SKS1384,JMD140,ASSESS3,SnowFlake,SnowFlake,Data Engineering,15.0,Reject,3
+SKS1386,JMD140,ASSESS4,Angular,Angular,Development,58.0,Reject,1
+SKS1388,JMD140,ASSESS4,Next Js,Next Js,Development,55.0,Reject,3
+SKS1389,JMD140,ASSESS5,Azure,Azure,Cloud,40.0,Reject,3
+SKS1391,JMD141,ASSESS1,Web Scraping,Web Scraping,Data Engineering,19.0,Reject,1
+SKS1392,JMD141,ASSESS2,Applied ML,Applied ML,Data Science,66.0,Reject,1
+SKS1393,JMD141,ASSESS2,Big Data,Big Data,Data Science,31.0,Reject,3
+SKS1394,JMD141,ASSESS2,Python,Python,Data Science,40.0,Reject,2
+SKS1395,JMD141,ASSESS3,Next Js,Next Js,Development,18.0,Reject,1
+SKS1397,JMD141,ASSESS4,MySQL,MySQL,Data Engineering,52.0,Reject,3
+SKS1398,JMD141,ASSESS4,DBT,DBT,Data Engineering,27.0,Reject,2
+SKS1402,JMD142,ASSESS1,Applied ML,Applied ML,Data Science,55.0,Reject,1
+SKS1405,JMD142,ASSESS3,DBT,DBT,Data Engineering,19.0,Reject,2
+SKS1406,JMD142,ASSESS3,MySQL,MySQL,Data Engineering,36.0,Reject,1
+SKS1409,JMD143,ASSESS1,Next Js,Next Js,Development,56.0,Reject,2
+SKS1410,JMD143,ASSESS2,Reactjs,Reactjs,Development,61.0,Reject,3
+SKS1411,JMD143,ASSESS3,Next Js,Next Js,Development,34.0,Reject,2
+SKS1414,JMD143,ASSESS5,AWS,AWS,Cloud,47.0,Reject,2
+SKS1417,JMD144,ASSESS1,Applied ML,Applied ML,Data Science,43.0,Reject,1
+SKS1418,JMD144,ASSESS2,Reactjs,Reactjs,Development,66.0,Reject,2
+SKS1420,JMD144,ASSESS2,Laravel,Laravel,Development,22.0,Reject,3
+SKS1422,JMD144,ASSESS3,Python,Python,Data Science,67.0,Reject,2
+SKS1425,JMD144,ASSESS4,Azure,Azure,Cloud,54.0,Reject,3
+SKS1427,JMD144,ASSESS5,Reactjs,Reactjs,Development,28.0,Reject,2
+SKS1434,JMD145,ASSESS3,Laravel,Laravel,Development,53.0,Reject,1
+SKS1436,JMD145,ASSESS4,Azure,Azure,Cloud,57.0,Reject,3
+SKS1437,JMD145,ASSESS4,GCP,GCP,Cloud,47.0,Reject,2
+SKS1438,JMD145,ASSESS5,Big Data,Big Data,Data Science,25.0,Reject,1
+SKS1440,JMD146,ASSESS1,Azure,Azure,Cloud,23.0,Reject,3
+SKS1441,JMD146,ASSESS1,Redis,Redis,Cloud,35.0,Reject,1
+SKS1442,JMD146,ASSESS1,AWS,AWS,Cloud,31.0,Reject,2
+SKS1444,JMD146,ASSESS2,Python,Python,Data Science,25.0,Reject,3
+SKS1447,JMD146,ASSESS4,Flutter,Flutter,Development,37.0,Reject,2
+SKS1448,JMD146,ASSESS4,Laravel,Laravel,Development,63.0,Reject,3
+SKS1449,JMD146,ASSESS5,Python,Python,Data Engineering,23.0,Reject,1
+SKS1452,JMD147,ASSESS2,GCP,GCP,Cloud,32.0,Reject,1
+SKS1455,JMD147,ASSESS3,Web Scraping,Web Scraping,Data Engineering,28.0,Reject,1
+SKS1456,JMD147,ASSESS3,MySQL,MySQL,Data Engineering,53.0,Reject,2
+SKS1457,JMD147,ASSESS4,Web Scraping,Web Scraping,Data Engineering,10.0,Reject,2
+SKS1458,JMD147,ASSESS4,SnowFlake,SnowFlake,Data Engineering,6.0,Reject,3
+SKS1460,JMD148,ASSESS1,GCP,GCP,Cloud,35.0,Reject,2
+SKS1462,JMD148,ASSESS2,Angular,Angular,Development,49.0,Reject,2
+SKS1463,JMD148,ASSESS2,Node,Node,Development,19.0,Reject,1
+SKS1464,JMD148,ASSESS2,Reactjs,Reactjs,Development,69.0,Reject,1
+SKS1467,JMD148,ASSESS4,DBT,DBT,Data Engineering,64.0,Reject,2
+SKS1469,JMD148,ASSESS5,Data Bricks,Data Bricks,Data Engineering,49.0,Reject,1
+SKS1471,JMD149,ASSESS1,Data Bricks,Data Bricks,Data Engineering,31.0,Reject,3
+SKS1472,JMD149,ASSESS1,MySQL,MySQL,Data Engineering,2.0,Reject,2
+SKS1474,JMD149,ASSESS3,Node,Node,Development,48.0,Reject,2
+SKS1478,JMD149,ASSESS5,Python,Python,Data Science,33.0,Reject,1
+SKS1479,JMD149,ASSESS5,Big Data,Big Data,Data Science,39.0,Reject,3
+SKS1480,JMD149,ASSESS5,Applied ML,Applied ML,Data Science,35.0,Reject,1
+SKS1482,JMD150,ASSESS1,Python,Python,Data Engineering,26.0,Reject,1
+SKS1483,JMD150,ASSESS1,Web Scraping,Web Scraping,Data Engineering,38.0,Reject,3
+SKS1484,JMD150,ASSESS2,Python,Python,Data Engineering,4.0,Reject,1
+SKS1486,JMD150,ASSESS3,Python,Python,Data Engineering,41.0,Reject,3
+SKS1487,JMD150,ASSESS4,React Native,React Native,Development,50.0,Reject,3
+SKS1488,JMD150,ASSESS4,Next Js,Next Js,Development,48.0,Reject,1
+SKS1490,JMD150,ASSESS5,Big Data,Big Data,Data Science,27.0,Reject,1
+SKS1492,JMD151,ASSESS1,Python,Python,Data Science,6.0,Reject,1
+SKS1493,JMD151,ASSESS2,Big Data,Big Data,Data Science,4.0,Reject,1
+SKS1496,JMD151,ASSESS5,AWS,AWS,Cloud,49.0,Reject,2
+SKS1497,JMD151,ASSESS5,Redis,Redis,Cloud,4.0,Reject,2
+SKS1500,JMD152,ASSESS1,Applied ML,Applied ML,Data Science,50.0,Reject,2
+SKS1501,JMD152,ASSESS2,MySQL,MySQL,Data Engineering,65.0,Reject,3
+SKS1502,JMD152,ASSESS3,Python,Python,Data Engineering,25.0,Reject,2
+SKS1503,JMD152,ASSESS4,Redis,Redis,Cloud,23.0,Reject,3
+SKS1505,JMD152,ASSESS5,Azure,Azure,Cloud,25.0,Reject,3
+SKS1508,JMD153,ASSESS1,GCP,GCP,Cloud,28.0,Reject,2
+SKS1509,JMD153,ASSESS2,Data Bricks,Data Bricks,Data Engineering,9.0,Reject,1
+SKS1510,JMD153,ASSESS3,SnowFlake,SnowFlake,Data Engineering,62.0,Reject,2
+SKS1511,JMD153,ASSESS3,Web Scraping,Web Scraping,Data Engineering,54.0,Reject,2
+SKS1512,JMD153,ASSESS3,DBT,DBT,Data Engineering,13.0,Reject,1
+SKS1513,JMD153,ASSESS4,DBT,DBT,Data Engineering,6.0,Reject,1
+SKS1514,JMD153,ASSESS4,Web Scraping,Web Scraping,Data Engineering,26.0,Reject,1
+SKS1517,JMD154,ASSESS2,Python,Python,Data Engineering,4.0,Reject,2
+SKS1518,JMD154,ASSESS3,Big Data,Big Data,Data Science,64.0,Reject,1
+SKS1520,JMD154,ASSESS4,Node,Node,Development,13.0,Reject,2
+SKS1521,JMD154,ASSESS4,Angular,Angular,Development,24.0,Reject,3
+SKS1524,JMD154,ASSESS5,Redis,Redis,Cloud,53.0,Reject,3
+SKS1525,JMD155,ASSESS1,GCP,GCP,Cloud,36.0,Reject,3
+SKS1527,JMD155,ASSESS2,Applied ML,Applied ML,Data Science,43.0,Reject,1
+SKS1528,JMD155,ASSESS2,Big Data,Big Data,Data Science,56.0,Reject,2
+SKS1530,JMD155,ASSESS3,AWS,AWS,Cloud,6.0,Reject,2
+SKS1531,JMD155,ASSESS3,GCP,GCP,Cloud,21.0,Reject,1
+SKS1532,JMD155,ASSESS3,Azure,Azure,Cloud,1.0,Reject,1
+SKS1534,JMD155,ASSESS4,Python,Python,Data Science,34.0,Reject,1
+SKS1540,JMD156,ASSESS3,React Native,React Native,Development,49.0,Reject,2
+SKS1542,JMD156,ASSESS3,Reactjs,Reactjs,Development,26.0,Reject,2
+SKS1544,JMD156,ASSESS5,DBT,DBT,Data Engineering,52.0,Reject,1
+SKS1548,JMD157,ASSESS1,React Native,React Native,Development,23.0,Reject,3
+SKS1549,JMD157,ASSESS2,SnowFlake,SnowFlake,Data Engineering,30.0,Reject,2
+SKS1550,JMD157,ASSESS2,DBT,DBT,Data Engineering,4.0,Reject,3
+SKS1551,JMD157,ASSESS2,MySQL,MySQL,Data Engineering,62.0,Reject,1
+SKS1553,JMD157,ASSESS3,Flutter,Flutter,Development,21.0,Reject,3
+SKS1554,JMD157,ASSESS3,Laravel,Laravel,Development,14.0,Reject,1
+SKS1555,JMD157,ASSESS4,MySQL,MySQL,Data Engineering,28.0,Reject,3
+SKS1556,JMD157,ASSESS5,Flutter,Flutter,Development,43.0,Reject,1
+SKS1557,JMD157,ASSESS5,Laravel,Laravel,Development,15.0,Reject,1
+SKS1560,JMD158,ASSESS1,MySQL,MySQL,Data Engineering,26.0,Reject,2
+SKS1563,JMD158,ASSESS3,Applied ML,Applied ML,Data Science,56.0,Reject,2
+SKS1566,JMD158,ASSESS4,Next Js,Next Js,Development,58.0,Reject,1
+SKS1571,JMD159,ASSESS1,Applied ML,Applied ML,Data Science,8.0,Reject,3
+SKS1574,JMD159,ASSESS3,AWS,AWS,Cloud,22.0,Reject,2
+SKS1575,JMD159,ASSESS3,Redis,Redis,Cloud,46.0,Reject,1
+SKS1577,JMD159,ASSESS5,MySQL,MySQL,Data Engineering,10.0,Reject,2
+SKS1579,JMD160,ASSESS1,AWS,AWS,Cloud,50.0,Reject,2
+SKS1580,JMD160,ASSESS2,Python,Python,Data Science,43.0,Reject,2
+SKS1583,JMD160,ASSESS4,Next Js,Next Js,Development,59.0,Reject,1
+SKS1584,JMD160,ASSESS4,Laravel,Laravel,Development,16.0,Reject,3
+SKS1585,JMD160,ASSESS5,Next Js,Next Js,Development,41.0,Reject,3
+SKS1586,JMD161,ASSESS1,Flutter,Flutter,Development,29.0,Reject,3
+SKS1589,JMD161,ASSESS3,Web Scraping,Web Scraping,Data Engineering,21.0,Reject,2
+SKS1592,JMD161,ASSESS5,AWS,AWS,Cloud,49.0,Reject,1
+SKS1597,JMD162,ASSESS3,Node,Node,Development,47.0,Reject,2
+SKS1598,JMD162,ASSESS4,MySQL,MySQL,Data Engineering,35.012455516014235,Reject,3
+SKS1600,JMD162,ASSESS5,Next Js,Next Js,Development,15.0,Reject,1
+SKS1603,JMD163,ASSESS1,React Native,React Native,Development,48.0,Reject,2
+SKS1604,JMD163,ASSESS1,Flutter,Flutter,Development,3.0,Reject,1
+SKS1607,JMD163,ASSESS4,Big Data,Big Data,Data Science,18.0,Reject,1
+SKS1609,JMD163,ASSESS4,Python,Python,Data Science,65.0,Reject,1
+SKS1611,JMD164,ASSESS1,GCP,GCP,Cloud,37.0,Reject,2
+SKS1614,JMD164,ASSESS4,Azure,Azure,Cloud,50.0,Reject,3
+SKS1615,JMD164,ASSESS4,Redis,Redis,Cloud,55.0,Reject,2
+SKS1619,JMD165,ASSESS1,Python,Python,Data Engineering,24.0,Reject,2
+SKS1621,JMD165,ASSESS2,Web Scraping,Web Scraping,Data Engineering,66.0,Reject,1
+SKS1622,JMD165,ASSESS3,MySQL,MySQL,Data Engineering,63.0,Reject,2
+SKS1623,JMD165,ASSESS4,Python,Python,Data Engineering,58.0,Reject,2
+SKS1628,JMD165,ASSESS5,Laravel,Laravel,Development,23.0,Reject,1
+SKS1629,JMD166,ASSESS1,GCP,GCP,Cloud,24.0,Reject,2
+SKS1633,JMD166,ASSESS3,Flutter,Flutter,Development,29.0,Reject,3
+SKS1636,JMD166,ASSESS4,Redis,Redis,Cloud,15.0,Reject,2
+SKS1637,JMD166,ASSESS5,Node,Node,Development,33.0,Reject,1
+SKS1638,JMD166,ASSESS5,Next Js,Next Js,Development,34.0,Reject,3
+SKS1640,JMD167,ASSESS1,MySQL,MySQL,Data Engineering,67.0,Reject,1
+SKS1641,JMD167,ASSESS2,Reactjs,Reactjs,Development,7.0,Reject,3
+SKS1642,JMD167,ASSESS3,Applied ML,Applied ML,Data Science,66.0,Reject,2
+SKS1647,JMD167,ASSESS5,Angular,Angular,Development,4.0,Reject,1
+SKS1648,JMD167,ASSESS5,Laravel,Laravel,Development,67.0,Reject,2
+SKS1649,JMD168,ASSESS1,Reactjs,Reactjs,Development,11.0,Reject,3
+SKS1651,JMD168,ASSESS2,Angular,Angular,Development,55.0,Reject,3
+SKS1653,JMD168,ASSESS2,Reactjs,Reactjs,Development,6.0,Reject,1
+SKS1656,JMD168,ASSESS4,Web Scraping,Web Scraping,Data Engineering,52.0,Reject,1
+SKS1657,JMD168,ASSESS5,MySQL,MySQL,Data Engineering,37.0,Reject,1
+SKS1660,JMD169,ASSESS1,React Native,React Native,Development,66.0,Reject,1
+SKS1663,JMD169,ASSESS2,Python,Python,Data Science,69.0,Reject,3
+SKS1664,JMD169,ASSESS2,Big Data,Big Data,Data Science,23.0,Reject,1
+SKS1665,JMD169,ASSESS3,MySQL,MySQL,Data Engineering,38.0,Reject,2
+SKS1670,JMD169,ASSESS5,Redis,Redis,Cloud,51.0,Reject,2
+SKS1671,JMD169,ASSESS5,Azure,Azure,Cloud,17.0,Reject,3
+SKS1672,JMD170,ASSESS1,Big Data,Big Data,Data Science,8.0,Reject,3
+SKS1675,JMD170,ASSESS2,Laravel,Laravel,Development,31.0,Reject,1
+SKS1676,JMD170,ASSESS2,Reactjs,Reactjs,Development,64.0,Reject,1
+SKS1682,JMD171,ASSESS1,Applied ML,Applied ML,Data Science,26.0,Reject,3
+SKS1687,JMD171,ASSESS4,Applied ML,Applied ML,Data Science,22.0,Reject,3
+SKS1688,JMD171,ASSESS4,Big Data,Big Data,Data Science,3.0,Reject,1
+SKS1689,JMD171,ASSESS4,Python,Python,Data Science,43.0,Reject,2
+SKS1694,JMD172,ASSESS1,Python,Python,Data Engineering,69.0,Reject,2
+SKS1695,JMD172,ASSESS2,Python,Python,Data Science,5.0,Reject,2
+SKS1696,JMD172,ASSESS3,SnowFlake,SnowFlake,Data Engineering,41.0,Reject,2
+SKS1697,JMD172,ASSESS4,Azure,Azure,Cloud,38.0,Reject,1
+SKS1699,JMD172,ASSESS5,Web Scraping,Web Scraping,Data Engineering,30.0,Reject,2
+SKS1701,JMD173,ASSESS1,DBT,DBT,Data Engineering,38.0,Reject,1
+SKS1702,JMD173,ASSESS2,MySQL,MySQL,Data Engineering,70.0,Reject,1
+SKS1704,JMD173,ASSESS3,SnowFlake,SnowFlake,Data Engineering,67.0,Reject,1
+SKS1705,JMD173,ASSESS4,Reactjs,Reactjs,Development,36.0,Reject,3
+SKS1713,JMD174,ASSESS3,React Native,React Native,Development,69.0,Reject,1
+SKS1723,JMD175,ASSESS2,Redis,Redis,Cloud,48.0,Reject,2
+SKS1725,JMD175,ASSESS3,Big Data,Big Data,Data Science,35.0,Reject,2
+SKS1727,JMD175,ASSESS4,Laravel,Laravel,Development,6.0,Reject,1
+SKS1728,JMD175,ASSESS5,GCP,GCP,Cloud,32.0,Reject,3
+SKS1730,JMD176,ASSESS2,Web Scraping,Web Scraping,Data Engineering,22.0,Reject,1
+SKS1734,JMD176,ASSESS5,Applied ML,Applied ML,Data Science,64.0,Reject,3
+SKS1736,JMD176,ASSESS5,Big Data,Big Data,Data Science,12.0,Reject,3
+SKS1737,JMD177,ASSESS1,DBT,DBT,Data Engineering,11.0,Reject,1
+SKS1738,JMD177,ASSESS1,MySQL,MySQL,Data Engineering,61.0,Reject,2
+SKS1740,JMD177,ASSESS2,Python,Python,Data Science,1.0,Reject,2
+SKS1741,JMD177,ASSESS2,Big Data,Big Data,Data Science,38.0,Reject,2
+SKS1742,JMD177,ASSESS2,Applied ML,Applied ML,Data Science,32.0,Reject,3
+SKS1745,JMD177,ASSESS3,Applied ML,Applied ML,Data Science,9.0,Reject,3
+SKS1746,JMD177,ASSESS4,Python,Python,Data Engineering,4.0,Reject,2
+SKS1747,JMD177,ASSESS5,GCP,GCP,Cloud,6.0,Reject,2
+SKS1748,JMD178,ASSESS1,Big Data,Big Data,Data Science,45.0,Reject,1
+SKS1749,JMD178,ASSESS2,Python,Python,Data Science,33.0,Reject,2
+SKS1752,JMD178,ASSESS4,Redis,Redis,Cloud,54.0,Reject,1
+SKS1756,JMD178,ASSESS5,React Native,React Native,Development,47.0,Reject,3
+SKS1762,JMD179,ASSESS3,GCP,GCP,Cloud,66.0,Reject,2
+SKS1769,JMD180,ASSESS2,SnowFlake,SnowFlake,Data Engineering,49.0,Reject,3
+SKS1773,JMD180,ASSESS4,Laravel,Laravel,Development,28.0,Reject,3
+SKS1775,JMD180,ASSESS5,Python,Python,Data Science,9.0,Reject,2
+SKS1776,JMD180,ASSESS5,Applied ML,Applied ML,Data Science,48.0,Reject,1
+SKS1777,JMD180,ASSESS5,Big Data,Big Data,Data Science,65.0,Reject,2
+SKS1779,JMD181,ASSESS1,Applied ML,Applied ML,Data Science,46.0,Reject,3
+SKS1781,JMD181,ASSESS2,Azure,Azure,Cloud,15.0,Reject,3
+SKS1785,JMD181,ASSESS4,Applied ML,Applied ML,Data Science,61.0,Reject,3
+SKS1786,JMD181,ASSESS4,Big Data,Big Data,Data Science,58.0,Reject,3
+SKS1787,JMD181,ASSESS5,Applied ML,Applied ML,Data Science,35.570747217806044,Reject,1
+SKS1788,JMD182,ASSESS1,React Native,React Native,Development,36.0,Reject,3
+SKS1793,JMD182,ASSESS4,Reactjs,Reactjs,Development,9.0,Reject,2
+SKS1795,JMD182,ASSESS4,Next Js,Next Js,Development,51.0,Reject,3
+SKS1796,JMD182,ASSESS5,DBT,DBT,Data Engineering,18.0,Reject,2
+SKS1805,JMD183,ASSESS4,Node,Node,Development,39.0,Reject,3
+SKS1806,JMD183,ASSESS4,Angular,Angular,Development,16.0,Reject,2
+SKS1807,JMD183,ASSESS5,SnowFlake,SnowFlake,Data Engineering,14.0,Reject,1
+SKS1808,JMD183,ASSESS5,MySQL,MySQL,Data Engineering,47.0,Reject,1
+SKS1810,JMD184,ASSESS1,Angular,Angular,Development,66.0,Reject,1
+SKS1812,JMD184,ASSESS2,Python,Python,Data Science,3.0,Reject,1
+SKS1813,JMD184,ASSESS2,Applied ML,Applied ML,Data Science,24.0,Reject,3
+SKS1814,JMD184,ASSESS3,Python,Python,Data Science,21.0,Reject,3
+SKS1817,JMD184,ASSESS4,Flutter,Flutter,Development,63.0,Reject,1
+SKS1818,JMD184,ASSESS5,Data Bricks,Data Bricks,Data Engineering,10.0,Reject,1
+SKS1819,JMD184,ASSESS5,DBT,DBT,Data Engineering,36.0,Reject,2
+SKS1820,JMD184,ASSESS5,MySQL,MySQL,Data Engineering,8.0,Reject,3
+SKS1821,JMD185,ASSESS1,Applied ML,Applied ML,Data Science,56.0,Reject,1
+SKS1827,JMD185,ASSESS4,Applied ML,Applied ML,Data Science,23.0,Reject,1
+SKS1835,JMD186,ASSESS3,Python,Python,Data Engineering,40.0,Reject,3
+SKS1836,JMD186,ASSESS3,Web Scraping,Web Scraping,Data Engineering,63.0,Reject,2
+SKS1837,JMD186,ASSESS4,Python,Python,Data Engineering,24.0,Reject,1
+SKS1839,JMD186,ASSESS5,AWS,AWS,Cloud,33.0,Reject,2
+SKS1845,JMD187,ASSESS4,Applied ML,Applied ML,Data Science,57.0,Reject,2
+SKS1846,JMD187,ASSESS5,Flutter,Flutter,Development,10.0,Reject,3
+SKS1847,JMD187,ASSESS5,Node,Node,Development,63.0,Reject,2
+SKS1849,JMD188,ASSESS1,React Native,React Native,Development,55.0,Reject,1
+SKS1851,JMD188,ASSESS2,AWS,AWS,Cloud,11.0,Reject,2
+SKS1852,JMD188,ASSESS2,Azure,Azure,Cloud,48.0,Reject,3
+SKS1856,JMD188,ASSESS4,Applied ML,Applied ML,Data Science,70.0,Reject,2
+SKS1859,JMD189,ASSESS1,Next Js,Next Js,Development,33.0,Reject,2
+SKS1860,JMD189,ASSESS1,Laravel,Laravel,Development,19.0,Reject,2
+SKS1861,JMD189,ASSESS2,GCP,GCP,Cloud,41.0,Reject,1
+SKS1862,JMD189,ASSESS2,Redis,Redis,Cloud,10.0,Reject,3
+SKS1863,JMD189,ASSESS2,AWS,AWS,Cloud,18.0,Reject,2
+SKS1865,JMD189,ASSESS3,Laravel,Laravel,Development,34.0,Reject,3
+SKS1866,JMD189,ASSESS3,React Native,React Native,Development,57.0,Reject,2
+SKS1873,JMD190,ASSESS2,Redis,Redis,Cloud,62.0,Reject,1
+SKS1876,JMD190,ASSESS4,Python,Python,Data Science,39.0,Reject,2
+SKS1878,JMD190,ASSESS5,MySQL,MySQL,Data Engineering,33.0,Reject,3
+SKS1880,JMD191,ASSESS1,Big Data,Big Data,Data Science,25.0,Reject,3
+SKS1883,JMD191,ASSESS2,GCP,GCP,Cloud,49.0,Reject,3
+SKS1885,JMD191,ASSESS4,Python,Python,Data Science,17.0,Reject,3
+SKS1886,JMD191,ASSESS4,Applied ML,Applied ML,Data Science,50.0,Reject,2
+SKS1887,JMD191,ASSESS4,Big Data,Big Data,Data Science,63.0,Reject,1
+SKS1889,JMD191,ASSESS5,GCP,GCP,Cloud,38.0,Reject,1
+SKS1890,JMD192,ASSESS1,Applied ML,Applied ML,Data Science,68.0,Reject,3
+SKS1892,JMD192,ASSESS3,React Native,React Native,Development,16.0,Reject,3
+SKS1894,JMD192,ASSESS4,Redis,Redis,Cloud,30.0,Reject,1
+SKS1897,JMD192,ASSESS5,Azure,Azure,Cloud,20.0,Reject,1
+SKS1899,JMD193,ASSESS1,Redis,Redis,Cloud,33.0,Reject,2
+SKS1900,JMD193,ASSESS1,GCP,GCP,Cloud,53.0,Reject,2
+SKS1901,JMD193,ASSESS2,Angular,Angular,Development,68.0,Reject,3
+SKS1904,JMD193,ASSESS4,Redis,Redis,Cloud,20.0,Reject,3
+SKS1907,JMD193,ASSESS5,DBT,DBT,Data Engineering,68.0,Reject,3
+SKS1910,JMD194,ASSESS1,Big Data,Big Data,Data Science,29.0,Reject,1
+SKS1911,JMD194,ASSESS2,Applied ML,Applied ML,Data Science,44.0,Reject,3
+SKS1912,JMD194,ASSESS2,Big Data,Big Data,Data Science,33.0,Reject,2
+SKS1913,JMD194,ASSESS3,Web Scraping,Web Scraping,Data Engineering,64.0,Reject,2
+SKS1916,JMD194,ASSESS5,Big Data,Big Data,Data Science,18.0,Reject,2
+SKS1918,JMD195,ASSESS1,SnowFlake,SnowFlake,Data Engineering,27.0,Reject,1
+SKS1919,JMD195,ASSESS1,MySQL,MySQL,Data Engineering,3.0,Reject,2
+SKS1920,JMD195,ASSESS2,MySQL,MySQL,Data Engineering,37.0,Reject,3
+SKS1921,JMD195,ASSESS2,Web Scraping,Web Scraping,Data Engineering,22.0,Reject,2
+SKS1922,JMD195,ASSESS3,Python,Python,Data Science,44.0,Reject,3
+SKS1926,JMD195,ASSESS4,Angular,Angular,Development,50.0,Reject,2
+SKS1928,JMD195,ASSESS5,Angular,Angular,Development,63.0,Reject,2
+SKS1931,JMD196,ASSESS2,DBT,DBT,Data Engineering,64.0,Reject,1
+SKS1934,JMD196,ASSESS3,SnowFlake,SnowFlake,Data Engineering,6.0,Reject,2
+SKS1940,JMD197,ASSESS1,AWS,AWS,Cloud,2.0,Reject,2
+SKS1941,JMD197,ASSESS2,Laravel,Laravel,Development,69.0,Reject,1
+SKS1942,JMD197,ASSESS3,Big Data,Big Data,Data Science,69.0,Reject,2
+SKS1943,JMD197,ASSESS3,Applied ML,Applied ML,Data Science,22.0,Reject,1
+SKS1944,JMD197,ASSESS4,Redis,Redis,Cloud,14.0,Reject,3
+SKS1946,JMD197,ASSESS4,GCP,GCP,Cloud,37.0,Reject,3
+SKS1948,JMD197,ASSESS5,Big Data,Big Data,Data Science,6.0,Reject,2
+SKS1950,JMD198,ASSESS1,Applied ML,Applied ML,Data Science,26.0,Reject,3
+SKS1951,JMD198,ASSESS1,Python,Python,Data Science,20.0,Reject,3
+SKS1952,JMD198,ASSESS2,Laravel,Laravel,Development,18.0,Reject,1
+SKS1954,JMD198,ASSESS2,Node,Node,Development,8.0,Reject,2
+SKS1955,JMD198,ASSESS3,Azure,Azure,Cloud,57.0,Reject,3
+SKS1956,JMD198,ASSESS3,AWS,AWS,Cloud,34.0,Reject,3
+SKS1958,JMD198,ASSESS4,Python,Python,Data Science,67.0,Reject,3
+SKS1959,JMD198,ASSESS4,Big Data,Big Data,Data Science,15.0,Reject,3
+SKS1960,JMD198,ASSESS5,Flutter,Flutter,Development,32.0,Reject,2
+SKS1963,JMD199,ASSESS2,Big Data,Big Data,Data Science,44.0,Reject,1
+SKS1966,JMD199,ASSESS3,AWS,AWS,Cloud,10.0,Reject,1
+SKS1967,JMD199,ASSESS3,Azure,Azure,Cloud,35.62128325508607,Reject,2
+SKS1970,JMD199,ASSESS4,Big Data,Big Data,Data Science,28.0,Reject,1
+SKS1973,JMD200,ASSESS1,Python,Python,Data Engineering,27.0,Reject,3
+SKS1975,JMD200,ASSESS1,Data Bricks,Data Bricks,Data Engineering,32.0,Reject,2
+SKS1976,JMD200,ASSESS2,SnowFlake,SnowFlake,Data Engineering,5.0,Reject,1
+SKS1977,JMD200,ASSESS2,MySQL,MySQL,Data Engineering,57.0,Reject,2
+SKS1978,JMD200,ASSESS3,Reactjs,Reactjs,Development,5.0,Reject,3
+SKS1982,JMD200,ASSESS4,SnowFlake,SnowFlake,Data Engineering,24.0,Reject,3
+SKS1983,JMD200,ASSESS4,Web Scraping,Web Scraping,Data Engineering,9.0,Reject,1
+SKS1984,JMD200,ASSESS5,Angular,Angular,Development,51.0,Reject,2
+SKS1985,JMD200,ASSESS5,Laravel,Laravel,Development,70.0,Reject,2
+SKS1991,JMD201,ASSESS4,Azure,Azure,Cloud,21.0,Reject,1
+SKS1996,JMD202,ASSESS1,SnowFlake,SnowFlake,Data Engineering,20.0,Reject,1
+SKS1998,JMD202,ASSESS2,Big Data,Big Data,Data Science,65.0,Reject,3
+SKS2003,JMD202,ASSESS4,Python,Python,Data Science,16.0,Reject,2
+SKS2004,JMD202,ASSESS5,Python,Python,Data Engineering,65.0,Reject,1
+SKS2005,JMD202,ASSESS5,MySQL,MySQL,Data Engineering,49.0,Reject,1
+SKS2006,JMD202,ASSESS5,DBT,DBT,Data Engineering,19.0,Reject,2
+SKS2007,JMD203,ASSESS1,MySQL,MySQL,Data Engineering,24.0,Reject,1
+SKS2008,JMD203,ASSESS1,Data Bricks,Data Bricks,Data Engineering,36.0,Reject,3
+SKS2009,JMD203,ASSESS1,Python,Python,Data Engineering,24.0,Reject,1
+SKS2010,JMD203,ASSESS2,Python,Python,Data Engineering,41.0,Reject,3
+SKS2012,JMD203,ASSESS3,Node,Node,Development,4.0,Reject,1
+SKS2013,JMD203,ASSESS4,MySQL,MySQL,Data Engineering,51.0,Reject,3
+SKS2014,JMD203,ASSESS5,Big Data,Big Data,Data Science,61.0,Reject,2
+SKS2016,JMD203,ASSESS5,Python,Python,Data Science,70.0,Reject,1
+SKS2018,JMD204,ASSESS2,Azure,Azure,Cloud,66.0,Reject,3
+SKS2019,JMD204,ASSESS2,AWS,AWS,Cloud,31.0,Reject,2
+SKS2020,JMD204,ASSESS2,Redis,Redis,Cloud,1.0,Reject,1
+SKS2022,JMD204,ASSESS4,Azure,Azure,Cloud,65.0,Reject,2
+SKS2025,JMD204,ASSESS5,Python,Python,Data Engineering,26.0,Reject,3
+SKS2027,JMD205,ASSESS1,Next Js,Next Js,Development,13.0,Reject,1
+SKS2028,JMD205,ASSESS2,Redis,Redis,Cloud,61.0,Reject,1
+SKS2029,JMD205,ASSESS2,AWS,AWS,Cloud,9.0,Reject,2
+SKS2031,JMD205,ASSESS3,Redis,Redis,Cloud,59.0,Reject,3
+SKS2033,JMD205,ASSESS4,Python,Python,Data Science,30.0,Reject,2
+SKS2035,JMD205,ASSESS5,Azure,Azure,Cloud,22.0,Reject,2
+SKS2047,JMD207,ASSESS3,Reactjs,Reactjs,Development,40.0,Reject,3
+SKS2049,JMD207,ASSESS4,Applied ML,Applied ML,Data Science,7.0,Reject,3
+SKS2051,JMD208,ASSESS1,Laravel,Laravel,Development,11.0,Reject,3
+SKS2052,JMD208,ASSESS1,React Native,React Native,Development,51.0,Reject,1
+SKS2053,JMD208,ASSESS2,Next Js,Next Js,Development,14.0,Reject,2
+SKS2055,JMD208,ASSESS3,Python,Python,Data Science,54.0,Reject,2
+SKS2056,JMD208,ASSESS4,SnowFlake,SnowFlake,Data Engineering,18.0,Reject,3
+SKS2057,JMD208,ASSESS5,Big Data,Big Data,Data Science,35.570747217806044,Reject,1
+SKS2061,JMD209,ASSESS2,Python,Python,Data Science,41.0,Reject,3
+SKS2063,JMD209,ASSESS4,Redis,Redis,Cloud,47.0,Reject,1
+SKS2064,JMD209,ASSESS4,Azure,Azure,Cloud,49.0,Reject,1
+SKS2068,JMD210,ASSESS2,Next Js,Next Js,Development,28.0,Reject,2
+SKS2069,JMD210,ASSESS2,Flutter,Flutter,Development,31.0,Reject,3
+SKS2070,JMD210,ASSESS3,Azure,Azure,Cloud,32.0,Reject,3
+SKS2074,JMD211,ASSESS2,Python,Python,Data Science,54.0,Reject,3
+SKS2075,JMD211,ASSESS2,Applied ML,Applied ML,Data Science,36.0,Reject,1
+SKS2076,JMD211,ASSESS3,Redis,Redis,Cloud,62.0,Reject,3
+SKS2077,JMD211,ASSESS4,AWS,AWS,Cloud,29.0,Reject,1
+SKS2078,JMD211,ASSESS4,GCP,GCP,Cloud,25.0,Reject,3
+SKS2079,JMD211,ASSESS5,Node,Node,Development,50.0,Reject,1
+SKS2083,JMD212,ASSESS2,Data Bricks,Data Bricks,Data Engineering,56.0,Reject,1
+SKS2084,JMD212,ASSESS3,Applied ML,Applied ML,Data Science,69.0,Reject,3
+SKS2089,JMD213,ASSESS1,React Native,React Native,Development,37.0,Reject,3
+SKS2091,JMD213,ASSESS2,Redis,Redis,Cloud,6.0,Reject,1
+SKS2092,JMD213,ASSESS3,GCP,GCP,Cloud,55.0,Reject,1
+SKS2097,JMD213,ASSESS5,Azure,Azure,Cloud,1.0,Reject,3
+SKS2099,JMD214,ASSESS1,MySQL,MySQL,Data Engineering,33.0,Reject,3
+SKS2100,JMD214,ASSESS2,Python,Python,Data Science,13.0,Reject,3
+SKS2102,JMD214,ASSESS3,Angular,Angular,Development,7.0,Reject,2
+SKS2104,JMD214,ASSESS4,GCP,GCP,Cloud,23.0,Reject,2
+SKS2105,JMD214,ASSESS4,Azure,Azure,Cloud,59.0,Reject,3
+SKS2106,JMD214,ASSESS4,Redis,Redis,Cloud,70.0,Reject,2
+SKS2108,JMD215,ASSESS1,Node,Node,Development,53.0,Reject,2
+SKS2109,JMD215,ASSESS1,React Native,React Native,Development,19.0,Reject,3
+SKS2110,JMD215,ASSESS1,Reactjs,Reactjs,Development,45.0,Reject,1
+SKS2112,JMD215,ASSESS3,Node,Node,Development,17.0,Reject,1
+SKS2113,JMD215,ASSESS3,Next Js,Next Js,Development,36.0,Reject,1
+SKS2114,JMD215,ASSESS4,Redis,Redis,Cloud,30.0,Reject,3
+SKS2115,JMD215,ASSESS4,Azure,Azure,Cloud,46.0,Reject,2
+SKS2116,JMD215,ASSESS5,Big Data,Big Data,Data Science,45.0,Reject,1
+SKS2119,JMD216,ASSESS1,MySQL,MySQL,Data Engineering,60.0,Reject,3
+SKS2120,JMD216,ASSESS2,Python,Python,Data Engineering,4.0,Reject,2
+SKS2121,JMD216,ASSESS3,MySQL,MySQL,Data Engineering,31.0,Reject,2
+SKS2122,JMD216,ASSESS3,Web Scraping,Web Scraping,Data Engineering,12.0,Reject,2
+SKS2123,JMD216,ASSESS3,SnowFlake,SnowFlake,Data Engineering,24.0,Reject,3
+SKS2126,JMD216,ASSESS5,DBT,DBT,Data Engineering,60.0,Reject,1
+SKS2129,JMD217,ASSESS1,Python,Python,Data Science,41.0,Reject,1
+SKS2131,JMD217,ASSESS2,Python,Python,Data Engineering,46.0,Reject,1
+SKS2133,JMD217,ASSESS3,Redis,Redis,Cloud,30.0,Reject,1
+SKS2134,JMD217,ASSESS4,Azure,Azure,Cloud,32.0,Reject,1
+SKS2136,JMD217,ASSESS4,AWS,AWS,Cloud,64.0,Reject,1
+SKS2137,JMD217,ASSESS5,AWS,AWS,Cloud,56.0,Reject,2
+SKS2138,JMD217,ASSESS5,GCP,GCP,Cloud,16.0,Reject,3
+SKS2139,JMD217,ASSESS5,Azure,Azure,Cloud,38.0,Reject,2
+SKS2140,JMD218,ASSESS1,Node,Node,Development,56.0,Reject,1
+SKS2141,JMD218,ASSESS1,Flutter,Flutter,Development,19.0,Reject,1
+SKS2145,JMD218,ASSESS3,Next Js,Next Js,Development,35.0,Reject,2
+SKS2148,JMD218,ASSESS4,DBT,DBT,Data Engineering,13.0,Reject,2
+SKS2152,JMD219,ASSESS3,Applied ML,Applied ML,Data Science,63.0,Reject,1
+SKS2155,JMD219,ASSESS5,Redis,Redis,Cloud,55.0,Reject,3
+SKS2160,JMD220,ASSESS2,Applied ML,Applied ML,Data Science,44.0,Reject,2
+SKS2161,JMD220,ASSESS3,React Native,React Native,Development,18.0,Reject,2
+SKS2162,JMD220,ASSESS3,Laravel,Laravel,Development,12.0,Reject,2
+SKS2163,JMD220,ASSESS4,Redis,Redis,Cloud,61.0,Reject,2
+SKS2166,JMD221,ASSESS1,Python,Python,Data Engineering,16.0,Reject,3
+SKS2167,JMD221,ASSESS1,SnowFlake,SnowFlake,Data Engineering,48.0,Reject,3
+SKS2170,JMD221,ASSESS2,Laravel,Laravel,Development,56.0,Reject,1
+SKS2172,JMD221,ASSESS4,Big Data,Big Data,Data Science,64.0,Reject,3
+SKS2175,JMD221,ASSESS5,React Native,React Native,Development,65.0,Reject,1
+SKS2177,JMD222,ASSESS1,Web Scraping,Web Scraping,Data Engineering,19.0,Reject,3
+SKS2179,JMD222,ASSESS2,Azure,Azure,Cloud,22.0,Reject,2
+SKS2180,JMD222,ASSESS2,GCP,GCP,Cloud,68.0,Reject,2
+SKS2181,JMD222,ASSESS3,Azure,Azure,Cloud,23.0,Reject,2
+SKS2183,JMD222,ASSESS3,AWS,AWS,Cloud,14.0,Reject,2
+SKS2184,JMD222,ASSESS4,Data Bricks,Data Bricks,Data Engineering,2.0,Reject,3
+SKS2185,JMD222,ASSESS4,MySQL,MySQL,Data Engineering,56.0,Reject,1
+SKS2186,JMD222,ASSESS5,Data Bricks,Data Bricks,Data Engineering,25.0,Reject,3
+SKS2187,JMD222,ASSESS5,MySQL,MySQL,Data Engineering,53.0,Reject,1
+SKS2192,JMD223,ASSESS2,Angular,Angular,Development,30.0,Reject,3
+SKS2195,JMD223,ASSESS3,Python,Python,Data Science,36.0,Reject,3
+SKS2198,JMD223,ASSESS4,AWS,AWS,Cloud,7.0,Reject,1
+SKS2205,JMD224,ASSESS2,Web Scraping,Web Scraping,Data Engineering,7.0,Reject,1
+SKS2206,JMD224,ASSESS2,Python,Python,Data Engineering,2.0,Reject,3
+SKS2207,JMD224,ASSESS2,Data Bricks,Data Bricks,Data Engineering,22.0,Reject,2
+SKS2208,JMD224,ASSESS3,Applied ML,Applied ML,Data Science,19.0,Reject,3
+SKS2210,JMD224,ASSESS4,Applied ML,Applied ML,Data Science,21.0,Reject,2
+SKS2211,JMD224,ASSESS4,Python,Python,Data Science,57.0,Reject,1
+SKS2215,JMD225,ASSESS1,Reactjs,Reactjs,Development,64.0,Reject,3
+SKS2217,JMD225,ASSESS2,Flutter,Flutter,Development,31.0,Reject,3
+SKS2218,JMD225,ASSESS2,Next Js,Next Js,Development,51.0,Reject,1
+SKS2219,JMD225,ASSESS3,Applied ML,Applied ML,Data Science,30.0,Reject,2
+SKS2220,JMD225,ASSESS4,Data Bricks,Data Bricks,Data Engineering,5.0,Reject,3
+SKS2221,JMD225,ASSESS4,SnowFlake,SnowFlake,Data Engineering,67.0,Reject,2
+SKS2222,JMD225,ASSESS5,Flutter,Flutter,Development,26.0,Reject,1
+SKS2223,JMD225,ASSESS5,React Native,React Native,Development,60.0,Reject,2
+SKS2225,JMD226,ASSESS1,Angular,Angular,Development,30.0,Reject,3
+SKS2230,JMD226,ASSESS3,Redis,Redis,Cloud,37.0,Reject,3
+SKS2231,JMD226,ASSESS4,Redis,Redis,Cloud,3.0,Reject,2
+SKS2233,JMD226,ASSESS4,Azure,Azure,Cloud,66.0,Reject,3
+SKS2234,JMD226,ASSESS5,AWS,AWS,Cloud,19.0,Reject,1
+SKS2236,JMD227,ASSESS1,Python,Python,Data Engineering,65.0,Reject,2
+SKS2238,JMD227,ASSESS2,React Native,React Native,Development,69.0,Reject,1
+SKS2239,JMD227,ASSESS2,Next Js,Next Js,Development,46.0,Reject,3
+SKS2240,JMD227,ASSESS3,Big Data,Big Data,Data Science,38.0,Reject,1
+SKS2241,JMD227,ASSESS3,Python,Python,Data Science,70.0,Reject,1
+SKS2242,JMD227,ASSESS4,Big Data,Big Data,Data Science,57.0,Reject,3
+SKS2243,JMD227,ASSESS4,Applied ML,Applied ML,Data Science,7.0,Reject,1
+SKS2245,JMD227,ASSESS5,DBT,DBT,Data Engineering,2.0,Reject,3
+SKS2249,JMD228,ASSESS2,Python,Python,Data Engineering,45.0,Reject,3
+SKS2252,JMD228,ASSESS3,Python,Python,Data Engineering,1.0,Reject,2
+SKS2253,JMD228,ASSESS3,DBT,DBT,Data Engineering,4.0,Reject,2
+SKS2258,JMD228,ASSESS5,Big Data,Big Data,Data Science,31.0,Reject,3
+SKS2259,JMD229,ASSESS1,Python,Python,Data Science,10.0,Reject,1
+SKS2265,JMD229,ASSESS4,Reactjs,Reactjs,Development,54.0,Reject,1
+SKS2267,JMD229,ASSESS5,Azure,Azure,Cloud,70.0,Reject,1
+SKS2268,JMD229,ASSESS5,Redis,Redis,Cloud,24.0,Reject,3
+SKS2271,JMD230,ASSESS1,Python,Python,Data Engineering,40.0,Reject,3
+SKS2274,JMD230,ASSESS3,Node,Node,Development,26.0,Reject,3
+SKS2277,JMD230,ASSESS5,Redis,Redis,Cloud,38.0,Reject,1
+SKS2280,JMD231,ASSESS1,Python,Python,Data Science,61.0,Reject,1
+SKS2283,JMD231,ASSESS3,Web Scraping,Web Scraping,Data Engineering,57.0,Reject,1
+SKS2286,JMD231,ASSESS5,Applied ML,Applied ML,Data Science,51.0,Reject,2
+SKS2291,JMD232,ASSESS3,Applied ML,Applied ML,Data Science,24.0,Reject,2
+SKS2292,JMD232,ASSESS3,Python,Python,Data Science,55.0,Reject,3
+SKS2294,JMD232,ASSESS4,Laravel,Laravel,Development,68.0,Reject,3
+SKS2297,JMD232,ASSESS5,Next Js,Next Js,Development,12.0,Reject,1
+SKS2298,JMD233,ASSESS1,Azure,Azure,Cloud,41.0,Reject,3
+SKS2300,JMD233,ASSESS3,AWS,AWS,Cloud,35.0,Reject,1
+SKS2301,JMD233,ASSESS4,Flutter,Flutter,Development,59.0,Reject,2
+SKS2302,JMD233,ASSESS4,Node,Node,Development,13.0,Reject,2
+SKS2303,JMD233,ASSESS5,Angular,Angular,Development,39.0,Reject,1
+SKS2304,JMD233,ASSESS5,Reactjs,Reactjs,Development,22.0,Reject,2
+SKS2306,JMD234,ASSESS1,Applied ML,Applied ML,Data Science,37.0,Reject,2
+SKS2307,JMD234,ASSESS1,Python,Python,Data Science,2.0,Reject,2
+SKS2308,JMD234,ASSESS1,Big Data,Big Data,Data Science,41.0,Reject,1
+SKS2309,JMD234,ASSESS2,AWS,AWS,Cloud,39.0,Reject,3
+SKS2311,JMD234,ASSESS2,Azure,Azure,Cloud,19.0,Reject,1
+SKS2312,JMD234,ASSESS3,Redis,Redis,Cloud,61.0,Reject,3
+SKS2313,JMD234,ASSESS3,Azure,Azure,Cloud,21.0,Reject,1
+SKS2314,JMD234,ASSESS4,Python,Python,Data Science,19.0,Reject,2
+SKS2316,JMD234,ASSESS5,Redis,Redis,Cloud,44.0,Reject,2
+SKS2320,JMD235,ASSESS2,Angular,Angular,Development,23.0,Reject,1
+SKS2321,JMD235,ASSESS3,MySQL,MySQL,Data Engineering,30.0,Reject,1
+SKS2322,JMD235,ASSESS3,SnowFlake,SnowFlake,Data Engineering,3.0,Reject,1
+SKS2324,JMD235,ASSESS4,Laravel,Laravel,Development,26.0,Reject,3
+SKS2325,JMD235,ASSESS5,AWS,AWS,Cloud,66.0,Reject,3
+SKS2328,JMD236,ASSESS1,Flutter,Flutter,Development,7.0,Reject,2
+SKS2329,JMD236,ASSESS1,Next Js,Next Js,Development,26.0,Reject,2
+SKS2330,JMD236,ASSESS2,Applied ML,Applied ML,Data Science,31.0,Reject,1
+SKS2332,JMD236,ASSESS3,Web Scraping,Web Scraping,Data Engineering,25.0,Reject,3
+SKS2333,JMD236,ASSESS4,Reactjs,Reactjs,Development,69.0,Reject,1
+SKS2334,JMD236,ASSESS5,AWS,AWS,Cloud,38.0,Reject,2
+SKS2335,JMD236,ASSESS5,Redis,Redis,Cloud,20.0,Reject,1
+SKS2338,JMD237,ASSESS1,MySQL,MySQL,Data Engineering,15.0,Reject,3
+SKS2343,JMD237,ASSESS4,Redis,Redis,Cloud,23.0,Reject,3
+SKS2346,JMD238,ASSESS1,Azure,Azure,Cloud,69.0,Reject,1
+SKS2347,JMD238,ASSESS2,Laravel,Laravel,Development,37.0,Reject,1
+SKS2351,JMD238,ASSESS5,Azure,Azure,Cloud,26.0,Reject,2
+SKS2352,JMD239,ASSESS1,Big Data,Big Data,Data Science,61.0,Reject,1
+SKS2354,JMD239,ASSESS2,Python,Python,Data Science,67.0,Reject,1
+SKS2359,JMD239,ASSESS3,Node,Node,Development,26.0,Reject,1
+SKS2360,JMD239,ASSESS4,Azure,Azure,Cloud,37.0,Reject,3
+SKS2361,JMD239,ASSESS4,AWS,AWS,Cloud,56.0,Reject,2
+SKS2370,JMD240,ASSESS3,Applied ML,Applied ML,Data Science,16.0,Reject,2
+SKS2372,JMD240,ASSESS4,Python,Python,Data Engineering,44.0,Reject,2
+SKS2374,JMD240,ASSESS5,Redis,Redis,Cloud,31.0,Reject,3
+SKS2375,JMD240,ASSESS5,Azure,Azure,Cloud,31.0,Reject,1
+SKS2376,JMD241,ASSESS1,DBT,DBT,Data Engineering,24.0,Reject,1
+SKS2377,JMD241,ASSESS1,Web Scraping,Web Scraping,Data Engineering,22.0,Reject,1
+SKS2378,JMD241,ASSESS2,Big Data,Big Data,Data Science,60.0,Reject,2
+SKS2379,JMD241,ASSESS2,Python,Python,Data Science,63.0,Reject,3
+SKS2380,JMD241,ASSESS3,Azure,Azure,Cloud,15.0,Reject,1
+SKS2381,JMD241,ASSESS4,AWS,AWS,Cloud,9.0,Reject,1
+SKS2383,JMD241,ASSESS4,Redis,Redis,Cloud,46.0,Reject,2
+SKS2386,JMD242,ASSESS1,Python,Python,Data Science,4.0,Reject,1
+SKS2389,JMD242,ASSESS3,Applied ML,Applied ML,Data Science,61.0,Reject,1
+SKS2390,JMD242,ASSESS4,Big Data,Big Data,Data Science,25.0,Reject,2
+SKS2397,JMD243,ASSESS2,Applied ML,Applied ML,Data Science,19.0,Reject,1
+SKS2399,JMD243,ASSESS3,GCP,GCP,Cloud,1.0,Reject,2
+SKS2400,JMD243,ASSESS3,AWS,AWS,Cloud,70.0,Reject,2
+SKS2401,JMD243,ASSESS4,Node,Node,Development,50.0,Reject,1
+SKS2403,JMD244,ASSESS1,GCP,GCP,Cloud,62.0,Reject,1
+SKS2404,JMD244,ASSESS1,Redis,Redis,Cloud,16.0,Reject,1
+SKS2406,JMD244,ASSESS3,Redis,Redis,Cloud,34.0,Reject,2
+SKS2410,JMD244,ASSESS4,Node,Node,Development,39.0,Reject,1
+SKS2411,JMD244,ASSESS4,Reactjs,Reactjs,Development,21.0,Reject,3
+SKS2412,JMD244,ASSESS5,AWS,AWS,Cloud,2.0,Reject,3
+SKS2415,JMD245,ASSESS1,GCP,GCP,Cloud,7.0,Reject,1
+SKS2417,JMD245,ASSESS1,Redis,Redis,Cloud,63.0,Reject,2
+SKS2418,JMD245,ASSESS2,Node,Node,Development,5.0,Reject,2
+SKS2419,JMD245,ASSESS3,Applied ML,Applied ML,Data Science,56.0,Reject,2
+SKS2420,JMD245,ASSESS3,Big Data,Big Data,Data Science,25.0,Reject,1
+SKS2425,JMD245,ASSESS5,Flutter,Flutter,Development,23.0,Reject,3
+SKS2426,JMD245,ASSESS5,Next Js,Next Js,Development,20.0,Reject,2
+SKS2428,JMD246,ASSESS1,Big Data,Big Data,Data Science,15.0,Reject,1
+SKS2430,JMD246,ASSESS2,Python,Python,Data Science,11.0,Reject,3
+SKS2434,JMD246,ASSESS4,Azure,Azure,Cloud,59.0,Reject,3
+SKS2436,JMD246,ASSESS4,Redis,Redis,Cloud,9.0,Reject,2
+SKS2441,JMD247,ASSESS1,MySQL,MySQL,Data Engineering,17.0,Reject,2
+SKS2443,JMD247,ASSESS3,GCP,GCP,Cloud,14.0,Reject,1
+SKS2448,JMD247,ASSESS5,Azure,Azure,Cloud,53.0,Reject,1
+SKS2450,JMD248,ASSESS1,Azure,Azure,Cloud,33.0,Reject,1
+SKS2451,JMD248,ASSESS2,GCP,GCP,Cloud,13.0,Reject,3
+SKS2453,JMD248,ASSESS2,Redis,Redis,Cloud,65.0,Reject,2
+SKS2454,JMD248,ASSESS3,Azure,Azure,Cloud,26.0,Reject,1
+SKS2458,JMD248,ASSESS5,Python,Python,Data Science,53.0,Reject,2
+SKS2463,JMD249,ASSESS1,SnowFlake,SnowFlake,Data Engineering,29.0,Reject,2
+SKS2464,JMD249,ASSESS2,Reactjs,Reactjs,Development,39.0,Reject,2
+SKS2466,JMD249,ASSESS3,Python,Python,Data Science,5.0,Reject,2
+SKS2467,JMD249,ASSESS3,Big Data,Big Data,Data Science,13.0,Reject,2
+SKS2469,JMD249,ASSESS4,Azure,Azure,Cloud,39.0,Reject,1
+SKS2470,JMD249,ASSESS4,AWS,AWS,Cloud,2.0,Reject,3
+SKS2472,JMD249,ASSESS5,SnowFlake,SnowFlake,Data Engineering,57.0,Reject,1
+SKS2479,JMD250,ASSESS3,Node,Node,Development,29.0,Reject,3
+SKS2481,JMD250,ASSESS4,DBT,DBT,Data Engineering,64.0,Reject,2
+SKS2484,JMD250,ASSESS5,MySQL,MySQL,Data Engineering,57.0,Reject,2
+SKS2487,JMD251,ASSESS2,Azure,Azure,Cloud,5.0,Reject,1
+SKS2490,JMD251,ASSESS3,AWS,AWS,Cloud,47.0,Reject,2
+SKS2491,JMD251,ASSESS3,Azure,Azure,Cloud,66.0,Reject,2
+SKS2493,JMD251,ASSESS4,Python,Python,Data Science,21.0,Reject,1
+SKS2496,JMD251,ASSESS5,React Native,React Native,Development,55.0,Reject,2
+SKS2498,JMD252,ASSESS2,Next Js,Next Js,Development,39.0,Reject,3
+SKS2499,JMD252,ASSESS2,Reactjs,Reactjs,Development,52.0,Reject,2
+SKS2503,JMD252,ASSESS4,Big Data,Big Data,Data Science,9.0,Reject,3
+SKS2505,JMD252,ASSESS4,Python,Python,Data Science,32.0,Reject,3
+SKS2507,JMD253,ASSESS1,GCP,GCP,Cloud,48.0,Reject,2
+SKS2512,JMD253,ASSESS4,Applied ML,Applied ML,Data Science,27.0,Reject,2
+SKS2515,JMD253,ASSESS5,Next Js,Next Js,Development,12.0,Reject,2
+SKS2516,JMD253,ASSESS5,Angular,Angular,Development,40.0,Reject,3
+SKS2518,JMD254,ASSESS1,DBT,DBT,Data Engineering,53.0,Reject,1
+SKS2525,JMD254,ASSESS5,Redis,Redis,Cloud,61.0,Reject,3
+SKS2527,JMD255,ASSESS1,Next Js,Next Js,Development,63.0,Reject,3
+SKS2529,JMD255,ASSESS3,Azure,Azure,Cloud,5.0,Reject,3
+SKS2530,JMD255,ASSESS3,Redis,Redis,Cloud,59.0,Reject,2
+SKS2533,JMD256,ASSESS1,Azure,Azure,Cloud,46.0,Reject,1
+SKS2535,JMD256,ASSESS2,Flutter,Flutter,Development,69.0,Reject,2
+SKS2536,JMD256,ASSESS3,AWS,AWS,Cloud,20.0,Reject,2
+SKS2537,JMD256,ASSESS3,GCP,GCP,Cloud,45.0,Reject,2
+SKS2538,JMD256,ASSESS4,Next Js,Next Js,Development,62.0,Reject,3
+SKS2541,JMD257,ASSESS2,SnowFlake,SnowFlake,Data Engineering,28.0,Reject,1
+SKS2542,JMD257,ASSESS2,Data Bricks,Data Bricks,Data Engineering,47.0,Reject,2
+SKS2560,JMD259,ASSESS1,Big Data,Big Data,Data Science,56.0,Reject,2
+SKS2563,JMD259,ASSESS3,Angular,Angular,Development,12.0,Reject,2
+SKS2565,JMD259,ASSESS4,Web Scraping,Web Scraping,Data Engineering,33.0,Reject,1
+SKS2567,JMD260,ASSESS1,Applied ML,Applied ML,Data Science,42.0,Reject,3
+SKS2568,JMD260,ASSESS2,Data Bricks,Data Bricks,Data Engineering,47.0,Reject,1
+SKS2569,JMD260,ASSESS2,DBT,DBT,Data Engineering,33.0,Reject,1
+SKS2571,JMD260,ASSESS3,Reactjs,Reactjs,Development,24.0,Reject,1
+SKS2572,JMD260,ASSESS3,Node,Node,Development,69.0,Reject,2
+SKS2573,JMD260,ASSESS4,Applied ML,Applied ML,Data Science,2.0,Reject,2
+SKS2576,JMD260,ASSESS5,MySQL,MySQL,Data Engineering,47.0,Reject,3
+SKS2577,JMD260,ASSESS5,Web Scraping,Web Scraping,Data Engineering,45.0,Reject,2
+SKS2578,JMD260,ASSESS5,SnowFlake,SnowFlake,Data Engineering,65.0,Reject,1
+SKS2581,JMD261,ASSESS2,Web Scraping,Web Scraping,Data Engineering,17.0,Reject,2
+SKS2582,JMD261,ASSESS2,Python,Python,Data Engineering,36.0,Reject,2
+SKS2584,JMD261,ASSESS3,Laravel,Laravel,Development,25.0,Reject,3
+SKS2588,JMD261,ASSESS5,Big Data,Big Data,Data Science,53.0,Reject,2
+SKS2589,JMD262,ASSESS1,Big Data,Big Data,Data Science,48.0,Reject,2
+SKS2590,JMD262,ASSESS2,Web Scraping,Web Scraping,Data Engineering,51.0,Reject,3
+SKS2591,JMD262,ASSESS2,DBT,DBT,Data Engineering,52.0,Reject,2
+SKS2592,JMD262,ASSESS2,Python,Python,Data Engineering,38.0,Reject,1
+SKS2593,JMD262,ASSESS3,Next Js,Next Js,Development,66.0,Reject,3
+SKS2594,JMD262,ASSESS3,Node,Node,Development,30.0,Reject,2
+SKS2597,JMD263,ASSESS1,Python,Python,Data Science,38.0,Reject,1
+SKS2599,JMD263,ASSESS2,Data Bricks,Data Bricks,Data Engineering,26.0,Reject,2
+SKS2600,JMD263,ASSESS2,Web Scraping,Web Scraping,Data Engineering,18.0,Reject,1
+SKS2601,JMD263,ASSESS3,AWS,AWS,Cloud,25.0,Reject,1
+SKS2603,JMD263,ASSESS4,Redis,Redis,Cloud,45.0,Reject,1
+SKS2606,JMD263,ASSESS5,SnowFlake,SnowFlake,Data Engineering,52.0,Reject,1
+SKS2609,JMD264,ASSESS1,Python,Python,Data Engineering,65.0,Reject,3
+SKS2611,JMD264,ASSESS3,Redis,Redis,Cloud,36.0,Reject,2
+SKS2615,JMD264,ASSESS5,AWS,AWS,Cloud,20.0,Reject,3
+SKS2616,JMD265,ASSESS1,Python,Python,Data Science,32.0,Reject,2
+SKS2617,JMD265,ASSESS1,Big Data,Big Data,Data Science,55.0,Reject,2
+SKS2621,JMD265,ASSESS2,Big Data,Big Data,Data Science,45.0,Reject,1
+SKS2623,JMD265,ASSESS3,Azure,Azure,Cloud,16.0,Reject,2
+SKS2624,JMD265,ASSESS3,AWS,AWS,Cloud,41.0,Reject,3
+SKS2626,JMD265,ASSESS4,Big Data,Big Data,Data Science,66.0,Reject,2
+SKS2627,JMD265,ASSESS5,Node,Node,Development,8.0,Reject,2
+SKS2630,JMD266,ASSESS1,Python,Python,Data Science,14.0,Reject,2
+SKS2631,JMD266,ASSESS1,Applied ML,Applied ML,Data Science,41.0,Reject,3
+SKS2632,JMD266,ASSESS1,Big Data,Big Data,Data Science,4.0,Reject,3
+SKS2633,JMD266,ASSESS2,Python,Python,Data Engineering,50.0,Reject,1
+SKS2635,JMD266,ASSESS3,Big Data,Big Data,Data Science,48.0,Reject,2
+SKS2639,JMD266,ASSESS4,Redis,Redis,Cloud,8.0,Reject,3
+SKS2641,JMD266,ASSESS5,Big Data,Big Data,Data Science,33.0,Reject,3
+SKS2642,JMD267,ASSESS1,Big Data,Big Data,Data Science,21.0,Reject,2
+SKS2643,JMD267,ASSESS2,Web Scraping,Web Scraping,Data Engineering,54.0,Reject,1
+SKS2644,JMD267,ASSESS3,Azure,Azure,Cloud,32.0,Reject,3
+SKS2646,JMD267,ASSESS4,Big Data,Big Data,Data Science,43.0,Reject,1
+SKS2650,JMD268,ASSESS2,Python,Python,Data Engineering,12.0,Reject,1
+SKS2651,JMD268,ASSESS3,AWS,AWS,Cloud,34.0,Reject,1
+SKS2655,JMD268,ASSESS4,Python,Python,Data Engineering,50.0,Reject,2
+SKS2656,JMD268,ASSESS5,Python,Python,Data Science,24.0,Reject,1
+SKS2658,JMD269,ASSESS1,Big Data,Big Data,Data Science,9.0,Reject,3
+SKS2659,JMD269,ASSESS2,Python,Python,Data Science,10.0,Reject,2
+SKS2661,JMD269,ASSESS2,Applied ML,Applied ML,Data Science,9.0,Reject,1
+SKS2662,JMD269,ASSESS3,DBT,DBT,Data Engineering,63.0,Reject,3
+SKS2663,JMD269,ASSESS3,Web Scraping,Web Scraping,Data Engineering,9.0,Reject,1
+SKS2664,JMD269,ASSESS3,Python,Python,Data Engineering,50.0,Reject,3
+SKS2665,JMD269,ASSESS4,Redis,Redis,Cloud,37.0,Reject,1
+SKS2666,JMD269,ASSESS5,Python,Python,Data Science,60.0,Reject,1
+SKS2669,JMD270,ASSESS3,Redis,Redis,Cloud,5.0,Reject,1
+SKS2670,JMD270,ASSESS3,Azure,Azure,Cloud,12.0,Reject,2
+SKS2673,JMD270,ASSESS5,Python,Python,Data Science,52.0,Reject,2
+SKS2678,JMD271,ASSESS2,Python,Python,Data Engineering,19.0,Reject,3
+SKS2679,JMD271,ASSESS3,Big Data,Big Data,Data Science,59.0,Reject,3
+SKS2680,JMD271,ASSESS3,Applied ML,Applied ML,Data Science,63.0,Reject,2
+SKS2681,JMD271,ASSESS3,Python,Python,Data Science,6.0,Reject,3
+SKS2683,JMD271,ASSESS5,Python,Python,Data Engineering,58.0,Reject,3
+SKS2687,JMD272,ASSESS1,Applied ML,Applied ML,Data Science,21.0,Reject,2
+SKS2690,JMD272,ASSESS3,AWS,AWS,Cloud,30.0,Reject,2
+SKS2691,JMD272,ASSESS3,GCP,GCP,Cloud,40.0,Reject,1
+SKS2692,JMD272,ASSESS3,Redis,Redis,Cloud,2.0,Reject,2
+SKS2695,JMD272,ASSESS4,Python,Python,Data Engineering,50.0,Reject,2
+SKS2696,JMD272,ASSESS5,Flutter,Flutter,Development,37.0,Reject,2
+SKS2697,JMD273,ASSESS1,Applied ML,Applied ML,Data Science,12.0,Reject,2
+SKS2700,JMD273,ASSESS4,Data Bricks,Data Bricks,Data Engineering,3.0,Reject,2
+SKS2701,JMD273,ASSESS5,Applied ML,Applied ML,Data Science,6.0,Reject,1
+SKS2708,JMD274,ASSESS2,Python,Python,Data Science,42.0,Reject,1
+SKS2711,JMD274,ASSESS3,Next Js,Next Js,Development,70.0,Reject,1
+SKS2712,JMD274,ASSESS4,Redis,Redis,Cloud,46.0,Reject,2
+SKS2715,JMD275,ASSESS1,GCP,GCP,Cloud,40.0,Reject,2
+SKS2717,JMD275,ASSESS2,GCP,GCP,Cloud,47.0,Reject,1
+SKS2718,JMD275,ASSESS3,DBT,DBT,Data Engineering,12.0,Reject,1
+SKS2719,JMD275,ASSESS3,Python,Python,Data Engineering,46.0,Reject,2
+SKS2720,JMD275,ASSESS4,Next Js,Next Js,Development,46.0,Reject,1
+SKS2721,JMD275,ASSESS5,Azure,Azure,Cloud,9.0,Reject,2
+SKS2722,JMD276,ASSESS1,Web Scraping,Web Scraping,Data Engineering,14.0,Reject,1
+SKS2723,JMD276,ASSESS1,MySQL,MySQL,Data Engineering,57.0,Reject,1
+SKS2724,JMD276,ASSESS1,DBT,DBT,Data Engineering,40.0,Reject,1
+SKS2725,JMD276,ASSESS2,React Native,React Native,Development,53.0,Reject,2
+SKS2726,JMD276,ASSESS2,Reactjs,Reactjs,Development,54.0,Reject,1
+SKS2727,JMD276,ASSESS3,DBT,DBT,Data Engineering,57.0,Reject,1
+SKS2728,JMD276,ASSESS4,Big Data,Big Data,Data Science,20.0,Reject,2
+SKS2729,JMD276,ASSESS5,Azure,Azure,Cloud,6.0,Reject,1
+SKS2732,JMD277,ASSESS3,Applied ML,Applied ML,Data Science,19.0,Reject,3
+SKS2733,JMD277,ASSESS4,Python,Python,Data Science,46.0,Reject,3
+SKS2734,JMD277,ASSESS4,Applied ML,Applied ML,Data Science,25.0,Reject,2
+SKS2735,JMD277,ASSESS4,Big Data,Big Data,Data Science,68.0,Reject,3
+SKS2736,JMD277,ASSESS5,Redis,Redis,Cloud,38.0,Reject,3
+SKS2739,JMD278,ASSESS1,Big Data,Big Data,Data Science,70.0,Reject,1
+SKS2740,JMD278,ASSESS1,Applied ML,Applied ML,Data Science,1.0,Reject,2
+SKS2742,JMD278,ASSESS2,SnowFlake,SnowFlake,Data Engineering,5.0,Reject,2
+SKS2743,JMD278,ASSESS2,Web Scraping,Web Scraping,Data Engineering,55.0,Reject,2
+SKS2744,JMD278,ASSESS3,Python,Python,Data Engineering,51.0,Reject,3
+SKS2745,JMD278,ASSESS3,Data Bricks,Data Bricks,Data Engineering,41.0,Reject,2
+SKS2746,JMD278,ASSESS3,MySQL,MySQL,Data Engineering,29.0,Reject,3
+SKS2748,JMD278,ASSESS5,MySQL,MySQL,Data Engineering,56.0,Reject,2
+SKS2751,JMD279,ASSESS1,Reactjs,Reactjs,Development,65.0,Reject,3
+SKS2753,JMD279,ASSESS2,Angular,Angular,Development,31.0,Reject,3
+SKS2754,JMD279,ASSESS3,Applied ML,Applied ML,Data Science,15.0,Reject,3
+SKS2755,JMD279,ASSESS3,Big Data,Big Data,Data Science,5.0,Reject,1
+SKS2756,JMD279,ASSESS4,Next Js,Next Js,Development,2.0,Reject,2
+SKS2757,JMD279,ASSESS4,React Native,React Native,Development,62.0,Reject,1
+SKS2760,JMD280,ASSESS1,Web Scraping,Web Scraping,Data Engineering,70.0,Reject,1
+SKS2761,JMD280,ASSESS1,DBT,DBT,Data Engineering,40.0,Reject,1
+SKS2764,JMD280,ASSESS3,SnowFlake,SnowFlake,Data Engineering,27.0,Reject,2
+SKS2766,JMD280,ASSESS5,Redis,Redis,Cloud,35.0,Reject,3
+SKS2769,JMD281,ASSESS1,React Native,React Native,Development,38.0,Reject,3
+SKS2770,JMD281,ASSESS1,Angular,Angular,Development,48.0,Reject,2
+SKS2772,JMD281,ASSESS2,Data Bricks,Data Bricks,Data Engineering,1.0,Reject,3
+SKS2773,JMD281,ASSESS2,SnowFlake,SnowFlake,Data Engineering,47.0,Reject,1
+SKS2774,JMD281,ASSESS3,Node,Node,Development,31.0,Reject,1
+SKS2775,JMD281,ASSESS3,Flutter,Flutter,Development,37.0,Reject,3
+SKS2776,JMD281,ASSESS4,Node,Node,Development,59.0,Reject,2
+SKS2777,JMD281,ASSESS4,React Native,React Native,Development,32.0,Reject,3
+SKS2780,JMD282,ASSESS1,Applied ML,Applied ML,Data Science,57.0,Reject,3
+SKS2788,JMD282,ASSESS5,SnowFlake,SnowFlake,Data Engineering,59.0,Reject,2
+SKS2790,JMD282,ASSESS5,Python,Python,Data Engineering,45.0,Reject,1
+SKS2791,JMD283,ASSESS1,Next Js,Next Js,Development,67.0,Reject,3
+SKS2797,JMD283,ASSESS4,Big Data,Big Data,Data Science,16.0,Reject,3
+SKS2798,JMD283,ASSESS5,Reactjs,Reactjs,Development,62.0,Reject,2
+SKS2801,JMD284,ASSESS3,SnowFlake,SnowFlake,Data Engineering,67.0,Reject,1
+SKS2804,JMD284,ASSESS4,Angular,Angular,Development,60.0,Reject,1
+SKS2805,JMD284,ASSESS4,Flutter,Flutter,Development,16.0,Reject,3
+SKS2806,JMD284,ASSESS4,Laravel,Laravel,Development,30.0,Reject,1
+SKS2810,JMD285,ASSESS1,Web Scraping,Web Scraping,Data Engineering,22.0,Reject,3
+SKS2811,JMD285,ASSESS1,MySQL,MySQL,Data Engineering,44.0,Reject,2
+SKS2812,JMD285,ASSESS2,Applied ML,Applied ML,Data Science,49.0,Reject,1
+SKS2813,JMD285,ASSESS2,Python,Python,Data Science,32.0,Reject,1
+SKS2814,JMD285,ASSESS2,Big Data,Big Data,Data Science,59.0,Reject,3
+SKS2815,JMD285,ASSESS3,Laravel,Laravel,Development,50.0,Reject,1
+SKS2816,JMD285,ASSESS4,Azure,Azure,Cloud,63.0,Reject,3
+SKS2817,JMD285,ASSESS4,AWS,AWS,Cloud,33.0,Reject,1
+SKS2825,JMD286,ASSESS4,GCP,GCP,Cloud,13.0,Reject,1
+SKS2826,JMD286,ASSESS4,Azure,Azure,Cloud,26.0,Reject,1
+SKS2830,JMD287,ASSESS2,Laravel,Laravel,Development,22.0,Reject,3
+SKS2832,JMD287,ASSESS4,Web Scraping,Web Scraping,Data Engineering,18.0,Reject,1
+SKS2833,JMD287,ASSESS4,Python,Python,Data Engineering,29.0,Reject,1
+SKS2835,JMD287,ASSESS5,Data Bricks,Data Bricks,Data Engineering,6.0,Reject,2
+SKS2836,JMD288,ASSESS1,Big Data,Big Data,Data Science,7.0,Reject,2
+SKS2839,JMD288,ASSESS2,AWS,AWS,Cloud,52.0,Reject,1
+SKS2842,JMD288,ASSESS3,Data Bricks,Data Bricks,Data Engineering,9.0,Reject,1
+SKS2845,JMD288,ASSESS4,Web Scraping,Web Scraping,Data Engineering,55.0,Reject,2
+SKS2847,JMD288,ASSESS5,GCP,GCP,Cloud,45.0,Reject,1
+SKS2848,JMD289,ASSESS1,Laravel,Laravel,Development,62.0,Reject,2
+SKS2851,JMD289,ASSESS2,Python,Python,Data Science,29.0,Reject,2
+SKS2854,JMD289,ASSESS4,GCP,GCP,Cloud,7.0,Reject,2
+SKS2856,JMD289,ASSESS5,Next Js,Next Js,Development,46.0,Reject,2
+SKS2857,JMD289,ASSESS5,React Native,React Native,Development,35.0,Reject,3
+SKS2860,JMD290,ASSESS2,DBT,DBT,Data Engineering,36.0,Reject,1
+SKS2861,JMD290,ASSESS3,Python,Python,Data Science,61.0,Reject,1
+SKS2863,JMD290,ASSESS5,Reactjs,Reactjs,Development,53.0,Reject,2
+SKS2865,JMD291,ASSESS1,Data Bricks,Data Bricks,Data Engineering,61.0,Reject,1
+SKS2867,JMD291,ASSESS2,Applied ML,Applied ML,Data Science,57.0,Reject,1
+SKS2868,JMD291,ASSESS2,Big Data,Big Data,Data Science,46.0,Reject,2
+SKS2870,JMD291,ASSESS3,Data Bricks,Data Bricks,Data Engineering,43.0,Reject,3
+SKS2875,JMD291,ASSESS5,Redis,Redis,Cloud,69.0,Reject,3
+SKS2876,JMD292,ASSESS1,AWS,AWS,Cloud,42.0,Reject,2
+SKS2877,JMD292,ASSESS1,Azure,Azure,Cloud,7.0,Reject,3
+SKS2878,JMD292,ASSESS1,Redis,Redis,Cloud,23.0,Reject,1
+SKS2883,JMD292,ASSESS4,MySQL,MySQL,Data Engineering,8.0,Reject,3
+SKS2886,JMD292,ASSESS5,GCP,GCP,Cloud,27.0,Reject,3
+SKS2887,JMD293,ASSESS1,Node,Node,Development,32.0,Reject,3
+SKS2890,JMD293,ASSESS2,DBT,DBT,Data Engineering,69.0,Reject,1
+SKS2891,JMD293,ASSESS2,Data Bricks,Data Bricks,Data Engineering,3.0,Reject,2
+SKS2892,JMD293,ASSESS3,AWS,AWS,Cloud,23.0,Reject,2
+SKS2893,JMD293,ASSESS4,Applied ML,Applied ML,Data Science,38.0,Reject,3
+SKS2894,JMD293,ASSESS4,Big Data,Big Data,Data Science,23.0,Reject,1
+SKS2895,JMD293,ASSESS4,Python,Python,Data Science,23.0,Reject,2
+SKS2896,JMD293,ASSESS5,MySQL,MySQL,Data Engineering,52.0,Reject,2
+SKS2898,JMD294,ASSESS2,Node,Node,Development,44.0,Reject,3
+SKS2902,JMD294,ASSESS4,Redis,Redis,Cloud,57.0,Reject,3
+SKS2903,JMD294,ASSESS4,Azure,Azure,Cloud,64.0,Reject,1
+SKS2904,JMD294,ASSESS4,AWS,AWS,Cloud,34.0,Reject,2
+SKS2905,JMD294,ASSESS5,Node,Node,Development,65.0,Reject,1
+SKS2908,JMD295,ASSESS1,GCP,GCP,Cloud,25.0,Reject,1
+SKS2909,JMD295,ASSESS2,Python,Python,Data Engineering,56.0,Reject,1
+SKS2910,JMD295,ASSESS3,Redis,Redis,Cloud,36.0,Reject,3
+SKS2911,JMD295,ASSESS3,Azure,Azure,Cloud,40.0,Reject,3
+SKS2914,JMD296,ASSESS1,GCP,GCP,Cloud,11.0,Reject,2
+SKS2916,JMD296,ASSESS1,Redis,Redis,Cloud,22.0,Reject,2
+SKS2918,JMD296,ASSESS2,AWS,AWS,Cloud,67.0,Reject,1
+SKS2919,JMD296,ASSESS2,Azure,Azure,Cloud,45.0,Reject,1
+SKS2921,JMD296,ASSESS3,MySQL,MySQL,Data Engineering,39.0,Reject,1
+SKS2923,JMD296,ASSESS4,GCP,GCP,Cloud,34.0,Reject,3
+SKS2926,JMD297,ASSESS1,Big Data,Big Data,Data Science,35.0,Reject,2
+SKS2927,JMD297,ASSESS1,Applied ML,Applied ML,Data Science,45.0,Reject,2
+SKS2928,JMD297,ASSESS1,Python,Python,Data Science,20.0,Reject,3
+SKS2930,JMD297,ASSESS2,Python,Python,Data Engineering,3.0,Reject,1
+SKS2932,JMD297,ASSESS4,Python,Python,Data Science,35.0,Reject,3
+SKS2933,JMD297,ASSESS4,Applied ML,Applied ML,Data Science,14.0,Reject,1
+SKS2941,JMD298,ASSESS4,Python,Python,Data Science,10.0,Reject,2
+SKS2942,JMD298,ASSESS5,Flutter,Flutter,Development,26.0,Reject,1
+SKS2944,JMD298,ASSESS5,React Native,React Native,Development,32.0,Reject,3
+SKS2946,JMD299,ASSESS1,Azure,Azure,Cloud,53.0,Reject,2
+SKS2949,JMD299,ASSESS2,Applied ML,Applied ML,Data Science,5.0,Reject,1
+SKS2950,JMD299,ASSESS3,Big Data,Big Data,Data Science,49.0,Reject,3
+SKS2952,JMD299,ASSESS3,Applied ML,Applied ML,Data Science,46.0,Reject,1
+SKS2955,JMD299,ASSESS5,Reactjs,Reactjs,Development,40.0,Reject,1
+SKS2959,JMD300,ASSESS3,AWS,AWS,Cloud,33.0,Reject,3
+SKS2960,JMD300,ASSESS4,MySQL,MySQL,Data Engineering,24.0,Reject,1
+SKS2961,JMD300,ASSESS5,Python,Python,Data Science,43.0,Reject,2
+SKS2962,JMD300,ASSESS5,Big Data,Big Data,Data Science,55.0,Reject,1
+SKS2965,JMD301,ASSESS1,Data Bricks,Data Bricks,Data Engineering,60.0,Reject,1
+SKS2966,JMD301,ASSESS2,AWS,AWS,Cloud,49.0,Reject,3
+SKS2968,JMD301,ASSESS2,Azure,Azure,Cloud,51.0,Reject,1
+SKS2969,JMD301,ASSESS3,SnowFlake,SnowFlake,Data Engineering,32.0,Reject,2
+SKS2970,JMD301,ASSESS3,Python,Python,Data Engineering,47.0,Reject,2
+SKS2971,JMD301,ASSESS3,DBT,DBT,Data Engineering,70.0,Reject,2
+SKS2976,JMD301,ASSESS5,Reactjs,Reactjs,Development,34.0,Reject,1
+SKS2979,JMD302,ASSESS2,Reactjs,Reactjs,Development,16.0,Reject,2
+SKS2980,JMD302,ASSESS2,Node,Node,Development,22.0,Reject,3
+SKS2981,JMD302,ASSESS3,Web Scraping,Web Scraping,Data Engineering,30.0,Reject,3
+SKS2984,JMD302,ASSESS4,GCP,GCP,Cloud,58.0,Reject,3
+SKS2985,JMD302,ASSESS5,Node,Node,Development,10.0,Reject,1
+SKS2987,JMD303,ASSESS1,GCP,GCP,Cloud,48.0,Reject,2
+SKS2989,JMD303,ASSESS2,Python,Python,Data Science,19.0,Reject,2
+SKS2992,JMD303,ASSESS3,Data Bricks,Data Bricks,Data Engineering,7.0,Reject,3
+SKS2994,JMD303,ASSESS5,Web Scraping,Web Scraping,Data Engineering,67.0,Reject,2
+SKS2998,JMD304,ASSESS2,Flutter,Flutter,Development,67.0,Reject,2
+SKS2999,JMD304,ASSESS2,Next Js,Next Js,Development,63.0,Reject,2
+SKS3002,JMD304,ASSESS3,MySQL,MySQL,Data Engineering,12.0,Reject,2
+SKS3006,JMD304,ASSESS5,Applied ML,Applied ML,Data Science,68.0,Reject,2
+SKS3007,JMD304,ASSESS5,Big Data,Big Data,Data Science,45.0,Reject,3
+SKS3008,JMD305,ASSESS1,Big Data,Big Data,Data Science,1.0,Reject,1
+SKS3009,JMD305,ASSESS2,Big Data,Big Data,Data Science,16.0,Reject,3
+SKS3014,JMD305,ASSESS5,Reactjs,Reactjs,Development,34.0,Reject,2
+SKS3015,JMD306,ASSESS1,Python,Python,Data Science,35.570747217806044,Reject,3
+SKS3016,JMD306,ASSESS2,GCP,GCP,Cloud,63.0,Reject,1
+SKS3017,JMD306,ASSESS2,AWS,AWS,Cloud,52.0,Reject,1
+SKS3018,JMD306,ASSESS3,Web Scraping,Web Scraping,Data Engineering,16.0,Reject,3
+SKS3023,JMD306,ASSESS5,Laravel,Laravel,Development,44.0,Reject,2
+SKS3025,JMD307,ASSESS1,Reactjs,Reactjs,Development,42.0,Reject,3
+SKS3026,JMD307,ASSESS1,Angular,Angular,Development,61.0,Reject,2
+SKS3028,JMD307,ASSESS3,Next Js,Next Js,Development,46.0,Reject,3
+SKS3030,JMD307,ASSESS4,AWS,AWS,Cloud,28.0,Reject,1
+SKS3031,JMD307,ASSESS4,GCP,GCP,Cloud,49.0,Reject,2
+SKS3032,JMD307,ASSESS4,Azure,Azure,Cloud,52.0,Reject,2
+SKS3036,JMD308,ASSESS3,Big Data,Big Data,Data Science,31.0,Reject,2
+SKS3037,JMD308,ASSESS3,Applied ML,Applied ML,Data Science,4.0,Reject,2
+SKS3040,JMD308,ASSESS4,Python,Python,Data Engineering,14.0,Reject,2
+SKS3043,JMD309,ASSESS2,DBT,DBT,Data Engineering,64.0,Reject,3
+SKS3045,JMD309,ASSESS3,GCP,GCP,Cloud,37.0,Reject,3
+SKS3047,JMD309,ASSESS4,Data Bricks,Data Bricks,Data Engineering,6.0,Reject,1
+SKS3048,JMD309,ASSESS4,Web Scraping,Web Scraping,Data Engineering,8.0,Reject,1
+SKS3050,JMD309,ASSESS5,Reactjs,Reactjs,Development,35.75767918088737,Reject,2
+SKS3053,JMD310,ASSESS2,AWS,AWS,Cloud,54.0,Reject,1
+SKS3054,JMD310,ASSESS2,Azure,Azure,Cloud,39.0,Reject,3
+SKS3057,JMD310,ASSESS3,Python,Python,Data Science,14.0,Reject,1
+SKS3059,JMD310,ASSESS4,Node,Node,Development,4.0,Reject,2
+SKS3060,JMD310,ASSESS5,React Native,React Native,Development,7.0,Reject,1
+SKS3062,JMD310,ASSESS5,Flutter,Flutter,Development,57.0,Reject,2
+SKS3064,JMD311,ASSESS1,Data Bricks,Data Bricks,Data Engineering,55.0,Reject,1
+SKS3068,JMD311,ASSESS4,Flutter,Flutter,Development,3.0,Reject,1
+SKS3073,JMD312,ASSESS2,Redis,Redis,Cloud,22.0,Reject,1
+SKS3078,JMD312,ASSESS4,Big Data,Big Data,Data Science,40.0,Reject,3
+SKS3081,JMD313,ASSESS1,Azure,Azure,Cloud,60.0,Reject,3
+SKS3083,JMD313,ASSESS2,Python,Python,Data Science,52.0,Reject,1
+SKS3084,JMD313,ASSESS3,Applied ML,Applied ML,Data Science,46.0,Reject,2
+SKS3085,JMD313,ASSESS3,Big Data,Big Data,Data Science,56.0,Reject,1
+SKS3086,JMD313,ASSESS3,Python,Python,Data Science,70.0,Reject,1
+SKS3088,JMD313,ASSESS4,Laravel,Laravel,Development,58.0,Reject,3
+SKS3090,JMD313,ASSESS5,Angular,Angular,Development,24.0,Reject,3
+SKS3091,JMD313,ASSESS5,Next Js,Next Js,Development,50.0,Reject,1
+SKS3092,JMD314,ASSESS1,React Native,React Native,Development,19.0,Reject,2
+SKS3093,JMD314,ASSESS2,Web Scraping,Web Scraping,Data Engineering,46.0,Reject,2
+SKS3096,JMD314,ASSESS3,Node,Node,Development,8.0,Reject,1
+SKS3102,JMD315,ASSESS1,Python,Python,Data Engineering,10.0,Reject,1
+SKS3105,JMD315,ASSESS2,React Native,React Native,Development,39.0,Reject,2
+SKS3106,JMD315,ASSESS3,Applied ML,Applied ML,Data Science,22.0,Reject,2
+SKS3108,JMD315,ASSESS3,Big Data,Big Data,Data Science,68.0,Reject,1
+SKS3113,JMD316,ASSESS1,MySQL,MySQL,Data Engineering,26.0,Reject,1
+SKS3114,JMD316,ASSESS2,Flutter,Flutter,Development,34.0,Reject,2
+SKS3115,JMD316,ASSESS3,Big Data,Big Data,Data Science,18.0,Reject,3
+SKS3116,JMD316,ASSESS4,DBT,DBT,Data Engineering,70.0,Reject,3
+SKS3118,JMD316,ASSESS5,AWS,AWS,Cloud,35.62128325508607,Reject,1
+SKS3119,JMD316,ASSESS5,Redis,Redis,Cloud,20.0,Reject,2
+SKS3120,JMD316,ASSESS5,Azure,Azure,Cloud,55.0,Reject,1
+SKS3126,JMD317,ASSESS4,Reactjs,Reactjs,Development,17.0,Reject,1
+SKS3127,JMD317,ASSESS4,Angular,Angular,Development,62.0,Reject,1
+SKS3134,JMD318,ASSESS2,Python,Python,Data Science,51.0,Reject,2
+SKS3135,JMD318,ASSESS3,Applied ML,Applied ML,Data Science,67.0,Reject,1
+SKS3136,JMD318,ASSESS4,Python,Python,Data Science,47.0,Reject,1
+SKS3138,JMD318,ASSESS4,Big Data,Big Data,Data Science,44.0,Reject,2
+SKS3139,JMD318,ASSESS5,GCP,GCP,Cloud,69.0,Reject,1
+SKS3141,JMD319,ASSESS1,GCP,GCP,Cloud,38.0,Reject,3
+SKS3142,JMD319,ASSESS2,AWS,AWS,Cloud,51.0,Reject,3
+SKS3143,JMD319,ASSESS2,Redis,Redis,Cloud,8.0,Reject,2
+SKS3145,JMD319,ASSESS3,Big Data,Big Data,Data Science,17.0,Reject,3
+SKS3146,JMD319,ASSESS3,Applied ML,Applied ML,Data Science,61.0,Reject,2
+SKS3150,JMD319,ASSESS5,GCP,GCP,Cloud,48.0,Reject,2
+SKS3151,JMD320,ASSESS1,Next Js,Next Js,Development,4.0,Reject,3
+SKS3155,JMD320,ASSESS3,MySQL,MySQL,Data Engineering,64.0,Reject,1
+SKS3157,JMD320,ASSESS5,SnowFlake,SnowFlake,Data Engineering,63.0,Reject,1
+SKS3159,JMD320,ASSESS5,Web Scraping,Web Scraping,Data Engineering,68.0,Reject,2
+SKS3161,JMD321,ASSESS1,Python,Python,Data Engineering,52.0,Reject,2
+SKS3162,JMD321,ASSESS1,SnowFlake,SnowFlake,Data Engineering,69.0,Reject,1
+SKS3165,JMD321,ASSESS2,Flutter,Flutter,Development,3.0,Reject,2
+SKS3166,JMD321,ASSESS3,Angular,Angular,Development,41.0,Reject,3
+SKS3168,JMD321,ASSESS3,Next Js,Next Js,Development,41.0,Reject,1
+SKS3169,JMD321,ASSESS4,MySQL,MySQL,Data Engineering,67.0,Reject,2
+SKS3170,JMD321,ASSESS4,Web Scraping,Web Scraping,Data Engineering,69.0,Reject,2
+SKS3171,JMD321,ASSESS5,Web Scraping,Web Scraping,Data Engineering,56.0,Reject,3
+SKS3172,JMD321,ASSESS5,DBT,DBT,Data Engineering,55.0,Reject,2
+SKS3173,JMD321,ASSESS5,SnowFlake,SnowFlake,Data Engineering,42.0,Reject,1
+SKS3175,JMD322,ASSESS1,Redis,Redis,Cloud,65.0,Reject,2
+SKS3176,JMD322,ASSESS1,Azure,Azure,Cloud,15.0,Reject,2
+SKS3177,JMD322,ASSESS2,Redis,Redis,Cloud,29.0,Reject,3
+SKS3178,JMD322,ASSESS2,Azure,Azure,Cloud,30.0,Reject,3
+SKS3181,JMD322,ASSESS4,DBT,DBT,Data Engineering,33.0,Reject,3
+SKS3183,JMD322,ASSESS5,Python,Python,Data Science,28.0,Reject,3
+SKS3187,JMD323,ASSESS2,Applied ML,Applied ML,Data Science,38.0,Reject,3
+SKS3188,JMD323,ASSESS3,Angular,Angular,Development,40.0,Reject,1
+SKS3192,JMD323,ASSESS5,Applied ML,Applied ML,Data Science,60.0,Reject,1
+SKS3194,JMD324,ASSESS1,Applied ML,Applied ML,Data Science,68.0,Reject,3
+SKS3195,JMD324,ASSESS1,Big Data,Big Data,Data Science,50.0,Reject,1
+SKS3198,JMD324,ASSESS2,Angular,Angular,Development,47.0,Reject,1
+SKS3199,JMD324,ASSESS2,Reactjs,Reactjs,Development,59.0,Reject,2
+SKS3200,JMD324,ASSESS3,Next Js,Next Js,Development,68.0,Reject,1
+SKS3201,JMD324,ASSESS3,Flutter,Flutter,Development,61.0,Reject,3
+SKS3202,JMD324,ASSESS4,MySQL,MySQL,Data Engineering,8.0,Reject,1
+SKS3203,JMD324,ASSESS4,Data Bricks,Data Bricks,Data Engineering,5.0,Reject,1
+SKS3204,JMD324,ASSESS5,SnowFlake,SnowFlake,Data Engineering,2.0,Reject,1
+SKS3206,JMD325,ASSESS1,MySQL,MySQL,Data Engineering,40.0,Reject,2
+SKS3207,JMD325,ASSESS2,Azure,Azure,Cloud,5.0,Reject,3
+SKS3208,JMD325,ASSESS3,GCP,GCP,Cloud,53.0,Reject,3
+SKS3210,JMD325,ASSESS3,AWS,AWS,Cloud,35.62128325508607,Reject,1
+SKS3211,JMD325,ASSESS4,SnowFlake,SnowFlake,Data Engineering,33.0,Reject,3
+SKS3212,JMD325,ASSESS4,Data Bricks,Data Bricks,Data Engineering,45.0,Reject,2
+SKS3214,JMD325,ASSESS5,Azure,Azure,Cloud,13.0,Reject,3
+SKS3215,JMD326,ASSESS1,Applied ML,Applied ML,Data Science,8.0,Reject,1
+SKS3216,JMD326,ASSESS1,Python,Python,Data Science,24.0,Reject,1
+SKS3217,JMD326,ASSESS1,Big Data,Big Data,Data Science,1.0,Reject,2
+SKS3226,JMD327,ASSESS1,DBT,DBT,Data Engineering,47.0,Reject,2
+SKS3229,JMD327,ASSESS2,Angular,Angular,Development,18.0,Reject,1
+SKS3232,JMD327,ASSESS4,Reactjs,Reactjs,Development,54.0,Reject,2
+SKS3233,JMD327,ASSESS4,React Native,React Native,Development,13.0,Reject,1
+SKS3234,JMD327,ASSESS5,Next Js,Next Js,Development,59.0,Reject,2
+SKS3238,JMD328,ASSESS1,GCP,GCP,Cloud,5.0,Reject,1
+SKS3241,JMD328,ASSESS3,Applied ML,Applied ML,Data Science,2.0,Reject,3
+SKS3242,JMD328,ASSESS4,MySQL,MySQL,Data Engineering,11.0,Reject,2
+SKS3243,JMD328,ASSESS4,DBT,DBT,Data Engineering,21.0,Reject,1
+SKS3244,JMD328,ASSESS4,Python,Python,Data Engineering,4.0,Reject,2
+SKS3246,JMD328,ASSESS5,Python,Python,Data Science,40.0,Reject,3
+SKS3253,JMD329,ASSESS4,Node,Node,Development,20.0,Reject,3
+SKS3255,JMD329,ASSESS5,AWS,AWS,Cloud,69.0,Reject,1
+SKS3256,JMD329,ASSESS5,GCP,GCP,Cloud,32.0,Reject,2
+SKS3257,JMD330,ASSESS1,Big Data,Big Data,Data Science,30.0,Reject,3
+SKS3258,JMD330,ASSESS1,Applied ML,Applied ML,Data Science,60.0,Reject,2
+SKS3259,JMD330,ASSESS1,Python,Python,Data Science,32.0,Reject,2
+SKS3260,JMD330,ASSESS2,Azure,Azure,Cloud,20.0,Reject,3
+SKS3262,JMD330,ASSESS3,Next Js,Next Js,Development,64.0,Reject,1
+SKS3263,JMD330,ASSESS3,Flutter,Flutter,Development,39.0,Reject,2
+SKS3264,JMD330,ASSESS4,Applied ML,Applied ML,Data Science,66.0,Reject,2
+SKS3265,JMD330,ASSESS5,AWS,AWS,Cloud,32.0,Reject,1
+SKS3267,JMD330,ASSESS5,Azure,Azure,Cloud,20.0,Reject,2
+SKS3268,JMD331,ASSESS1,AWS,AWS,Cloud,50.0,Reject,3
+SKS3272,JMD331,ASSESS3,Applied ML,Applied ML,Data Science,56.0,Reject,3
+SKS3274,JMD331,ASSESS3,Big Data,Big Data,Data Science,22.0,Reject,2
+SKS3281,JMD332,ASSESS2,Reactjs,Reactjs,Development,44.0,Reject,3
+SKS3282,JMD332,ASSESS3,React Native,React Native,Development,27.0,Reject,2
+SKS3283,JMD332,ASSESS3,Flutter,Flutter,Development,36.0,Reject,3
+SKS3284,JMD332,ASSESS4,Applied ML,Applied ML,Data Science,20.0,Reject,3
+SKS3285,JMD332,ASSESS4,Big Data,Big Data,Data Science,4.0,Reject,2
+SKS3286,JMD332,ASSESS4,Python,Python,Data Science,48.0,Reject,3
+SKS3293,JMD333,ASSESS2,MySQL,MySQL,Data Engineering,35.012455516014235,Reject,1
+SKS3295,JMD333,ASSESS3,Redis,Redis,Cloud,36.0,Reject,3
+SKS3296,JMD333,ASSESS3,AWS,AWS,Cloud,69.0,Reject,3
+SKS3304,JMD334,ASSESS1,Big Data,Big Data,Data Science,58.0,Reject,2
+SKS3307,JMD334,ASSESS2,SnowFlake,SnowFlake,Data Engineering,42.0,Reject,1
+SKS3308,JMD334,ASSESS3,Applied ML,Applied ML,Data Science,11.0,Reject,1
+SKS3309,JMD334,ASSESS3,Python,Python,Data Science,3.0,Reject,2
+SKS3311,JMD334,ASSESS4,MySQL,MySQL,Data Engineering,21.0,Reject,3
+SKS3313,JMD334,ASSESS5,Node,Node,Development,19.0,Reject,1
+SKS3315,JMD335,ASSESS2,Data Bricks,Data Bricks,Data Engineering,35.0,Reject,3
+SKS3316,JMD335,ASSESS3,GCP,GCP,Cloud,5.0,Reject,3
+SKS3317,JMD335,ASSESS3,Azure,Azure,Cloud,63.0,Reject,1
+SKS3318,JMD335,ASSESS3,AWS,AWS,Cloud,3.0,Reject,2
+SKS3319,JMD335,ASSESS4,Redis,Redis,Cloud,58.0,Reject,3
+SKS3320,JMD335,ASSESS5,Flutter,Flutter,Development,43.0,Reject,1
+SKS3321,JMD335,ASSESS5,React Native,React Native,Development,8.0,Reject,1
+SKS3323,JMD336,ASSESS1,Redis,Redis,Cloud,12.0,Reject,2
+SKS3324,JMD336,ASSESS1,Azure,Azure,Cloud,35.62128325508607,Reject,1
+SKS3326,JMD336,ASSESS2,Big Data,Big Data,Data Science,54.0,Reject,1
+SKS3327,JMD336,ASSESS3,Azure,Azure,Cloud,42.0,Reject,1
+SKS3329,JMD336,ASSESS4,Azure,Azure,Cloud,38.0,Reject,2
+SKS3330,JMD336,ASSESS4,AWS,AWS,Cloud,60.0,Reject,2
+SKS3331,JMD336,ASSESS5,Laravel,Laravel,Development,42.0,Reject,1
+SKS3333,JMD337,ASSESS1,Big Data,Big Data,Data Science,61.0,Reject,2
+SKS3334,JMD337,ASSESS2,Big Data,Big Data,Data Science,58.0,Reject,3
+SKS3336,JMD337,ASSESS2,Applied ML,Applied ML,Data Science,33.0,Reject,3
+SKS3337,JMD337,ASSESS3,Python,Python,Data Engineering,10.0,Reject,1
+SKS3338,JMD337,ASSESS3,MySQL,MySQL,Data Engineering,2.0,Reject,2
+SKS3343,JMD338,ASSESS1,Flutter,Flutter,Development,34.0,Reject,1
+SKS3345,JMD338,ASSESS2,Big Data,Big Data,Data Science,4.0,Reject,1
+SKS3347,JMD338,ASSESS4,Next Js,Next Js,Development,44.0,Reject,1
+SKS3352,JMD339,ASSESS2,Python,Python,Data Science,11.0,Reject,1
+SKS3354,JMD339,ASSESS3,SnowFlake,SnowFlake,Data Engineering,57.0,Reject,1
+SKS3355,JMD339,ASSESS4,Applied ML,Applied ML,Data Science,70.0,Reject,3
+SKS3356,JMD339,ASSESS4,Big Data,Big Data,Data Science,50.0,Reject,2
+SKS3358,JMD339,ASSESS5,GCP,GCP,Cloud,68.0,Reject,1
+SKS3362,JMD340,ASSESS4,Azure,Azure,Cloud,61.0,Reject,3
+SKS3363,JMD340,ASSESS4,GCP,GCP,Cloud,34.0,Reject,3
+SKS3364,JMD340,ASSESS4,Redis,Redis,Cloud,69.0,Reject,1
+SKS3365,JMD340,ASSESS5,Laravel,Laravel,Development,42.0,Reject,1
+SKS3366,JMD341,ASSESS1,MySQL,MySQL,Data Engineering,7.0,Reject,1
+SKS3369,JMD341,ASSESS2,Laravel,Laravel,Development,62.0,Reject,1
+SKS3370,JMD341,ASSESS3,Azure,Azure,Cloud,28.0,Reject,2
+SKS3378,JMD342,ASSESS2,Big Data,Big Data,Data Science,53.0,Reject,3
+SKS3379,JMD342,ASSESS2,Python,Python,Data Science,6.0,Reject,1
+SKS3380,JMD342,ASSESS3,AWS,AWS,Cloud,61.0,Reject,1
+SKS3382,JMD342,ASSESS3,GCP,GCP,Cloud,61.0,Reject,2
+SKS3385,JMD343,ASSESS1,Data Bricks,Data Bricks,Data Engineering,2.0,Reject,2
+SKS3387,JMD343,ASSESS2,Redis,Redis,Cloud,59.0,Reject,1
+SKS3388,JMD343,ASSESS2,AWS,AWS,Cloud,14.0,Reject,1
+SKS3390,JMD343,ASSESS3,React Native,React Native,Development,53.0,Reject,2
+SKS3391,JMD343,ASSESS3,Node,Node,Development,30.0,Reject,3
+SKS3392,JMD343,ASSESS4,MySQL,MySQL,Data Engineering,6.0,Reject,3
+SKS3394,JMD343,ASSESS4,DBT,DBT,Data Engineering,32.0,Reject,1
+SKS3396,JMD344,ASSESS1,Flutter,Flutter,Development,64.0,Reject,3
+SKS3397,JMD344,ASSESS1,Node,Node,Development,42.0,Reject,1
+SKS3398,JMD344,ASSESS2,Node,Node,Development,50.0,Reject,1
+SKS3399,JMD344,ASSESS2,Reactjs,Reactjs,Development,27.0,Reject,1
+SKS3401,JMD344,ASSESS3,Next Js,Next Js,Development,9.0,Reject,1
+SKS3403,JMD344,ASSESS5,Applied ML,Applied ML,Data Science,2.0,Reject,1
+SKS3405,JMD345,ASSESS1,Applied ML,Applied ML,Data Science,7.0,Reject,3
+SKS3406,JMD345,ASSESS1,Big Data,Big Data,Data Science,26.0,Reject,1
+SKS3409,JMD345,ASSESS2,Azure,Azure,Cloud,16.0,Reject,2
+SKS3411,JMD345,ASSESS3,Applied ML,Applied ML,Data Science,40.0,Reject,2
+SKS3415,JMD345,ASSESS5,Python,Python,Data Engineering,69.0,Reject,3
+SKS3417,JMD346,ASSESS1,Big Data,Big Data,Data Science,37.0,Reject,3
+SKS3420,JMD346,ASSESS2,DBT,DBT,Data Engineering,35.0,Reject,2
+SKS3425,JMD346,ASSESS4,Flutter,Flutter,Development,42.0,Reject,2
+SKS3426,JMD346,ASSESS5,Big Data,Big Data,Data Science,21.0,Reject,3
+SKS3427,JMD346,ASSESS5,Python,Python,Data Science,42.0,Reject,1
+SKS3429,JMD347,ASSESS1,Redis,Redis,Cloud,34.0,Reject,1
+SKS3440,JMD348,ASSESS1,Node,Node,Development,27.0,Reject,3
+SKS3443,JMD348,ASSESS2,Big Data,Big Data,Data Science,59.0,Reject,2
+SKS3446,JMD348,ASSESS4,Web Scraping,Web Scraping,Data Engineering,57.0,Reject,2
+SKS3447,JMD348,ASSESS5,Data Bricks,Data Bricks,Data Engineering,45.0,Reject,3
+SKS3448,JMD348,ASSESS5,Web Scraping,Web Scraping,Data Engineering,13.0,Reject,1
+SKS3449,JMD348,ASSESS5,DBT,DBT,Data Engineering,33.0,Reject,1
+SKS3453,JMD349,ASSESS2,Applied ML,Applied ML,Data Science,26.0,Reject,1
+SKS3454,JMD349,ASSESS2,Python,Python,Data Science,35.570747217806044,Reject,2
+SKS3455,JMD349,ASSESS3,Reactjs,Reactjs,Development,27.0,Reject,2
+SKS3457,JMD349,ASSESS4,AWS,AWS,Cloud,12.0,Reject,3
+SKS3458,JMD349,ASSESS5,Python,Python,Data Science,44.0,Reject,3
+SKS3459,JMD349,ASSESS5,Big Data,Big Data,Data Science,33.0,Reject,1
+SKS3461,JMD350,ASSESS1,Reactjs,Reactjs,Development,13.0,Reject,2
+SKS3462,JMD350,ASSESS2,Data Bricks,Data Bricks,Data Engineering,5.0,Reject,2
+SKS3463,JMD350,ASSESS2,DBT,DBT,Data Engineering,33.0,Reject,2
+SKS3465,JMD350,ASSESS3,Python,Python,Data Science,26.0,Reject,3
+SKS3471,JMD351,ASSESS1,Data Bricks,Data Bricks,Data Engineering,53.0,Reject,2
+SKS3472,JMD351,ASSESS1,Web Scraping,Web Scraping,Data Engineering,12.0,Reject,1
+SKS3473,JMD351,ASSESS2,Applied ML,Applied ML,Data Science,36.0,Reject,3
+SKS3475,JMD351,ASSESS2,Python,Python,Data Science,65.0,Reject,2
+SKS3476,JMD351,ASSESS3,Azure,Azure,Cloud,60.0,Reject,3
+SKS3477,JMD351,ASSESS3,Redis,Redis,Cloud,35.62128325508607,Reject,3
+SKS3480,JMD351,ASSESS5,Web Scraping,Web Scraping,Data Engineering,10.0,Reject,2
+SKS3483,JMD352,ASSESS1,Node,Node,Development,48.0,Reject,3
+SKS3486,JMD352,ASSESS3,Redis,Redis,Cloud,28.0,Reject,1
+SKS3488,JMD352,ASSESS4,Angular,Angular,Development,52.0,Reject,1
+SKS3496,JMD353,ASSESS4,MySQL,MySQL,Data Engineering,39.0,Reject,3
+SKS3503,JMD354,ASSESS4,Node,Node,Development,18.0,Reject,3
+SKS3504,JMD354,ASSESS4,Reactjs,Reactjs,Development,64.0,Reject,1
+SKS3507,JMD355,ASSESS1,Laravel,Laravel,Development,39.0,Reject,3
+SKS3509,JMD355,ASSESS1,Angular,Angular,Development,4.0,Reject,1
+SKS3510,JMD355,ASSESS2,MySQL,MySQL,Data Engineering,43.0,Reject,3
+SKS3511,JMD355,ASSESS2,SnowFlake,SnowFlake,Data Engineering,52.0,Reject,2
+SKS3514,JMD355,ASSESS3,Python,Python,Data Science,45.0,Reject,2
+SKS3515,JMD355,ASSESS3,Big Data,Big Data,Data Science,59.0,Reject,1
+SKS3518,JMD355,ASSESS5,SnowFlake,SnowFlake,Data Engineering,48.0,Reject,3
+SKS3521,JMD356,ASSESS2,Big Data,Big Data,Data Science,67.0,Reject,3
+SKS3524,JMD356,ASSESS3,Azure,Azure,Cloud,24.0,Reject,3
+SKS3525,JMD356,ASSESS4,Data Bricks,Data Bricks,Data Engineering,15.0,Reject,1
+SKS3526,JMD356,ASSESS5,Redis,Redis,Cloud,48.0,Reject,2
+SKS3527,JMD356,ASSESS5,GCP,GCP,Cloud,57.0,Reject,1
+SKS3531,JMD357,ASSESS2,DBT,DBT,Data Engineering,21.0,Reject,1
+SKS3533,JMD357,ASSESS3,GCP,GCP,Cloud,8.0,Reject,3
+SKS3534,JMD357,ASSESS4,GCP,GCP,Cloud,63.0,Reject,1
+SKS3535,JMD357,ASSESS5,GCP,GCP,Cloud,63.0,Reject,1
+SKS3538,JMD358,ASSESS1,AWS,AWS,Cloud,62.0,Reject,3
+SKS3539,JMD358,ASSESS2,Next Js,Next Js,Development,8.0,Reject,1
+SKS3540,JMD358,ASSESS2,React Native,React Native,Development,49.0,Reject,3
+SKS3541,JMD358,ASSESS3,Laravel,Laravel,Development,14.0,Reject,1
+SKS3544,JMD358,ASSESS5,Python,Python,Data Science,65.0,Reject,1
+SKS3545,JMD359,ASSESS1,Angular,Angular,Development,33.0,Reject,3
+SKS3548,JMD359,ASSESS2,Python,Python,Data Science,47.0,Reject,1
+SKS3549,JMD359,ASSESS2,Big Data,Big Data,Data Science,28.0,Reject,1
+SKS3554,JMD359,ASSESS5,Redis,Redis,Cloud,68.0,Reject,3
+SKS3556,JMD360,ASSESS1,Web Scraping,Web Scraping,Data Engineering,29.0,Reject,3
+SKS3557,JMD360,ASSESS2,Redis,Redis,Cloud,68.0,Reject,2
+SKS3559,JMD360,ASSESS3,AWS,AWS,Cloud,50.0,Reject,2
+SKS3560,JMD360,ASSESS3,Redis,Redis,Cloud,8.0,Reject,1
+SKS3561,JMD360,ASSESS3,GCP,GCP,Cloud,16.0,Reject,1
+SKS3565,JMD361,ASSESS1,Python,Python,Data Science,65.0,Reject,1
+SKS3568,JMD361,ASSESS2,DBT,DBT,Data Engineering,53.0,Reject,3
+SKS3571,JMD361,ASSESS4,Azure,Azure,Cloud,55.0,Reject,1
+SKS3574,JMD361,ASSESS5,Applied ML,Applied ML,Data Science,56.0,Reject,3
+SKS3579,JMD362,ASSESS3,Python,Python,Data Science,26.0,Reject,1
+SKS3581,JMD362,ASSESS4,Applied ML,Applied ML,Data Science,4.0,Reject,1
+SKS3582,JMD362,ASSESS4,Big Data,Big Data,Data Science,33.0,Reject,1
+SKS3583,JMD362,ASSESS5,Applied ML,Applied ML,Data Science,6.0,Reject,3
+SKS3584,JMD362,ASSESS5,Big Data,Big Data,Data Science,57.0,Reject,1
+SKS3588,JMD363,ASSESS3,Reactjs,Reactjs,Development,25.0,Reject,2
+SKS3591,JMD363,ASSESS4,Applied ML,Applied ML,Data Science,27.0,Reject,3
+SKS3594,JMD364,ASSESS1,Python,Python,Data Science,30.0,Reject,3
+SKS3598,JMD364,ASSESS3,GCP,GCP,Cloud,41.0,Reject,3
+SKS3600,JMD364,ASSESS4,Angular,Angular,Development,19.0,Reject,1
+SKS3602,JMD364,ASSESS5,AWS,AWS,Cloud,32.0,Reject,3
+SKS3605,JMD365,ASSESS2,MySQL,MySQL,Data Engineering,19.0,Reject,1
+SKS3610,JMD365,ASSESS3,Applied ML,Applied ML,Data Science,36.0,Reject,3
+SKS3612,JMD365,ASSESS5,Applied ML,Applied ML,Data Science,23.0,Reject,1
+SKS3613,JMD365,ASSESS5,Python,Python,Data Science,49.0,Reject,3
+SKS3615,JMD366,ASSESS1,Next Js,Next Js,Development,52.0,Reject,3
+SKS3621,JMD366,ASSESS5,AWS,AWS,Cloud,59.0,Reject,3
+SKS3623,JMD367,ASSESS1,Applied ML,Applied ML,Data Science,64.0,Reject,3
+SKS3625,JMD367,ASSESS3,Data Bricks,Data Bricks,Data Engineering,33.0,Reject,3
+SKS3626,JMD367,ASSESS4,Node,Node,Development,54.0,Reject,3
+SKS3632,JMD368,ASSESS2,GCP,GCP,Cloud,23.0,Reject,2
+SKS3634,JMD368,ASSESS2,AWS,AWS,Cloud,3.0,Reject,1
+SKS3639,JMD368,ASSESS4,Applied ML,Applied ML,Data Science,27.0,Reject,2
+SKS3640,JMD368,ASSESS5,Web Scraping,Web Scraping,Data Engineering,50.0,Reject,3
+SKS3646,JMD369,ASSESS3,GCP,GCP,Cloud,64.0,Reject,3
+SKS3647,JMD369,ASSESS4,Web Scraping,Web Scraping,Data Engineering,59.0,Reject,1
+SKS3651,JMD370,ASSESS2,Big Data,Big Data,Data Science,15.0,Reject,2
+SKS3652,JMD370,ASSESS2,Applied ML,Applied ML,Data Science,57.0,Reject,2
+SKS3654,JMD370,ASSESS3,AWS,AWS,Cloud,9.0,Reject,1
+SKS3655,JMD370,ASSESS3,Redis,Redis,Cloud,56.0,Reject,3
+SKS3659,JMD370,ASSESS4,Azure,Azure,Cloud,9.0,Reject,1
+SKS3664,JMD371,ASSESS2,Python,Python,Data Science,5.0,Reject,2
+SKS3665,JMD371,ASSESS3,React Native,React Native,Development,45.0,Reject,2
+SKS3666,JMD371,ASSESS3,Flutter,Flutter,Development,46.0,Reject,3
+SKS3667,JMD371,ASSESS3,Reactjs,Reactjs,Development,20.0,Reject,1
+SKS3669,JMD371,ASSESS5,Azure,Azure,Cloud,42.0,Reject,1
+SKS3670,JMD371,ASSESS5,GCP,GCP,Cloud,22.0,Reject,3
+SKS3672,JMD372,ASSESS2,GCP,GCP,Cloud,56.0,Reject,1
+SKS3676,JMD372,ASSESS5,Redis,Redis,Cloud,22.0,Reject,2
+SKS3678,JMD372,ASSESS5,Azure,Azure,Cloud,47.0,Reject,1
+SKS3683,JMD373,ASSESS2,Azure,Azure,Cloud,13.0,Reject,3
+SKS3684,JMD373,ASSESS3,Redis,Redis,Cloud,59.0,Reject,2
+SKS3685,JMD373,ASSESS3,AWS,AWS,Cloud,49.0,Reject,2
+SKS3687,JMD373,ASSESS4,Python,Python,Data Science,5.0,Reject,3
+SKS3688,JMD373,ASSESS4,Big Data,Big Data,Data Science,61.0,Reject,1
+SKS3690,JMD373,ASSESS5,GCP,GCP,Cloud,34.0,Reject,2
+SKS3691,JMD374,ASSESS1,Redis,Redis,Cloud,67.0,Reject,2
+SKS3692,JMD374,ASSESS1,GCP,GCP,Cloud,19.0,Reject,3
+SKS3693,JMD374,ASSESS1,AWS,AWS,Cloud,65.0,Reject,3
+SKS3695,JMD374,ASSESS2,Node,Node,Development,31.0,Reject,1
+SKS3696,JMD374,ASSESS2,Laravel,Laravel,Development,47.0,Reject,2
+SKS3697,JMD374,ASSESS3,GCP,GCP,Cloud,48.0,Reject,3
+SKS3700,JMD374,ASSESS4,Redis,Redis,Cloud,3.0,Reject,1
+SKS3708,JMD375,ASSESS2,GCP,GCP,Cloud,42.0,Reject,2
+SKS3712,JMD375,ASSESS4,Azure,Azure,Cloud,63.0,Reject,2
+SKS3717,JMD376,ASSESS1,Reactjs,Reactjs,Development,4.0,Reject,1
+SKS3722,JMD376,ASSESS3,React Native,React Native,Development,25.0,Reject,2
+SKS3725,JMD376,ASSESS4,Python,Python,Data Engineering,38.0,Reject,2
+SKS3726,JMD376,ASSESS5,SnowFlake,SnowFlake,Data Engineering,35.012455516014235,Reject,3
+SKS3730,JMD377,ASSESS1,Azure,Azure,Cloud,2.0,Reject,1
+SKS3731,JMD377,ASSESS1,GCP,GCP,Cloud,12.0,Reject,2
+SKS3733,JMD377,ASSESS2,SnowFlake,SnowFlake,Data Engineering,69.0,Reject,3
+SKS3734,JMD377,ASSESS2,MySQL,MySQL,Data Engineering,50.0,Reject,3
+SKS3736,JMD377,ASSESS3,Data Bricks,Data Bricks,Data Engineering,32.0,Reject,2
+SKS3738,JMD377,ASSESS5,AWS,AWS,Cloud,45.0,Reject,2
+SKS3739,JMD377,ASSESS5,Azure,Azure,Cloud,49.0,Reject,3
+SKS3740,JMD377,ASSESS5,Redis,Redis,Cloud,2.0,Reject,1
+SKS3741,JMD378,ASSESS1,GCP,GCP,Cloud,3.0,Reject,1
+SKS3742,JMD378,ASSESS1,Azure,Azure,Cloud,14.0,Reject,1
+SKS3746,JMD378,ASSESS4,Next Js,Next Js,Development,24.0,Reject,3
+SKS3752,JMD379,ASSESS2,Applied ML,Applied ML,Data Science,56.0,Reject,3
+SKS3754,JMD379,ASSESS4,Flutter,Flutter,Development,16.0,Reject,3
+SKS3755,JMD379,ASSESS4,Reactjs,Reactjs,Development,56.0,Reject,3
+SKS3756,JMD379,ASSESS4,Laravel,Laravel,Development,65.0,Reject,1
+SKS3757,JMD379,ASSESS5,Laravel,Laravel,Development,34.0,Reject,1
+SKS3758,JMD380,ASSESS1,React Native,React Native,Development,45.0,Reject,2
+SKS3761,JMD380,ASSESS3,Laravel,Laravel,Development,25.0,Reject,3
+SKS3763,JMD380,ASSESS3,Flutter,Flutter,Development,64.0,Reject,1
+SKS3765,JMD380,ASSESS5,MySQL,MySQL,Data Engineering,5.0,Reject,2
+SKS3766,JMD380,ASSESS5,Web Scraping,Web Scraping,Data Engineering,62.0,Reject,1
+SKS3768,JMD381,ASSESS1,SnowFlake,SnowFlake,Data Engineering,27.0,Reject,2
+SKS3770,JMD381,ASSESS2,Applied ML,Applied ML,Data Science,6.0,Reject,3
+SKS3771,JMD381,ASSESS3,Azure,Azure,Cloud,21.0,Reject,3
+SKS3774,JMD381,ASSESS5,SnowFlake,SnowFlake,Data Engineering,24.0,Reject,3
+SKS3776,JMD382,ASSESS2,Big Data,Big Data,Data Science,27.0,Reject,1
+SKS3777,JMD382,ASSESS2,Applied ML,Applied ML,Data Science,49.0,Reject,2
+SKS3779,JMD382,ASSESS4,Next Js,Next Js,Development,57.0,Reject,3
+SKS3785,JMD383,ASSESS1,Applied ML,Applied ML,Data Science,47.0,Reject,1
+SKS3786,JMD383,ASSESS2,SnowFlake,SnowFlake,Data Engineering,2.0,Reject,3
+SKS3787,JMD383,ASSESS2,Python,Python,Data Engineering,35.0,Reject,2
+SKS3788,JMD383,ASSESS3,AWS,AWS,Cloud,46.0,Reject,1
+SKS3790,JMD383,ASSESS5,AWS,AWS,Cloud,12.0,Reject,2
+SKS3791,JMD384,ASSESS1,Big Data,Big Data,Data Science,59.0,Reject,1
+SKS3792,JMD384,ASSESS2,Azure,Azure,Cloud,64.0,Reject,3
+SKS3793,JMD384,ASSESS2,AWS,AWS,Cloud,49.0,Reject,3
+SKS3798,JMD384,ASSESS4,Applied ML,Applied ML,Data Science,51.0,Reject,1
+SKS3799,JMD384,ASSESS5,Python,Python,Data Science,59.0,Reject,2
+SKS3800,JMD384,ASSESS5,Big Data,Big Data,Data Science,34.0,Reject,3
+SKS3811,JMD385,ASSESS4,React Native,React Native,Development,3.0,Reject,3
+SKS3812,JMD385,ASSESS5,SnowFlake,SnowFlake,Data Engineering,54.0,Reject,2
+SKS3813,JMD385,ASSESS5,MySQL,MySQL,Data Engineering,53.0,Reject,1
+SKS3816,JMD386,ASSESS2,Next Js,Next Js,Development,61.0,Reject,2
+SKS3818,JMD386,ASSESS3,Redis,Redis,Cloud,21.0,Reject,3
+SKS3823,JMD387,ASSESS1,Angular,Angular,Development,67.0,Reject,1
+SKS3824,JMD387,ASSESS2,Node,Node,Development,32.0,Reject,3
+SKS3827,JMD387,ASSESS3,Redis,Redis,Cloud,57.0,Reject,2
+SKS3828,JMD387,ASSESS3,GCP,GCP,Cloud,9.0,Reject,2
+SKS3829,JMD387,ASSESS3,Azure,Azure,Cloud,29.0,Reject,3
+SKS3831,JMD387,ASSESS4,DBT,DBT,Data Engineering,60.0,Reject,1
+SKS3832,JMD387,ASSESS4,Web Scraping,Web Scraping,Data Engineering,11.0,Reject,2
+SKS3833,JMD387,ASSESS5,Azure,Azure,Cloud,23.0,Reject,2
+SKS3840,JMD388,ASSESS5,MySQL,MySQL,Data Engineering,8.0,Reject,1
+SKS3841,JMD388,ASSESS5,Web Scraping,Web Scraping,Data Engineering,24.0,Reject,1
+SKS3847,JMD389,ASSESS4,Python,Python,Data Science,12.0,Reject,3
+SKS3850,JMD389,ASSESS5,Applied ML,Applied ML,Data Science,53.0,Reject,2
+SKS3852,JMD390,ASSESS1,Redis,Redis,Cloud,31.0,Reject,1
+SKS3853,JMD390,ASSESS1,AWS,AWS,Cloud,17.0,Reject,2
+SKS3854,JMD390,ASSESS2,Laravel,Laravel,Development,40.0,Reject,3
+SKS3859,JMD390,ASSESS5,Azure,Azure,Cloud,66.0,Reject,1
+SKS3861,JMD391,ASSESS1,Python,Python,Data Science,56.0,Reject,1
+SKS3864,JMD391,ASSESS2,MySQL,MySQL,Data Engineering,56.0,Reject,1
+SKS3866,JMD391,ASSESS3,Web Scraping,Web Scraping,Data Engineering,2.0,Reject,2
+SKS3869,JMD391,ASSESS4,Node,Node,Development,49.0,Reject,1
+SKS3870,JMD391,ASSESS5,Applied ML,Applied ML,Data Science,39.0,Reject,1
+SKS3871,JMD391,ASSESS5,Big Data,Big Data,Data Science,41.0,Reject,2
+SKS3872,JMD391,ASSESS5,Python,Python,Data Science,1.0,Reject,1
+SKS3873,JMD392,ASSESS1,Big Data,Big Data,Data Science,17.0,Reject,1
+SKS3876,JMD392,ASSESS3,DBT,DBT,Data Engineering,6.0,Reject,1
+SKS3877,JMD392,ASSESS3,SnowFlake,SnowFlake,Data Engineering,69.0,Reject,2
+SKS3879,JMD392,ASSESS5,Web Scraping,Web Scraping,Data Engineering,67.0,Reject,3
+SKS3881,JMD392,ASSESS5,MySQL,MySQL,Data Engineering,20.0,Reject,1
+SKS3885,JMD393,ASSESS2,Redis,Redis,Cloud,23.0,Reject,3
+SKS3887,JMD393,ASSESS3,GCP,GCP,Cloud,7.0,Reject,1
+SKS3889,JMD393,ASSESS3,Azure,Azure,Cloud,68.0,Reject,1
+SKS3890,JMD393,ASSESS4,Node,Node,Development,42.0,Reject,3
+SKS3894,JMD393,ASSESS5,Data Bricks,Data Bricks,Data Engineering,21.0,Reject,3
+SKS3896,JMD394,ASSESS2,AWS,AWS,Cloud,6.0,Reject,2
+SKS3897,JMD394,ASSESS2,GCP,GCP,Cloud,65.0,Reject,1
+SKS3899,JMD394,ASSESS3,Angular,Angular,Development,24.0,Reject,1
+SKS3901,JMD394,ASSESS3,Flutter,Flutter,Development,6.0,Reject,1
+SKS3903,JMD394,ASSESS4,Big Data,Big Data,Data Science,35.0,Reject,2
+SKS3904,JMD394,ASSESS4,Applied ML,Applied ML,Data Science,66.0,Reject,2
+SKS3905,JMD394,ASSESS5,Azure,Azure,Cloud,16.0,Reject,2
+SKS3906,JMD394,ASSESS5,GCP,GCP,Cloud,58.0,Reject,1
+SKS3908,JMD395,ASSESS1,Big Data,Big Data,Data Science,48.0,Reject,3
+SKS3909,JMD395,ASSESS2,Laravel,Laravel,Development,53.0,Reject,2
+SKS3910,JMD395,ASSESS3,MySQL,MySQL,Data Engineering,55.0,Reject,3
+SKS3912,JMD395,ASSESS3,DBT,DBT,Data Engineering,60.0,Reject,3
+SKS3914,JMD395,ASSESS4,Web Scraping,Web Scraping,Data Engineering,29.0,Reject,1
+SKS3915,JMD395,ASSESS4,SnowFlake,SnowFlake,Data Engineering,29.0,Reject,3
+SKS3916,JMD395,ASSESS5,AWS,AWS,Cloud,38.0,Reject,2
+SKS3917,JMD395,ASSESS5,GCP,GCP,Cloud,70.0,Reject,3
+SKS3918,JMD395,ASSESS5,Azure,Azure,Cloud,35.0,Reject,1
+SKS3919,JMD396,ASSESS1,Web Scraping,Web Scraping,Data Engineering,61.0,Reject,1
+SKS3921,JMD396,ASSESS2,Python,Python,Data Science,56.0,Reject,2
+SKS3924,JMD396,ASSESS3,Node,Node,Development,16.0,Reject,2
+SKS3926,JMD396,ASSESS4,Python,Python,Data Science,15.0,Reject,3
+SKS3928,JMD396,ASSESS5,Redis,Redis,Cloud,12.0,Reject,2
+SKS3929,JMD397,ASSESS1,Reactjs,Reactjs,Development,26.0,Reject,3
+SKS3931,JMD397,ASSESS2,DBT,DBT,Data Engineering,21.0,Reject,3
+SKS3933,JMD397,ASSESS3,Redis,Redis,Cloud,28.0,Reject,2
+SKS3934,JMD397,ASSESS3,GCP,GCP,Cloud,38.0,Reject,1
+SKS3936,JMD397,ASSESS4,GCP,GCP,Cloud,23.0,Reject,1
+SKS3941,JMD398,ASSESS1,AWS,AWS,Cloud,52.0,Reject,1
+SKS3942,JMD398,ASSESS1,Redis,Redis,Cloud,53.0,Reject,3
+SKS3947,JMD398,ASSESS4,Angular,Angular,Development,66.0,Reject,1
+SKS3949,JMD398,ASSESS5,Node,Node,Development,32.0,Reject,3
+SKS3952,JMD399,ASSESS1,GCP,GCP,Cloud,23.0,Reject,1
+SKS3953,JMD399,ASSESS2,React Native,React Native,Development,47.0,Reject,2
+SKS3954,JMD399,ASSESS2,Next Js,Next Js,Development,25.0,Reject,1
+SKS3955,JMD399,ASSESS3,Big Data,Big Data,Data Science,70.0,Reject,3
+SKS3956,JMD399,ASSESS3,Applied ML,Applied ML,Data Science,33.0,Reject,3
+SKS3957,JMD399,ASSESS3,Python,Python,Data Science,34.0,Reject,2
+SKS3958,JMD399,ASSESS4,Big Data,Big Data,Data Science,64.0,Reject,3
+SKS3959,JMD399,ASSESS5,Laravel,Laravel,Development,15.0,Reject,3
+SKS3960,JMD399,ASSESS5,React Native,React Native,Development,41.0,Reject,2
+SKS3963,JMD400,ASSESS2,AWS,AWS,Cloud,67.0,Reject,2
+SKS3964,JMD400,ASSESS2,GCP,GCP,Cloud,27.0,Reject,1
+SKS3965,JMD400,ASSESS3,Python,Python,Data Science,59.0,Reject,3
+SKS3966,JMD400,ASSESS3,Applied ML,Applied ML,Data Science,41.0,Reject,2
+SKS3967,JMD400,ASSESS4,Web Scraping,Web Scraping,Data Engineering,32.0,Reject,1
+SKS3968,JMD400,ASSESS5,Web Scraping,Web Scraping,Data Engineering,16.0,Reject,3
+SKS3970,JMD401,ASSESS1,Redis,Redis,Cloud,29.0,Reject,3
+SKS3971,JMD401,ASSESS2,GCP,GCP,Cloud,30.0,Reject,3
+SKS3972,JMD401,ASSESS2,Azure,Azure,Cloud,32.0,Reject,3
+SKS3973,JMD401,ASSESS3,Azure,Azure,Cloud,65.0,Reject,2
+SKS3974,JMD401,ASSESS4,Redis,Redis,Cloud,11.0,Reject,2
+SKS3975,JMD401,ASSESS4,AWS,AWS,Cloud,12.0,Reject,1
+SKS3979,JMD401,ASSESS5,Flutter,Flutter,Development,62.0,Reject,2
+SKS3980,JMD402,ASSESS1,GCP,GCP,Cloud,59.0,Reject,3
+SKS3981,JMD402,ASSESS1,Redis,Redis,Cloud,42.0,Reject,1
+SKS3982,JMD402,ASSESS1,AWS,AWS,Cloud,58.0,Reject,3
+SKS3983,JMD402,ASSESS2,Reactjs,Reactjs,Development,1.0,Reject,1
+SKS3988,JMD402,ASSESS4,Azure,Azure,Cloud,63.0,Reject,2
+SKS3989,JMD402,ASSESS4,Redis,Redis,Cloud,57.0,Reject,1
+SKS3990,JMD402,ASSESS5,React Native,React Native,Development,5.0,Reject,1
+SKS3991,JMD402,ASSESS5,Next Js,Next Js,Development,39.0,Reject,2
+SKS3993,JMD403,ASSESS1,Python,Python,Data Engineering,60.0,Reject,2
+SKS3999,JMD403,ASSESS3,Redis,Redis,Cloud,19.0,Reject,1
+SKS4002,JMD403,ASSESS4,Azure,Azure,Cloud,39.0,Reject,2
+SKS4004,JMD403,ASSESS5,Applied ML,Applied ML,Data Science,26.0,Reject,1
+SKS4005,JMD403,ASSESS5,Python,Python,Data Science,31.0,Reject,1
+SKS4007,JMD404,ASSESS1,Web Scraping,Web Scraping,Data Engineering,46.0,Reject,2
+SKS4008,JMD404,ASSESS1,Python,Python,Data Engineering,7.0,Reject,2
+SKS4010,JMD404,ASSESS2,Redis,Redis,Cloud,68.0,Reject,2
+SKS4011,JMD404,ASSESS2,Azure,Azure,Cloud,44.0,Reject,2
+SKS4013,JMD404,ASSESS3,GCP,GCP,Cloud,39.0,Reject,2
+SKS4014,JMD404,ASSESS3,Azure,Azure,Cloud,6.0,Reject,2
+SKS4019,JMD405,ASSESS1,Angular,Angular,Development,36.0,Reject,1
+SKS4021,JMD405,ASSESS2,Web Scraping,Web Scraping,Data Engineering,16.0,Reject,2
+SKS4023,JMD405,ASSESS4,SnowFlake,SnowFlake,Data Engineering,11.0,Reject,2
+SKS4026,JMD406,ASSESS1,Reactjs,Reactjs,Development,11.0,Reject,2
+SKS4028,JMD406,ASSESS2,Node,Node,Development,45.0,Reject,3
+SKS4030,JMD406,ASSESS3,AWS,AWS,Cloud,61.0,Reject,2
+SKS4031,JMD406,ASSESS4,Azure,Azure,Cloud,45.0,Reject,2
+SKS4034,JMD406,ASSESS5,GCP,GCP,Cloud,41.0,Reject,1
+SKS4037,JMD407,ASSESS2,Big Data,Big Data,Data Science,25.0,Reject,2
+SKS4038,JMD407,ASSESS2,Python,Python,Data Science,39.0,Reject,2
+SKS4040,JMD407,ASSESS4,Angular,Angular,Development,4.0,Reject,2
+SKS4041,JMD407,ASSESS5,Big Data,Big Data,Data Science,30.0,Reject,3
+SKS4044,JMD408,ASSESS1,Web Scraping,Web Scraping,Data Engineering,35.012455516014235,Reject,1
+SKS4046,JMD408,ASSESS2,Python,Python,Data Science,40.0,Reject,2
+SKS4047,JMD408,ASSESS3,Reactjs,Reactjs,Development,38.0,Reject,2
+SKS4048,JMD408,ASSESS3,Angular,Angular,Development,37.0,Reject,2
+SKS4052,JMD408,ASSESS5,Applied ML,Applied ML,Data Science,66.0,Reject,1
+SKS4053,JMD409,ASSESS1,Applied ML,Applied ML,Data Science,65.0,Reject,2
+SKS4058,JMD409,ASSESS3,SnowFlake,SnowFlake,Data Engineering,18.0,Reject,2
+SKS4059,JMD409,ASSESS4,Data Bricks,Data Bricks,Data Engineering,58.0,Reject,2
+SKS4062,JMD409,ASSESS5,Azure,Azure,Cloud,46.0,Reject,2
+SKS4063,JMD410,ASSESS1,Applied ML,Applied ML,Data Science,35.0,Reject,3
+SKS4065,JMD410,ASSESS2,Node,Node,Development,29.0,Reject,3
+SKS4066,JMD410,ASSESS2,Angular,Angular,Development,14.0,Reject,2
+SKS4067,JMD410,ASSESS2,Reactjs,Reactjs,Development,31.0,Reject,1
+SKS4070,JMD410,ASSESS5,React Native,React Native,Development,67.0,Reject,1
+SKS4071,JMD411,ASSESS1,Redis,Redis,Cloud,18.0,Reject,1
+SKS4072,JMD411,ASSESS1,AWS,AWS,Cloud,8.0,Reject,2
+SKS4075,JMD411,ASSESS2,SnowFlake,SnowFlake,Data Engineering,29.0,Reject,3
+SKS4076,JMD411,ASSESS3,Big Data,Big Data,Data Science,37.0,Reject,3
+SKS4077,JMD411,ASSESS3,Python,Python,Data Science,8.0,Reject,1
+SKS4081,JMD411,ASSESS5,Redis,Redis,Cloud,53.0,Reject,1
+SKS4082,JMD412,ASSESS1,Next Js,Next Js,Development,40.0,Reject,1
+SKS4085,JMD412,ASSESS2,Python,Python,Data Engineering,47.0,Reject,3
+SKS4086,JMD412,ASSESS2,Data Bricks,Data Bricks,Data Engineering,10.0,Reject,3
+SKS4087,JMD412,ASSESS2,MySQL,MySQL,Data Engineering,9.0,Reject,1
+SKS4088,JMD412,ASSESS3,AWS,AWS,Cloud,67.0,Reject,2
+SKS4089,JMD412,ASSESS3,GCP,GCP,Cloud,49.0,Reject,1
+SKS4090,JMD412,ASSESS3,Redis,Redis,Cloud,35.0,Reject,3
+SKS4091,JMD412,ASSESS4,Angular,Angular,Development,45.0,Reject,3
+SKS4092,JMD412,ASSESS4,React Native,React Native,Development,30.0,Reject,1
+SKS4093,JMD412,ASSESS4,Flutter,Flutter,Development,48.0,Reject,2
+SKS4096,JMD413,ASSESS1,Laravel,Laravel,Development,41.0,Reject,3
+SKS4097,JMD413,ASSESS2,Big Data,Big Data,Data Science,19.0,Reject,1
+SKS4098,JMD413,ASSESS3,Reactjs,Reactjs,Development,17.0,Reject,2
+SKS4099,JMD413,ASSESS3,Angular,Angular,Development,23.0,Reject,2
+SKS4100,JMD413,ASSESS3,Node,Node,Development,60.0,Reject,3
+SKS4101,JMD413,ASSESS4,Angular,Angular,Development,52.0,Reject,2
+SKS4102,JMD413,ASSESS5,GCP,GCP,Cloud,55.0,Reject,1
+SKS4104,JMD413,ASSESS5,Redis,Redis,Cloud,33.0,Reject,1
+SKS4108,JMD414,ASSESS3,Flutter,Flutter,Development,31.0,Reject,2
+SKS4109,JMD414,ASSESS4,MySQL,MySQL,Data Engineering,58.0,Reject,2
+SKS4113,JMD414,ASSESS5,Python,Python,Data Engineering,19.0,Reject,3
+SKS4114,JMD415,ASSESS1,DBT,DBT,Data Engineering,26.0,Reject,2
+SKS4116,JMD415,ASSESS2,Web Scraping,Web Scraping,Data Engineering,26.0,Reject,2
+SKS4118,JMD415,ASSESS2,SnowFlake,SnowFlake,Data Engineering,56.0,Reject,1
+SKS4119,JMD415,ASSESS3,AWS,AWS,Cloud,24.0,Reject,2
+SKS4121,JMD415,ASSESS4,Python,Python,Data Science,23.0,Reject,2
+SKS4124,JMD416,ASSESS1,SnowFlake,SnowFlake,Data Engineering,15.0,Reject,3
+SKS4126,JMD416,ASSESS2,Python,Python,Data Science,60.0,Reject,1
+SKS4127,JMD416,ASSESS2,Applied ML,Applied ML,Data Science,29.0,Reject,1
+SKS4129,JMD416,ASSESS3,Laravel,Laravel,Development,70.0,Reject,3
+SKS4131,JMD416,ASSESS4,Python,Python,Data Science,70.0,Reject,1
+SKS4132,JMD416,ASSESS4,Big Data,Big Data,Data Science,6.0,Reject,3
+SKS4133,JMD416,ASSESS4,Applied ML,Applied ML,Data Science,24.0,Reject,1
+SKS4134,JMD416,ASSESS5,Redis,Redis,Cloud,7.0,Reject,1
+SKS4137,JMD417,ASSESS1,Node,Node,Development,28.0,Reject,1
+SKS4138,JMD417,ASSESS1,Laravel,Laravel,Development,47.0,Reject,3
+SKS4140,JMD417,ASSESS2,MySQL,MySQL,Data Engineering,62.0,Reject,2
+SKS4142,JMD417,ASSESS3,Applied ML,Applied ML,Data Science,68.0,Reject,3
+SKS4143,JMD417,ASSESS3,Python,Python,Data Science,69.0,Reject,2
+SKS4145,JMD417,ASSESS4,React Native,React Native,Development,51.0,Reject,3
+SKS4146,JMD417,ASSESS4,Laravel,Laravel,Development,56.0,Reject,1
+SKS4150,JMD418,ASSESS2,MySQL,MySQL,Data Engineering,12.0,Reject,2
+SKS4151,JMD418,ASSESS3,Python,Python,Data Science,7.0,Reject,2
+SKS4154,JMD418,ASSESS4,DBT,DBT,Data Engineering,53.0,Reject,1
+SKS4159,JMD419,ASSESS1,DBT,DBT,Data Engineering,28.0,Reject,2
+SKS4161,JMD419,ASSESS3,Angular,Angular,Development,38.0,Reject,2
+SKS4162,JMD419,ASSESS3,Next Js,Next Js,Development,1.0,Reject,2
+SKS4165,JMD419,ASSESS4,AWS,AWS,Cloud,16.0,Reject,3
+SKS4168,JMD419,ASSESS5,Applied ML,Applied ML,Data Science,29.0,Reject,1
+SKS4169,JMD420,ASSESS1,Applied ML,Applied ML,Data Science,29.0,Reject,3
+SKS4171,JMD420,ASSESS1,Big Data,Big Data,Data Science,39.0,Reject,1
+SKS4172,JMD420,ASSESS2,Web Scraping,Web Scraping,Data Engineering,5.0,Reject,1
+SKS4173,JMD420,ASSESS2,MySQL,MySQL,Data Engineering,29.0,Reject,1
+SKS4174,JMD420,ASSESS3,Applied ML,Applied ML,Data Science,35.570747217806044,Reject,3
+SKS4176,JMD420,ASSESS3,Python,Python,Data Science,54.0,Reject,2
+SKS4178,JMD420,ASSESS5,Python,Python,Data Science,48.0,Reject,3
+SKS4179,JMD420,ASSESS5,Applied ML,Applied ML,Data Science,25.0,Reject,1
+SKS4183,JMD421,ASSESS2,Python,Python,Data Science,5.0,Reject,3
+SKS4189,JMD422,ASSESS1,Flutter,Flutter,Development,66.0,Reject,1
+SKS4191,JMD422,ASSESS2,Node,Node,Development,57.0,Reject,1
+SKS4194,JMD422,ASSESS3,Node,Node,Development,42.0,Reject,1
+SKS4195,JMD422,ASSESS4,Data Bricks,Data Bricks,Data Engineering,3.0,Reject,2
+SKS4196,JMD422,ASSESS5,DBT,DBT,Data Engineering,9.0,Reject,1
+SKS4199,JMD423,ASSESS1,Python,Python,Data Science,14.0,Reject,2
+SKS4201,JMD423,ASSESS3,Python,Python,Data Science,31.0,Reject,3
+SKS4202,JMD423,ASSESS3,Big Data,Big Data,Data Science,21.0,Reject,2
+SKS4203,JMD423,ASSESS4,Applied ML,Applied ML,Data Science,61.0,Reject,3
+SKS4205,JMD423,ASSESS4,Python,Python,Data Science,29.0,Reject,1
+SKS4206,JMD423,ASSESS5,Redis,Redis,Cloud,27.0,Reject,2
+SKS4207,JMD423,ASSESS5,AWS,AWS,Cloud,44.0,Reject,1
+SKS4211,JMD424,ASSESS4,Applied ML,Applied ML,Data Science,43.0,Reject,3
+SKS4214,JMD424,ASSESS5,Azure,Azure,Cloud,70.0,Reject,3
+SKS4217,JMD425,ASSESS1,Big Data,Big Data,Data Science,41.0,Reject,2
+SKS4219,JMD425,ASSESS2,Python,Python,Data Science,21.0,Reject,3
+SKS4220,JMD425,ASSESS3,MySQL,MySQL,Data Engineering,1.0,Reject,3
+SKS4221,JMD425,ASSESS4,Redis,Redis,Cloud,53.0,Reject,2
+SKS4222,JMD425,ASSESS5,AWS,AWS,Cloud,1.0,Reject,1
+SKS4223,JMD425,ASSESS5,GCP,GCP,Cloud,20.0,Reject,3
+SKS4224,JMD426,ASSESS1,Applied ML,Applied ML,Data Science,3.0,Reject,1
+SKS4229,JMD426,ASSESS3,Big Data,Big Data,Data Science,43.0,Reject,2
+SKS4230,JMD426,ASSESS4,DBT,DBT,Data Engineering,3.0,Reject,2
+SKS4232,JMD426,ASSESS5,Python,Python,Data Science,26.0,Reject,1
+SKS4233,JMD426,ASSESS5,Applied ML,Applied ML,Data Science,23.0,Reject,2
+SKS4235,JMD427,ASSESS1,Reactjs,Reactjs,Development,69.0,Reject,2
+SKS4236,JMD427,ASSESS1,Node,Node,Development,54.0,Reject,2
+SKS4237,JMD427,ASSESS1,Angular,Angular,Development,64.0,Reject,1
+SKS4238,JMD427,ASSESS2,Python,Python,Data Engineering,24.0,Reject,2
+SKS4239,JMD427,ASSESS3,Laravel,Laravel,Development,51.0,Reject,2
+SKS4241,JMD427,ASSESS4,Python,Python,Data Science,13.0,Reject,1
+SKS4242,JMD427,ASSESS4,Big Data,Big Data,Data Science,8.0,Reject,1
+SKS4244,JMD427,ASSESS5,AWS,AWS,Cloud,57.0,Reject,2
+SKS4247,JMD428,ASSESS2,Redis,Redis,Cloud,12.0,Reject,1
+SKS4248,JMD428,ASSESS3,DBT,DBT,Data Engineering,50.0,Reject,1
+SKS4251,JMD428,ASSESS4,Flutter,Flutter,Development,33.0,Reject,1
+SKS4252,JMD428,ASSESS5,Azure,Azure,Cloud,52.0,Reject,1
+SKS4256,JMD429,ASSESS2,Azure,Azure,Cloud,28.0,Reject,1
+SKS4257,JMD429,ASSESS3,DBT,DBT,Data Engineering,11.0,Reject,1
+SKS4258,JMD429,ASSESS4,Next Js,Next Js,Development,21.0,Reject,2
+SKS4259,JMD429,ASSESS4,Reactjs,Reactjs,Development,15.0,Reject,2
+SKS4261,JMD429,ASSESS5,Laravel,Laravel,Development,2.0,Reject,3
+SKS4262,JMD429,ASSESS5,Flutter,Flutter,Development,11.0,Reject,2
+SKS4264,JMD430,ASSESS1,Data Bricks,Data Bricks,Data Engineering,62.0,Reject,3
+SKS4265,JMD430,ASSESS2,Applied ML,Applied ML,Data Science,15.0,Reject,2
+SKS4266,JMD430,ASSESS2,Python,Python,Data Science,2.0,Reject,3
+SKS4269,JMD430,ASSESS4,Flutter,Flutter,Development,18.0,Reject,2
+SKS4270,JMD430,ASSESS4,Angular,Angular,Development,1.0,Reject,1
+SKS4271,JMD430,ASSESS4,Reactjs,Reactjs,Development,48.0,Reject,2
+SKS4272,JMD430,ASSESS5,GCP,GCP,Cloud,43.0,Reject,2
+SKS4274,JMD430,ASSESS5,AWS,AWS,Cloud,67.0,Reject,3
+SKS4276,JMD431,ASSESS2,AWS,AWS,Cloud,36.0,Reject,1
+SKS4277,JMD431,ASSESS2,Redis,Redis,Cloud,45.0,Reject,2
+SKS4283,JMD431,ASSESS5,AWS,AWS,Cloud,20.0,Reject,3
+SKS4284,JMD431,ASSESS5,Azure,Azure,Cloud,56.0,Reject,3
+SKS4286,JMD432,ASSESS1,Flutter,Flutter,Development,70.0,Reject,2
+SKS4287,JMD432,ASSESS1,Laravel,Laravel,Development,66.0,Reject,3
+SKS4288,JMD432,ASSESS2,Web Scraping,Web Scraping,Data Engineering,49.0,Reject,1
+SKS4290,JMD432,ASSESS3,React Native,React Native,Development,10.0,Reject,1
+SKS4293,JMD432,ASSESS4,DBT,DBT,Data Engineering,69.0,Reject,3
+SKS4294,JMD432,ASSESS4,Python,Python,Data Engineering,16.0,Reject,3
+SKS4296,JMD433,ASSESS1,AWS,AWS,Cloud,18.0,Reject,1
+SKS4297,JMD433,ASSESS1,Azure,Azure,Cloud,2.0,Reject,3
+SKS4305,JMD434,ASSESS1,Applied ML,Applied ML,Data Science,26.0,Reject,3
+SKS4306,JMD434,ASSESS2,Data Bricks,Data Bricks,Data Engineering,70.0,Reject,1
+SKS4315,JMD435,ASSESS3,Big Data,Big Data,Data Science,30.0,Reject,2
+SKS4316,JMD435,ASSESS4,GCP,GCP,Cloud,25.0,Reject,3
+SKS4317,JMD435,ASSESS4,Azure,Azure,Cloud,59.0,Reject,2
+SKS4318,JMD435,ASSESS4,Redis,Redis,Cloud,60.0,Reject,1
+SKS4320,JMD435,ASSESS5,Node,Node,Development,31.0,Reject,2
+SKS4322,JMD436,ASSESS1,GCP,GCP,Cloud,50.0,Reject,1
+SKS4324,JMD436,ASSESS2,Applied ML,Applied ML,Data Science,8.0,Reject,3
+SKS4326,JMD436,ASSESS3,SnowFlake,SnowFlake,Data Engineering,60.0,Reject,1
+SKS4328,JMD436,ASSESS4,Data Bricks,Data Bricks,Data Engineering,33.0,Reject,3
+SKS4330,JMD436,ASSESS5,Angular,Angular,Development,15.0,Reject,2
+SKS4337,JMD437,ASSESS2,Angular,Angular,Development,22.0,Reject,2
+SKS4338,JMD437,ASSESS3,Big Data,Big Data,Data Science,41.0,Reject,1
+SKS4339,JMD437,ASSESS3,Python,Python,Data Science,17.0,Reject,3
+SKS4341,JMD437,ASSESS4,DBT,DBT,Data Engineering,20.0,Reject,1
+SKS4344,JMD437,ASSESS5,Python,Python,Data Science,37.0,Reject,1
+SKS4350,JMD438,ASSESS3,Laravel,Laravel,Development,49.0,Reject,1
+SKS4351,JMD438,ASSESS3,React Native,React Native,Development,23.0,Reject,1
+SKS4352,JMD438,ASSESS3,Flutter,Flutter,Development,8.0,Reject,3
+SKS4355,JMD438,ASSESS5,Applied ML,Applied ML,Data Science,8.0,Reject,2
+SKS4361,JMD439,ASSESS2,MySQL,MySQL,Data Engineering,30.0,Reject,2
+SKS4364,JMD439,ASSESS4,Data Bricks,Data Bricks,Data Engineering,3.0,Reject,3
+SKS4367,JMD440,ASSESS1,Applied ML,Applied ML,Data Science,2.0,Reject,1
+SKS4368,JMD440,ASSESS2,Applied ML,Applied ML,Data Science,70.0,Reject,3
+SKS4369,JMD440,ASSESS3,Angular,Angular,Development,40.0,Reject,2
+SKS4370,JMD440,ASSESS4,AWS,AWS,Cloud,13.0,Reject,3
+SKS4377,JMD441,ASSESS2,Redis,Redis,Cloud,67.0,Reject,3
+SKS4378,JMD441,ASSESS2,AWS,AWS,Cloud,29.0,Reject,2
+SKS4379,JMD441,ASSESS3,React Native,React Native,Development,25.0,Reject,2
+SKS4380,JMD441,ASSESS3,Angular,Angular,Development,12.0,Reject,1
+SKS4381,JMD441,ASSESS4,SnowFlake,SnowFlake,Data Engineering,10.0,Reject,1
+SKS4384,JMD441,ASSESS5,Azure,Azure,Cloud,35.62128325508607,Reject,2
+SKS4385,JMD442,ASSESS1,Reactjs,Reactjs,Development,17.0,Reject,1
+SKS4386,JMD442,ASSESS1,Next Js,Next Js,Development,3.0,Reject,2
+SKS4387,JMD442,ASSESS2,Python,Python,Data Engineering,13.0,Reject,1
+SKS4389,JMD442,ASSESS3,MySQL,MySQL,Data Engineering,45.0,Reject,2
+SKS4390,JMD442,ASSESS4,Big Data,Big Data,Data Science,63.0,Reject,1
+SKS4391,JMD442,ASSESS4,Python,Python,Data Science,39.0,Reject,3
+SKS4395,JMD443,ASSESS1,Reactjs,Reactjs,Development,57.0,Reject,1
+SKS4396,JMD443,ASSESS1,Angular,Angular,Development,35.75767918088737,Reject,3
+SKS4398,JMD443,ASSESS2,MySQL,MySQL,Data Engineering,25.0,Reject,1
+SKS4400,JMD443,ASSESS4,AWS,AWS,Cloud,3.0,Reject,3
+SKS4403,JMD443,ASSESS5,Big Data,Big Data,Data Science,26.0,Reject,3
+SKS4405,JMD444,ASSESS1,GCP,GCP,Cloud,17.0,Reject,3
+SKS4406,JMD444,ASSESS2,Azure,Azure,Cloud,2.0,Reject,2
+SKS4407,JMD444,ASSESS2,Redis,Redis,Cloud,28.0,Reject,1
+SKS4409,JMD444,ASSESS3,Big Data,Big Data,Data Science,35.0,Reject,1
+SKS4411,JMD444,ASSESS4,DBT,DBT,Data Engineering,63.0,Reject,2
+SKS4414,JMD445,ASSESS1,Data Bricks,Data Bricks,Data Engineering,33.0,Reject,3
+SKS4416,JMD445,ASSESS1,MySQL,MySQL,Data Engineering,47.0,Reject,2
+SKS4417,JMD445,ASSESS2,Flutter,Flutter,Development,50.0,Reject,1
+SKS4423,JMD445,ASSESS4,GCP,GCP,Cloud,21.0,Reject,1
+SKS4424,JMD445,ASSESS5,Web Scraping,Web Scraping,Data Engineering,58.0,Reject,2
+SKS4426,JMD446,ASSESS2,Web Scraping,Web Scraping,Data Engineering,6.0,Reject,1
+SKS4430,JMD446,ASSESS3,SnowFlake,SnowFlake,Data Engineering,13.0,Reject,1
+SKS4431,JMD446,ASSESS4,AWS,AWS,Cloud,22.0,Reject,1
+SKS4432,JMD446,ASSESS4,GCP,GCP,Cloud,41.0,Reject,1
+SKS4435,JMD447,ASSESS1,Redis,Redis,Cloud,40.0,Reject,2
+SKS4437,JMD447,ASSESS2,Python,Python,Data Science,35.570747217806044,Reject,3
+SKS4443,JMD448,ASSESS1,Data Bricks,Data Bricks,Data Engineering,40.0,Reject,1
+SKS4446,JMD448,ASSESS4,Python,Python,Data Science,19.0,Reject,1
+SKS4447,JMD448,ASSESS5,MySQL,MySQL,Data Engineering,25.0,Reject,3
+SKS4448,JMD448,ASSESS5,Web Scraping,Web Scraping,Data Engineering,12.0,Reject,1
+SKS4449,JMD449,ASSESS1,Python,Python,Data Engineering,50.0,Reject,1
+SKS4450,JMD449,ASSESS1,SnowFlake,SnowFlake,Data Engineering,15.0,Reject,1
+SKS4452,JMD449,ASSESS2,Redis,Redis,Cloud,57.0,Reject,1
+SKS4453,JMD449,ASSESS2,Azure,Azure,Cloud,16.0,Reject,1
+SKS4454,JMD449,ASSESS3,Reactjs,Reactjs,Development,43.0,Reject,3
+SKS4459,JMD449,ASSESS4,MySQL,MySQL,Data Engineering,27.0,Reject,3
+SKS4460,JMD449,ASSESS5,Flutter,Flutter,Development,43.0,Reject,2
+SKS4463,JMD450,ASSESS1,Big Data,Big Data,Data Science,39.0,Reject,3
+SKS4464,JMD450,ASSESS2,Next Js,Next Js,Development,13.0,Reject,3
+SKS4466,JMD450,ASSESS3,Next Js,Next Js,Development,35.75767918088737,Reject,1
+SKS4467,JMD450,ASSESS4,Redis,Redis,Cloud,24.0,Reject,1
+SKS4468,JMD450,ASSESS5,Python,Python,Data Science,35.0,Reject,2
+SKS4471,JMD451,ASSESS1,Applied ML,Applied ML,Data Science,60.0,Reject,1
+SKS4472,JMD451,ASSESS2,Big Data,Big Data,Data Science,60.0,Reject,1
+SKS4478,JMD451,ASSESS4,Data Bricks,Data Bricks,Data Engineering,7.0,Reject,2
+SKS4479,JMD451,ASSESS5,Python,Python,Data Science,3.0,Reject,2
+SKS4480,JMD452,ASSESS1,MySQL,MySQL,Data Engineering,33.0,Reject,3
+SKS4483,JMD452,ASSESS3,AWS,AWS,Cloud,2.0,Reject,2
+SKS4484,JMD452,ASSESS3,Redis,Redis,Cloud,63.0,Reject,3
+SKS4489,JMD453,ASSESS1,Azure,Azure,Cloud,8.0,Reject,1
+SKS4490,JMD453,ASSESS1,GCP,GCP,Cloud,40.0,Reject,2
+SKS4491,JMD453,ASSESS1,AWS,AWS,Cloud,58.0,Reject,2
+SKS4493,JMD453,ASSESS2,Applied ML,Applied ML,Data Science,56.0,Reject,1
+SKS4496,JMD453,ASSESS4,Big Data,Big Data,Data Science,52.0,Reject,1
+SKS4497,JMD453,ASSESS4,Applied ML,Applied ML,Data Science,35.0,Reject,2
+SKS4499,JMD453,ASSESS5,Big Data,Big Data,Data Science,17.0,Reject,1
+SKS4502,JMD454,ASSESS2,DBT,DBT,Data Engineering,46.0,Reject,3
+SKS4503,JMD454,ASSESS2,Data Bricks,Data Bricks,Data Engineering,47.0,Reject,1
+SKS4504,JMD454,ASSESS3,Data Bricks,Data Bricks,Data Engineering,31.0,Reject,2
+SKS4505,JMD454,ASSESS3,Python,Python,Data Engineering,27.0,Reject,3
+SKS4506,JMD454,ASSESS4,Python,Python,Data Engineering,66.0,Reject,2
+SKS4507,JMD454,ASSESS4,DBT,DBT,Data Engineering,20.0,Reject,3
+SKS4508,JMD454,ASSESS5,Applied ML,Applied ML,Data Science,16.0,Reject,1
+SKS4512,JMD455,ASSESS1,Redis,Redis,Cloud,18.0,Reject,1
+SKS4515,JMD455,ASSESS3,Next Js,Next Js,Development,16.0,Reject,3
+SKS4521,JMD456,ASSESS1,GCP,GCP,Cloud,13.0,Reject,3
+SKS4522,JMD456,ASSESS2,AWS,AWS,Cloud,12.0,Reject,2
+SKS4526,JMD456,ASSESS4,Python,Python,Data Science,57.0,Reject,2
+SKS4527,JMD456,ASSESS5,Laravel,Laravel,Development,10.0,Reject,3
+SKS4529,JMD456,ASSESS5,Node,Node,Development,21.0,Reject,3
+SKS4530,JMD457,ASSESS1,Python,Python,Data Engineering,46.0,Reject,3
+SKS4531,JMD457,ASSESS2,AWS,AWS,Cloud,58.0,Reject,1
+SKS4533,JMD457,ASSESS2,Redis,Redis,Cloud,17.0,Reject,1
+SKS4534,JMD457,ASSESS3,Flutter,Flutter,Development,68.0,Reject,1
+SKS4536,JMD457,ASSESS3,Laravel,Laravel,Development,38.0,Reject,1
+SKS4537,JMD457,ASSESS4,React Native,React Native,Development,37.0,Reject,2
+SKS4540,JMD458,ASSESS1,Azure,Azure,Cloud,9.0,Reject,1
+SKS4541,JMD458,ASSESS1,AWS,AWS,Cloud,11.0,Reject,3
+SKS4543,JMD458,ASSESS2,Big Data,Big Data,Data Science,39.0,Reject,1
+SKS4544,JMD458,ASSESS3,Applied ML,Applied ML,Data Science,51.0,Reject,2
+SKS4545,JMD458,ASSESS3,Big Data,Big Data,Data Science,20.0,Reject,3
+SKS4548,JMD459,ASSESS1,DBT,DBT,Data Engineering,69.0,Reject,3
+SKS4551,JMD459,ASSESS2,Laravel,Laravel,Development,35.0,Reject,1
+SKS4552,JMD459,ASSESS2,Angular,Angular,Development,20.0,Reject,1
+SKS4553,JMD459,ASSESS3,GCP,GCP,Cloud,59.0,Reject,3
+SKS4554,JMD459,ASSESS3,Azure,Azure,Cloud,27.0,Reject,1
+SKS4555,JMD459,ASSESS4,Python,Python,Data Science,1.0,Reject,1
+SKS4557,JMD459,ASSESS5,Python,Python,Data Engineering,23.0,Reject,3
+SKS4559,JMD459,ASSESS5,SnowFlake,SnowFlake,Data Engineering,16.0,Reject,2
+SKS4562,JMD460,ASSESS1,Python,Python,Data Science,41.0,Reject,3
+SKS4563,JMD460,ASSESS2,Applied ML,Applied ML,Data Science,35.0,Reject,3
+SKS4565,JMD460,ASSESS3,Data Bricks,Data Bricks,Data Engineering,56.0,Reject,1
+SKS4568,JMD460,ASSESS4,Big Data,Big Data,Data Science,38.0,Reject,3
+SKS4570,JMD460,ASSESS5,Node,Node,Development,33.0,Reject,3
+SKS4571,JMD461,ASSESS1,Python,Python,Data Science,23.0,Reject,2
+SKS4572,JMD461,ASSESS1,Applied ML,Applied ML,Data Science,43.0,Reject,1
+SKS4573,JMD461,ASSESS2,React Native,React Native,Development,11.0,Reject,3
+SKS4576,JMD461,ASSESS3,Applied ML,Applied ML,Data Science,19.0,Reject,3
+SKS4577,JMD461,ASSESS3,Python,Python,Data Science,31.0,Reject,1
+SKS4578,JMD461,ASSESS4,Python,Python,Data Science,48.0,Reject,1
+SKS4582,JMD462,ASSESS1,MySQL,MySQL,Data Engineering,24.0,Reject,3
+SKS4583,JMD462,ASSESS1,Data Bricks,Data Bricks,Data Engineering,35.012455516014235,Reject,3
+SKS4586,JMD462,ASSESS3,Redis,Redis,Cloud,8.0,Reject,3
+SKS4587,JMD462,ASSESS3,Azure,Azure,Cloud,38.0,Reject,2
+SKS4589,JMD462,ASSESS4,Python,Python,Data Science,42.0,Reject,3
+SKS4591,JMD462,ASSESS5,Python,Python,Data Science,5.0,Reject,1
+SKS4593,JMD463,ASSESS1,SnowFlake,SnowFlake,Data Engineering,27.0,Reject,2
+SKS4594,JMD463,ASSESS1,MySQL,MySQL,Data Engineering,59.0,Reject,1
+SKS4595,JMD463,ASSESS2,Redis,Redis,Cloud,31.0,Reject,1
+SKS4596,JMD463,ASSESS3,Laravel,Laravel,Development,70.0,Reject,1
+SKS4597,JMD463,ASSESS3,Node,Node,Development,65.0,Reject,1
+SKS4600,JMD463,ASSESS5,Reactjs,Reactjs,Development,16.0,Reject,3
+SKS4604,JMD464,ASSESS2,Node,Node,Development,64.0,Reject,2
+SKS4605,JMD464,ASSESS2,Laravel,Laravel,Development,20.0,Reject,1
+SKS4606,JMD464,ASSESS3,Big Data,Big Data,Data Science,49.0,Reject,1
+SKS4608,JMD464,ASSESS4,AWS,AWS,Cloud,64.0,Reject,2
+SKS4610,JMD464,ASSESS5,Flutter,Flutter,Development,52.0,Reject,3
+SKS4611,JMD464,ASSESS5,Laravel,Laravel,Development,17.0,Reject,1
+SKS4614,JMD465,ASSESS2,Azure,Azure,Cloud,61.0,Reject,2
+SKS4615,JMD465,ASSESS2,Redis,Redis,Cloud,59.0,Reject,3
+SKS4617,JMD465,ASSESS3,Azure,Azure,Cloud,61.0,Reject,2
+SKS4618,JMD465,ASSESS3,AWS,AWS,Cloud,31.0,Reject,2
+SKS4624,JMD466,ASSESS1,Python,Python,Data Science,38.0,Reject,2
+SKS4626,JMD466,ASSESS2,Python,Python,Data Science,52.0,Reject,2
+SKS4628,JMD466,ASSESS3,Node,Node,Development,9.0,Reject,1
+SKS4630,JMD466,ASSESS3,Reactjs,Reactjs,Development,26.0,Reject,1
+SKS4631,JMD466,ASSESS4,Redis,Redis,Cloud,18.0,Reject,3
+SKS4633,JMD466,ASSESS5,Python,Python,Data Engineering,27.0,Reject,3
+SKS4634,JMD467,ASSESS1,Flutter,Flutter,Development,28.0,Reject,2
+SKS4635,JMD467,ASSESS2,Angular,Angular,Development,32.0,Reject,1
+SKS4636,JMD467,ASSESS2,React Native,React Native,Development,21.0,Reject,3
+SKS4638,JMD467,ASSESS4,GCP,GCP,Cloud,24.0,Reject,3
+SKS4640,JMD467,ASSESS4,AWS,AWS,Cloud,59.0,Reject,1
+SKS4641,JMD467,ASSESS5,Python,Python,Data Science,16.0,Reject,1
+SKS4644,JMD468,ASSESS1,Python,Python,Data Science,50.0,Reject,2
+SKS4645,JMD468,ASSESS1,Applied ML,Applied ML,Data Science,43.0,Reject,1
+SKS4647,JMD468,ASSESS2,Next Js,Next Js,Development,62.0,Reject,2
+SKS4648,JMD468,ASSESS3,Laravel,Laravel,Development,26.0,Reject,2
+SKS4650,JMD468,ASSESS3,Flutter,Flutter,Development,59.0,Reject,3
+SKS4652,JMD468,ASSESS5,Python,Python,Data Science,60.0,Reject,3
+SKS4654,JMD468,ASSESS5,Big Data,Big Data,Data Science,10.0,Reject,1
+SKS4656,JMD469,ASSESS1,GCP,GCP,Cloud,23.0,Reject,1
+SKS4657,JMD469,ASSESS2,Applied ML,Applied ML,Data Science,48.0,Reject,2
+SKS4661,JMD469,ASSESS4,Node,Node,Development,35.0,Reject,2
+SKS4669,JMD470,ASSESS3,Node,Node,Development,70.0,Reject,3
+SKS4670,JMD470,ASSESS3,Reactjs,Reactjs,Development,55.0,Reject,3
+SKS4673,JMD470,ASSESS5,Big Data,Big Data,Data Science,33.0,Reject,1
+SKS4679,JMD471,ASSESS2,Big Data,Big Data,Data Science,37.0,Reject,3
+SKS4680,JMD471,ASSESS2,Python,Python,Data Science,52.0,Reject,3
+SKS4681,JMD471,ASSESS3,Laravel,Laravel,Development,12.0,Reject,1
+SKS4682,JMD471,ASSESS3,Node,Node,Development,50.0,Reject,1
+SKS4683,JMD471,ASSESS3,React Native,React Native,Development,3.0,Reject,1
+SKS4684,JMD471,ASSESS4,Angular,Angular,Development,5.0,Reject,3
+SKS4685,JMD471,ASSESS4,Reactjs,Reactjs,Development,17.0,Reject,3
+SKS4688,JMD471,ASSESS5,Azure,Azure,Cloud,39.0,Reject,3
+SKS4689,JMD472,ASSESS1,Big Data,Big Data,Data Science,64.0,Reject,3
+SKS4690,JMD472,ASSESS2,Next Js,Next Js,Development,60.0,Reject,2
+SKS4698,JMD473,ASSESS1,Big Data,Big Data,Data Science,28.0,Reject,2
+SKS4699,JMD473,ASSESS1,Python,Python,Data Science,59.0,Reject,1
+SKS4700,JMD473,ASSESS2,Applied ML,Applied ML,Data Science,70.0,Reject,3
+SKS4701,JMD473,ASSESS2,Python,Python,Data Science,8.0,Reject,1
+SKS4702,JMD473,ASSESS2,Big Data,Big Data,Data Science,16.0,Reject,1
+SKS4703,JMD473,ASSESS3,Python,Python,Data Engineering,38.0,Reject,1
+SKS4705,JMD473,ASSESS3,SnowFlake,SnowFlake,Data Engineering,34.0,Reject,2
+SKS4707,JMD473,ASSESS5,Node,Node,Development,24.0,Reject,2
+SKS4709,JMD474,ASSESS2,Web Scraping,Web Scraping,Data Engineering,30.0,Reject,1
+SKS4712,JMD474,ASSESS4,SnowFlake,SnowFlake,Data Engineering,46.0,Reject,3
+SKS4713,JMD474,ASSESS5,Azure,Azure,Cloud,13.0,Reject,3
+SKS4716,JMD475,ASSESS2,Big Data,Big Data,Data Science,16.0,Reject,3
+SKS4718,JMD475,ASSESS4,React Native,React Native,Development,10.0,Reject,1
+SKS4725,JMD476,ASSESS3,Big Data,Big Data,Data Science,29.0,Reject,3
+SKS4726,JMD476,ASSESS4,Big Data,Big Data,Data Science,3.0,Reject,3
+SKS4728,JMD476,ASSESS5,Azure,Azure,Cloud,22.0,Reject,3
+SKS4730,JMD477,ASSESS1,Applied ML,Applied ML,Data Science,65.0,Reject,1
+SKS4731,JMD477,ASSESS2,Node,Node,Development,1.0,Reject,1
+SKS4733,JMD477,ASSESS3,GCP,GCP,Cloud,7.0,Reject,3
+SKS4737,JMD477,ASSESS5,Azure,Azure,Cloud,57.0,Reject,1
+SKS4740,JMD478,ASSESS2,Applied ML,Applied ML,Data Science,25.0,Reject,2
+SKS4741,JMD478,ASSESS3,Azure,Azure,Cloud,56.0,Reject,1
+SKS4743,JMD478,ASSESS4,Angular,Angular,Development,49.0,Reject,2
+SKS4744,JMD478,ASSESS5,Web Scraping,Web Scraping,Data Engineering,13.0,Reject,1
+SKS4747,JMD479,ASSESS1,Laravel,Laravel,Development,5.0,Reject,3
+SKS4748,JMD479,ASSESS1,Reactjs,Reactjs,Development,58.0,Reject,1
+SKS4750,JMD479,ASSESS2,DBT,DBT,Data Engineering,3.0,Reject,1
+SKS4752,JMD479,ASSESS3,Redis,Redis,Cloud,17.0,Reject,1
+SKS4754,JMD479,ASSESS4,Redis,Redis,Cloud,50.0,Reject,3
+SKS4755,JMD479,ASSESS4,Azure,Azure,Cloud,27.0,Reject,1
+SKS4757,JMD479,ASSESS5,MySQL,MySQL,Data Engineering,25.0,Reject,3
+SKS4758,JMD479,ASSESS5,Data Bricks,Data Bricks,Data Engineering,29.0,Reject,2
+SKS4760,JMD480,ASSESS1,Next Js,Next Js,Development,61.0,Reject,3
+SKS4762,JMD480,ASSESS2,Data Bricks,Data Bricks,Data Engineering,19.0,Reject,2
+SKS4763,JMD480,ASSESS2,SnowFlake,SnowFlake,Data Engineering,67.0,Reject,3
+SKS4764,JMD480,ASSESS3,GCP,GCP,Cloud,15.0,Reject,2
+SKS4765,JMD480,ASSESS3,Azure,Azure,Cloud,57.0,Reject,3
+SKS4767,JMD480,ASSESS4,Data Bricks,Data Bricks,Data Engineering,68.0,Reject,3
+SKS4768,JMD480,ASSESS4,MySQL,MySQL,Data Engineering,30.0,Reject,3
+SKS4769,JMD480,ASSESS4,SnowFlake,SnowFlake,Data Engineering,32.0,Reject,3
+SKS4771,JMD480,ASSESS5,GCP,GCP,Cloud,37.0,Reject,1
+SKS4773,JMD481,ASSESS2,Python,Python,Data Science,69.0,Reject,2
+SKS4774,JMD481,ASSESS2,Applied ML,Applied ML,Data Science,53.0,Reject,1
+SKS4775,JMD481,ASSESS2,Big Data,Big Data,Data Science,7.0,Reject,2
+SKS4776,JMD481,ASSESS3,SnowFlake,SnowFlake,Data Engineering,17.0,Reject,2
+SKS4777,JMD481,ASSESS4,Azure,Azure,Cloud,49.0,Reject,2
+SKS4783,JMD482,ASSESS1,GCP,GCP,Cloud,45.0,Reject,3
+SKS4784,JMD482,ASSESS2,Azure,Azure,Cloud,47.0,Reject,1
+SKS4785,JMD482,ASSESS2,Redis,Redis,Cloud,35.62128325508607,Reject,3
+SKS4787,JMD482,ASSESS3,Python,Python,Data Science,1.0,Reject,2
+SKS4788,JMD482,ASSESS3,Applied ML,Applied ML,Data Science,49.0,Reject,2
+SKS4789,JMD482,ASSESS3,Big Data,Big Data,Data Science,2.0,Reject,1
+SKS4790,JMD482,ASSESS4,React Native,React Native,Development,2.0,Reject,2
+SKS4791,JMD482,ASSESS4,Node,Node,Development,48.0,Reject,1
+SKS4795,JMD483,ASSESS1,Data Bricks,Data Bricks,Data Engineering,40.0,Reject,1
+SKS4796,JMD483,ASSESS1,Python,Python,Data Engineering,64.0,Reject,1
+SKS4798,JMD483,ASSESS2,GCP,GCP,Cloud,65.0,Reject,1
+SKS4800,JMD483,ASSESS3,Azure,Azure,Cloud,28.0,Reject,2
+SKS4803,JMD484,ASSESS1,AWS,AWS,Cloud,25.0,Reject,1
+SKS4804,JMD484,ASSESS1,Redis,Redis,Cloud,48.0,Reject,1
+SKS4805,JMD484,ASSESS2,MySQL,MySQL,Data Engineering,21.0,Reject,3
+SKS4808,JMD484,ASSESS3,Next Js,Next Js,Development,22.0,Reject,2
+SKS4817,JMD485,ASSESS3,Big Data,Big Data,Data Science,58.0,Reject,1
+SKS4820,JMD485,ASSESS5,Next Js,Next Js,Development,2.0,Reject,2
+SKS4821,JMD486,ASSESS1,Big Data,Big Data,Data Science,9.0,Reject,1
+SKS4822,JMD486,ASSESS2,Applied ML,Applied ML,Data Science,17.0,Reject,2
+SKS4823,JMD486,ASSESS3,Redis,Redis,Cloud,35.62128325508607,Reject,2
+SKS4824,JMD486,ASSESS4,Python,Python,Data Science,14.0,Reject,1
+SKS4825,JMD486,ASSESS4,Applied ML,Applied ML,Data Science,20.0,Reject,1
+SKS4832,JMD487,ASSESS3,Big Data,Big Data,Data Science,17.0,Reject,3
+SKS4834,JMD487,ASSESS4,React Native,React Native,Development,38.0,Reject,1
+SKS4835,JMD487,ASSESS4,Flutter,Flutter,Development,35.75767918088737,Reject,3
+SKS4841,JMD488,ASSESS2,GCP,GCP,Cloud,9.0,Reject,1
+SKS4842,JMD488,ASSESS3,MySQL,MySQL,Data Engineering,44.0,Reject,3
+SKS4847,JMD488,ASSESS4,Laravel,Laravel,Development,41.0,Reject,3
+SKS4849,JMD489,ASSESS1,Python,Python,Data Science,67.0,Reject,2
+SKS4851,JMD489,ASSESS1,Applied ML,Applied ML,Data Science,34.0,Reject,1
+SKS4854,JMD489,ASSESS4,Angular,Angular,Development,36.0,Reject,3
+SKS4855,JMD489,ASSESS5,Web Scraping,Web Scraping,Data Engineering,56.0,Reject,2
+SKS4856,JMD489,ASSESS5,Python,Python,Data Engineering,12.0,Reject,2
+SKS4857,JMD489,ASSESS5,MySQL,MySQL,Data Engineering,3.0,Reject,2
+SKS4858,JMD490,ASSESS1,Python,Python,Data Science,51.0,Reject,1
+SKS4859,JMD490,ASSESS1,Applied ML,Applied ML,Data Science,40.0,Reject,3
+SKS4862,JMD490,ASSESS2,Node,Node,Development,46.0,Reject,1
+SKS4866,JMD490,ASSESS5,SnowFlake,SnowFlake,Data Engineering,67.0,Reject,1
+SKS4867,JMD490,ASSESS5,MySQL,MySQL,Data Engineering,48.0,Reject,2
+SKS4870,JMD491,ASSESS2,React Native,React Native,Development,35.0,Reject,1
+SKS4876,JMD491,ASSESS5,Python,Python,Data Engineering,16.0,Reject,1
+SKS4878,JMD492,ASSESS1,React Native,React Native,Development,13.0,Reject,1
+SKS4880,JMD492,ASSESS2,Node,Node,Development,57.0,Reject,1
+SKS4882,JMD492,ASSESS3,Angular,Angular,Development,29.0,Reject,2
+SKS4883,JMD492,ASSESS3,React Native,React Native,Development,13.0,Reject,1
+SKS4884,JMD492,ASSESS3,Flutter,Flutter,Development,61.0,Reject,3
+SKS4885,JMD492,ASSESS4,Python,Python,Data Science,46.0,Reject,2
+SKS4887,JMD492,ASSESS5,Redis,Redis,Cloud,12.0,Reject,1
+SKS4889,JMD492,ASSESS5,Azure,Azure,Cloud,45.0,Reject,2
+SKS4891,JMD493,ASSESS2,GCP,GCP,Cloud,18.0,Reject,1
+SKS4894,JMD493,ASSESS3,Azure,Azure,Cloud,47.0,Reject,3
+SKS4895,JMD493,ASSESS4,Web Scraping,Web Scraping,Data Engineering,21.0,Reject,3
+SKS4898,JMD493,ASSESS5,AWS,AWS,Cloud,45.0,Reject,1
+SKS4901,JMD494,ASSESS1,GCP,GCP,Cloud,56.0,Reject,3
+SKS4902,JMD494,ASSESS2,Flutter,Flutter,Development,38.0,Reject,1
+SKS4903,JMD494,ASSESS3,DBT,DBT,Data Engineering,54.0,Reject,1
+SKS4904,JMD494,ASSESS4,MySQL,MySQL,Data Engineering,57.0,Reject,1
+SKS4905,JMD494,ASSESS5,Python,Python,Data Science,48.0,Reject,1
+SKS4906,JMD495,ASSESS1,Big Data,Big Data,Data Science,66.0,Reject,1
+SKS4907,JMD495,ASSESS2,Redis,Redis,Cloud,12.0,Reject,3
+SKS4908,JMD495,ASSESS3,Applied ML,Applied ML,Data Science,11.0,Reject,2
+SKS4911,JMD495,ASSESS4,React Native,React Native,Development,1.0,Reject,1
+SKS4912,JMD495,ASSESS4,Next Js,Next Js,Development,69.0,Reject,1
+SKS4914,JMD495,ASSESS5,AWS,AWS,Cloud,35.0,Reject,3
+SKS4919,JMD496,ASSESS3,DBT,DBT,Data Engineering,44.0,Reject,1
+SKS4920,JMD496,ASSESS4,Web Scraping,Web Scraping,Data Engineering,65.0,Reject,3
+SKS4922,JMD496,ASSESS5,AWS,AWS,Cloud,14.0,Reject,2
+SKS4927,JMD497,ASSESS2,Applied ML,Applied ML,Data Science,47.0,Reject,3
+SKS4928,JMD497,ASSESS3,Python,Python,Data Science,23.0,Reject,2
+SKS4929,JMD497,ASSESS4,Python,Python,Data Science,44.0,Reject,1
+SKS4930,JMD497,ASSESS4,Big Data,Big Data,Data Science,30.0,Reject,1
+SKS4931,JMD497,ASSESS5,AWS,AWS,Cloud,25.0,Reject,1
+SKS4932,JMD497,ASSESS5,Azure,Azure,Cloud,40.0,Reject,3
+SKS4933,JMD498,ASSESS1,AWS,AWS,Cloud,65.0,Reject,1
+SKS4936,JMD498,ASSESS3,Web Scraping,Web Scraping,Data Engineering,60.0,Reject,2
+SKS4937,JMD498,ASSESS3,DBT,DBT,Data Engineering,44.0,Reject,3
+SKS4938,JMD498,ASSESS4,React Native,React Native,Development,19.0,Reject,1
+SKS4939,JMD498,ASSESS4,Angular,Angular,Development,23.0,Reject,3
+SKS4941,JMD498,ASSESS5,MySQL,MySQL,Data Engineering,20.0,Reject,2
+SKS4942,JMD499,ASSESS1,Big Data,Big Data,Data Science,31.0,Reject,2
+SKS4946,JMD499,ASSESS4,AWS,AWS,Cloud,40.0,Reject,3
+SKS4949,JMD499,ASSESS5,Node,Node,Development,26.0,Reject,1
+SKS4950,JMD499,ASSESS5,React Native,React Native,Development,3.0,Reject,1
+SKS4951,JMD499,ASSESS5,Reactjs,Reactjs,Development,38.0,Reject,2
+SKS4952,JMD500,ASSESS1,MySQL,MySQL,Data Engineering,17.0,Reject,1
+SKS4954,JMD500,ASSESS2,Redis,Redis,Cloud,18.0,Reject,2
+SKS4959,JMD500,ASSESS4,Angular,Angular,Development,45.0,Reject,2
+SKS4960,JMD500,ASSESS5,Applied ML,Applied ML,Data Science,62.0,Reject,2
+SKS4961,JMD500,ASSESS5,Big Data,Big Data,Data Science,1.0,Reject,2

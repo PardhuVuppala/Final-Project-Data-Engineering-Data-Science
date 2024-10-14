@@ -1,0 +1,775 @@
+id,employeeId,courseName,skills,courseDepartment,certificationLink,status
+CERT2,JMD1,Big Data,Big Data,Data Science,https://wagner.com/,Reject
+CERT3,JMD1,GCP,GCP,Cloud,https://jackson.biz/,Reject
+CERT4,JMD1,Redis,Redis,Cloud,http://www.white.com/,Reject
+CERT6,JMD2,Laravel,Laravel,Development,http://butler-elliott.info/,Reject
+CERT7,JMD3,Web Scraping,Web Scraping,Data Engineering,https://www.quinn.biz/,Reject
+CERT10,JMD4,MySQL,MySQL,Data Engineering,http://www.gomez-rodriguez.biz/,Reject
+CERT11,JMD4,Redis,Redis,Cloud,https://wilson-pierce.com/,Reject
+CERT12,JMD4,AWS,AWS,Cloud,http://morris-kline.info/,Reject
+CERT13,JMD5,Redis,Redis,Cloud,http://anderson.com/,Reject
+CERT16,JMD5,Applied ML,Applied ML,Data Science,http://williams.com/,Reject
+CERT17,JMD5,Big Data,Big Data,Data Science,https://www.kelly-morgan.net/,Reject
+CERT21,JMD6,Azure,Azure,Cloud,http://carlson-butler.com/,Reject
+CERT22,JMD6,Redis,Redis,Cloud,https://www.cox-davis.net/,Reject
+CERT27,JMD7,Applied ML,Applied ML,Data Science,http://www.gross-baker.info/,Reject
+CERT32,JMD9,MySQL,MySQL,Data Engineering,http://www.shelton.com/,Reject
+CERT34,JMD9,Reactjs,Reactjs,Development,https://www.walters.com/,Reject
+CERT35,JMD9,Next Js,Next Js,Development,https://www.gray-snyder.com/,Reject
+CERT37,JMD10,Big Data,Big Data,Data Science,https://burke.com/,Reject
+CERT38,JMD10,Applied ML,Applied ML,Data Science,https://www.lewis.com/,Reject
+CERT39,JMD10,Python,Python,Data Science,https://mcclure-west.org/,Reject
+CERT41,JMD12,AWS,AWS,Cloud,https://li.info/,Reject
+CERT44,JMD13,Big Data,Big Data,Data Science,https://www.mccann.com/,Reject
+CERT45,JMD13,SnowFlake,SnowFlake,Data Engineering,https://www.leonard.info/,Reject
+CERT46,JMD13,MySQL,MySQL,Data Engineering,https://www.morgan.com/,Reject
+CERT47,JMD13,Python,Python,Data Engineering,http://www.larson.com/,Reject
+CERT49,JMD14,Big Data,Big Data,Data Science,http://www.martinez.info/,Reject
+CERT53,JMD15,Python,Python,Data Science,http://www.thompson.com/,Reject
+CERT55,JMD16,GCP,GCP,Cloud,http://www.hutchinson.org/,Reject
+CERT57,JMD17,Web Scraping,Web Scraping,Data Engineering,http://www.patterson.com/,Reject
+CERT58,JMD17,DBT,DBT,Data Engineering,http://adkins.net/,Reject
+CERT59,JMD17,Data Bricks,Data Bricks,Data Engineering,http://www.gonzales.com/,Reject
+CERT62,JMD18,AWS,AWS,Cloud,https://www.lucas-figueroa.biz/,Reject
+CERT64,JMD19,Node,Node,Development,https://www.campbell.org/,Reject
+CERT65,JMD19,Applied ML,Applied ML,Data Science,https://www.moore-campbell.com/,Reject
+CERT68,JMD20,AWS,AWS,Cloud,http://hill.com/,Reject
+CERT70,JMD21,AWS,AWS,Cloud,https://www.lewis.com/,Reject
+CERT71,JMD22,Angular,Angular,Development,http://smith.biz/,Reject
+CERT78,JMD25,Reactjs,Reactjs,Development,https://www.george-thomas.com/,Reject
+CERT80,JMD25,MySQL,MySQL,Data Engineering,http://www.nelson.info/,Reject
+CERT81,JMD25,Python,Python,Data Engineering,https://www.andrews.info/,Reject
+CERT83,JMD26,DBT,DBT,Data Engineering,http://www.snow.com/,Reject
+CERT84,JMD26,Python,Python,Data Engineering,http://www.dickerson.com/,Reject
+CERT90,JMD29,GCP,GCP,Cloud,http://www.wilson-kelly.com/,Reject
+CERT94,JMD31,Flutter,Flutter,Development,http://pham.biz/,Reject
+CERT95,JMD32,Python,Python,Data Engineering,http://www.reyes.com/,Reject
+CERT97,JMD32,DBT,DBT,Data Engineering,https://www.blackburn-ortiz.com/,Reject
+CERT98,JMD32,Node,Node,Development,http://www.simmons.net/,Reject
+CERT99,JMD32,Angular,Angular,Development,https://hunter-graves.info/,Reject
+CERT100,JMD32,Flutter,Flutter,Development,http://www.ross-harrison.com/,Reject
+CERT101,JMD33,Next Js,Next Js,Development,http://howard.com/,Reject
+CERT103,JMD33,Flutter,Flutter,Development,https://hunt.com/,Reject
+CERT104,JMD34,Azure,Azure,Cloud,https://goodwin.org/,Reject
+CERT105,JMD34,Angular,Angular,Development,http://www.dalton.com/,Reject
+CERT107,JMD34,Flutter,Flutter,Development,http://www.atkins-farley.com/,Reject
+CERT108,JMD35,Python,Python,Data Engineering,http://best.com/,Reject
+CERT111,JMD35,AWS,AWS,Cloud,http://baker.com/,Reject
+CERT112,JMD35,Redis,Redis,Cloud,http://baird.com/,Reject
+CERT113,JMD36,Python,Python,Data Science,https://kennedy-davis.com/,Reject
+CERT114,JMD36,Applied ML,Applied ML,Data Science,https://www.johnston-parker.org/,Reject
+CERT118,JMD38,GCP,GCP,Cloud,https://brooks-reed.biz/,Reject
+CERT122,JMD39,DBT,DBT,Data Engineering,http://www.rich.com/,Reject
+CERT126,JMD40,Applied ML,Applied ML,Data Science,https://www.jennings.com/,Reject
+CERT127,JMD41,Azure,Azure,Cloud,http://www.odom.com/,Reject
+CERT128,JMD42,AWS,AWS,Cloud,https://www.livingston.com/,Reject
+CERT129,JMD43,Applied ML,Applied ML,Data Science,https://www.daniels.com/,Reject
+CERT130,JMD43,Reactjs,Reactjs,Development,https://cuevas.com/,Reject
+CERT131,JMD43,Next Js,Next Js,Development,http://www.hunter-johnson.com/,Reject
+CERT134,JMD44,AWS,AWS,Cloud,https://www.huff.com/,Reject
+CERT135,JMD44,Azure,Azure,Cloud,https://ramirez-boone.com/,Reject
+CERT138,JMD44,DBT,DBT,Data Engineering,http://conrad.com/,Reject
+CERT139,JMD45,Big Data,Big Data,Data Science,http://thompson.com/,Reject
+CERT143,JMD47,React Native,React Native,Development,http://www.galvan.org/,Reject
+CERT144,JMD47,Angular,Angular,Development,https://www.lewis.info/,Reject
+CERT147,JMD48,Angular,Angular,Development,http://www.pruitt.com/,Reject
+CERT150,JMD49,Azure,Azure,Cloud,https://haney-phillips.com/,Reject
+CERT151,JMD49,AWS,AWS,Cloud,https://www.cook-morton.com/,Reject
+CERT155,JMD50,GCP,GCP,Cloud,https://gregory.info/,Reject
+CERT156,JMD51,DBT,DBT,Data Engineering,http://www.ramirez.com/,Reject
+CERT163,JMD54,Flutter,Flutter,Development,https://www.matthews-wilson.com/,Reject
+CERT165,JMD55,Redis,Redis,Cloud,http://www.martin.com/,Reject
+CERT167,JMD56,Node,Node,Development,https://www.morales-murphy.org/,Reject
+CERT169,JMD57,Python,Python,Data Engineering,http://douglas.net/,Reject
+CERT170,JMD57,SnowFlake,SnowFlake,Data Engineering,http://tucker.com/,Reject
+CERT171,JMD58,Laravel,Laravel,Development,http://spencer.org/,Reject
+CERT172,JMD58,Node,Node,Development,http://www.chavez-evans.com/,Reject
+CERT173,JMD58,Next Js,Next Js,Development,https://everett.org/,Reject
+CERT174,JMD58,Azure,Azure,Cloud,http://www.nelson-parker.com/,Reject
+CERT176,JMD58,Redis,Redis,Cloud,https://www.ross-ruiz.info/,Reject
+CERT177,JMD59,SnowFlake,SnowFlake,Data Engineering,https://www.sanchez.com/,Reject
+CERT179,JMD60,Applied ML,Applied ML,Data Science,https://flores-cameron.com/,Reject
+CERT180,JMD60,Python,Python,Data Science,http://www.richards.com/,Reject
+CERT182,JMD60,GCP,GCP,Cloud,http://parrish.net/,Reject
+CERT185,JMD61,Redis,Redis,Cloud,https://mills.com/,Reject
+CERT186,JMD62,Next Js,Next Js,Development,http://york.info/,Reject
+CERT188,JMD62,AWS,AWS,Cloud,http://chandler.com/,Reject
+CERT189,JMD63,Laravel,Laravel,Development,https://www.sawyer.com/,Reject
+CERT191,JMD64,Node,Node,Development,https://palmer.org/,Reject
+CERT192,JMD64,Next Js,Next Js,Development,http://www.johnson.org/,Reject
+CERT194,JMD65,Azure,Azure,Cloud,https://www.golden.com/,Reject
+CERT196,JMD65,Reactjs,Reactjs,Development,http://wagner-smith.com/,Reject
+CERT197,JMD66,Data Bricks,Data Bricks,Data Engineering,https://www.bowen.com/,Reject
+CERT200,JMD66,Python,Python,Data Science,https://www.hodges.com/,Reject
+CERT204,JMD68,MySQL,MySQL,Data Engineering,https://cobb.com/,Reject
+CERT206,JMD69,Data Bricks,Data Bricks,Data Engineering,https://www.wright-hart.info/,Reject
+CERT208,JMD69,GCP,GCP,Cloud,http://www.mcclain-long.info/,Reject
+CERT209,JMD69,Azure,Azure,Cloud,http://www.black-dominguez.biz/,Reject
+CERT210,JMD70,Python,Python,Data Science,https://nielsen.org/,Reject
+CERT211,JMD70,GCP,GCP,Cloud,https://patterson.org/,Reject
+CERT214,JMD71,AWS,AWS,Cloud,https://smith.biz/,Reject
+CERT215,JMD71,Azure,Azure,Cloud,https://anderson.com/,Reject
+CERT216,JMD72,Azure,Azure,Cloud,http://bowman.com/,Reject
+CERT218,JMD73,Data Bricks,Data Bricks,Data Engineering,http://tanner.com/,Reject
+CERT220,JMD73,SnowFlake,SnowFlake,Data Engineering,https://www.davis.com/,Reject
+CERT221,JMD74,Laravel,Laravel,Development,https://wilson.com/,Reject
+CERT222,JMD74,Python,Python,Data Engineering,https://erickson.biz/,Reject
+CERT223,JMD75,Python,Python,Data Science,http://romero-ramirez.com/,Reject
+CERT224,JMD75,Applied ML,Applied ML,Data Science,http://www.simpson.com/,Reject
+CERT227,JMD76,Web Scraping,Web Scraping,Data Engineering,http://howard.com/,Reject
+CERT228,JMD76,DBT,DBT,Data Engineering,http://wilson.com/,Reject
+CERT232,JMD78,Reactjs,Reactjs,Development,http://wolfe.com/,Reject
+CERT233,JMD78,Flutter,Flutter,Development,http://ramos.com/,Reject
+CERT238,JMD81,Python,Python,Data Engineering,https://www.thomas.org/,Reject
+CERT240,JMD81,Data Bricks,Data Bricks,Data Engineering,https://knight.org/,Reject
+CERT243,JMD83,GCP,GCP,Cloud,https://moore-bryant.com/,Reject
+CERT247,JMD84,SnowFlake,SnowFlake,Data Engineering,https://lambert-little.com/,Reject
+CERT252,JMD84,Redis,Redis,Cloud,http://anderson-vega.net/,Reject
+CERT255,JMD85,AWS,AWS,Cloud,https://www.strong-long.com/,Reject
+CERT258,JMD87,DBT,DBT,Data Engineering,http://ramos.biz/,Reject
+CERT261,JMD87,Applied ML,Applied ML,Data Science,https://www.douglas.org/,Reject
+CERT262,JMD87,Big Data,Big Data,Data Science,https://pitts.com/,Reject
+CERT265,JMD88,Big Data,Big Data,Data Science,http://marshall.com/,Reject
+CERT268,JMD89,Azure,Azure,Cloud,http://www.johnson.org/,Reject
+CERT269,JMD89,Reactjs,Reactjs,Development,http://martin-bernard.biz/,Reject
+CERT272,JMD90,MySQL,MySQL,Data Engineering,https://mcknight.biz/,Reject
+CERT273,JMD90,Azure,Azure,Cloud,http://www.collins-garcia.com/,Reject
+CERT276,JMD91,Node,Node,Development,http://rodriguez-skinner.info/,Reject
+CERT278,JMD92,DBT,DBT,Data Engineering,https://duffy.com/,Reject
+CERT279,JMD93,React Native,React Native,Development,http://www.rice.com/,Reject
+CERT280,JMD93,Reactjs,Reactjs,Development,http://www.brooks-collins.org/,Reject
+CERT282,JMD93,Redis,Redis,Cloud,http://www.clark-mccoy.com/,Reject
+CERT283,JMD94,Web Scraping,Web Scraping,Data Engineering,https://patterson.com/,Reject
+CERT287,JMD95,Laravel,Laravel,Development,http://www.blair.com/,Reject
+CERT289,JMD96,GCP,GCP,Cloud,http://www.mitchell-gonzalez.com/,Reject
+CERT294,JMD97,Azure,Azure,Cloud,https://black.com/,Reject
+CERT295,JMD97,Redis,Redis,Cloud,http://www.sandoval-davis.com/,Reject
+CERT297,JMD99,Laravel,Laravel,Development,https://adkins.org/,Reject
+CERT298,JMD99,Node,Node,Development,https://www.mueller-green.com/,Reject
+CERT299,JMD99,AWS,AWS,Cloud,http://www.williams.com/,Reject
+CERT300,JMD99,Azure,Azure,Cloud,http://www.marshall.com/,Reject
+CERT302,JMD100,Next Js,Next Js,Development,http://www.lara-summers.com/,Reject
+CERT303,JMD100,Angular,Angular,Development,http://www.chapman-cole.com/,Reject
+CERT305,JMD100,Redis,Redis,Cloud,http://www.wood.biz/,Reject
+CERT307,JMD101,SnowFlake,SnowFlake,Data Engineering,https://www.conway.biz/,Reject
+CERT308,JMD102,Laravel,Laravel,Development,http://www.evans-yates.org/,Reject
+CERT309,JMD102,Node,Node,Development,https://www.campbell.biz/,Reject
+CERT312,JMD103,GCP,GCP,Cloud,https://fowler.com/,Reject
+CERT314,JMD104,Angular,Angular,Development,https://www.thompson-gillespie.com/,Reject
+CERT316,JMD105,Big Data,Big Data,Data Science,https://www.wright.com/,Reject
+CERT317,JMD105,Azure,Azure,Cloud,http://white.info/,Reject
+CERT318,JMD106,Python,Python,Data Science,http://www.valdez.com/,Reject
+CERT319,JMD107,Azure,Azure,Cloud,http://www.jones.com/,Reject
+CERT323,JMD107,Applied ML,Applied ML,Data Science,http://www.hudson.com/,Reject
+CERT324,JMD108,Python,Python,Data Science,http://www.phillips-ramirez.com/,Reject
+CERT326,JMD109,SnowFlake,SnowFlake,Data Engineering,http://www.newton-payne.info/,Reject
+CERT329,JMD109,Laravel,Laravel,Development,http://french-wells.biz/,Reject
+CERT330,JMD110,Angular,Angular,Development,https://www.ryan.com/,Reject
+CERT331,JMD110,Azure,Azure,Cloud,http://www.curry-pierce.com/,Reject
+CERT333,JMD111,DBT,DBT,Data Engineering,https://www.jackson.com/,Reject
+CERT334,JMD111,SnowFlake,SnowFlake,Data Engineering,https://www.potter.info/,Reject
+CERT340,JMD114,Python,Python,Data Science,https://mccormick-duran.com/,Reject
+CERT341,JMD114,DBT,DBT,Data Engineering,https://www.pratt.com/,Reject
+CERT343,JMD115,DBT,DBT,Data Engineering,https://norton-wyatt.com/,Reject
+CERT345,JMD116,Flutter,Flutter,Development,https://www.rodriguez-sanchez.net/,Reject
+CERT347,JMD116,Angular,Angular,Development,https://harper.org/,Reject
+CERT348,JMD117,Data Bricks,Data Bricks,Data Engineering,http://blake.com/,Reject
+CERT349,JMD117,DBT,DBT,Data Engineering,https://smith-pennington.info/,Reject
+CERT351,JMD118,Python,Python,Data Science,http://johnson.info/,Reject
+CERT354,JMD118,GCP,GCP,Cloud,https://carter.com/,Reject
+CERT355,JMD119,Python,Python,Data Science,https://dalton.com/,Reject
+CERT357,JMD119,Big Data,Big Data,Data Science,http://www.miles.org/,Reject
+CERT358,JMD119,SnowFlake,SnowFlake,Data Engineering,https://www.jones-patel.com/,Reject
+CERT359,JMD119,Web Scraping,Web Scraping,Data Engineering,https://williams.com/,Reject
+CERT360,JMD119,Python,Python,Data Engineering,https://villarreal.org/,Reject
+CERT361,JMD120,Node,Node,Development,https://lopez.com/,Reject
+CERT365,JMD121,Big Data,Big Data,Data Science,https://gibson-ramos.com/,Reject
+CERT367,JMD121,Data Bricks,Data Bricks,Data Engineering,https://www.brennan.com/,Reject
+CERT369,JMD121,Web Scraping,Web Scraping,Data Engineering,https://www.hays.org/,Reject
+CERT370,JMD122,Flutter,Flutter,Development,http://anderson.info/,Reject
+CERT372,JMD122,React Native,React Native,Development,http://www.white-liu.biz/,Reject
+CERT373,JMD123,Laravel,Laravel,Development,http://www.porter.com/,Reject
+CERT374,JMD123,Reactjs,Reactjs,Development,http://kennedy-hill.com/,Reject
+CERT376,JMD124,Reactjs,Reactjs,Development,http://lozano-miller.com/,Reject
+CERT377,JMD124,Angular,Angular,Development,http://www.jefferson-foster.info/,Reject
+CERT387,JMD128,Data Bricks,Data Bricks,Data Engineering,http://keller.net/,Reject
+CERT393,JMD130,Data Bricks,Data Bricks,Data Engineering,http://www.bowen.net/,Reject
+CERT394,JMD131,SnowFlake,SnowFlake,Data Engineering,http://morrison.com/,Reject
+CERT396,JMD132,AWS,AWS,Cloud,http://williamson.com/,Reject
+CERT397,JMD132,Big Data,Big Data,Data Science,http://www.salazar.org/,Reject
+CERT399,JMD133,Python,Python,Data Engineering,https://www.robinson.net/,Reject
+CERT401,JMD133,Data Bricks,Data Bricks,Data Engineering,https://morales-davidson.com/,Reject
+CERT403,JMD133,Next Js,Next Js,Development,http://garza.biz/,Reject
+CERT405,JMD134,GCP,GCP,Cloud,https://www.walker-figueroa.com/,Reject
+CERT415,JMD137,React Native,React Native,Development,http://www.scott.net/,Reject
+CERT417,JMD137,Next Js,Next Js,Development,https://www.james.info/,Reject
+CERT419,JMD138,Azure,Azure,Cloud,http://singleton-moore.com/,Reject
+CERT420,JMD138,Redis,Redis,Cloud,https://knight.com/,Reject
+CERT423,JMD139,Python,Python,Data Science,http://pham-berry.info/,Reject
+CERT424,JMD139,Python,Python,Data Engineering,https://king.com/,Reject
+CERT425,JMD139,DBT,DBT,Data Engineering,https://www.robinson.org/,Reject
+CERT426,JMD140,Flutter,Flutter,Development,https://www.robinson.com/,Reject
+CERT427,JMD140,Angular,Angular,Development,http://mcfarland.com/,Reject
+CERT428,JMD141,Big Data,Big Data,Data Science,https://www.brewer-shelton.biz/,Reject
+CERT430,JMD141,DBT,DBT,Data Engineering,http://www.reyes-figueroa.com/,Reject
+CERT431,JMD141,Python,Python,Data Engineering,https://www.walker-evans.info/,Reject
+CERT433,JMD142,SnowFlake,SnowFlake,Data Engineering,http://hicks.com/,Reject
+CERT444,JMD147,Applied ML,Applied ML,Data Science,https://phillips-jones.biz/,Reject
+CERT445,JMD147,Python,Python,Data Science,http://www.reed.biz/,Reject
+CERT446,JMD147,Big Data,Big Data,Data Science,https://gardner.com/,Reject
+CERT447,JMD148,Azure,Azure,Cloud,https://www.vasquez.com/,Reject
+CERT453,JMD149,Applied ML,Applied ML,Data Science,https://aguirre.com/,Reject
+CERT454,JMD149,Big Data,Big Data,Data Science,http://www.perkins.com/,Reject
+CERT458,JMD151,Azure,Azure,Cloud,https://martin-owens.com/,Reject
+CERT459,JMD151,Redis,Redis,Cloud,https://bell.info/,Reject
+CERT460,JMD152,Python,Python,Data Engineering,http://bowers.com/,Reject
+CERT466,JMD153,Next Js,Next Js,Development,https://www.miller.biz/,Reject
+CERT467,JMD154,Azure,Azure,Cloud,https://www.anderson.info/,Reject
+CERT468,JMD154,GCP,GCP,Cloud,http://www.lindsey.biz/,Reject
+CERT469,JMD154,AWS,AWS,Cloud,http://www.ramirez.com/,Reject
+CERT470,JMD154,Big Data,Big Data,Data Science,http://www.tran.info/,Reject
+CERT472,JMD154,Applied ML,Applied ML,Data Science,http://www.gonzalez.biz/,Reject
+CERT475,JMD156,Big Data,Big Data,Data Science,https://gonzalez.com/,Reject
+CERT477,JMD156,Applied ML,Applied ML,Data Science,https://chang-martin.net/,Reject
+CERT478,JMD157,Data Bricks,Data Bricks,Data Engineering,https://www.garrison.biz/,Reject
+CERT482,JMD159,Next Js,Next Js,Development,http://hawkins.com/,Reject
+CERT483,JMD160,React Native,React Native,Development,http://franklin.com/,Reject
+CERT487,JMD160,Python,Python,Data Science,http://cunningham-parks.com/,Reject
+CERT488,JMD161,GCP,GCP,Cloud,https://diaz-berg.info/,Reject
+CERT489,JMD161,Azure,Azure,Cloud,http://www.houston.com/,Reject
+CERT490,JMD161,AWS,AWS,Cloud,https://allen.net/,Reject
+CERT492,JMD163,AWS,AWS,Cloud,http://johnson.com/,Reject
+CERT493,JMD164,Laravel,Laravel,Development,http://www.trevino.net/,Reject
+CERT495,JMD165,Applied ML,Applied ML,Data Science,http://www.martinez-friedman.com/,Reject
+CERT497,JMD165,Web Scraping,Web Scraping,Data Engineering,http://www.wade.com/,Reject
+CERT499,JMD166,AWS,AWS,Cloud,http://www.cuevas.com/,Reject
+CERT500,JMD166,Azure,Azure,Cloud,http://smith-esparza.biz/,Reject
+CERT501,JMD166,Python,Python,Data Science,http://www.shaffer.org/,Reject
+CERT502,JMD166,Applied ML,Applied ML,Data Science,http://www.bullock.com/,Reject
+CERT505,JMD167,Python,Python,Data Science,https://garcia.net/,Reject
+CERT507,JMD168,Node,Node,Development,https://ayers.info/,Reject
+CERT508,JMD168,Flutter,Flutter,Development,http://jackson.com/,Reject
+CERT510,JMD169,Node,Node,Development,http://www.adkins-cox.com/,Reject
+CERT511,JMD169,DBT,DBT,Data Engineering,https://www.davis-allen.com/,Reject
+CERT512,JMD169,SnowFlake,SnowFlake,Data Engineering,https://nelson.com/,Reject
+CERT513,JMD169,Web Scraping,Web Scraping,Data Engineering,http://www.smith-lawson.com/,Reject
+CERT516,JMD170,Redis,Redis,Cloud,http://www.perez-davila.com/,Reject
+CERT517,JMD170,Python,Python,Data Engineering,https://www.durham-watson.biz/,Reject
+CERT518,JMD171,Next Js,Next Js,Development,https://russell-cooper.info/,Reject
+CERT520,JMD171,SnowFlake,SnowFlake,Data Engineering,http://castro-fitzpatrick.info/,Reject
+CERT521,JMD171,Web Scraping,Web Scraping,Data Engineering,https://www.huang.com/,Reject
+CERT522,JMD172,GCP,GCP,Cloud,http://gibson.net/,Reject
+CERT523,JMD172,Redis,Redis,Cloud,https://mckinney.info/,Reject
+CERT524,JMD172,DBT,DBT,Data Engineering,https://howe.info/,Reject
+CERT525,JMD172,Web Scraping,Web Scraping,Data Engineering,https://brown.com/,Reject
+CERT526,JMD173,AWS,AWS,Cloud,http://hubbard.info/,Reject
+CERT527,JMD173,Azure,Azure,Cloud,https://www.walton.com/,Reject
+CERT530,JMD174,AWS,AWS,Cloud,http://www.dunlap.com/,Reject
+CERT531,JMD175,Data Bricks,Data Bricks,Data Engineering,https://rice.info/,Reject
+CERT532,JMD175,Python,Python,Data Engineering,https://www.martin-herrera.info/,Reject
+CERT535,JMD176,Next Js,Next Js,Development,http://www.collier.com/,Reject
+CERT536,JMD176,Python,Python,Data Engineering,https://pope-sanchez.info/,Reject
+CERT537,JMD177,Laravel,Laravel,Development,https://garcia.com/,Reject
+CERT538,JMD177,React Native,React Native,Development,http://www.alvarez.com/,Reject
+CERT540,JMD178,Python,Python,Data Engineering,http://www.anderson.com/,Reject
+CERT541,JMD178,DBT,DBT,Data Engineering,https://macdonald.com/,Reject
+CERT542,JMD178,React Native,React Native,Development,http://cook.info/,Reject
+CERT544,JMD178,Laravel,Laravel,Development,https://www.carter-smith.com/,Reject
+CERT545,JMD179,Reactjs,Reactjs,Development,http://www.rogers.com/,Reject
+CERT547,JMD179,Angular,Angular,Development,https://www.monroe-reynolds.org/,Reject
+CERT549,JMD180,AWS,AWS,Cloud,https://king-clark.net/,Reject
+CERT551,JMD181,Next Js,Next Js,Development,http://www.norton-merritt.info/,Reject
+CERT552,JMD181,Node,Node,Development,http://dean.net/,Reject
+CERT553,JMD182,GCP,GCP,Cloud,https://davis-thomas.com/,Reject
+CERT554,JMD182,Web Scraping,Web Scraping,Data Engineering,http://rice-hart.com/,Reject
+CERT556,JMD182,SnowFlake,SnowFlake,Data Engineering,http://www.garcia.com/,Reject
+CERT565,JMD185,Applied ML,Applied ML,Data Science,http://pitts.com/,Reject
+CERT566,JMD185,Python,Python,Data Engineering,https://ray.com/,Reject
+CERT567,JMD185,Data Bricks,Data Bricks,Data Engineering,https://www.stokes.com/,Reject
+CERT569,JMD186,AWS,AWS,Cloud,https://taylor.com/,Reject
+CERT570,JMD186,GCP,GCP,Cloud,http://www.flowers-graves.com/,Reject
+CERT573,JMD187,Applied ML,Applied ML,Data Science,https://www.walters-williams.com/,Reject
+CERT574,JMD188,GCP,GCP,Cloud,http://www.king.net/,Reject
+CERT578,JMD189,Applied ML,Applied ML,Data Science,https://allison.com/,Reject
+CERT580,JMD189,Azure,Azure,Cloud,https://www.wilson.net/,Reject
+CERT588,JMD192,Flutter,Flutter,Development,https://tucker-alvarez.com/,Reject
+CERT589,JMD193,Python,Python,Data Engineering,http://www.robinson.com/,Reject
+CERT591,JMD194,React Native,React Native,Development,https://www.kim.com/,Reject
+CERT595,JMD195,React Native,React Native,Development,https://www.cook-oneal.com/,Reject
+CERT597,JMD195,Reactjs,Reactjs,Development,https://www.carter.com/,Reject
+CERT599,JMD195,Applied ML,Applied ML,Data Science,https://www.sanchez-barrett.com/,Reject
+CERT600,JMD195,Python,Python,Data Science,http://www.jones-brooks.com/,Reject
+CERT601,JMD196,Web Scraping,Web Scraping,Data Engineering,http://www.adams.com/,Reject
+CERT602,JMD196,Data Bricks,Data Bricks,Data Engineering,http://www.ingram-wade.com/,Reject
+CERT603,JMD196,SnowFlake,SnowFlake,Data Engineering,https://www.wood.net/,Reject
+CERT605,JMD197,DBT,DBT,Data Engineering,https://www.perry-wright.com/,Reject
+CERT607,JMD198,Data Bricks,Data Bricks,Data Engineering,https://barber-bautista.com/,Reject
+CERT610,JMD198,Big Data,Big Data,Data Science,https://www.scott.com/,Reject
+CERT611,JMD198,Applied ML,Applied ML,Data Science,http://flores.com/,Reject
+CERT614,JMD199,Applied ML,Applied ML,Data Science,https://coleman-edwards.org/,Reject
+CERT615,JMD200,AWS,AWS,Cloud,https://www.arellano.com/,Reject
+CERT620,JMD202,Angular,Angular,Development,http://hoffman.com/,Reject
+CERT621,JMD202,Node,Node,Development,http://www.thomas-reed.com/,Reject
+CERT626,JMD204,GCP,GCP,Cloud,http://anderson-shaw.com/,Reject
+CERT627,JMD205,Laravel,Laravel,Development,http://thornton.com/,Reject
+CERT628,JMD205,React Native,React Native,Development,http://spears.com/,Reject
+CERT629,JMD205,AWS,AWS,Cloud,https://www.watson.com/,Reject
+CERT631,JMD206,Web Scraping,Web Scraping,Data Engineering,http://harris.com/,Reject
+CERT634,JMD206,Node,Node,Development,https://clark.info/,Reject
+CERT635,JMD206,Next Js,Next Js,Development,http://www.hicks.com/,Reject
+CERT637,JMD207,Laravel,Laravel,Development,http://macdonald.org/,Reject
+CERT638,JMD207,Next Js,Next Js,Development,https://palmer.info/,Reject
+CERT639,JMD208,GCP,GCP,Cloud,http://www.edwards.com/,Reject
+CERT640,JMD208,Redis,Redis,Cloud,http://www.rosario-davis.com/,Reject
+CERT642,JMD208,Angular,Angular,Development,http://www.baker.com/,Reject
+CERT646,JMD209,Python,Python,Data Science,http://www.richardson.org/,Reject
+CERT648,JMD210,SnowFlake,SnowFlake,Data Engineering,https://hernandez-rodriguez.com/,Reject
+CERT656,JMD212,Azure,Azure,Cloud,https://www.rodriguez-reed.info/,Reject
+CERT658,JMD213,MySQL,MySQL,Data Engineering,https://www.lopez.com/,Reject
+CERT664,JMD214,GCP,GCP,Cloud,https://gardner-williams.org/,Reject
+CERT668,JMD215,Web Scraping,Web Scraping,Data Engineering,http://boyd-eaton.com/,Reject
+CERT669,JMD215,Applied ML,Applied ML,Data Science,https://www.campbell.com/,Reject
+CERT671,JMD216,Applied ML,Applied ML,Data Science,http://www.davis-johnson.biz/,Reject
+CERT672,JMD216,Big Data,Big Data,Data Science,https://lee-cervantes.info/,Reject
+CERT673,JMD216,Data Bricks,Data Bricks,Data Engineering,http://lopez-boyer.biz/,Reject
+CERT678,JMD218,Azure,Azure,Cloud,https://thompson.biz/,Reject
+CERT681,JMD219,Python,Python,Data Science,https://www.gray-yang.com/,Reject
+CERT683,JMD219,Reactjs,Reactjs,Development,http://www.harris-cook.com/,Reject
+CERT685,JMD220,Next Js,Next Js,Development,http://dickerson.com/,Reject
+CERT689,JMD221,Flutter,Flutter,Development,http://www.perry.biz/,Reject
+CERT690,JMD222,Applied ML,Applied ML,Data Science,https://www.roy.org/,Reject
+CERT693,JMD223,Python,Python,Data Engineering,http://www.norris.net/,Reject
+CERT695,JMD223,Next Js,Next Js,Development,https://fields.biz/,Reject
+CERT698,JMD224,DBT,DBT,Data Engineering,http://www.lopez.info/,Reject
+CERT699,JMD224,Web Scraping,Web Scraping,Data Engineering,http://www.carlson-york.com/,Reject
+CERT700,JMD224,Laravel,Laravel,Development,https://www.garza.com/,Reject
+CERT703,JMD225,Applied ML,Applied ML,Data Science,https://www.miles.com/,Reject
+CERT704,JMD225,Big Data,Big Data,Data Science,https://www.fernandez.com/,Reject
+CERT707,JMD227,Redis,Redis,Cloud,http://sutton.biz/,Reject
+CERT708,JMD227,Python,Python,Data Engineering,https://williamson-gibbs.info/,Reject
+CERT710,JMD228,Web Scraping,Web Scraping,Data Engineering,http://www.ross-velazquez.com/,Reject
+CERT711,JMD228,Applied ML,Applied ML,Data Science,https://www.elliott.biz/,Reject
+CERT713,JMD228,Big Data,Big Data,Data Science,http://www.perry-valdez.com/,Reject
+CERT717,JMD229,Data Bricks,Data Bricks,Data Engineering,http://marks-adkins.com/,Reject
+CERT721,JMD231,Big Data,Big Data,Data Science,https://www.mitchell-paul.net/,Reject
+CERT725,JMD233,Redis,Redis,Cloud,https://www.patel-mason.com/,Reject
+CERT728,JMD234,Python,Python,Data Engineering,https://smith-prince.biz/,Reject
+CERT731,JMD236,GCP,GCP,Cloud,http://www.little-flores.com/,Reject
+CERT732,JMD236,AWS,AWS,Cloud,http://www.harrell.com/,Reject
+CERT733,JMD236,MySQL,MySQL,Data Engineering,https://johnson.com/,Reject
+CERT734,JMD236,SnowFlake,SnowFlake,Data Engineering,http://ochoa.biz/,Reject
+CERT735,JMD236,DBT,DBT,Data Engineering,https://hall.info/,Reject
+CERT738,JMD237,GCP,GCP,Cloud,https://www.davis.com/,Reject
+CERT740,JMD237,Applied ML,Applied ML,Data Science,http://mcintyre.com/,Reject
+CERT744,JMD239,Redis,Redis,Cloud,http://french.net/,Reject
+CERT745,JMD239,Web Scraping,Web Scraping,Data Engineering,http://www.woodward.biz/,Reject
+CERT748,JMD240,Flutter,Flutter,Development,http://brown.com/,Reject
+CERT749,JMD240,Next Js,Next Js,Development,https://www.long-harvey.com/,Reject
+CERT751,JMD241,AWS,AWS,Cloud,http://www.campbell.biz/,Reject
+CERT752,JMD242,SnowFlake,SnowFlake,Data Engineering,https://www.henson-matthews.org/,Reject
+CERT753,JMD242,Python,Python,Data Engineering,http://dominguez.com/,Reject
+CERT758,JMD243,AWS,AWS,Cloud,https://www.rodriguez.info/,Reject
+CERT760,JMD244,MySQL,MySQL,Data Engineering,https://henry.com/,Reject
+CERT767,JMD246,Flutter,Flutter,Development,https://www.bond.com/,Reject
+CERT769,JMD246,SnowFlake,SnowFlake,Data Engineering,http://www.mora.com/,Reject
+CERT770,JMD246,Web Scraping,Web Scraping,Data Engineering,https://evans-rosario.info/,Reject
+CERT771,JMD247,Laravel,Laravel,Development,https://www.thompson-miller.com/,Reject
+CERT773,JMD247,React Native,React Native,Development,https://campos-english.info/,Reject
+CERT774,JMD248,Python,Python,Data Science,http://gomez.com/,Reject
+CERT775,JMD248,Big Data,Big Data,Data Science,https://patrick-webb.com/,Reject
+CERT776,JMD248,Applied ML,Applied ML,Data Science,https://www.salazar-chandler.com/,Reject
+CERT777,JMD248,Next Js,Next Js,Development,https://www.brown.com/,Reject
+CERT778,JMD248,Reactjs,Reactjs,Development,http://carpenter-soto.com/,Reject
+CERT779,JMD248,Flutter,Flutter,Development,https://patel-allison.com/,Reject
+CERT781,JMD249,Angular,Angular,Development,http://www.gutierrez-lynn.com/,Reject
+CERT782,JMD249,Laravel,Laravel,Development,https://www.kirby.com/,Reject
+CERT783,JMD250,DBT,DBT,Data Engineering,http://brown.com/,Reject
+CERT784,JMD250,Data Bricks,Data Bricks,Data Engineering,http://www.luna.info/,Reject
+CERT785,JMD251,Laravel,Laravel,Development,https://diaz.com/,Reject
+CERT787,JMD251,Next Js,Next Js,Development,https://wilson.org/,Reject
+CERT792,JMD253,Python,Python,Data Science,https://www.potts.org/,Reject
+CERT801,JMD256,Azure,Azure,Cloud,http://www.jimenez-meyer.org/,Reject
+CERT802,JMD256,DBT,DBT,Data Engineering,http://kelly.com/,Reject
+CERT803,JMD256,Data Bricks,Data Bricks,Data Engineering,https://mccoy.com/,Reject
+CERT804,JMD257,DBT,DBT,Data Engineering,http://avila.com/,Reject
+CERT805,JMD257,Python,Python,Data Engineering,http://huffman.com/,Reject
+CERT808,JMD258,Angular,Angular,Development,https://delgado.com/,Reject
+CERT809,JMD258,Python,Python,Data Science,https://barnes.info/,Reject
+CERT811,JMD259,DBT,DBT,Data Engineering,https://www.lynch-hernandez.net/,Reject
+CERT812,JMD259,Python,Python,Data Engineering,http://www.porter-baldwin.biz/,Reject
+CERT813,JMD260,Node,Node,Development,https://tate-rosales.com/,Reject
+CERT814,JMD260,Flutter,Flutter,Development,https://cook.info/,Reject
+CERT815,JMD261,Python,Python,Data Science,https://kim.com/,Reject
+CERT817,JMD262,Web Scraping,Web Scraping,Data Engineering,https://mitchell.com/,Reject
+CERT819,JMD263,MySQL,MySQL,Data Engineering,https://duffy.org/,Reject
+CERT823,JMD264,Flutter,Flutter,Development,http://www.thornton.com/,Reject
+CERT824,JMD264,Python,Python,Data Science,https://smith-paul.org/,Reject
+CERT831,JMD266,React Native,React Native,Development,http://robinson.com/,Reject
+CERT832,JMD266,Next Js,Next Js,Development,https://smith-moody.info/,Reject
+CERT835,JMD267,Data Bricks,Data Bricks,Data Engineering,http://www.rogers.com/,Reject
+CERT837,JMD267,Python,Python,Data Engineering,http://www.dixon-davis.com/,Reject
+CERT845,JMD269,Python,Python,Data Engineering,http://www.perry-montgomery.com/,Reject
+CERT846,JMD269,Azure,Azure,Cloud,http://johnson.com/,Reject
+CERT849,JMD270,AWS,AWS,Cloud,http://leblanc-haas.com/,Reject
+CERT850,JMD270,GCP,GCP,Cloud,https://www.potter-hall.biz/,Reject
+CERT853,JMD270,Python,Python,Data Engineering,https://www.wise-young.com/,Reject
+CERT854,JMD271,DBT,DBT,Data Engineering,http://schneider.com/,Reject
+CERT855,JMD271,Python,Python,Data Engineering,https://tanner.com/,Reject
+CERT857,JMD272,Applied ML,Applied ML,Data Science,http://warren-best.com/,Reject
+CERT858,JMD272,Big Data,Big Data,Data Science,https://ramirez.com/,Reject
+CERT860,JMD273,Reactjs,Reactjs,Development,http://johnson.org/,Reject
+CERT861,JMD273,Laravel,Laravel,Development,https://www.valdez.info/,Reject
+CERT865,JMD275,Big Data,Big Data,Data Science,https://cardenas.net/,Reject
+CERT866,JMD276,Azure,Azure,Cloud,http://hoover-dixon.info/,Reject
+CERT867,JMD276,GCP,GCP,Cloud,http://hamilton.com/,Reject
+CERT868,JMD276,Redis,Redis,Cloud,http://www.hall.com/,Reject
+CERT874,JMD278,DBT,DBT,Data Engineering,http://www.parrish-wood.info/,Reject
+CERT875,JMD278,Web Scraping,Web Scraping,Data Engineering,https://www.phillips-murillo.com/,Reject
+CERT876,JMD278,Data Bricks,Data Bricks,Data Engineering,http://www.reed.com/,Reject
+CERT878,JMD279,Big Data,Big Data,Data Science,https://myers.com/,Reject
+CERT879,JMD280,Python,Python,Data Science,http://lewis-smith.com/,Reject
+CERT881,JMD281,Node,Node,Development,http://williams.com/,Reject
+CERT882,JMD282,Laravel,Laravel,Development,https://www.miller.org/,Reject
+CERT883,JMD282,Reactjs,Reactjs,Development,https://webster.org/,Reject
+CERT889,JMD284,Angular,Angular,Development,https://whitney-rodriguez.net/,Reject
+CERT891,JMD285,Redis,Redis,Cloud,https://www.coleman-thomas.com/,Reject
+CERT892,JMD285,Azure,Azure,Cloud,https://www.garrett.biz/,Reject
+CERT898,JMD287,Next Js,Next Js,Development,https://owen-lewis.org/,Reject
+CERT900,JMD287,Angular,Angular,Development,http://robbins-turner.com/,Reject
+CERT905,JMD289,Python,Python,Data Science,http://harrison.biz/,Reject
+CERT906,JMD289,Applied ML,Applied ML,Data Science,http://www.white.net/,Reject
+CERT907,JMD290,Azure,Azure,Cloud,https://warren.com/,Reject
+CERT908,JMD290,AWS,AWS,Cloud,http://www.graves-brown.com/,Reject
+CERT911,JMD291,Big Data,Big Data,Data Science,http://www.parks.org/,Reject
+CERT915,JMD291,Reactjs,Reactjs,Development,https://www.fernandez.info/,Reject
+CERT917,JMD292,GCP,GCP,Cloud,http://www.eaton.com/,Reject
+CERT920,JMD294,Redis,Redis,Cloud,http://www.dean-caldwell.com/,Reject
+CERT923,JMD295,Web Scraping,Web Scraping,Data Engineering,https://griffin-johnson.net/,Reject
+CERT927,JMD296,Applied ML,Applied ML,Data Science,http://www.smith.org/,Reject
+CERT928,JMD297,Big Data,Big Data,Data Science,https://www.garcia-castillo.com/,Reject
+CERT929,JMD297,Applied ML,Applied ML,Data Science,https://www.allen-johnson.info/,Reject
+CERT930,JMD297,Python,Python,Data Science,http://gates.info/,Reject
+CERT931,JMD297,Node,Node,Development,https://www.mcpherson-ryan.com/,Reject
+CERT933,JMD298,Angular,Angular,Development,https://ballard.com/,Reject
+CERT934,JMD298,Flutter,Flutter,Development,https://hernandez-williams.com/,Reject
+CERT935,JMD299,AWS,AWS,Cloud,http://www.vaughn-vance.biz/,Reject
+CERT936,JMD299,MySQL,MySQL,Data Engineering,https://www.vasquez-wood.com/,Reject
+CERT939,JMD300,MySQL,MySQL,Data Engineering,http://lucero.com/,Reject
+CERT940,JMD300,SnowFlake,SnowFlake,Data Engineering,http://www.robles.biz/,Reject
+CERT941,JMD300,GCP,GCP,Cloud,https://jones-ayala.info/,Reject
+CERT942,JMD300,Azure,Azure,Cloud,https://www.hunt.com/,Reject
+CERT943,JMD301,Big Data,Big Data,Data Science,http://robinson.org/,Reject
+CERT944,JMD301,Python,Python,Data Science,http://young.com/,Reject
+CERT946,JMD302,MySQL,MySQL,Data Engineering,https://mckinney-porter.com/,Reject
+CERT949,JMD304,AWS,AWS,Cloud,https://garcia-floyd.info/,Reject
+CERT950,JMD304,GCP,GCP,Cloud,http://www.patel.info/,Reject
+CERT951,JMD304,Redis,Redis,Cloud,http://www.hicks.org/,Reject
+CERT956,JMD306,Angular,Angular,Development,https://phillips-patterson.com/,Reject
+CERT958,JMD306,GCP,GCP,Cloud,https://mclaughlin.com/,Reject
+CERT959,JMD306,AWS,AWS,Cloud,https://www.brown-saunders.com/,Reject
+CERT960,JMD307,Reactjs,Reactjs,Development,http://rodriguez-steele.com/,Reject
+CERT962,JMD307,Azure,Azure,Cloud,http://www.miller-dean.com/,Reject
+CERT963,JMD308,Azure,Azure,Cloud,http://www.perez-duncan.org/,Reject
+CERT972,JMD312,AWS,AWS,Cloud,https://mcgee.com/,Reject
+CERT973,JMD312,Flutter,Flutter,Development,http://durham.com/,Reject
+CERT978,JMD313,Redis,Redis,Cloud,https://www.figueroa.org/,Reject
+CERT979,JMD313,GCP,GCP,Cloud,https://www.norton-smith.org/,Reject
+CERT980,JMD314,React Native,React Native,Development,http://www.green.com/,Reject
+CERT988,JMD317,Azure,Azure,Cloud,http://calhoun-smith.com/,Reject
+CERT989,JMD317,Next Js,Next Js,Development,https://www.summers.org/,Reject
+CERT990,JMD318,Applied ML,Applied ML,Data Science,https://www.vargas.com/,Reject
+CERT992,JMD318,Python,Python,Data Science,http://www.miller.com/,Reject
+CERT993,JMD318,MySQL,MySQL,Data Engineering,http://webb.com/,Reject
+CERT995,JMD319,Applied ML,Applied ML,Data Science,http://www.carpenter-ferguson.com/,Reject
+CERT996,JMD319,Python,Python,Data Science,http://ford.com/,Reject
+CERT997,JMD320,SnowFlake,SnowFlake,Data Engineering,https://young.com/,Reject
+CERT998,JMD320,Data Bricks,Data Bricks,Data Engineering,https://www.hansen.net/,Reject
+CERT999,JMD321,React Native,React Native,Development,http://reed-farmer.com/,Reject
+CERT1001,JMD321,Node,Node,Development,https://www.hunt.com/,Reject
+CERT1002,JMD321,Data Bricks,Data Bricks,Data Engineering,https://www.black.info/,Reject
+CERT1003,JMD321,Python,Python,Data Engineering,http://www.baxter.com/,Reject
+CERT1008,JMD324,SnowFlake,SnowFlake,Data Engineering,https://beasley.com/,Reject
+CERT1009,JMD324,Data Bricks,Data Bricks,Data Engineering,https://www.dudley.net/,Reject
+CERT1012,JMD325,MySQL,MySQL,Data Engineering,https://www.strong.biz/,Reject
+CERT1016,JMD327,GCP,GCP,Cloud,https://www.shannon.com/,Reject
+CERT1017,JMD327,Azure,Azure,Cloud,https://bennett-meadows.net/,Reject
+CERT1018,JMD328,Big Data,Big Data,Data Science,https://www.morrow.com/,Reject
+CERT1019,JMD328,Python,Python,Data Science,https://www.davis.com/,Reject
+CERT1020,JMD328,DBT,DBT,Data Engineering,http://burke.com/,Reject
+CERT1022,JMD328,Web Scraping,Web Scraping,Data Engineering,http://www.fitzgerald.org/,Reject
+CERT1023,JMD329,Applied ML,Applied ML,Data Science,https://taylor.info/,Reject
+CERT1024,JMD329,Big Data,Big Data,Data Science,http://moody.com/,Reject
+CERT1026,JMD329,Redis,Redis,Cloud,http://www.hernandez.com/,Reject
+CERT1029,JMD331,Python,Python,Data Science,https://www.moore.com/,Reject
+CERT1030,JMD331,Big Data,Big Data,Data Science,http://medina-williams.org/,Reject
+CERT1031,JMD331,Flutter,Flutter,Development,http://www.dixon.org/,Reject
+CERT1032,JMD332,Python,Python,Data Engineering,http://owens.com/,Reject
+CERT1033,JMD332,SnowFlake,SnowFlake,Data Engineering,https://garcia-richardson.info/,Reject
+CERT1034,JMD332,DBT,DBT,Data Engineering,http://www.johnston.com/,Reject
+CERT1035,JMD333,Next Js,Next Js,Development,http://newman.info/,Reject
+CERT1039,JMD333,Web Scraping,Web Scraping,Data Engineering,http://www.gardner-wolfe.net/,Reject
+CERT1041,JMD334,Next Js,Next Js,Development,https://hamilton.com/,Reject
+CERT1042,JMD334,Laravel,Laravel,Development,http://harrison.biz/,Reject
+CERT1043,JMD334,Applied ML,Applied ML,Data Science,https://maddox-brown.com/,Reject
+CERT1044,JMD335,Python,Python,Data Science,http://www.hammond.biz/,Reject
+CERT1045,JMD336,Data Bricks,Data Bricks,Data Engineering,https://montoya.net/,Reject
+CERT1048,JMD338,Python,Python,Data Engineering,http://www.moreno.info/,Reject
+CERT1049,JMD338,DBT,DBT,Data Engineering,https://www.wright-williams.com/,Reject
+CERT1051,JMD339,Azure,Azure,Cloud,http://kerr.info/,Reject
+CERT1052,JMD339,Redis,Redis,Cloud,https://moran.com/,Reject
+CERT1053,JMD340,Laravel,Laravel,Development,http://www.nguyen.com/,Reject
+CERT1054,JMD340,Node,Node,Development,http://ewing.com/,Reject
+CERT1056,JMD341,Python,Python,Data Engineering,https://www.thompson-harris.com/,Reject
+CERT1057,JMD341,Web Scraping,Web Scraping,Data Engineering,https://suarez.net/,Reject
+CERT1062,JMD343,Node,Node,Development,https://robinson-santana.com/,Reject
+CERT1063,JMD343,Angular,Angular,Development,http://jones.com/,Reject
+CERT1067,JMD344,MySQL,MySQL,Data Engineering,http://www.garcia-lopez.info/,Reject
+CERT1068,JMD344,Web Scraping,Web Scraping,Data Engineering,https://www.graham.net/,Reject
+CERT1069,JMD344,SnowFlake,SnowFlake,Data Engineering,http://freeman.info/,Reject
+CERT1070,JMD345,Web Scraping,Web Scraping,Data Engineering,https://www.garcia-maldonado.com/,Reject
+CERT1071,JMD345,DBT,DBT,Data Engineering,http://murphy.com/,Reject
+CERT1073,JMD346,Big Data,Big Data,Data Science,http://www.meza.net/,Reject
+CERT1075,JMD346,Next Js,Next Js,Development,http://howard.net/,Reject
+CERT1076,JMD346,Angular,Angular,Development,https://landry-allen.com/,Reject
+CERT1078,JMD347,Big Data,Big Data,Data Science,https://www.cordova-butler.info/,Reject
+CERT1081,JMD347,Angular,Angular,Development,http://www.gregory.org/,Reject
+CERT1082,JMD347,Next Js,Next Js,Development,https://rodriguez.com/,Reject
+CERT1085,JMD348,React Native,React Native,Development,http://www.coffey.com/,Reject
+CERT1086,JMD349,Data Bricks,Data Bricks,Data Engineering,http://www.jackson.com/,Reject
+CERT1092,JMD351,Big Data,Big Data,Data Science,https://www.blankenship.net/,Reject
+CERT1093,JMD352,AWS,AWS,Cloud,http://www.smith.org/,Reject
+CERT1094,JMD352,Redis,Redis,Cloud,https://www.snyder.org/,Reject
+CERT1095,JMD353,Flutter,Flutter,Development,https://www.smith-brewer.biz/,Reject
+CERT1097,JMD354,GCP,GCP,Cloud,http://wells-alvarez.biz/,Reject
+CERT1098,JMD354,Python,Python,Data Science,http://lee.com/,Reject
+CERT1099,JMD354,Applied ML,Applied ML,Data Science,https://lewis-graham.com/,Reject
+CERT1101,JMD355,Next Js,Next Js,Development,https://cortez.com/,Reject
+CERT1104,JMD356,SnowFlake,SnowFlake,Data Engineering,https://russell.com/,Reject
+CERT1111,JMD358,AWS,AWS,Cloud,http://hoffman.biz/,Reject
+CERT1112,JMD358,GCP,GCP,Cloud,https://daniel.com/,Reject
+CERT1116,JMD360,Web Scraping,Web Scraping,Data Engineering,http://www.goodwin-miller.com/,Reject
+CERT1118,JMD360,SnowFlake,SnowFlake,Data Engineering,https://www.lewis.org/,Reject
+CERT1119,JMD361,DBT,DBT,Data Engineering,http://chen-reid.com/,Reject
+CERT1120,JMD361,MySQL,MySQL,Data Engineering,http://www.green.com/,Reject
+CERT1122,JMD362,Web Scraping,Web Scraping,Data Engineering,http://www.yates-lewis.net/,Reject
+CERT1123,JMD362,Reactjs,Reactjs,Development,https://schroeder-roman.com/,Reject
+CERT1128,JMD363,Applied ML,Applied ML,Data Science,http://welch.com/,Reject
+CERT1129,JMD364,Redis,Redis,Cloud,http://www.clayton.info/,Reject
+CERT1130,JMD364,GCP,GCP,Cloud,http://gordon.com/,Reject
+CERT1131,JMD365,Python,Python,Data Engineering,http://larsen.org/,Reject
+CERT1132,JMD365,DBT,DBT,Data Engineering,http://www.french.com/,Reject
+CERT1133,JMD365,Angular,Angular,Development,http://williams.com/,Reject
+CERT1134,JMD365,Node,Node,Development,http://simpson.com/,Reject
+CERT1135,JMD365,Flutter,Flutter,Development,http://johnson.com/,Reject
+CERT1136,JMD366,Web Scraping,Web Scraping,Data Engineering,http://sosa.org/,Reject
+CERT1140,JMD366,Flutter,Flutter,Development,https://www.williams.com/,Reject
+CERT1141,JMD367,Redis,Redis,Cloud,https://young.biz/,Reject
+CERT1142,JMD367,GCP,GCP,Cloud,https://www.miller-jones.info/,Reject
+CERT1145,JMD368,Python,Python,Data Engineering,https://www.mendez.net/,Reject
+CERT1149,JMD369,Applied ML,Applied ML,Data Science,http://stuart-welch.biz/,Reject
+CERT1151,JMD370,React Native,React Native,Development,http://www.martinez.com/,Reject
+CERT1152,JMD371,DBT,DBT,Data Engineering,http://alexander.com/,Reject
+CERT1153,JMD371,Python,Python,Data Engineering,http://higgins.com/,Reject
+CERT1154,JMD371,Data Bricks,Data Bricks,Data Engineering,http://pearson.com/,Reject
+CERT1158,JMD372,Web Scraping,Web Scraping,Data Engineering,https://www.johnson-parker.net/,Reject
+CERT1160,JMD372,MySQL,MySQL,Data Engineering,https://graham-taylor.biz/,Reject
+CERT1161,JMD372,Big Data,Big Data,Data Science,http://brooks.com/,Reject
+CERT1162,JMD373,React Native,React Native,Development,https://www.hernandez.net/,Reject
+CERT1164,JMD373,Node,Node,Development,https://haynes.info/,Reject
+CERT1165,JMD374,Redis,Redis,Cloud,https://fowler-ward.com/,Reject
+CERT1169,JMD376,Python,Python,Data Science,https://www.williams.com/,Reject
+CERT1171,JMD376,Big Data,Big Data,Data Science,https://huang.com/,Reject
+CERT1172,JMD377,Applied ML,Applied ML,Data Science,http://www.patel.biz/,Reject
+CERT1175,JMD378,Big Data,Big Data,Data Science,http://www.smith.net/,Reject
+CERT1176,JMD379,Applied ML,Applied ML,Data Science,http://hamilton.biz/,Reject
+CERT1179,JMD380,React Native,React Native,Development,http://www.torres-stewart.com/,Reject
+CERT1180,JMD380,Angular,Angular,Development,https://campos.com/,Reject
+CERT1181,JMD380,Laravel,Laravel,Development,https://www.newton.com/,Reject
+CERT1184,JMD381,GCP,GCP,Cloud,http://mendoza-soto.com/,Reject
+CERT1185,JMD381,Node,Node,Development,http://www.dixon.com/,Reject
+CERT1188,JMD382,Node,Node,Development,https://clark-rogers.com/,Reject
+CERT1190,JMD383,Python,Python,Data Science,http://www.white.com/,Reject
+CERT1191,JMD383,GCP,GCP,Cloud,http://herring.net/,Reject
+CERT1192,JMD383,Azure,Azure,Cloud,https://www.king.com/,Reject
+CERT1195,JMD384,Python,Python,Data Science,https://gomez.net/,Reject
+CERT1197,JMD385,DBT,DBT,Data Engineering,http://www.sandoval.net/,Reject
+CERT1198,JMD385,SnowFlake,SnowFlake,Data Engineering,http://foster.com/,Reject
+CERT1199,JMD385,Data Bricks,Data Bricks,Data Engineering,https://young-chambers.com/,Reject
+CERT1202,JMD387,GCP,GCP,Cloud,http://sawyer-garcia.com/,Reject
+CERT1203,JMD387,Azure,Azure,Cloud,https://www.hernandez.com/,Reject
+CERT1208,JMD388,Flutter,Flutter,Development,https://rocha.com/,Reject
+CERT1213,JMD390,Python,Python,Data Engineering,https://www.phillips-james.biz/,Reject
+CERT1214,JMD391,Reactjs,Reactjs,Development,http://www.haynes.org/,Reject
+CERT1215,JMD391,Flutter,Flutter,Development,http://bishop.com/,Reject
+CERT1216,JMD391,Azure,Azure,Cloud,https://bishop-harrison.info/,Reject
+CERT1219,JMD392,Python,Python,Data Engineering,https://www.thompson.info/,Reject
+CERT1220,JMD392,GCP,GCP,Cloud,https://www.barnett.info/,Reject
+CERT1221,JMD393,Big Data,Big Data,Data Science,https://www.peterson.com/,Reject
+CERT1223,JMD393,Next Js,Next Js,Development,https://www.jones.net/,Reject
+CERT1224,JMD393,React Native,React Native,Development,http://www.hernandez.biz/,Reject
+CERT1226,JMD394,Python,Python,Data Engineering,http://www.davis-jackson.com/,Reject
+CERT1227,JMD394,Web Scraping,Web Scraping,Data Engineering,http://www.king.info/,Reject
+CERT1228,JMD395,Data Bricks,Data Bricks,Data Engineering,https://www.wiggins-johnson.net/,Reject
+CERT1230,JMD395,DBT,DBT,Data Engineering,https://page.com/,Reject
+CERT1231,JMD396,GCP,GCP,Cloud,https://www.bryant.com/,Reject
+CERT1232,JMD396,Redis,Redis,Cloud,https://www.walker-rodgers.com/,Reject
+CERT1233,JMD396,AWS,AWS,Cloud,http://ellis-johnson.com/,Reject
+CERT1234,JMD397,Python,Python,Data Science,https://www.rogers-pena.biz/,Reject
+CERT1236,JMD398,Applied ML,Applied ML,Data Science,https://alvarez.biz/,Reject
+CERT1238,JMD399,DBT,DBT,Data Engineering,http://www.moore.com/,Reject
+CERT1239,JMD399,SnowFlake,SnowFlake,Data Engineering,https://valentine.com/,Reject
+CERT1240,JMD399,Big Data,Big Data,Data Science,http://www.jimenez-young.info/,Reject
+CERT1241,JMD399,Applied ML,Applied ML,Data Science,https://burnett.net/,Reject
+CERT1243,JMD400,React Native,React Native,Development,https://www.guerra.com/,Reject
+CERT1244,JMD401,Azure,Azure,Cloud,http://garcia.com/,Reject
+CERT1249,JMD403,GCP,GCP,Cloud,https://gomez.net/,Reject
+CERT1252,JMD404,Azure,Azure,Cloud,http://www.smith-beck.org/,Reject
+CERT1254,JMD404,Python,Python,Data Science,https://www.wilson-baker.com/,Reject
+CERT1256,JMD404,Big Data,Big Data,Data Science,http://www.ortega.com/,Reject
+CERT1261,JMD405,SnowFlake,SnowFlake,Data Engineering,http://www.cooper-villarreal.com/,Reject
+CERT1263,JMD406,Flutter,Flutter,Development,http://flores.org/,Reject
+CERT1264,JMD407,Applied ML,Applied ML,Data Science,https://www.callahan-price.biz/,Reject
+CERT1265,JMD407,Python,Python,Data Science,http://www.collins.com/,Reject
+CERT1266,JMD408,Applied ML,Applied ML,Data Science,https://martinez.info/,Reject
+CERT1268,JMD408,Big Data,Big Data,Data Science,http://jones-gordon.com/,Reject
+CERT1269,JMD409,Node,Node,Development,http://www.jones.com/,Reject
+CERT1270,JMD409,Reactjs,Reactjs,Development,https://www.bailey-davis.net/,Reject
+CERT1271,JMD409,Next Js,Next Js,Development,https://www.jones.biz/,Reject
+CERT1272,JMD409,Data Bricks,Data Bricks,Data Engineering,https://bryant.com/,Reject
+CERT1273,JMD410,Redis,Redis,Cloud,https://rodriguez-clark.com/,Reject
+CERT1276,JMD411,DBT,DBT,Data Engineering,https://hooper.biz/,Reject
+CERT1278,JMD411,Next Js,Next Js,Development,https://thornton.com/,Reject
+CERT1282,JMD412,MySQL,MySQL,Data Engineering,http://www.murphy.net/,Reject
+CERT1283,JMD413,Big Data,Big Data,Data Science,http://www.perez.info/,Reject
+CERT1284,JMD413,Applied ML,Applied ML,Data Science,http://www.mitchell-ayers.com/,Reject
+CERT1287,JMD414,Azure,Azure,Cloud,https://www.phillips.net/,Reject
+CERT1288,JMD414,Data Bricks,Data Bricks,Data Engineering,http://www.patel.com/,Reject
+CERT1289,JMD415,Redis,Redis,Cloud,http://miller-wilson.com/,Reject
+CERT1292,JMD416,Big Data,Big Data,Data Science,https://www.dixon.biz/,Reject
+CERT1294,JMD416,Azure,Azure,Cloud,https://www.porter.com/,Reject
+CERT1298,JMD418,Big Data,Big Data,Data Science,http://www.collins.com/,Reject
+CERT1299,JMD418,Python,Python,Data Science,http://www.davis-dalton.net/,Reject
+CERT1300,JMD418,React Native,React Native,Development,https://www.jones.com/,Reject
+CERT1301,JMD418,Next Js,Next Js,Development,http://pitts.info/,Reject
+CERT1302,JMD418,Node,Node,Development,https://cochran.com/,Reject
+CERT1308,JMD420,Angular,Angular,Development,http://mckenzie-brewer.com/,Reject
+CERT1309,JMD420,React Native,React Native,Development,https://www.edwards-mills.info/,Reject
+CERT1311,JMD422,Python,Python,Data Engineering,https://vasquez-fleming.com/,Reject
+CERT1313,JMD424,Big Data,Big Data,Data Science,http://fisher-miller.info/,Reject
+CERT1316,JMD426,MySQL,MySQL,Data Engineering,http://smith.org/,Reject
+CERT1317,JMD426,Node,Node,Development,http://lopez.com/,Reject
+CERT1318,JMD427,React Native,React Native,Development,https://www.miller.com/,Reject
+CERT1320,JMD427,Next Js,Next Js,Development,http://www.sullivan-mitchell.com/,Reject
+CERT1322,JMD428,Python,Python,Data Science,http://www.henderson-knight.com/,Reject
+CERT1323,JMD428,React Native,React Native,Development,http://brock.biz/,Reject
+CERT1325,JMD429,AWS,AWS,Cloud,http://www.fisher.com/,Reject
+CERT1328,JMD429,Applied ML,Applied ML,Data Science,https://brown.org/,Reject
+CERT1329,JMD430,AWS,AWS,Cloud,https://bryant.biz/,Reject
+CERT1331,JMD430,Azure,Azure,Cloud,https://www.baker.com/,Reject
+CERT1333,JMD430,Applied ML,Applied ML,Data Science,https://orr-smith.com/,Reject
+CERT1334,JMD431,Redis,Redis,Cloud,http://www.terrell.org/,Reject
+CERT1339,JMD433,Big Data,Big Data,Data Science,http://www.clark.com/,Reject
+CERT1340,JMD433,Applied ML,Applied ML,Data Science,http://dalton.com/,Reject
+CERT1342,JMD434,Laravel,Laravel,Development,https://www.barnes.com/,Reject
+CERT1350,JMD436,DBT,DBT,Data Engineering,https://kane.net/,Reject
+CERT1354,JMD438,Angular,Angular,Development,https://www.johnson-villarreal.biz/,Reject
+CERT1356,JMD439,Web Scraping,Web Scraping,Data Engineering,http://rodriguez.com/,Reject
+CERT1360,JMD439,Reactjs,Reactjs,Development,http://www.rojas.info/,Reject
+CERT1361,JMD440,SnowFlake,SnowFlake,Data Engineering,https://ramos.info/,Reject
+CERT1362,JMD440,DBT,DBT,Data Engineering,http://long-mann.com/,Reject
+CERT1364,JMD441,Angular,Angular,Development,https://www.thompson-allison.com/,Reject
+CERT1366,JMD442,Applied ML,Applied ML,Data Science,https://www.watson.net/,Reject
+CERT1367,JMD442,Python,Python,Data Science,http://www.bradford.org/,Reject
+CERT1368,JMD442,Big Data,Big Data,Data Science,https://howard.info/,Reject
+CERT1372,JMD443,Python,Python,Data Science,https://hall.com/,Reject
+CERT1373,JMD443,Big Data,Big Data,Data Science,http://harris-tucker.info/,Reject
+CERT1374,JMD443,Applied ML,Applied ML,Data Science,https://cohen-hines.biz/,Reject
+CERT1376,JMD444,Azure,Azure,Cloud,http://marquez.biz/,Reject
+CERT1380,JMD445,Web Scraping,Web Scraping,Data Engineering,https://james.com/,Reject
+CERT1381,JMD446,Python,Python,Data Engineering,https://singh-garcia.com/,Reject
+CERT1387,JMD449,Applied ML,Applied ML,Data Science,https://www.smith-schultz.org/,Reject
+CERT1388,JMD449,Python,Python,Data Science,http://www.delgado.com/,Reject
+CERT1389,JMD449,Web Scraping,Web Scraping,Data Engineering,http://briggs-choi.net/,Reject
+CERT1390,JMD449,MySQL,MySQL,Data Engineering,https://bradley.com/,Reject
+CERT1391,JMD450,DBT,DBT,Data Engineering,https://www.myers.com/,Reject
+CERT1395,JMD451,Web Scraping,Web Scraping,Data Engineering,http://rollins-harris.com/,Reject
+CERT1397,JMD451,AWS,AWS,Cloud,https://schmitt.com/,Reject
+CERT1399,JMD452,MySQL,MySQL,Data Engineering,http://reyes.com/,Reject
+CERT1401,JMD452,Next Js,Next Js,Development,http://www.wood-flores.com/,Reject
+CERT1405,JMD453,React Native,React Native,Development,http://www.lang-cobb.com/,Reject
+CERT1406,JMD453,Next Js,Next Js,Development,http://www.flynn.net/,Reject
+CERT1407,JMD453,Flutter,Flutter,Development,http://www.hernandez.biz/,Reject
+CERT1408,JMD454,Python,Python,Data Science,http://sanchez.com/,Reject
+CERT1410,JMD454,Angular,Angular,Development,http://clark-steele.com/,Reject
+CERT1411,JMD454,Reactjs,Reactjs,Development,https://henderson.com/,Reject
+CERT1413,JMD455,Node,Node,Development,https://choi-johnson.com/,Reject
+CERT1416,JMD456,GCP,GCP,Cloud,http://ross.net/,Reject
+CERT1421,JMD458,AWS,AWS,Cloud,https://russell.info/,Reject
+CERT1423,JMD458,Redis,Redis,Cloud,https://mendoza-calhoun.org/,Reject
+CERT1427,JMD459,AWS,AWS,Cloud,http://kelley.biz/,Reject
+CERT1428,JMD460,Big Data,Big Data,Data Science,https://dunlap-reeves.com/,Reject
+CERT1429,JMD460,Applied ML,Applied ML,Data Science,https://ortiz-medina.info/,Reject
+CERT1430,JMD460,Python,Python,Data Science,http://phillips.biz/,Reject
+CERT1431,JMD460,React Native,React Native,Development,https://www.romero.com/,Reject
+CERT1433,JMD461,Python,Python,Data Science,https://davis.org/,Reject
+CERT1434,JMD461,Python,Python,Data Engineering,https://neal.com/,Reject
+CERT1437,JMD462,Python,Python,Data Science,http://www.bright.com/,Reject
+CERT1438,JMD462,Next Js,Next Js,Development,http://www.barnes.com/,Reject
+CERT1440,JMD463,AWS,AWS,Cloud,http://www.carr.net/,Reject
+CERT1441,JMD463,Azure,Azure,Cloud,https://www.walters.com/,Reject
+CERT1444,JMD464,Web Scraping,Web Scraping,Data Engineering,http://williams-hernandez.info/,Reject
+CERT1448,JMD466,Reactjs,Reactjs,Development,https://www.smith-mason.org/,Reject
+CERT1449,JMD466,Angular,Angular,Development,http://www.adams.com/,Reject
+CERT1453,JMD468,Applied ML,Applied ML,Data Science,https://www.herrera.net/,Reject
+CERT1455,JMD469,Redis,Redis,Cloud,https://www.hodges-bruce.info/,Reject
+CERT1456,JMD469,SnowFlake,SnowFlake,Data Engineering,https://phillips.com/,Reject
+CERT1459,JMD471,Node,Node,Development,https://www.sanders-wright.com/,Reject
+CERT1461,JMD471,Python,Python,Data Science,http://www.bowers.com/,Reject
+CERT1462,JMD472,SnowFlake,SnowFlake,Data Engineering,http://hernandez.net/,Reject
+CERT1464,JMD473,Applied ML,Applied ML,Data Science,https://www.west-brown.com/,Reject
+CERT1467,JMD473,Azure,Azure,Cloud,https://www.byrd.com/,Reject
+CERT1468,JMD474,Next Js,Next Js,Development,https://kelly.com/,Reject
+CERT1469,JMD474,Web Scraping,Web Scraping,Data Engineering,https://jones.com/,Reject
+CERT1472,JMD475,MySQL,MySQL,Data Engineering,https://www.herrera.com/,Reject
+CERT1473,JMD475,Web Scraping,Web Scraping,Data Engineering,http://duke-terry.info/,Reject
+CERT1474,JMD476,Reactjs,Reactjs,Development,https://www.wright.com/,Reject
+CERT1475,JMD476,Node,Node,Development,http://jones.info/,Reject
+CERT1478,JMD477,Flutter,Flutter,Development,http://www.santana-mathis.com/,Reject
+CERT1479,JMD478,Azure,Azure,Cloud,https://barber.org/,Reject
+CERT1480,JMD478,GCP,GCP,Cloud,http://dixon.com/,Reject
+CERT1481,JMD478,Angular,Angular,Development,https://www.curry.com/,Reject
+CERT1482,JMD478,Next Js,Next Js,Development,http://www.armstrong-wallace.biz/,Reject
+CERT1486,JMD479,Flutter,Flutter,Development,http://moore-graham.com/,Reject
+CERT1489,JMD479,AWS,AWS,Cloud,http://www.stewart.org/,Reject
+CERT1490,JMD480,Python,Python,Data Science,http://martinez.org/,Reject
+CERT1491,JMD480,DBT,DBT,Data Engineering,https://burke.biz/,Reject
+CERT1494,JMD481,Flutter,Flutter,Development,http://www.chavez.com/,Reject
+CERT1496,JMD481,Applied ML,Applied ML,Data Science,http://wright-campos.net/,Reject
+CERT1498,JMD482,Redis,Redis,Cloud,https://clark-huffman.com/,Reject
+CERT1499,JMD482,AWS,AWS,Cloud,https://diaz-smith.net/,Reject
+CERT1501,JMD482,Data Bricks,Data Bricks,Data Engineering,http://www.coleman.com/,Reject
+CERT1502,JMD482,DBT,DBT,Data Engineering,https://www.moore.net/,Reject
+CERT1504,JMD483,Azure,Azure,Cloud,https://www.rodriguez-jones.com/,Reject
+CERT1505,JMD483,Redis,Redis,Cloud,http://jackson.com/,Reject
+CERT1511,JMD484,AWS,AWS,Cloud,http://www.cook-flowers.com/,Reject
+CERT1512,JMD485,Applied ML,Applied ML,Data Science,http://www.wallace.biz/,Reject
+CERT1513,JMD485,Angular,Angular,Development,http://brown.com/,Reject
+CERT1517,JMD487,Next Js,Next Js,Development,https://www.ramirez.com/,Reject
+CERT1518,JMD487,MySQL,MySQL,Data Engineering,https://www.tucker.com/,Reject
+CERT1520,JMD489,Next Js,Next Js,Development,https://www.thomas.biz/,Reject
+CERT1522,JMD490,Redis,Redis,Cloud,https://campbell.com/,Reject
+CERT1524,JMD490,AWS,AWS,Cloud,http://www.guzman-campbell.com/,Reject
+CERT1525,JMD491,Laravel,Laravel,Development,http://roth.com/,Reject
+CERT1527,JMD491,SnowFlake,SnowFlake,Data Engineering,http://hernandez-hernandez.com/,Reject
+CERT1530,JMD492,Next Js,Next Js,Development,http://www.hill.com/,Reject
+CERT1532,JMD493,Python,Python,Data Engineering,http://www.sherman.com/,Reject
+CERT1534,JMD493,Redis,Redis,Cloud,http://hernandez.net/,Reject
+CERT1535,JMD494,GCP,GCP,Cloud,https://www.allen.com/,Reject
+CERT1537,JMD494,AWS,AWS,Cloud,http://www.watts-parker.com/,Reject
+CERT1539,JMD495,DBT,DBT,Data Engineering,https://james.com/,Reject
+CERT1540,JMD495,SnowFlake,SnowFlake,Data Engineering,https://smith.com/,Reject
+CERT1546,JMD497,Node,Node,Development,https://howard.com/,Reject
+CERT1547,JMD497,Redis,Redis,Cloud,https://leblanc.com/,Reject
+CERT1550,JMD499,Python,Python,Data Engineering,https://www.brown-cox.com/,Reject
+CERT1552,JMD499,AWS,AWS,Cloud,https://alvarez.com/,Reject
+CERT1556,JMD500,Azure,Azure,Cloud,https://www.myers.com/,Reject

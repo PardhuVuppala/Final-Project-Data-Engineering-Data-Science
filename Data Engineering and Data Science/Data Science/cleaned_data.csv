@@ -1,0 +1,500 @@
+employeeId,Skillset,CourseDepartment,adjusted_score,average_score,Suggested Skill
+JMD1,"Flutter, Reactjs",Development,174.5031545741325,87.25157728706625,React Native
+JMD10,"Redis, Azure, AWS",Cloud,358.0,119.33333333333331,GCP
+JMD100,Big Data,Data Science,91.0,91.0,Applied ML
+JMD101,SnowFlake,Data Engineering,95.0,95.0,Data Bricks
+JMD102,"Web Scraping, DBT, MySQL, Data Bricks, Python",Data Engineering,444.0,88.8,SnowFlake
+JMD103,"MySQL, Data Bricks, Python, SnowFlake",Data Engineering,354.0,88.5,Web Scraping
+JMD104,"Python, Applied ML",Data Science,249.0,124.5,Big Data
+JMD105,"Next Js, Angular",Development,248.0,124.0,Flutter
+JMD106,Python,Data Science,88.0,88.0,Applied ML
+JMD107,"Applied ML, Python",Data Science,169.5,84.75,Big Data
+JMD108,"Angular, Flutter",Development,186.0,93.0,React Native
+JMD109,"GCP, Redis, AWS",Cloud,367.0,122.33333333333331,Azure
+JMD11,Next Js,Development,97.0,97.0,Flutter
+JMD110,"GCP, Azure,  AWS",Cloud,256.5,85.5,Redis
+JMD111,Python,Data Science,100.0,100.0,Applied ML
+JMD112,"Next Js, Laravel, Flutter",Development,358.0,119.33333333333331,React Native
+JMD113,"GCP, AWS, Azure, Redis",Cloud,452.5,113.125,
+JMD114,Python,Data Engineering,96.0,96.0,SnowFlake
+JMD115,"Flutter, Reactjs, Laravel",Development,265.0,88.33333333333333,React Native
+JMD116,"Applied ML, Python",Data Science,180.0,90.0,Big Data
+JMD117,"Node, Reactjs, Flutter, React Native",Development,365.0,91.25,Next Js
+JMD118,"Angular, Reactjs",Development,178.0,89.0,Flutter
+JMD119,"Node, Next Js",Development,248.0,124.0,Flutter
+JMD12,"Node, Flutter, Angular",Development,241.0,80.33333333333333,React Native
+JMD120,"Data Bricks, MySQL",Data Engineering,163.5,81.75,SnowFlake
+JMD121,SnowFlake,Data Engineering,93.5,93.5,Data Bricks
+JMD122,"Python, Data Bricks, Web Scraping",Data Engineering,315.0,105.0,SnowFlake
+JMD123,GCP,Cloud,96.0,96.0,Redis
+JMD124,"Data Bricks, SnowFlake",Data Engineering,169.0,84.5,Python
+JMD125,Web Scraping,Data Engineering,187.0,187.0,SnowFlake
+JMD126,"Angular, Next Js",Development,175.0,87.5,Flutter
+JMD127,"Applied ML, Python, Big Data",Data Science,340.0,113.33333333333331,
+JMD128,"Python, Data Bricks, MySQL, DBT",Data Engineering,473.0,118.25,SnowFlake
+JMD129,"Applied ML, Python, Big Data",Data Science,267.0,89.0,
+JMD13,"Web Scraping, Python",Data Engineering,194.0,97.0,SnowFlake
+JMD130,"Web Scraping, MySQL",Data Engineering,181.5,90.75,SnowFlake
+JMD131,"Python, SnowFlake",Data Engineering,175.0,87.5,Data Bricks
+JMD132,"DBT, SnowFlake, Web Scraping",Data Engineering,284.0,94.66666666666669,Data Bricks
+JMD133,Python,Data Science,94.0,94.0,Applied ML
+JMD134,"Angular, React Native, Flutter, Laravel,  Next Js",Development,428.5,85.7,Next Js
+JMD135,"Applied ML, Big Data,  Python",Data Science,352.5,117.5,Python
+JMD136,Applied ML,Data Science,96.0,96.0,Python
+JMD137,"AWS, Azure, Redis, GCP",Cloud,402.0,100.5,
+JMD138,"Python, Applied ML,  Big Data",Data Science,339.0,113.0,Big Data
+JMD139,"React Native, Node",Development,183.0,91.5,Flutter
+JMD14,"Azure, GCP, AWS",Cloud,429.0,143.0,Redis
+JMD140,"GCP, Redis",Cloud,254.0,127.0,Azure
+JMD141,Data Bricks,Data Engineering,86.0,86.0,SnowFlake
+JMD142,"Big Data, Python",Data Science,282.0,141.0,Applied ML
+JMD143,MySQL,Data Engineering,97.0,97.0,SnowFlake
+JMD144,"React Native, Node",Development,259.0,129.5,Flutter
+JMD145,"AWS, Azure",Cloud,270.5,135.25,Redis
+JMD146,"GCP, Azure",Cloud,166.0,83.0,Redis
+JMD147,Redis,Cloud,95.0,95.0,Azure
+JMD148,"MySQL, Data Bricks, DBT,  Python",Data Engineering,466.5,116.625,SnowFlake
+JMD149,"Angular, Reactjs",Development,228.0,114.0,Flutter
+JMD15,"Applied ML, Python, Big Data",Data Science,427.0,142.33333333333334,
+JMD150,"Data Bricks, DBT",Data Engineering,176.0,88.0,SnowFlake
+JMD151,"Big Data, Python",Data Science,151.0,75.5,Applied ML
+JMD152,"Python, Big Data",Data Science,185.0,92.5,Applied ML
+JMD153,"DBT, Data Bricks",Data Engineering,178.5,89.25,SnowFlake
+JMD154,"React Native, Flutter",Development,195.0,97.5,Next Js
+JMD155,"Azure, Redis",Cloud,174.0,87.0,GCP
+JMD156,"Redis, AWS, GCP",Cloud,375.0,125.0,Azure
+JMD157,"Angular, Flutter, Next Js, React Native",Development,364.0,91.0,Node
+JMD158,"Python, SnowFlake, Data Bricks",Data Engineering,251.0,83.66666666666667,Web Scraping
+JMD159,Python,Data Science,94.0,94.0,Applied ML
+JMD16,"MySQL, SnowFlake",Data Engineering,242.0,121.0,Data Bricks
+JMD160,Azure,Cloud,92.0,92.0,Redis
+JMD161,"Redis, GCP",Cloud,171.0,85.5,Azure
+JMD162,"Node, Flutter",Development,255.0,127.5,React Native
+JMD163,Azure,Cloud,88.0,88.0,Redis
+JMD164,Angular,Development,90.5,90.5,Flutter
+JMD165,"Data Bricks, Web Scraping, MySQL, DBT",Data Engineering,471.5,117.875,SnowFlake
+JMD166,Laravel,Development,96.0,96.0,Flutter
+JMD167,"Laravel, Node, Reactjs, Next Js",Development,364.5,91.125,Flutter
+JMD168,"SnowFlake, Python",Data Engineering,192.0,96.0,Data Bricks
+JMD169,GCP,Cloud,98.0,98.0,Redis
+JMD17,"React Native, Flutter, Laravel",Development,270.0,90.0,Next Js
+JMD170,"Applied ML, Big Data",Data Science,268.0,134.0,Python
+JMD171,"Azure, GCP, Redis",Cloud,372.0,124.0,AWS
+JMD172,"Web Scraping, SnowFlake, DBT",Data Engineering,269.0,89.66666666666667,Data Bricks
+JMD173,"Web Scraping, DBT, MySQL",Data Engineering,268.0,89.33333333333333,SnowFlake
+JMD174,"Python, Applied ML",Data Science,339.0,169.5,Big Data
+JMD175,"Flutter, React Native",Development,154.0,77.0,Next Js
+JMD176,"Applied ML, Python",Data Science,176.0,88.0,Big Data
+JMD177,Node,Development,85.5,85.5,Flutter
+JMD178,"Azure, GCP",Cloud,281.0,140.5,Redis
+JMD179,"Azure, AWS",Cloud,280.0,140.0,Redis
+JMD18,"Redis, AWS,  GCP",Cloud,355.5,118.5,Azure
+JMD180,"Reactjs, Next Js, Node, Flutter",Development,348.5,87.125,React Native
+JMD181,"Big Data, Applied ML, Python",Data Science,328.0,109.33333333333331,
+JMD182,"MySQL, SnowFlake,  Data Bricks",Data Engineering,340.5,113.5,Data Bricks
+JMD183,"Angular, Flutter, Next Js, React Native, Laravel",Development,437.5,87.5,Node
+JMD184,"Big Data,  Applied ML",Data Science,267.0,133.5,Applied ML
+JMD185,GCP,Cloud,99.0,99.0,Redis
+JMD186,"Data Bricks, Python, SnowFlake, Web Scraping",Data Engineering,441.0,110.25,DBT
+JMD187,DBT,Data Engineering,88.0,88.0,SnowFlake
+JMD188,"Applied ML, Python,  Big Data",Data Science,262.5,87.5,Big Data
+JMD189,"SnowFlake, Python, Data Bricks",Data Engineering,341.0,113.66666666666669,Web Scraping
+JMD19,Redis,Cloud,154.0,154.0,Azure
+JMD190,GCP,Cloud,96.0,96.0,Redis
+JMD191,Redis,Cloud,173.0,173.0,Azure
+JMD192,"GCP, AWS, Azure, Redis",Cloud,448.0,112.0,
+JMD193,Applied ML,Data Science,100.0,100.0,Python
+JMD194,"Applied ML, Big Data",Data Science,337.0,168.5,Python
+JMD195,"Applied ML,  Big Data",Data Science,170.5,85.25,Python
+JMD196,"Applied ML, Python, Big Data",Data Science,416.0,138.66666666666666,
+JMD197,"Applied ML, Python",Data Science,175.0,87.5,Big Data
+JMD198,"DBT, Python",Data Engineering,171.0,85.5,SnowFlake
+JMD199,"Applied ML, Big Data, Python",Data Science,361.0,120.33333333333331,
+JMD2,SnowFlake,Data Engineering,92.0,92.0,Data Bricks
+JMD20,"Angular, Reactjs",Development,193.0,96.5,Flutter
+JMD200,"GCP, Azure",Cloud,171.0,85.5,Redis
+JMD201,"Big Data, Python",Data Science,254.0,127.0,Applied ML
+JMD202,"Python, DBT",Data Engineering,190.0,95.0,SnowFlake
+JMD203,"Python, Applied ML",Data Science,180.0,90.0,Big Data
+JMD204,"GCP, Redis",Cloud,171.0,85.5,Azure
+JMD205,Node,Development,96.0,96.0,Flutter
+JMD206,"Node, React Native, Reactjs",Development,341.5,113.83333333333331,Flutter
+JMD207,Python,Data Science,92.0,92.0,Applied ML
+JMD208,AWS,Cloud,85.5,85.5,Redis
+JMD209,"Azure, Redis",Cloud,183.0,91.5,GCP
+JMD21,GCP,Cloud,92.0,92.0,Redis
+JMD210,"Big Data, Python",Data Science,182.0,91.0,Applied ML
+JMD211,"Python, DBT",Data Engineering,182.0,91.0,SnowFlake
+JMD212,"Applied ML, Python, Big Data",Data Science,350.0,116.66666666666669,
+JMD213,"Azure, AWS, GCP",Cloud,512.0,170.66666666666666,Redis
+JMD214,Big Data,Data Science,92.0,92.0,Applied ML
+JMD215,Azure,Cloud,86.0,86.0,Redis
+JMD216,"Web Scraping, SnowFlake, Python",Data Engineering,336.5,112.16666666666669,Data Bricks
+JMD217,"Redis, Azure, AWS, GCP",Cloud,353.5,88.375,
+JMD218,"Azure, AWS, GCP",Cloud,292.0,97.33333333333331,Redis
+JMD219,"Laravel, Node",Development,264.5,132.25,Flutter
+JMD22,"Redis,  Azure,  AWS",Cloud,286.5,95.5,Azure
+JMD220,AWS,Cloud,171.0,171.0,Redis
+JMD221,"Next Js, Flutter",Development,222.0,111.0,React Native
+JMD222,GCP,Cloud,97.0,97.0,Redis
+JMD223,"Redis, Azure",Cloud,178.0,89.0,GCP
+JMD224,"Applied ML, Python",Data Science,279.0,139.5,Big Data
+JMD225,"Flutter, Laravel",Development,178.0,89.0,React Native
+JMD226,"Azure, AWS, GCP, Redis",Cloud,366.5,91.625,
+JMD227,Reactjs,Development,84.0,84.0,Flutter
+JMD228,"Web Scraping, Python, Data Bricks, MySQL, DBT",Data Engineering,699.0,139.8,SnowFlake
+JMD229,"Reactjs, Flutter",Development,182.0,91.0,React Native
+JMD23,"Redis, Azure",Cloud,171.0,85.5,GCP
+JMD230,"Redis,  GCP",Cloud,264.0,132.0,Azure
+JMD231,"Big Data, Applied ML, Python",Data Science,337.0,112.33333333333331,
+JMD232,"Big Data, Python",Data Science,264.0,132.0,Applied ML
+JMD233,Laravel,Development,82.0,82.0,Flutter
+JMD234,Applied ML,Data Science,94.0,94.0,Python
+JMD235,"Azure, Redis",Cloud,163.0,81.5,GCP
+JMD236,Azure,Cloud,85.5,85.5,Redis
+JMD237,"React Native, Flutter, Angular",Development,373.0,124.33333333333331,Next Js
+JMD238,"GCP, Redis",Cloud,186.0,93.0,Azure
+JMD239,"Python, Applied ML, Big Data",Data Science,269.0,89.66666666666667,
+JMD24,MySQL,Data Engineering,86.0,86.0,SnowFlake
+JMD240,"Big Data, Python",Data Science,172.0,86.0,Applied ML
+JMD241,GCP,Cloud,80.5,80.5,Redis
+JMD242,"GCP, Azure, AWS",Cloud,270.0,90.0,Redis
+JMD243,Angular,Development,100.0,100.0,Flutter
+JMD244,"Azure, AWS, Redis",Cloud,365.0,121.66666666666669,GCP
+JMD245,"AWS, Azure, Redis",Cloud,338.0,112.66666666666669,GCP
+JMD246,"Data Bricks, DBT, SnowFlake, MySQL,  Python",Data Engineering,527.5,105.5,Python
+JMD247,Python,Data Engineering,190.0,190.0,SnowFlake
+JMD248,"AWS, GCP",Cloud,325.0,162.5,Redis
+JMD249,"DBT, MySQL",Data Engineering,319.0,159.5,SnowFlake
+JMD25,React Native,Development,85.5,85.5,Flutter
+JMD250,"Azure, Redis",Cloud,190.0,95.0,GCP
+JMD251,"GCP, Redis",Cloud,174.0,87.0,Azure
+JMD252,"Next Js, Node, Flutter, Reactjs",Development,380.0,95.0,React Native
+JMD253,"Big Data, Python, Applied ML",Data Science,346.5,115.5,
+JMD254,"AWS, GCP, Redis",Cloud,354.0,118.0,Azure
+JMD255,Big Data,Data Science,95.0,95.0,Applied ML
+JMD256,Node,Development,99.0,99.0,Flutter
+JMD257,"Azure, AWS, GCP, Redis",Cloud,368.0,92.0,
+JMD258,"Data Bricks, MySQL, DBT, Web Scraping",Data Engineering,481.0,120.25,SnowFlake
+JMD259,"React Native, Flutter",Development,272.0,136.0,Next Js
+JMD26,"Web Scraping, Python, SnowFlake",Data Engineering,240.5,80.16666666666667,Data Bricks
+JMD260,"Python, Big Data",Data Science,179.0,89.5,Applied ML
+JMD261,Angular,Development,95.0,95.0,Flutter
+JMD262,Azure,Cloud,99.0,99.0,Redis
+JMD263,"GCP, AWS",Cloud,231.0,115.5,Redis
+JMD264,"DBT, SnowFlake",Data Engineering,273.0,136.5,Data Bricks
+JMD265,"Applied ML, Python",Data Science,325.0,162.5,Big Data
+JMD266,"Applied ML, Big Data, Python",Data Science,344.0,114.66666666666669,
+JMD267,Web Scraping,Data Engineering,85.5,85.5,SnowFlake
+JMD268,"Python, Applied ML",Data Science,181.0,90.5,Big Data
+JMD269,"AWS, Redis",Cloud,171.0,85.5,Azure
+JMD27,AWS,Cloud,98.0,98.0,Redis
+JMD270,Next Js,Development,85.0,85.0,Flutter
+JMD271,"Applied ML, Big Data",Data Science,180.0,90.0,Python
+JMD272,"React Native, Reactjs",Development,184.0,92.0,Flutter
+JMD273,Next Js,Development,96.0,96.0,Flutter
+JMD274,"Azure, Redis, AWS",Cloud,353.0,117.66666666666669,GCP
+JMD275,"Python, Applied ML",Data Science,171.0,85.5,Big Data
+JMD277,"Azure, GCP",Cloud,193.0,96.5,Redis
+JMD278,"Big Data, Python",Data Science,178.0,89.0,Applied ML
+JMD279,"Angular, Flutter, Next Js",Development,272.0,90.66666666666669,React Native
+JMD28,"Python, Big Data",Data Science,168.5,84.25,Applied ML
+JMD280,"Redis, AWS",Cloud,176.0,88.0,Azure
+JMD281,Reactjs,Development,96.0,96.0,Flutter
+JMD282,"DBT, Data Bricks",Data Engineering,224.0,112.0,SnowFlake
+JMD283,"Big Data, Applied ML, Python",Data Science,261.0,87.0,
+JMD284,"Redis, AWS, Azure",Cloud,362.0,120.66666666666669,GCP
+JMD285,"MySQL, DBT",Data Engineering,168.5,84.25,SnowFlake
+JMD286,"Big Data, Applied ML, Python",Data Science,491.0,163.66666666666666,
+JMD287,SnowFlake,Data Engineering,86.0,86.0,Data Bricks
+JMD288,"Redis, GCP, AWS",Cloud,328.5,109.5,Azure
+JMD289,Reactjs,Development,96.0,96.0,Flutter
+JMD29,"Python, Applied ML",Data Science,267.0,133.5,Big Data
+JMD290,Laravel,Development,96.0,96.0,Flutter
+JMD291,"DBT, Python",Data Engineering,176.0,88.0,SnowFlake
+JMD292,"Next Js, Reactjs, Node, Flutter",Development,323.0,80.75,React Native
+JMD293,Python,Data Science,85.5,85.5,Applied ML
+JMD294,GCP,Cloud,85.5,85.5,Redis
+JMD295,Redis,Cloud,163.0,163.0,Azure
+JMD296,"Web Scraping, SnowFlake",Data Engineering,264.0,132.0,Data Bricks
+JMD297,Data Bricks,Data Engineering,94.0,94.0,SnowFlake
+JMD298,"Python, SnowFlake, DBT, Data Bricks",Data Engineering,450.0,112.5,Web Scraping
+JMD299,"Big Data, Python, Applied ML",Data Science,344.0,114.66666666666669,
+JMD3,"Big Data, Python, Applied ML",Data Science,354.0,118.0,
+JMD30,"Python, Applied ML",Data Science,269.5,134.75,Big Data
+JMD300,"AWS, Azure",Cloud,164.0,82.0,Redis
+JMD301,"SnowFlake, Python",Data Engineering,186.0,93.0,Data Bricks
+JMD302,Flutter,Development,94.0,94.0,React Native
+JMD303,Redis,Cloud,94.0,94.0,Azure
+JMD304,"SnowFlake, Web Scraping",Data Engineering,178.0,89.0,Data Bricks
+JMD305,SnowFlake,Data Engineering,96.0,96.0,Data Bricks
+JMD306,React Native,Development,85.5,85.5,Flutter
+JMD307,"Next Js, Flutter,  Node",Development,338.5,112.83333333333331,React Native
+JMD308,"GCP, Redis",Cloud,183.0,91.5,Azure
+JMD309,"SnowFlake, MySQL",Data Engineering,244.0,122.0,Data Bricks
+JMD31,"Redis, GCP",Cloud,239.0,119.5,Azure
+JMD310,"AWS, Redis",Cloud,196.0,98.0,Azure
+JMD311,"SnowFlake, Web Scraping, Python",Data Engineering,277.5,92.5,Data Bricks
+JMD312,"Data Bricks, MySQL, Web Scraping, SnowFlake",Data Engineering,372.0,93.0,Python
+JMD313,"Big Data, Applied ML",Data Science,182.0,91.0,Python
+JMD314,"Azure, AWS, GCP",Cloud,267.5,89.16666666666667,Redis
+JMD315,"AWS, Azure, GCP,  Redis",Cloud,438.5,109.625,Redis
+JMD316,"SnowFlake, MySQL",Data Engineering,162.5,81.25,Data Bricks
+JMD317,Redis,Cloud,178.5,178.5,Azure
+JMD318,"SnowFlake, Data Bricks, Web Scraping",Data Engineering,279.5,93.16666666666669,Python
+JMD319,"Redis, Azure",Cloud,227.0,113.5,GCP
+JMD32,"Big Data, Applied ML, Python",Data Science,323.0,107.66666666666669,
+JMD320,AWS,Cloud,97.0,97.0,Redis
+JMD321,Web Scraping,Data Engineering,99.0,99.0,SnowFlake
+JMD322,AWS,Cloud,98.0,98.0,Redis
+JMD323,"Big Data, Python",Data Science,343.0,171.5,Applied ML
+JMD324,Next Js,Development,86.0,86.0,Flutter
+JMD325,"Azure, GCP, Redis",Cloud,256.5,85.5,AWS
+JMD326,"GCP, AWS",Cloud,187.0,93.5,Redis
+JMD327,"SnowFlake, Web Scraping",Data Engineering,188.0,94.0,Data Bricks
+JMD328,"Big Data, Applied ML",Data Science,188.0,94.0,Python
+JMD329,"Redis, AWS, Azure",Cloud,327.5,109.16666666666669,GCP
+JMD33,"Redis, Azure",Cloud,191.0,95.5,GCP
+JMD330,Python,Data Science,85.5,85.5,Applied ML
+JMD331,"Big Data, Python",Data Science,239.0,119.5,Applied ML
+JMD332,GCP,Cloud,91.0,91.0,Redis
+JMD333,"Python, Web Scraping, MySQL, SnowFlake, Data Bricks",Data Engineering,516.5,103.3,DBT
+JMD334,Node,Development,85.5,85.5,Flutter
+JMD335,DBT,Data Engineering,93.0,93.0,SnowFlake
+JMD336,"GCP, Redis",Cloud,163.0,81.5,Azure
+JMD337,"Applied ML, Python",Data Science,181.0,90.5,Big Data
+JMD338,"Big Data, Applied ML",Data Science,262.5,131.25,Python
+JMD339,AWS,Cloud,85.5,85.5,Redis
+JMD34,"Reactjs, Laravel",Development,181.5,90.75,Flutter
+JMD340,Redis,Cloud,87.0,87.0,Azure
+JMD341,"Python, Big Data",Data Science,187.0,93.5,Applied ML
+JMD342,"Applied ML, Big Data",Data Science,184.5,92.25,Python
+JMD343,Python,Data Science,99.0,99.0,Applied ML
+JMD344,React Native,Development,98.0,98.0,Flutter
+JMD345,Python,Data Science,173.0,173.0,Applied ML
+JMD346,"Python, Big Data,  Applied ML",Data Science,434.5,144.83333333333334,Applied ML
+JMD347,"GCP, Azure, AWS",Cloud,423.0,141.0,Redis
+JMD348,"Applied ML, Python, Big Data",Data Science,331.0,110.33333333333331,
+JMD349,Azure,Cloud,92.0,92.0,Redis
+JMD35,Flutter,Development,95.0,95.0,React Native
+JMD350,Python,Data Engineering,99.0,99.0,SnowFlake
+JMD351,"DBT, Python",Data Engineering,199.0,99.5,SnowFlake
+JMD352,AWS,Cloud,96.0,96.0,Redis
+JMD353,"Next Js, Reactjs, Laravel",Development,362.5,120.83333333333331,Flutter
+JMD354,"Applied ML, Big Data, Python",Data Science,334.0,111.33333333333331,
+JMD355,"Data Bricks, SnowFlake, DBT",Data Engineering,329.5,109.83333333333331,Python
+JMD356,AWS,Cloud,175.0,175.0,Redis
+JMD357,"Python, Data Bricks, SnowFlake",Data Engineering,258.5,86.16666666666667,Web Scraping
+JMD358,Next Js,Development,88.0,88.0,Flutter
+JMD359,"Laravel, React Native",Development,242.0,121.0,Flutter
+JMD36,"Node, Next Js",Development,174.0,87.0,Flutter
+JMD360,GCP,Cloud,94.0,94.0,Redis
+JMD361,"Big Data, Applied ML, Python",Data Science,546.0,182.0,
+JMD362,"Next Js, Flutter, Laravel, Node",Development,373.0,93.25,React Native
+JMD363,"Next Js, Flutter, React Native",Development,423.0,141.0,Node
+JMD364,"Redis, Azure",Cloud,176.0,88.0,GCP
+JMD365,"Data Bricks, DBT",Data Engineering,264.0,132.0,SnowFlake
+JMD366,"Data Bricks, MySQL, Python",Data Engineering,318.5,106.16666666666669,SnowFlake
+JMD367,Data Bricks,Data Engineering,99.0,99.0,SnowFlake
+JMD368,"DBT, MySQL,  Web Scraping",Data Engineering,281.0,93.66666666666669,SnowFlake
+JMD369,"Azure, Redis, GCP",Cloud,511.0,170.33333333333334,AWS
+JMD37,"AWS, GCP, Redis",Cloud,273.0,91.0,Azure
+JMD370,"Azure, AWS, GCP",Cloud,330.0,110.0,Redis
+JMD371,"SnowFlake, Python, Data Bricks",Data Engineering,279.0,93.0,Web Scraping
+JMD372,"Azure, GCP",Cloud,193.0,96.5,Redis
+JMD373,"GCP, Redis",Cloud,271.0,135.5,Azure
+JMD374,"AWS, Redis, Azure, GCP",Cloud,361.5,90.375,
+JMD375,"Azure, AWS",Cloud,247.0,123.5,Redis
+JMD376,"Data Bricks, Web Scraping, MySQL",Data Engineering,332.0,110.66666666666669,SnowFlake
+JMD377,"Python, MySQL",Data Engineering,179.0,89.5,SnowFlake
+JMD378,Python,Data Science,179.0,179.0,Applied ML
+JMD379,"Node, React Native, Laravel",Development,264.0,88.0,Flutter
+JMD38,"Data Bricks, MySQL,  Web Scraping",Data Engineering,366.0,122.0,SnowFlake
+JMD380,"Python, Applied ML",Data Science,183.5,91.75,Big Data
+JMD381,Big Data,Data Science,98.0,98.0,Applied ML
+JMD382,"AWS, Azure",Cloud,179.0,89.5,Redis
+JMD383,Big Data,Data Science,85.5,85.5,Applied ML
+JMD384,"React Native, Node, Angular",Development,271.0,90.33333333333331,Flutter
+JMD385,"Web Scraping, Python, Data Bricks, DBT",Data Engineering,528.0,132.0,SnowFlake
+JMD386,"Laravel, Flutter, Angular",Development,340.5,113.5,React Native
+JMD387,"Next Js, Reactjs",Development,263.0,131.5,Flutter
+JMD388,"Azure, AWS, Redis, GCP",Cloud,490.0,122.5,
+JMD389,"Big Data, Applied ML, Python",Data Science,436.0,145.33333333333334,
+JMD39,"Big Data, Applied ML",Data Science,171.0,85.5,Python
+JMD390,"Flutter, Laravel",Development,281.0,140.5,React Native
+JMD391,Applied ML,Data Science,98.0,98.0,Python
+JMD392,"Data Bricks, SnowFlake",Data Engineering,191.0,95.5,Python
+JMD393,"SnowFlake, Web Scraping",Data Engineering,182.0,91.0,Data Bricks
+JMD394,Redis,Cloud,100.0,100.0,Azure
+JMD395,Python,Data Science,91.0,91.0,Applied ML
+JMD396,"Applied ML, Big Data",Data Science,253.0,126.5,Python
+JMD397,Web Scraping,Data Engineering,95.0,95.0,SnowFlake
+JMD398,"React Native, Next Js",Development,182.0,91.0,Flutter
+JMD399,Next Js,Development,95.0,95.0,Flutter
+JMD4,"GCP, Azure, Redis",Cloud,381.0,127.0,AWS
+JMD40,"Python, Applied ML, Big Data",Data Science,365.5,121.83333333333331,
+JMD400,Web Scraping,Data Engineering,72.0,72.0,SnowFlake
+JMD401,"GCP, Azure",Cloud,185.0,92.5,Redis
+JMD402,"Flutter, Angular, Node, Next Js",Development,365.0,91.25,React Native
+JMD403,"GCP,  Azure,  AWS",Cloud,372.0,124.0,Redis
+JMD404,React Native,Development,91.0,91.0,Flutter
+JMD405,"Python, Applied ML",Data Science,279.0,139.5,Big Data
+JMD406,"GCP, AWS, Redis",Cloud,325.0,108.33333333333331,Azure
+JMD407,"GCP, Azure",Cloud,171.0,85.5,Redis
+JMD408,"Big Data,  Python",Data Science,261.5,130.75,Applied ML
+JMD409,"Big Data, Applied ML, Python",Data Science,362.0,120.66666666666669,
+JMD41,"Redis, AWS, GCP",Cloud,331.0,110.33333333333331,Azure
+JMD410,"GCP, Azure",Cloud,171.0,85.5,Redis
+JMD411,"Azure, GCP",Cloud,196.0,98.0,Redis
+JMD412,"Flutter, Reactjs, Angular",Development,356.0,118.66666666666669,React Native
+JMD413,Python,Data Science,85.5,85.5,Applied ML
+JMD414,"DBT, Data Bricks",Data Engineering,269.0,134.5,SnowFlake
+JMD415,Big Data,Data Science,151.0,151.0,Applied ML
+JMD416,Python,Data Engineering,92.0,92.0,SnowFlake
+JMD417,GCP,Cloud,86.0,86.0,Redis
+JMD418,GCP,Cloud,89.0,89.0,Redis
+JMD419,"GCP, Azure",Cloud,276.0,138.0,Redis
+JMD42,Big Data,Data Science,100.0,100.0,Applied ML
+JMD420,Azure,Cloud,95.0,95.0,Redis
+JMD421,"Applied ML, Big Data,  Python",Data Science,327.5,109.16666666666669,Python
+JMD422,"Reactjs, Angular, React Native",Development,337.0,112.33333333333331,Flutter
+JMD423,"Applied ML, Big Data",Data Science,239.0,119.5,Python
+JMD424,"Redis, AWS",Cloud,278.0,139.0,Azure
+JMD425,"Applied ML, Python",Data Science,250.0,125.0,Big Data
+JMD426,"MySQL, SnowFlake,  Web Scraping",Data Engineering,252.5,84.16666666666667,Data Bricks
+JMD427,Applied ML,Data Science,94.0,94.0,Python
+JMD428,"Redis, GCP",Cloud,247.0,123.5,Azure
+JMD429,Python,Data Engineering,100.0,100.0,SnowFlake
+JMD43,"Python, Applied ML, Big Data",Data Science,340.0,113.33333333333331,
+JMD430,SnowFlake,Data Engineering,96.0,96.0,Data Bricks
+JMD431,"Redis, Azure,  GCP",Cloud,416.5,138.83333333333334,GCP
+JMD432,Python,Data Engineering,83.0,83.0,SnowFlake
+JMD433,"GCP, Redis",Cloud,241.0,120.5,Azure
+JMD434,Applied ML,Data Science,95.0,95.0,Python
+JMD435,"Python, Big Data, Applied ML",Data Science,275.0,91.66666666666669,
+JMD436,Python,Data Engineering,184.0,184.0,SnowFlake
+JMD437,"Python, Applied ML, Big Data",Data Science,428.0,142.66666666666666,
+JMD438,"Flutter, React Native, Next Js, Laravel, Reactjs",Development,463.0,92.6,Node
+JMD439,"Next Js,  Node",Development,287.0,143.5,Flutter
+JMD44,"Web Scraping, Python,  SnowFlake",Data Engineering,278.0,92.66666666666669,SnowFlake
+JMD440,Big Data,Data Science,85.5,85.5,Applied ML
+JMD441,"Data Bricks, MySQL, Python",Data Engineering,271.0,90.33333333333331,SnowFlake
+JMD442,SnowFlake,Data Engineering,96.0,96.0,Data Bricks
+JMD443,"Python, Web Scraping",Data Engineering,184.5,92.25,SnowFlake
+JMD444,"Python, Applied ML",Data Science,187.0,93.5,Big Data
+JMD445,"SnowFlake, Web Scraping, Python,  Data Bricks",Data Engineering,422.0,105.5,Data Bricks
+JMD446,"Data Bricks, Python",Data Engineering,259.0,129.5,SnowFlake
+JMD447,"Big Data, Applied ML,  Python",Data Science,321.0,107.0,Python
+JMD448,"Laravel, Next Js",Development,171.0,85.5,Flutter
+JMD449,"Data Bricks, DBT",Data Engineering,272.0,136.0,SnowFlake
+JMD45,Applied ML,Data Science,91.0,91.0,Python
+JMD450,"Python, Big Data, Applied ML",Data Science,318.5,106.16666666666669,
+JMD451,"Big Data, Applied ML, Python",Data Science,369.0,123.0,
+JMD452,Azure,Cloud,96.0,96.0,Redis
+JMD453,"Big Data, Applied ML, Python",Data Science,350.0,116.66666666666669,
+JMD454,SnowFlake,Data Engineering,92.0,92.0,Data Bricks
+JMD455,"Azure, AWS, Redis",Cloud,276.0,92.0,GCP
+JMD456,"Applied ML, Big Data",Data Science,253.0,126.5,Python
+JMD457,Azure,Cloud,96.0,96.0,Redis
+JMD458,"AWS, Azure",Cloud,180.5,90.25,Redis
+JMD459,Data Bricks,Data Engineering,178.0,178.0,SnowFlake
+JMD46,"SnowFlake, Python, Data Bricks",Data Engineering,350.0,116.66666666666669,Web Scraping
+JMD460,"Applied ML, Big Data, Python",Data Science,336.0,112.0,
+JMD461,Big Data,Data Science,89.0,89.0,Applied ML
+JMD462,"Big Data,  Applied ML",Data Science,266.0,133.0,Applied ML
+JMD463,Big Data,Data Science,77.0,77.0,Applied ML
+JMD464,Azure,Cloud,99.0,99.0,Redis
+JMD465,"GCP, AWS, Azure",Cloud,346.0,115.33333333333331,Redis
+JMD466,"Applied ML, Big Data",Data Science,243.0,121.5,Python
+JMD467,"Applied ML, Big Data",Data Science,245.0,122.5,Python
+JMD468,"Applied ML, Big Data",Data Science,179.5,89.75,Python
+JMD469,"Azure, GCP, Redis",Cloud,366.0,122.0,AWS
+JMD47,"Node, React Native, Laravel",Development,448.0,149.33333333333334,Flutter
+JMD470,"Applied ML,  Python",Data Science,190.0,95.0,Python
+JMD471,"Python, Applied ML,  Big Data",Data Science,343.5,114.5,Big Data
+JMD472,"Angular, Node, Laravel, Flutter, React Native",Development,495.0,99.0,Next Js
+JMD473,Angular,Development,93.0,93.0,Flutter
+JMD474,Node,Development,86.0,86.0,Flutter
+JMD475,"Next Js, Reactjs",Development,157.5,78.75,Flutter
+JMD476,"Flutter, Node, React Native",Development,260.5,86.83333333333333,Next Js
+JMD477,"Big Data, Applied ML",Data Science,259.0,129.5,Python
+JMD478,"SnowFlake, Data Bricks",Data Engineering,190.0,95.0,Python
+JMD479,"Next Js, React Native",Development,170.0,85.0,Flutter
+JMD48,"Python, Applied ML",Data Science,176.0,88.0,Big Data
+JMD480,AWS,Cloud,188.0,188.0,Redis
+JMD481,"Angular, Reactjs",Development,172.5,86.25,Flutter
+JMD482,"Azure, Redis, AWS,  GCP",Cloud,420.5,105.125,GCP
+JMD483,"Azure, Redis, AWS",Cloud,267.5,89.16666666666667,GCP
+JMD484,"React Native, Laravel, Node",Development,319.0,106.33333333333331,Flutter
+JMD485,"Laravel, Node, React Native, Flutter",Development,358.5,89.625,Next Js
+JMD486,"Flutter, Laravel",Development,171.0,85.5,React Native
+JMD487,DBT,Data Engineering,98.0,98.0,SnowFlake
+JMD488,"Web Scraping, Data Bricks, MySQL, Python",Data Engineering,461.0,115.25,SnowFlake
+JMD489,DBT,Data Engineering,92.0,92.0,SnowFlake
+JMD49,React Native,Development,91.0,91.0,Flutter
+JMD490,"Laravel, Reactjs",Development,262.0,131.0,Flutter
+JMD491,"Node, React Native, Angular, Flutter",Development,536.5,134.125,Next Js
+JMD492,"Laravel, Angular",Development,255.0,127.5,Flutter
+JMD493,"GCP, Redis, Azure, AWS",Cloud,531.5,132.875,
+JMD494,Azure,Cloud,85.5,85.5,Redis
+JMD495,Angular,Development,89.0,89.0,Flutter
+JMD496,"Redis, Azure",Cloud,173.0,86.5,GCP
+JMD497,"Angular, Flutter, Next Js, React Native",Development,366.0,91.5,Node
+JMD498,Data Bricks,Data Engineering,85.5,85.5,SnowFlake
+JMD499,"Next Js, Reactjs, Flutter",Development,273.0,91.0,React Native
+JMD5,"Applied ML, Python",Data Science,184.5,92.25,Big Data
+JMD50,"React Native, Reactjs, Flutter",Development,351.0,117.0,Next Js
+JMD500,Python,Data Science,85.0,85.0,Applied ML
+JMD51,Angular,Development,158.0,158.0,Flutter
+JMD52,"Node, Flutter, Next Js, React Native",Development,347.0,86.75,Reactjs
+JMD53,"Angular, Node, Flutter",Development,249.5,83.16666666666667,React Native
+JMD54,Big Data,Data Science,96.0,96.0,Applied ML
+JMD55,"Applied ML, Big Data",Data Science,187.0,93.5,Python
+JMD56,"Web Scraping, DBT",Data Engineering,173.0,86.5,SnowFlake
+JMD57,Applied ML,Data Science,183.0,183.0,Python
+JMD58,React Native,Development,99.0,99.0,Flutter
+JMD59,"Redis, AWS",Cloud,168.5,84.25,Azure
+JMD6,"AWS, Redis, GCP",Cloud,331.5,110.5,Azure
+JMD60,Node,Development,89.0,89.0,Flutter
+JMD61,"SnowFlake, DBT",Data Engineering,187.0,93.5,Data Bricks
+JMD62,"Web Scraping, DBT, Data Bricks, MySQL",Data Engineering,435.0,108.75,SnowFlake
+JMD63,"Azure, Redis, GCP, AWS",Cloud,410.0,102.5,
+JMD64,Redis,Cloud,86.0,86.0,Azure
+JMD65,"DBT, Web Scraping, SnowFlake",Data Engineering,345.0,115.0,Data Bricks
+JMD66,"Flutter, Node",Development,253.0,126.5,React Native
+JMD67,"Redis, AWS",Cloud,198.0,99.0,Azure
+JMD68,"Big Data, Python, Applied ML",Data Science,326.0,108.66666666666669,
+JMD69,"Big Data, Python",Data Science,184.0,92.0,Applied ML
+JMD7,GCP,Cloud,99.0,99.0,Redis
+JMD70,GCP,Cloud,99.0,99.0,Redis
+JMD71,"GCP, Redis",Cloud,181.0,90.5,Azure
+JMD72,"Azure, Redis, AWS",Cloud,274.5,91.5,GCP
+JMD73,Big Data,Data Science,164.0,164.0,Applied ML
+JMD74,Big Data,Data Science,80.0,80.0,Applied ML
+JMD75,"Applied ML, Python, Big Data",Data Science,261.0,87.0,
+JMD76,"Python, Big Data",Data Science,171.0,85.5,Applied ML
+JMD77,"SnowFlake, MySQL, Web Scraping",Data Engineering,351.0,117.0,Data Bricks
+JMD78,"Python, Big Data, Applied ML",Data Science,263.0,87.66666666666667,
+JMD79,Python,Data Science,85.0,85.0,Applied ML
+JMD8,Applied ML,Data Science,95.5,95.5,Python
+JMD80,Reactjs,Development,92.0,92.0,Flutter
+JMD81,"Python, Big Data, Applied ML",Data Science,446.0,148.66666666666666,
+JMD82,"GCP, AWS, Azure",Cloud,352.0,117.33333333333331,Redis
+JMD83,AWS,Cloud,95.0,95.0,Redis
+JMD84,Applied ML,Data Science,100.0,100.0,Python
+JMD85,"DBT, Web Scraping",Data Engineering,176.0,88.0,SnowFlake
+JMD86,"AWS, Redis",Cloud,172.0,86.0,Azure
+JMD87,"SnowFlake, Data Bricks, MySQL",Data Engineering,344.0,114.66666666666669,Python
+JMD88,"Next Js, Flutter",Development,171.0,85.5,React Native
+JMD89,"Redis, AWS, Azure,  GCP",Cloud,451.5,112.875,GCP
+JMD9,Big Data,Data Science,99.0,99.0,Applied ML
+JMD90,"Reactjs, Node",Development,172.0,86.0,Flutter
+JMD91,"Node, Angular, Flutter, Next Js, Laravel, Reactjs",Development,599.5,99.91666666666669,React Native
+JMD92,React Native,Development,92.0,92.0,Flutter
+JMD93,"Redis, AWS, Azure",Cloud,315.5,105.16666666666669,GCP
+JMD94,"Big Data, Python",Data Science,187.0,93.5,Applied ML
+JMD95,"Big Data, Applied ML",Data Science,253.0,126.5,Python
+JMD96,Redis,Cloud,85.5,85.5,Azure
+JMD97,Applied ML,Data Science,171.0,171.0,Python
+JMD98,"Laravel, Reactjs",Development,175.0,87.5,Flutter
+JMD99,"Redis, AWS, Azure,  GCP",Cloud,506.5,126.625,GCP

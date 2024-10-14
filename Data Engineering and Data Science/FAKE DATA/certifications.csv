@@ -1,0 +1,1557 @@
+id,employeeId,courseName,certificationLink,skills,courseDepartment,status,certificationDate
+CERT1,JMD1,Applied ML,http://www.campos.com/,Applied ML,Data Science,Accept,2023-01-24
+CERT2,JMD1,Big Data,https://wagner.com/,Big Data,Data Science,Reject,2023-03-20
+CERT3,JMD1,GCP,https://jackson.biz/,GCP,Cloud,Reject,2024-07-24
+CERT4,JMD1,Redis,http://www.white.com/,Redis,Cloud,Reject,2022-11-11
+CERT5,JMD2,Applied ML,http://fleming.com/,Applied ML,Data Science,Accept,2023-01-07
+CERT6,JMD2,Laravel,http://butler-elliott.info/,Laravel,Development,Reject,2024-01-18
+CERT7,JMD3,Web Scraping,https://www.quinn.biz/,Web Scraping,Data Engineering,Reject,2023-10-08
+CERT8,JMD3,DBT,https://www.murray.biz/,DBT,Data Engineering,Accept,2023-11-22
+CERT9,JMD3,AWS,http://russell.info/,AWS,Cloud,Accept,2023-03-18
+CERT10,JMD4,MySQL,http://www.gomez-rodriguez.biz/,MySQL,Data Engineering,Reject,2024-06-16
+CERT11,JMD4,Redis,https://wilson-pierce.com/,Redis,Cloud,Reject,2022-11-11
+CERT12,JMD4,AWS,http://morris-kline.info/,AWS,Cloud,Reject,2024-02-01
+CERT13,JMD5,Redis,http://anderson.com/,Redis,Cloud,Reject,2023-07-12
+CERT14,JMD5,Azure,http://ramirez-morgan.com/,Azure,Cloud,Accept,2024-07-23
+CERT15,JMD5,GCP,https://www.bell.com/,GCP,Cloud,Accept,2023-08-10
+CERT16,JMD5,Applied ML,http://williams.com/,Applied ML,Data Science,Reject,2023-01-06
+CERT17,JMD5,Big Data,https://www.kelly-morgan.net/,Big Data,Data Science,Reject,2024-09-01
+CERT18,JMD5,Python,https://www.mccall.info/,Python,Data Science,Accept,2023-07-31
+CERT19,JMD6,Web Scraping,http://ramsey-ellis.com/,Web Scraping,Data Engineering,Accept,2024-06-05
+CERT20,JMD6,SnowFlake,https://mcdonald.org/,SnowFlake,Data Engineering,Accept,2023-09-21
+CERT21,JMD6,Azure,http://carlson-butler.com/,Azure,Cloud,Reject,2024-09-08
+CERT22,JMD6,Redis,https://www.cox-davis.net/,Redis,Cloud,Reject,2023-04-24
+CERT23,JMD6,GCP,https://www.edwards.info/,GCP,Cloud,Accept,2024-05-26
+CERT24,JMD7,Angular,http://www.gill-johnson.com/,Angular,Development,Accept,2023-02-06
+CERT25,JMD7,Big Data,https://www.soto.com/,Big Data,Data Science,Accept,2024-05-19
+CERT26,JMD7,Python,http://www.collins-miller.biz/,Python,Data Science,Accept,2024-03-08
+CERT27,JMD7,Applied ML,http://www.gross-baker.info/,Applied ML,Data Science,Reject,2024-02-23
+CERT28,JMD8,Applied ML,https://www.wilson.com/,Applied ML,Data Science,Accept,2023-08-02
+CERT29,JMD8,GCP,https://www.lewis.net/,GCP,Cloud,Accept,2023-10-04
+CERT30,JMD8,AWS,http://www.wright-key.org/,AWS,Cloud,Accept,2023-10-26
+CERT31,JMD8,Redis,https://jones.com/,Redis,Cloud,Accept,2024-08-25
+CERT32,JMD9,MySQL,http://www.shelton.com/,MySQL,Data Engineering,Reject,2022-11-25
+CERT33,JMD9,Web Scraping,https://moore.com/,Web Scraping,Data Engineering,Accept,2023-04-02
+CERT34,JMD9,Reactjs,https://www.walters.com/,Reactjs,Development,Reject,2023-04-27
+CERT35,JMD9,Next Js,https://www.gray-snyder.com/,Next Js,Development,Reject,2023-08-30
+CERT36,JMD9,Angular,https://hill.org/,Angular,Development,Accept,2023-08-26
+CERT37,JMD10,Big Data,https://burke.com/,Big Data,Data Science,Reject,2023-11-14
+CERT38,JMD10,Applied ML,https://www.lewis.com/,Applied ML,Data Science,Reject,2022-10-13
+CERT39,JMD10,Python,https://mcclure-west.org/,Python,Data Science,Reject,2022-11-28
+CERT40,JMD11,SnowFlake,http://www.dennis.com/,SnowFlake,Data Engineering,Accept,2024-09-27
+CERT41,JMD12,AWS,https://li.info/,AWS,Cloud,Reject,2022-12-12
+CERT42,JMD13,Applied ML,https://www.rodriguez-white.info/,Applied ML,Data Science,Accept,2022-12-14
+CERT43,JMD13,Python,http://www.gonzalez-fleming.net/,Python,Data Science,Accept,2024-04-18
+CERT44,JMD13,Big Data,https://www.mccann.com/,Big Data,Data Science,Reject,2024-05-06
+CERT45,JMD13,SnowFlake,https://www.leonard.info/,SnowFlake,Data Engineering,Reject,2023-05-03
+CERT46,JMD13,MySQL,https://www.morgan.com/,MySQL,Data Engineering,Reject,2024-02-01
+CERT47,JMD13,Python,http://www.larson.com/,Python,Data Engineering,Reject,2023-03-16
+CERT48,JMD14,Applied ML,https://www.bell.com/,Applied ML,Data Science,Accept,2023-11-05
+CERT49,JMD14,Big Data,http://www.martinez.info/,Big Data,Data Science,Reject,2023-10-15
+CERT50,JMD14,Next Js,http://perry.com/,Next Js,Development,Accept,2023-01-28
+CERT51,JMD14,React Native,https://holder.com/,React Native,Development,Accept,2023-04-13
+CERT52,JMD14,Node,http://walker.com/,Node,Development,Accept,2024-03-31
+CERT53,JMD15,Python,http://www.thompson.com/,Python,Data Science,Reject,2023-05-16
+CERT54,JMD16,Azure,http://david.net/,Azure,Cloud,Accept,2023-09-14
+CERT55,JMD16,GCP,http://www.hutchinson.org/,GCP,Cloud,Reject,2024-04-18
+CERT56,JMD16,AWS,http://www.kidd.com/,AWS,Cloud,Accept,2024-09-14
+CERT57,JMD17,Web Scraping,http://www.patterson.com/,Web Scraping,Data Engineering,Reject,2023-01-12
+CERT58,JMD17,DBT,http://adkins.net/,DBT,Data Engineering,Reject,2023-12-19
+CERT59,JMD17,Data Bricks,http://www.gonzales.com/,Data Bricks,Data Engineering,Reject,2024-02-12
+CERT60,JMD18,Applied ML,https://thornton.info/,Applied ML,Data Science,Accept,2023-01-20
+CERT61,JMD18,GCP,http://martin.info/,GCP,Cloud,Accept,2023-12-11
+CERT62,JMD18,AWS,https://www.lucas-figueroa.biz/,AWS,Cloud,Reject,2023-07-02
+CERT63,JMD19,Flutter,https://phillips.com/,Flutter,Development,Accept,2022-10-31
+CERT64,JMD19,Node,https://www.campbell.org/,Node,Development,Reject,2024-01-08
+CERT65,JMD19,Applied ML,https://www.moore-campbell.com/,Applied ML,Data Science,Reject,2023-04-13
+CERT66,JMD19,Python,https://ramos-schroeder.info/,Python,Data Science,Accept,2023-11-28
+CERT67,JMD19,Big Data,http://miller-smith.biz/,Big Data,Data Science,Accept,2023-08-16
+CERT68,JMD20,AWS,http://hill.com/,AWS,Cloud,Reject,2024-01-27
+CERT69,JMD20,Azure,http://www.mcbride-cowan.com/,Azure,Cloud,Accept,2024-08-21
+CERT70,JMD21,AWS,https://www.lewis.com/,AWS,Cloud,Reject,2022-11-20
+CERT71,JMD22,Angular,http://smith.biz/,Angular,Development,Reject,2024-02-06
+CERT72,JMD22,Flutter,http://www.cummings.com/,Flutter,Development,Accept,2022-12-16
+CERT73,JMD22,Redis,http://jackson.net/,Redis,Cloud,Accept,2023-09-20
+CERT74,JMD22,Azure,https://www.nunez-gay.com/,Azure,Cloud,Accept,2023-06-30
+CERT75,JMD22,AWS,https://sanders.com/,AWS,Cloud,Accept,2023-04-07
+CERT76,JMD23,Python,http://www.edwards.info/,Python,Data Engineering,Accept,2023-05-15
+CERT77,JMD24,Python,http://petersen-daniels.com/,Python,Data Science,Accept,2023-12-07
+CERT78,JMD25,Reactjs,https://www.george-thomas.com/,Reactjs,Development,Reject,2023-09-08
+CERT79,JMD25,React Native,https://nunez.com/,React Native,Development,Accept,2024-06-15
+CERT80,JMD25,MySQL,http://www.nelson.info/,MySQL,Data Engineering,Reject,2024-06-27
+CERT81,JMD25,Python,https://www.andrews.info/,Python,Data Engineering,Reject,2023-03-29
+CERT82,JMD25,DBT,https://wolfe.com/,DBT,Data Engineering,Accept,2022-11-04
+CERT83,JMD26,DBT,http://www.snow.com/,DBT,Data Engineering,Reject,2023-07-09
+CERT84,JMD26,Python,http://www.dickerson.com/,Python,Data Engineering,Reject,2023-05-26
+CERT85,JMD26,SnowFlake,https://robinson.com/,SnowFlake,Data Engineering,Accept,2023-07-09
+CERT86,JMD27,Node,http://morris.com/,Node,Development,Accept,2024-07-03
+CERT87,JMD28,Big Data,https://weiss.net/,Big Data,Data Science,Accept,2024-01-25
+CERT88,JMD29,Azure,https://www.gonzales.com/,Azure,Cloud,Accept,2023-12-12
+CERT89,JMD29,Redis,https://www.johnson-ramirez.info/,Redis,Cloud,Accept,2023-02-04
+CERT90,JMD29,GCP,http://www.wilson-kelly.com/,GCP,Cloud,Reject,2024-03-07
+CERT91,JMD30,Applied ML,http://www.henry-jackson.com/,Applied ML,Data Science,Accept,2022-11-27
+CERT92,JMD30,Redis,https://www.flores.com/,Redis,Cloud,Accept,2024-07-26
+CERT93,JMD30,Azure,http://frazier.info/,Azure,Cloud,Accept,2022-10-11
+CERT94,JMD31,Flutter,http://pham.biz/,Flutter,Development,Reject,2022-11-02
+CERT95,JMD32,Python,http://www.reyes.com/,Python,Data Engineering,Reject,2023-09-12
+CERT96,JMD32,Web Scraping,http://www.berry.com/,Web Scraping,Data Engineering,Accept,2023-08-11
+CERT97,JMD32,DBT,https://www.blackburn-ortiz.com/,DBT,Data Engineering,Reject,2023-07-30
+CERT98,JMD32,Node,http://www.simmons.net/,Node,Development,Reject,2023-08-21
+CERT99,JMD32,Angular,https://hunter-graves.info/,Angular,Development,Reject,2023-10-01
+CERT100,JMD32,Flutter,http://www.ross-harrison.com/,Flutter,Development,Reject,2023-11-09
+CERT101,JMD33,Next Js,http://howard.com/,Next Js,Development,Reject,2023-02-18
+CERT102,JMD33,Angular,http://www.tanner.com/,Angular,Development,Accept,2023-11-27
+CERT103,JMD33,Flutter,https://hunt.com/,Flutter,Development,Reject,2024-04-17
+CERT104,JMD34,Azure,https://goodwin.org/,Azure,Cloud,Reject,2024-09-12
+CERT105,JMD34,Angular,http://www.dalton.com/,Angular,Development,Reject,2023-06-02
+CERT106,JMD34,Laravel,https://www.rose-yang.com/,Laravel,Development,Accept,2023-09-13
+CERT107,JMD34,Flutter,http://www.atkins-farley.com/,Flutter,Development,Reject,2022-10-29
+CERT108,JMD35,Python,http://best.com/,Python,Data Engineering,Reject,2024-03-26
+CERT109,JMD35,Web Scraping,https://www.williams.com/,Web Scraping,Data Engineering,Accept,2023-04-12
+CERT110,JMD35,GCP,http://www.sanders.biz/,GCP,Cloud,Accept,2024-09-27
+CERT111,JMD35,AWS,http://baker.com/,AWS,Cloud,Reject,2023-05-13
+CERT112,JMD35,Redis,http://baird.com/,Redis,Cloud,Reject,2023-03-29
+CERT113,JMD36,Python,https://kennedy-davis.com/,Python,Data Science,Reject,2023-03-07
+CERT114,JMD36,Applied ML,https://www.johnston-parker.org/,Applied ML,Data Science,Reject,2023-01-03
+CERT115,JMD37,Applied ML,https://lynn-yoder.info/,Applied ML,Data Science,Accept,2024-09-14
+CERT116,JMD37,Big Data,https://www.burns.org/,Big Data,Data Science,Accept,2023-05-20
+CERT117,JMD37,Python,http://www.castro-ochoa.net/,Python,Data Science,Accept,2024-02-02
+CERT118,JMD38,GCP,https://brooks-reed.biz/,GCP,Cloud,Reject,2023-05-14
+CERT119,JMD38,Web Scraping,http://www.wolfe.com/,Web Scraping,Data Engineering,Accept,2024-03-13
+CERT120,JMD38,MySQL,https://lynch-bell.info/,MySQL,Data Engineering,Accept,2023-10-26
+CERT121,JMD39,Data Bricks,http://olsen.info/,Data Bricks,Data Engineering,Accept,2023-03-13
+CERT122,JMD39,DBT,http://www.rich.com/,DBT,Data Engineering,Reject,2023-03-10
+CERT123,JMD39,Big Data,http://riggs-montgomery.com/,Big Data,Data Science,Accept,2023-08-05
+CERT124,JMD39,Applied ML,http://www.harris.com/,Applied ML,Data Science,Accept,2024-09-21
+CERT125,JMD40,Big Data,https://www.ramsey-bowers.biz/,Big Data,Data Science,Accept,2024-06-23
+CERT126,JMD40,Applied ML,https://www.jennings.com/,Applied ML,Data Science,Reject,2024-10-02
+CERT127,JMD41,Azure,http://www.odom.com/,Azure,Cloud,Reject,2024-03-25
+CERT128,JMD42,AWS,https://www.livingston.com/,AWS,Cloud,Reject,2023-03-21
+CERT129,JMD43,Applied ML,https://www.daniels.com/,Applied ML,Data Science,Reject,2024-01-10
+CERT130,JMD43,Reactjs,https://cuevas.com/,Reactjs,Development,Reject,2024-09-09
+CERT131,JMD43,Next Js,http://www.hunter-johnson.com/,Next Js,Development,Reject,2022-10-31
+CERT132,JMD43,Angular,http://www.nguyen-walker.com/,Angular,Development,Accept,2022-12-29
+CERT133,JMD44,Redis,http://walker.org/,Redis,Cloud,Accept,2022-11-12
+CERT134,JMD44,AWS,https://www.huff.com/,AWS,Cloud,Reject,2024-02-19
+CERT135,JMD44,Azure,https://ramirez-boone.com/,Azure,Cloud,Reject,2023-10-31
+CERT136,JMD44,SnowFlake,https://www.lester-hernandez.com/,SnowFlake,Data Engineering,Accept,2023-12-04
+CERT137,JMD44,Python,http://rogers.org/,Python,Data Engineering,Accept,2023-10-21
+CERT138,JMD44,DBT,http://conrad.com/,DBT,Data Engineering,Reject,2023-06-26
+CERT139,JMD45,Big Data,http://thompson.com/,Big Data,Data Science,Reject,2023-02-11
+CERT140,JMD45,Web Scraping,https://www.garcia-garcia.com/,Web Scraping,Data Engineering,Accept,2023-07-03
+CERT141,JMD45,MySQL,http://anderson.biz/,MySQL,Data Engineering,Accept,2023-04-21
+CERT142,JMD46,Python,http://www.ramirez-dennis.com/,Python,Data Science,Accept,2023-09-09
+CERT143,JMD47,React Native,http://www.galvan.org/,React Native,Development,Reject,2023-10-29
+CERT144,JMD47,Angular,https://www.lewis.info/,Angular,Development,Reject,2023-07-22
+CERT145,JMD47,Python,https://www.thompson-willis.biz/,Python,Data Science,Accept,2024-09-08
+CERT146,JMD48,Web Scraping,https://mckenzie.com/,Web Scraping,Data Engineering,Accept,2024-05-08
+CERT147,JMD48,Angular,http://www.pruitt.com/,Angular,Development,Reject,2023-05-12
+CERT148,JMD48,Reactjs,https://www.richards.com/,Reactjs,Development,Accept,2024-02-25
+CERT149,JMD48,Flutter,https://shaw.info/,Flutter,Development,Accept,2023-02-10
+CERT150,JMD49,Azure,https://haney-phillips.com/,Azure,Cloud,Reject,2022-10-22
+CERT151,JMD49,AWS,https://www.cook-morton.com/,AWS,Cloud,Reject,2022-10-28
+CERT152,JMD49,Redis,https://phillips-schmitt.com/,Redis,Cloud,Accept,2023-07-09
+CERT153,JMD50,AWS,http://duke.org/,AWS,Cloud,Accept,2024-03-07
+CERT154,JMD50,Redis,http://www.houston.org/,Redis,Cloud,Accept,2023-06-25
+CERT155,JMD50,GCP,https://gregory.info/,GCP,Cloud,Reject,2023-03-19
+CERT156,JMD51,DBT,http://www.ramirez.com/,DBT,Data Engineering,Reject,2024-02-01
+CERT157,JMD52,Applied ML,http://gonzalez.com/,Applied ML,Data Science,Accept,2024-08-23
+CERT158,JMD53,Flutter,http://simpson.com/,Flutter,Development,Accept,2023-03-04
+CERT159,JMD53,Angular,http://www.hernandez.org/,Angular,Development,Accept,2024-04-22
+CERT160,JMD53,Node,https://www.nguyen.biz/,Node,Development,Accept,2023-12-17
+CERT161,JMD54,Angular,http://www.carter.com/,Angular,Development,Accept,2022-12-04
+CERT162,JMD54,Laravel,http://glover.com/,Laravel,Development,Accept,2022-12-02
+CERT163,JMD54,Flutter,https://www.matthews-wilson.com/,Flutter,Development,Reject,2022-10-25
+CERT164,JMD55,GCP,https://www.williams.com/,GCP,Cloud,Accept,2023-05-02
+CERT165,JMD55,Redis,http://www.martin.com/,Redis,Cloud,Reject,2024-06-03
+CERT166,JMD56,Angular,https://carney.org/,Angular,Development,Accept,2023-05-21
+CERT167,JMD56,Node,https://www.morales-murphy.org/,Node,Development,Reject,2022-10-09
+CERT168,JMD57,MySQL,http://www.jones.com/,MySQL,Data Engineering,Accept,2022-12-01
+CERT169,JMD57,Python,http://douglas.net/,Python,Data Engineering,Reject,2024-07-02
+CERT170,JMD57,SnowFlake,http://tucker.com/,SnowFlake,Data Engineering,Reject,2023-05-04
+CERT171,JMD58,Laravel,http://spencer.org/,Laravel,Development,Reject,2022-12-21
+CERT172,JMD58,Node,http://www.chavez-evans.com/,Node,Development,Reject,2024-06-30
+CERT173,JMD58,Next Js,https://everett.org/,Next Js,Development,Reject,2023-09-06
+CERT174,JMD58,Azure,http://www.nelson-parker.com/,Azure,Cloud,Reject,2024-06-04
+CERT175,JMD58,GCP,https://wright.com/,GCP,Cloud,Accept,2024-08-02
+CERT176,JMD58,Redis,https://www.ross-ruiz.info/,Redis,Cloud,Reject,2023-11-03
+CERT177,JMD59,SnowFlake,https://www.sanchez.com/,SnowFlake,Data Engineering,Reject,2023-02-02
+CERT178,JMD59,AWS,https://rodgers.com/,AWS,Cloud,Accept,2024-02-25
+CERT179,JMD60,Applied ML,https://flores-cameron.com/,Applied ML,Data Science,Reject,2023-10-31
+CERT180,JMD60,Python,http://www.richards.com/,Python,Data Science,Reject,2024-06-15
+CERT181,JMD60,Big Data,https://cervantes.biz/,Big Data,Data Science,Accept,2023-04-22
+CERT182,JMD60,GCP,http://parrish.net/,GCP,Cloud,Reject,2022-12-25
+CERT183,JMD60,AWS,https://www.ramos-ross.com/,AWS,Cloud,Accept,2023-10-12
+CERT184,JMD61,AWS,http://www.kim-thomas.com/,AWS,Cloud,Accept,2024-08-05
+CERT185,JMD61,Redis,https://mills.com/,Redis,Cloud,Reject,2023-06-15
+CERT186,JMD62,Next Js,http://york.info/,Next Js,Development,Reject,2024-07-23
+CERT187,JMD62,Laravel,http://www.lopez.com/,Laravel,Development,Accept,2022-11-08
+CERT188,JMD62,AWS,http://chandler.com/,AWS,Cloud,Reject,2023-07-22
+CERT189,JMD63,Laravel,https://www.sawyer.com/,Laravel,Development,Reject,2023-08-04
+CERT190,JMD63,Node,https://martinez-velazquez.biz/,Node,Development,Accept,2023-10-29
+CERT191,JMD64,Node,https://palmer.org/,Node,Development,Reject,2023-11-29
+CERT192,JMD64,Next Js,http://www.johnson.org/,Next Js,Development,Reject,2023-01-05
+CERT193,JMD64,Reactjs,https://brock-daugherty.com/,Reactjs,Development,Accept,2024-03-17
+CERT194,JMD65,Azure,https://www.golden.com/,Azure,Cloud,Reject,2022-12-14
+CERT195,JMD65,GCP,http://romero-kirby.info/,GCP,Cloud,Accept,2022-10-25
+CERT196,JMD65,Reactjs,http://wagner-smith.com/,Reactjs,Development,Reject,2024-03-26
+CERT197,JMD66,Data Bricks,https://www.bowen.com/,Data Bricks,Data Engineering,Reject,2022-11-26
+CERT198,JMD66,Applied ML,http://hill.com/,Applied ML,Data Science,Accept,2024-05-23
+CERT199,JMD66,Big Data,http://www.mason.net/,Big Data,Data Science,Accept,2023-05-04
+CERT200,JMD66,Python,https://www.hodges.com/,Python,Data Science,Reject,2023-04-22
+CERT201,JMD67,Python,https://moore.com/,Python,Data Engineering,Accept,2022-12-10
+CERT202,JMD67,Data Bricks,http://www.chavez.com/,Data Bricks,Data Engineering,Accept,2023-04-17
+CERT203,JMD67,MySQL,https://www.harrison.info/,MySQL,Data Engineering,Accept,2023-02-23
+CERT204,JMD68,MySQL,https://cobb.com/,MySQL,Data Engineering,Reject,2023-05-29
+CERT205,JMD68,Data Bricks,https://lee.com/,Data Bricks,Data Engineering,Accept,2023-09-19
+CERT206,JMD69,Data Bricks,https://www.wright-hart.info/,Data Bricks,Data Engineering,Reject,2024-08-23
+CERT207,JMD69,Web Scraping,https://joseph.com/,Web Scraping,Data Engineering,Accept,2023-03-07
+CERT208,JMD69,GCP,http://www.mcclain-long.info/,GCP,Cloud,Reject,2023-06-10
+CERT209,JMD69,Azure,http://www.black-dominguez.biz/,Azure,Cloud,Reject,2023-02-05
+CERT210,JMD70,Python,https://nielsen.org/,Python,Data Science,Reject,2024-08-25
+CERT211,JMD70,GCP,https://patterson.org/,GCP,Cloud,Reject,2024-07-16
+CERT212,JMD71,Big Data,http://www.watts-adams.com/,Big Data,Data Science,Accept,2023-09-09
+CERT213,JMD71,Python,https://kirby.com/,Python,Data Science,Accept,2023-07-20
+CERT214,JMD71,AWS,https://smith.biz/,AWS,Cloud,Reject,2023-03-26
+CERT215,JMD71,Azure,https://anderson.com/,Azure,Cloud,Reject,2024-02-01
+CERT216,JMD72,Azure,http://bowman.com/,Azure,Cloud,Reject,2023-02-19
+CERT217,JMD72,AWS,http://russell.com/,AWS,Cloud,Accept,2024-07-05
+CERT218,JMD73,Data Bricks,http://tanner.com/,Data Bricks,Data Engineering,Reject,2023-07-24
+CERT219,JMD73,DBT,http://www.freeman.biz/,DBT,Data Engineering,Accept,2023-03-20
+CERT220,JMD73,SnowFlake,https://www.davis.com/,SnowFlake,Data Engineering,Reject,2023-07-31
+CERT221,JMD74,Laravel,https://wilson.com/,Laravel,Development,Reject,2024-06-03
+CERT222,JMD74,Python,https://erickson.biz/,Python,Data Engineering,Reject,2024-02-11
+CERT223,JMD75,Python,http://romero-ramirez.com/,Python,Data Science,Reject,2023-04-09
+CERT224,JMD75,Applied ML,http://www.simpson.com/,Applied ML,Data Science,Reject,2023-04-24
+CERT225,JMD76,Python,https://www.cox.org/,Python,Data Science,Accept,2023-11-06
+CERT226,JMD76,Big Data,https://www.davis-werner.com/,Big Data,Data Science,Accept,2023-08-27
+CERT227,JMD76,Web Scraping,http://howard.com/,Web Scraping,Data Engineering,Reject,2022-10-14
+CERT228,JMD76,DBT,http://wilson.com/,DBT,Data Engineering,Reject,2023-06-27
+CERT229,JMD77,Reactjs,http://www.roman.com/,Reactjs,Development,Accept,2023-05-01
+CERT230,JMD77,Angular,http://www.french-davis.net/,Angular,Development,Accept,2023-02-14
+CERT231,JMD78,Laravel,http://www.schultz.net/,Laravel,Development,Accept,2023-05-03
+CERT232,JMD78,Reactjs,http://wolfe.com/,Reactjs,Development,Reject,2024-03-19
+CERT233,JMD78,Flutter,http://ramos.com/,Flutter,Development,Reject,2023-11-22
+CERT234,JMD79,SnowFlake,https://www.torres.com/,SnowFlake,Data Engineering,Accept,2024-08-30
+CERT235,JMD79,Python,https://www.ramirez.com/,Python,Data Engineering,Accept,2023-11-12
+CERT236,JMD80,Redis,http://johnson.com/,Redis,Cloud,Accept,2023-05-24
+CERT237,JMD80,Azure,http://rodriguez.biz/,Azure,Cloud,Accept,2024-06-11
+CERT238,JMD81,Python,https://www.thomas.org/,Python,Data Engineering,Reject,2023-10-12
+CERT239,JMD81,Web Scraping,https://www.davis.net/,Web Scraping,Data Engineering,Accept,2023-10-13
+CERT240,JMD81,Data Bricks,https://knight.org/,Data Bricks,Data Engineering,Reject,2023-09-01
+CERT241,JMD81,Node,https://lin.com/,Node,Development,Accept,2023-02-23
+CERT242,JMD82,Python,https://www.williams-hall.net/,Python,Data Engineering,Accept,2022-11-02
+CERT243,JMD83,GCP,https://moore-bryant.com/,GCP,Cloud,Reject,2024-01-28
+CERT244,JMD83,Python,https://www.miller.com/,Python,Data Science,Accept,2023-10-28
+CERT245,JMD83,Applied ML,http://simpson.com/,Applied ML,Data Science,Accept,2024-06-04
+CERT246,JMD83,Big Data,https://www.liu.net/,Big Data,Data Science,Accept,2024-09-25
+CERT247,JMD84,SnowFlake,https://lambert-little.com/,SnowFlake,Data Engineering,Reject,2023-01-13
+CERT248,JMD84,MySQL,http://www.arroyo.org/,MySQL,Data Engineering,Accept,2023-12-01
+CERT249,JMD84,DBT,https://moore.org/,DBT,Data Engineering,Accept,2024-04-17
+CERT250,JMD84,AWS,https://miller-murray.com/,AWS,Cloud,Accept,2024-02-08
+CERT251,JMD84,Azure,http://johnson.com/,Azure,Cloud,Accept,2023-01-09
+CERT252,JMD84,Redis,http://anderson-vega.net/,Redis,Cloud,Reject,2022-10-27
+CERT253,JMD85,GCP,https://simpson.com/,GCP,Cloud,Accept,2024-02-23
+CERT254,JMD85,Redis,https://richardson.com/,Redis,Cloud,Accept,2023-09-06
+CERT255,JMD85,AWS,https://www.strong-long.com/,AWS,Cloud,Reject,2023-12-16
+CERT256,JMD86,AWS,https://www.joseph-foster.com/,AWS,Cloud,Accept,2023-02-14
+CERT257,JMD86,Redis,https://jones.info/,Redis,Cloud,Accept,2023-08-05
+CERT258,JMD87,DBT,http://ramos.biz/,DBT,Data Engineering,Reject,2024-04-01
+CERT259,JMD87,Data Bricks,http://benson-aguilar.org/,Data Bricks,Data Engineering,Accept,2023-06-29
+CERT260,JMD87,MySQL,https://www.morales-mcclure.com/,MySQL,Data Engineering,Accept,2023-08-16
+CERT261,JMD87,Applied ML,https://www.douglas.org/,Applied ML,Data Science,Reject,2024-06-28
+CERT262,JMD87,Big Data,https://pitts.com/,Big Data,Data Science,Reject,2024-01-07
+CERT263,JMD88,Next Js,http://www.eaton.biz/,Next Js,Development,Accept,2023-01-28
+CERT264,JMD88,Flutter,https://www.hamilton.biz/,Flutter,Development,Accept,2022-11-09
+CERT265,JMD88,Big Data,http://marshall.com/,Big Data,Data Science,Reject,2023-03-20
+CERT266,JMD88,Applied ML,http://www.robinson.info/,Applied ML,Data Science,Accept,2024-07-31
+CERT267,JMD89,GCP,http://morgan-gonzalez.com/,GCP,Cloud,Accept,2024-02-10
+CERT268,JMD89,Azure,http://www.johnson.org/,Azure,Cloud,Reject,2024-02-07
+CERT269,JMD89,Reactjs,http://martin-bernard.biz/,Reactjs,Development,Reject,2023-07-31
+CERT270,JMD89,Next Js,http://flores.info/,Next Js,Development,Accept,2023-05-04
+CERT271,JMD90,Data Bricks,http://www.alexander.com/,Data Bricks,Data Engineering,Accept,2024-04-12
+CERT272,JMD90,MySQL,https://mcknight.biz/,MySQL,Data Engineering,Reject,2023-12-28
+CERT273,JMD90,Azure,http://www.collins-garcia.com/,Azure,Cloud,Reject,2023-04-19
+CERT274,JMD90,AWS,https://www.grant-andrews.com/,AWS,Cloud,Accept,2024-02-13
+CERT275,JMD91,Reactjs,https://www.jimenez-poole.com/,Reactjs,Development,Accept,2023-12-02
+CERT276,JMD91,Node,http://rodriguez-skinner.info/,Node,Development,Reject,2023-10-12
+CERT277,JMD92,Web Scraping,http://www.lawson.org/,Web Scraping,Data Engineering,Accept,2024-01-10
+CERT278,JMD92,DBT,https://duffy.com/,DBT,Data Engineering,Reject,2023-11-18
+CERT279,JMD93,React Native,http://www.rice.com/,React Native,Development,Reject,2023-06-28
+CERT280,JMD93,Reactjs,http://www.brooks-collins.org/,Reactjs,Development,Reject,2023-10-03
+CERT281,JMD93,Azure,http://hayes-miller.net/,Azure,Cloud,Accept,2023-09-02
+CERT282,JMD93,Redis,http://www.clark-mccoy.com/,Redis,Cloud,Reject,2024-06-30
+CERT283,JMD94,Web Scraping,https://patterson.com/,Web Scraping,Data Engineering,Reject,2024-03-26
+CERT284,JMD94,MySQL,https://www.brock-johnson.info/,MySQL,Data Engineering,Accept,2023-06-02
+CERT285,JMD94,Python,https://mendoza.com/,Python,Data Engineering,Accept,2023-01-10
+CERT286,JMD95,Flutter,https://www.rodriguez-walters.com/,Flutter,Development,Accept,2023-12-12
+CERT287,JMD95,Laravel,http://www.blair.com/,Laravel,Development,Reject,2023-07-23
+CERT288,JMD96,Redis,https://www.escobar.com/,Redis,Cloud,Accept,2024-05-04
+CERT289,JMD96,GCP,http://www.mitchell-gonzalez.com/,GCP,Cloud,Reject,2024-08-07
+CERT290,JMD96,Flutter,http://garcia.com/,Flutter,Development,Accept,2023-06-15
+CERT291,JMD96,React Native,http://www.howard.info/,React Native,Development,Accept,2024-03-26
+CERT292,JMD96,Laravel,http://www.foley.com/,Laravel,Development,Accept,2023-01-16
+CERT293,JMD97,Reactjs,https://www.stewart.info/,Reactjs,Development,Accept,2024-03-03
+CERT294,JMD97,Azure,https://black.com/,Azure,Cloud,Reject,2023-03-19
+CERT295,JMD97,Redis,http://www.sandoval-davis.com/,Redis,Cloud,Reject,2024-07-13
+CERT296,JMD98,GCP,http://stein.org/,GCP,Cloud,Accept,2023-07-10
+CERT297,JMD99,Laravel,https://adkins.org/,Laravel,Development,Reject,2023-12-12
+CERT298,JMD99,Node,https://www.mueller-green.com/,Node,Development,Reject,2024-03-05
+CERT299,JMD99,AWS,http://www.williams.com/,AWS,Cloud,Reject,2023-11-05
+CERT300,JMD99,Azure,http://www.marshall.com/,Azure,Cloud,Reject,2023-09-05
+CERT301,JMD99,GCP,https://evans.com/,GCP,Cloud,Accept,2023-02-11
+CERT302,JMD100,Next Js,http://www.lara-summers.com/,Next Js,Development,Reject,2024-03-03
+CERT303,JMD100,Angular,http://www.chapman-cole.com/,Angular,Development,Reject,2023-08-29
+CERT304,JMD100,GCP,http://www.mcgrath.info/,GCP,Cloud,Accept,2024-07-18
+CERT305,JMD100,Redis,http://www.wood.biz/,Redis,Cloud,Reject,2022-10-19
+CERT306,JMD101,Azure,http://ayers-wright.com/,Azure,Cloud,Accept,2023-06-13
+CERT307,JMD101,SnowFlake,https://www.conway.biz/,SnowFlake,Data Engineering,Reject,2024-07-19
+CERT308,JMD102,Laravel,http://www.evans-yates.org/,Laravel,Development,Reject,2023-05-30
+CERT309,JMD102,Node,https://www.campbell.biz/,Node,Development,Reject,2023-12-06
+CERT310,JMD103,SnowFlake,http://parrish-cooley.com/,SnowFlake,Data Engineering,Accept,2023-03-08
+CERT311,JMD103,Python,https://acosta.com/,Python,Data Engineering,Accept,2022-11-11
+CERT312,JMD103,GCP,https://fowler.com/,GCP,Cloud,Reject,2023-08-06
+CERT313,JMD103,Redis,https://zamora-koch.com/,Redis,Cloud,Accept,2023-08-24
+CERT314,JMD104,Angular,https://www.thompson-gillespie.com/,Angular,Development,Reject,2023-09-10
+CERT315,JMD104,Reactjs,https://cook.com/,Reactjs,Development,Accept,2024-02-19
+CERT316,JMD105,Big Data,https://www.wright.com/,Big Data,Data Science,Reject,2023-11-20
+CERT317,JMD105,Azure,http://white.info/,Azure,Cloud,Reject,2023-01-17
+CERT318,JMD106,Python,http://www.valdez.com/,Python,Data Science,Reject,2023-05-17
+CERT319,JMD107,Azure,http://www.jones.com/,Azure,Cloud,Reject,2022-11-06
+CERT320,JMD107,GCP,http://www.perry-raymond.com/,GCP,Cloud,Accept,2023-01-11
+CERT321,JMD107,AWS,http://www.thompson.com/,AWS,Cloud,Accept,2024-02-09
+CERT322,JMD107,Python,https://www.rodriguez.org/,Python,Data Science,Accept,2022-10-19
+CERT323,JMD107,Applied ML,http://www.hudson.com/,Applied ML,Data Science,Reject,2024-04-25
+CERT324,JMD108,Python,http://www.phillips-ramirez.com/,Python,Data Science,Reject,2023-12-12
+CERT325,JMD108,Applied ML,http://www.robinson-white.info/,Applied ML,Data Science,Accept,2024-08-29
+CERT326,JMD109,SnowFlake,http://www.newton-payne.info/,SnowFlake,Data Engineering,Reject,2024-06-04
+CERT327,JMD109,Web Scraping,https://www.anderson-wilson.biz/,Web Scraping,Data Engineering,Accept,2023-03-30
+CERT328,JMD109,MySQL,https://www.ross-melton.net/,MySQL,Data Engineering,Accept,2024-03-09
+CERT329,JMD109,Laravel,http://french-wells.biz/,Laravel,Development,Reject,2024-01-09
+CERT330,JMD110,Angular,https://www.ryan.com/,Angular,Development,Reject,2023-01-29
+CERT331,JMD110,Azure,http://www.curry-pierce.com/,Azure,Cloud,Reject,2023-11-26
+CERT332,JMD110,AWS,https://www.olson-ramos.com/,AWS,Cloud,Accept,2023-04-01
+CERT333,JMD111,DBT,https://www.jackson.com/,DBT,Data Engineering,Reject,2023-03-28
+CERT334,JMD111,SnowFlake,https://www.potter.info/,SnowFlake,Data Engineering,Reject,2023-01-12
+CERT335,JMD111,Python,https://www.nguyen.com/,Python,Data Engineering,Accept,2023-06-22
+CERT336,JMD112,Azure,http://murphy.com/,Azure,Cloud,Accept,2024-04-05
+CERT337,JMD112,Redis,https://www.patterson-moore.com/,Redis,Cloud,Accept,2023-09-12
+CERT338,JMD112,AWS,https://www.bush.com/,AWS,Cloud,Accept,2022-12-07
+CERT339,JMD113,Redis,https://hanna.net/,Redis,Cloud,Accept,2023-10-10
+CERT340,JMD114,Python,https://mccormick-duran.com/,Python,Data Science,Reject,2023-01-25
+CERT341,JMD114,DBT,https://www.pratt.com/,DBT,Data Engineering,Reject,2023-06-19
+CERT342,JMD115,Python,https://sexton.biz/,Python,Data Engineering,Accept,2022-12-01
+CERT343,JMD115,DBT,https://norton-wyatt.com/,DBT,Data Engineering,Reject,2024-09-26
+CERT344,JMD115,SnowFlake,http://www.torres.com/,SnowFlake,Data Engineering,Accept,2023-09-02
+CERT345,JMD116,Flutter,https://www.rodriguez-sanchez.net/,Flutter,Development,Reject,2022-12-03
+CERT346,JMD116,Node,http://www.howell-welch.com/,Node,Development,Accept,2024-02-29
+CERT347,JMD116,Angular,https://harper.org/,Angular,Development,Reject,2023-03-13
+CERT348,JMD117,Data Bricks,http://blake.com/,Data Bricks,Data Engineering,Reject,2023-07-30
+CERT349,JMD117,DBT,https://smith-pennington.info/,DBT,Data Engineering,Reject,2023-07-18
+CERT350,JMD117,MySQL,https://johnson.com/,MySQL,Data Engineering,Accept,2024-01-15
+CERT351,JMD118,Python,http://johnson.info/,Python,Data Science,Reject,2023-05-03
+CERT352,JMD118,Azure,http://www.walker.com/,Azure,Cloud,Accept,2022-10-27
+CERT353,JMD118,AWS,http://jones.com/,AWS,Cloud,Accept,2024-02-11
+CERT354,JMD118,GCP,https://carter.com/,GCP,Cloud,Reject,2022-11-22
+CERT355,JMD119,Python,https://dalton.com/,Python,Data Science,Reject,2022-12-13
+CERT356,JMD119,Applied ML,https://www.richardson.net/,Applied ML,Data Science,Accept,2023-09-27
+CERT357,JMD119,Big Data,http://www.miles.org/,Big Data,Data Science,Reject,2023-12-12
+CERT358,JMD119,SnowFlake,https://www.jones-patel.com/,SnowFlake,Data Engineering,Reject,2024-02-29
+CERT359,JMD119,Web Scraping,https://williams.com/,Web Scraping,Data Engineering,Reject,2023-03-05
+CERT360,JMD119,Python,https://villarreal.org/,Python,Data Engineering,Reject,2023-05-29
+CERT361,JMD120,Node,https://lopez.com/,Node,Development,Reject,2023-08-04
+CERT362,JMD120,React Native,https://browning-johnson.com/,React Native,Development,Accept,2023-07-15
+CERT363,JMD120,Angular,http://www.hernandez.com/,Angular,Development,Accept,2023-09-01
+CERT364,JMD120,MySQL,https://day.com/,MySQL,Data Engineering,Accept,2024-09-27
+CERT365,JMD121,Big Data,https://gibson-ramos.com/,Big Data,Data Science,Reject,2024-05-08
+CERT366,JMD121,Python,https://rivera.com/,Python,Data Science,Accept,2024-03-15
+CERT367,JMD121,Data Bricks,https://www.brennan.com/,Data Bricks,Data Engineering,Reject,2023-02-09
+CERT368,JMD121,SnowFlake,https://www.davis-larson.org/,SnowFlake,Data Engineering,Accept,2023-01-27
+CERT369,JMD121,Web Scraping,https://www.hays.org/,Web Scraping,Data Engineering,Reject,2024-08-31
+CERT370,JMD122,Flutter,http://anderson.info/,Flutter,Development,Reject,2024-05-15
+CERT371,JMD122,Reactjs,http://travis.info/,Reactjs,Development,Accept,2024-06-04
+CERT372,JMD122,React Native,http://www.white-liu.biz/,React Native,Development,Reject,2023-07-31
+CERT373,JMD123,Laravel,http://www.porter.com/,Laravel,Development,Reject,2022-10-15
+CERT374,JMD123,Reactjs,http://kennedy-hill.com/,Reactjs,Development,Reject,2022-11-02
+CERT375,JMD124,Python,https://www.adkins.com/,Python,Data Science,Accept,2024-06-07
+CERT376,JMD124,Reactjs,http://lozano-miller.com/,Reactjs,Development,Reject,2023-12-20
+CERT377,JMD124,Angular,http://www.jefferson-foster.info/,Angular,Development,Reject,2024-02-21
+CERT378,JMD125,Next Js,https://miller-perry.biz/,Next Js,Development,Accept,2024-02-24
+CERT379,JMD126,Applied ML,http://wood.biz/,Applied ML,Data Science,Accept,2023-08-13
+CERT380,JMD126,Big Data,http://www.yu.com/,Big Data,Data Science,Accept,2023-07-16
+CERT381,JMD126,Web Scraping,https://www.stone.com/,Web Scraping,Data Engineering,Accept,2023-11-24
+CERT382,JMD126,DBT,https://griffin.net/,DBT,Data Engineering,Accept,2023-02-16
+CERT383,JMD127,Angular,http://hunt.com/,Angular,Development,Accept,2023-10-03
+CERT384,JMD128,Redis,https://www.cox.net/,Redis,Cloud,Accept,2023-02-15
+CERT385,JMD128,GCP,https://smith-dixon.com/,GCP,Cloud,Accept,2024-06-15
+CERT386,JMD128,AWS,https://gonzalez.com/,AWS,Cloud,Accept,2023-03-10
+CERT387,JMD128,Data Bricks,http://keller.net/,Data Bricks,Data Engineering,Reject,2023-07-24
+CERT388,JMD129,Python,http://www.white-sherman.com/,Python,Data Science,Accept,2024-02-15
+CERT389,JMD129,Big Data,https://russell-smith.com/,Big Data,Data Science,Accept,2024-09-08
+CERT390,JMD129,Flutter,https://ward.com/,Flutter,Development,Accept,2024-02-21
+CERT391,JMD129,React Native,https://www.harvey.net/,React Native,Development,Accept,2022-11-28
+CERT392,JMD130,MySQL,https://www.powers.info/,MySQL,Data Engineering,Accept,2023-07-27
+CERT393,JMD130,Data Bricks,http://www.bowen.net/,Data Bricks,Data Engineering,Reject,2024-08-29
+CERT394,JMD131,SnowFlake,http://morrison.com/,SnowFlake,Data Engineering,Reject,2023-05-15
+CERT395,JMD132,Redis,http://www.jones.com/,Redis,Cloud,Accept,2023-04-21
+CERT396,JMD132,AWS,http://williamson.com/,AWS,Cloud,Reject,2024-08-09
+CERT397,JMD132,Big Data,http://www.salazar.org/,Big Data,Data Science,Reject,2022-10-08
+CERT398,JMD132,Applied ML,http://www.fisher-nguyen.com/,Applied ML,Data Science,Accept,2024-09-20
+CERT399,JMD133,Python,https://www.robinson.net/,Python,Data Engineering,Reject,2023-03-17
+CERT400,JMD133,Web Scraping,https://www.green.com/,Web Scraping,Data Engineering,Accept,2023-09-15
+CERT401,JMD133,Data Bricks,https://morales-davidson.com/,Data Bricks,Data Engineering,Reject,2024-07-04
+CERT402,JMD133,Angular,http://rosario-briggs.com/,Angular,Development,Accept,2024-06-29
+CERT403,JMD133,Next Js,http://garza.biz/,Next Js,Development,Reject,2023-10-12
+CERT404,JMD134,Next Js,http://www.hart.com/,Next Js,Development,Accept,2024-07-11
+CERT405,JMD134,GCP,https://www.walker-figueroa.com/,GCP,Cloud,Reject,2022-10-08
+CERT406,JMD134,AWS,https://hess.com/,AWS,Cloud,Accept,2024-03-13
+CERT407,JMD135,Python,http://www.ramirez-green.com/,Python,Data Science,Accept,2024-02-20
+CERT408,JMD135,Big Data,http://www.pena-yates.org/,Big Data,Data Science,Accept,2024-06-01
+CERT409,JMD135,Applied ML,http://giles.info/,Applied ML,Data Science,Accept,2024-08-12
+CERT410,JMD136,GCP,https://burton.com/,GCP,Cloud,Accept,2022-10-09
+CERT411,JMD136,AWS,http://www.brooks-morris.net/,AWS,Cloud,Accept,2024-06-07
+CERT412,JMD136,Redis,http://lin-jackson.com/,Redis,Cloud,Accept,2022-11-15
+CERT413,JMD137,MySQL,https://www.johnson.com/,MySQL,Data Engineering,Accept,2023-01-25
+CERT414,JMD137,Python,http://gomez-edwards.com/,Python,Data Engineering,Accept,2024-02-20
+CERT415,JMD137,React Native,http://www.scott.net/,React Native,Development,Reject,2023-05-04
+CERT416,JMD137,Flutter,http://davis.com/,Flutter,Development,Accept,2022-11-29
+CERT417,JMD137,Next Js,https://www.james.info/,Next Js,Development,Reject,2024-08-07
+CERT418,JMD138,GCP,http://oneill-horne.info/,GCP,Cloud,Accept,2023-05-07
+CERT419,JMD138,Azure,http://singleton-moore.com/,Azure,Cloud,Reject,2023-08-16
+CERT420,JMD138,Redis,https://knight.com/,Redis,Cloud,Reject,2024-02-07
+CERT421,JMD138,Applied ML,https://www.ali-rodgers.com/,Applied ML,Data Science,Accept,2023-09-19
+CERT422,JMD138,Big Data,http://gomez-castaneda.info/,Big Data,Data Science,Accept,2024-07-10
+CERT423,JMD139,Python,http://pham-berry.info/,Python,Data Science,Reject,2023-05-17
+CERT424,JMD139,Python,https://king.com/,Python,Data Engineering,Reject,2024-04-18
+CERT425,JMD139,DBT,https://www.robinson.org/,DBT,Data Engineering,Reject,2023-09-24
+CERT426,JMD140,Flutter,https://www.robinson.com/,Flutter,Development,Reject,2023-10-21
+CERT427,JMD140,Angular,http://mcfarland.com/,Angular,Development,Reject,2023-12-25
+CERT428,JMD141,Big Data,https://www.brewer-shelton.biz/,Big Data,Data Science,Reject,2024-04-29
+CERT429,JMD141,Applied ML,https://www.moore.info/,Applied ML,Data Science,Accept,2024-08-23
+CERT430,JMD141,DBT,http://www.reyes-figueroa.com/,DBT,Data Engineering,Reject,2022-12-22
+CERT431,JMD141,Python,https://www.walker-evans.info/,Python,Data Engineering,Reject,2023-12-31
+CERT432,JMD142,DBT,http://www.johnson.com/,DBT,Data Engineering,Accept,2024-08-10
+CERT433,JMD142,SnowFlake,http://hicks.com/,SnowFlake,Data Engineering,Reject,2024-01-12
+CERT434,JMD143,Python,https://www.mitchell-hurley.info/,Python,Data Science,Accept,2023-06-09
+CERT435,JMD143,Big Data,http://www.miller.biz/,Big Data,Data Science,Accept,2023-05-13
+CERT436,JMD143,Applied ML,https://stevens.org/,Applied ML,Data Science,Accept,2023-11-20
+CERT437,JMD144,GCP,https://www.rodriguez.org/,GCP,Cloud,Accept,2023-12-03
+CERT438,JMD144,Applied ML,http://rogers.com/,Applied ML,Data Science,Accept,2024-02-22
+CERT439,JMD145,Azure,http://valdez-martinez.com/,Azure,Cloud,Accept,2023-01-02
+CERT440,JMD145,Big Data,http://www.bishop.com/,Big Data,Data Science,Accept,2024-04-09
+CERT441,JMD145,Python,https://cordova-baker.com/,Python,Data Science,Accept,2022-11-17
+CERT442,JMD146,GCP,http://www.smith-harper.info/,GCP,Cloud,Accept,2023-06-08
+CERT443,JMD146,Azure,https://flores.org/,Azure,Cloud,Accept,2022-12-09
+CERT444,JMD147,Applied ML,https://phillips-jones.biz/,Applied ML,Data Science,Reject,2022-12-01
+CERT445,JMD147,Python,http://www.reed.biz/,Python,Data Science,Reject,2023-03-02
+CERT446,JMD147,Big Data,https://gardner.com/,Big Data,Data Science,Reject,2023-06-23
+CERT447,JMD148,Azure,https://www.vasquez.com/,Azure,Cloud,Reject,2023-10-19
+CERT448,JMD148,Redis,http://www.barnes-barnes.org/,Redis,Cloud,Accept,2022-11-14
+CERT449,JMD148,Data Bricks,https://moore.biz/,Data Bricks,Data Engineering,Accept,2023-01-16
+CERT450,JMD148,DBT,https://reese.com/,DBT,Data Engineering,Accept,2024-01-24
+CERT451,JMD148,Python,https://www.duncan-davis.biz/,Python,Data Engineering,Accept,2024-08-09
+CERT452,JMD149,Python,http://www.graves.com/,Python,Data Science,Accept,2023-01-01
+CERT453,JMD149,Applied ML,https://aguirre.com/,Applied ML,Data Science,Reject,2024-03-13
+CERT454,JMD149,Big Data,http://www.perkins.com/,Big Data,Data Science,Reject,2022-10-21
+CERT455,JMD150,Python,http://hancock.com/,Python,Data Science,Accept,2023-12-06
+CERT456,JMD150,Big Data,http://www.williamson.com/,Big Data,Data Science,Accept,2022-12-25
+CERT457,JMD150,Applied ML,https://jordan.info/,Applied ML,Data Science,Accept,2024-01-01
+CERT458,JMD151,Azure,https://martin-owens.com/,Azure,Cloud,Reject,2023-02-27
+CERT459,JMD151,Redis,https://bell.info/,Redis,Cloud,Reject,2024-07-02
+CERT460,JMD152,Python,http://bowers.com/,Python,Data Engineering,Reject,2023-02-02
+CERT461,JMD152,Data Bricks,http://www.walters.info/,Data Bricks,Data Engineering,Accept,2022-12-10
+CERT462,JMD152,SnowFlake,http://www.lucas-rogers.com/,SnowFlake,Data Engineering,Accept,2024-06-28
+CERT463,JMD153,Data Bricks,https://douglas.com/,Data Bricks,Data Engineering,Accept,2022-11-01
+CERT464,JMD153,Laravel,http://www.buchanan-navarro.com/,Laravel,Development,Accept,2023-03-16
+CERT465,JMD153,Reactjs,http://smith-cook.net/,Reactjs,Development,Accept,2023-09-29
+CERT466,JMD153,Next Js,https://www.miller.biz/,Next Js,Development,Reject,2023-03-13
+CERT467,JMD154,Azure,https://www.anderson.info/,Azure,Cloud,Reject,2023-05-06
+CERT468,JMD154,GCP,http://www.lindsey.biz/,GCP,Cloud,Reject,2023-10-27
+CERT469,JMD154,AWS,http://www.ramirez.com/,AWS,Cloud,Reject,2022-11-01
+CERT470,JMD154,Big Data,http://www.tran.info/,Big Data,Data Science,Reject,2022-10-24
+CERT471,JMD154,Python,https://smith.biz/,Python,Data Science,Accept,2024-04-26
+CERT472,JMD154,Applied ML,http://www.gonzalez.biz/,Applied ML,Data Science,Reject,2023-01-15
+CERT473,JMD155,SnowFlake,http://morgan.com/,SnowFlake,Data Engineering,Accept,2023-06-28
+CERT474,JMD155,DBT,http://www.ayers-pierce.com/,DBT,Data Engineering,Accept,2024-01-31
+CERT475,JMD156,Big Data,https://gonzalez.com/,Big Data,Data Science,Reject,2023-02-17
+CERT476,JMD156,Python,https://www.smith-morales.info/,Python,Data Science,Accept,2022-10-29
+CERT477,JMD156,Applied ML,https://chang-martin.net/,Applied ML,Data Science,Reject,2022-10-26
+CERT478,JMD157,Data Bricks,https://www.garrison.biz/,Data Bricks,Data Engineering,Reject,2023-07-15
+CERT479,JMD158,Python,http://green.com/,Python,Data Science,Accept,2024-02-24
+CERT480,JMD159,Flutter,https://butler-norris.net/,Flutter,Development,Accept,2022-12-26
+CERT481,JMD159,Laravel,https://thompson.com/,Laravel,Development,Accept,2023-01-18
+CERT482,JMD159,Next Js,http://hawkins.com/,Next Js,Development,Reject,2024-08-20
+CERT483,JMD160,React Native,http://franklin.com/,React Native,Development,Reject,2024-03-25
+CERT484,JMD160,Laravel,http://www.hamilton.info/,Laravel,Development,Accept,2024-07-09
+CERT485,JMD160,Node,http://www.evans.com/,Node,Development,Accept,2023-11-14
+CERT486,JMD160,Big Data,http://www.edwards.biz/,Big Data,Data Science,Accept,2023-09-22
+CERT487,JMD160,Python,http://cunningham-parks.com/,Python,Data Science,Reject,2023-06-15
+CERT488,JMD161,GCP,https://diaz-berg.info/,GCP,Cloud,Reject,2023-02-25
+CERT489,JMD161,Azure,http://www.houston.com/,Azure,Cloud,Reject,2023-03-08
+CERT490,JMD161,AWS,https://allen.net/,AWS,Cloud,Reject,2023-12-21
+CERT491,JMD162,Big Data,http://payne.net/,Big Data,Data Science,Accept,2024-03-31
+CERT492,JMD163,AWS,http://johnson.com/,AWS,Cloud,Reject,2022-11-29
+CERT493,JMD164,Laravel,http://www.trevino.net/,Laravel,Development,Reject,2023-03-08
+CERT494,JMD164,Angular,http://www.smith.com/,Angular,Development,Accept,2023-11-27
+CERT495,JMD165,Applied ML,http://www.martinez-friedman.com/,Applied ML,Data Science,Reject,2024-05-01
+CERT496,JMD165,DBT,https://www.smith.biz/,DBT,Data Engineering,Accept,2024-03-12
+CERT497,JMD165,Web Scraping,http://www.wade.com/,Web Scraping,Data Engineering,Reject,2023-12-13
+CERT498,JMD166,GCP,http://gonzalez.biz/,GCP,Cloud,Accept,2024-01-07
+CERT499,JMD166,AWS,http://www.cuevas.com/,AWS,Cloud,Reject,2022-11-07
+CERT500,JMD166,Azure,http://smith-esparza.biz/,Azure,Cloud,Reject,2023-06-29
+CERT501,JMD166,Python,http://www.shaffer.org/,Python,Data Science,Reject,2022-12-31
+CERT502,JMD166,Applied ML,http://www.bullock.com/,Applied ML,Data Science,Reject,2024-08-05
+CERT503,JMD166,Big Data,https://hendrix.info/,Big Data,Data Science,Accept,2023-05-14
+CERT504,JMD167,Big Data,http://www.wood-howard.com/,Big Data,Data Science,Accept,2024-05-10
+CERT505,JMD167,Python,https://garcia.net/,Python,Data Science,Reject,2023-12-09
+CERT506,JMD167,Next Js,https://mendoza-mann.org/,Next Js,Development,Accept,2022-11-14
+CERT507,JMD168,Node,https://ayers.info/,Node,Development,Reject,2023-12-30
+CERT508,JMD168,Flutter,http://jackson.com/,Flutter,Development,Reject,2024-04-18
+CERT509,JMD169,Next Js,https://www.vega.com/,Next Js,Development,Accept,2023-05-24
+CERT510,JMD169,Node,http://www.adkins-cox.com/,Node,Development,Reject,2023-11-05
+CERT511,JMD169,DBT,https://www.davis-allen.com/,DBT,Data Engineering,Reject,2022-12-25
+CERT512,JMD169,SnowFlake,https://nelson.com/,SnowFlake,Data Engineering,Reject,2023-08-13
+CERT513,JMD169,Web Scraping,http://www.smith-lawson.com/,Web Scraping,Data Engineering,Reject,2024-09-04
+CERT514,JMD170,GCP,https://www.juarez.com/,GCP,Cloud,Accept,2023-10-21
+CERT515,JMD170,AWS,http://www.miller.org/,AWS,Cloud,Accept,2024-02-29
+CERT516,JMD170,Redis,http://www.perez-davila.com/,Redis,Cloud,Reject,2022-12-29
+CERT517,JMD170,Python,https://www.durham-watson.biz/,Python,Data Engineering,Reject,2022-12-29
+CERT518,JMD171,Next Js,https://russell-cooper.info/,Next Js,Development,Reject,2023-03-06
+CERT519,JMD171,Data Bricks,https://martinez.com/,Data Bricks,Data Engineering,Accept,2022-12-01
+CERT520,JMD171,SnowFlake,http://castro-fitzpatrick.info/,SnowFlake,Data Engineering,Reject,2022-11-30
+CERT521,JMD171,Web Scraping,https://www.huang.com/,Web Scraping,Data Engineering,Reject,2024-06-26
+CERT522,JMD172,GCP,http://gibson.net/,GCP,Cloud,Reject,2023-06-15
+CERT523,JMD172,Redis,https://mckinney.info/,Redis,Cloud,Reject,2023-01-31
+CERT524,JMD172,DBT,https://howe.info/,DBT,Data Engineering,Reject,2023-03-15
+CERT525,JMD172,Web Scraping,https://brown.com/,Web Scraping,Data Engineering,Reject,2024-07-07
+CERT526,JMD173,AWS,http://hubbard.info/,AWS,Cloud,Reject,2023-01-28
+CERT527,JMD173,Azure,https://www.walton.com/,Azure,Cloud,Reject,2023-01-08
+CERT528,JMD173,Laravel,http://garrett-hernandez.biz/,Laravel,Development,Accept,2023-03-25
+CERT529,JMD174,Redis,https://www.mitchell.com/,Redis,Cloud,Accept,2024-08-15
+CERT530,JMD174,AWS,http://www.dunlap.com/,AWS,Cloud,Reject,2023-08-10
+CERT531,JMD175,Data Bricks,https://rice.info/,Data Bricks,Data Engineering,Reject,2024-03-31
+CERT532,JMD175,Python,https://www.martin-herrera.info/,Python,Data Engineering,Reject,2024-05-10
+CERT533,JMD175,Azure,http://www.keller.org/,Azure,Cloud,Accept,2024-07-14
+CERT534,JMD176,React Native,http://buchanan.com/,React Native,Development,Accept,2024-08-20
+CERT535,JMD176,Next Js,http://www.collier.com/,Next Js,Development,Reject,2022-11-26
+CERT536,JMD176,Python,https://pope-sanchez.info/,Python,Data Engineering,Reject,2024-01-26
+CERT537,JMD177,Laravel,https://garcia.com/,Laravel,Development,Reject,2023-03-29
+CERT538,JMD177,React Native,http://www.alvarez.com/,React Native,Development,Reject,2023-09-19
+CERT539,JMD177,Node,https://www.leon.com/,Node,Development,Accept,2023-07-03
+CERT540,JMD178,Python,http://www.anderson.com/,Python,Data Engineering,Reject,2023-04-16
+CERT541,JMD178,DBT,https://macdonald.com/,DBT,Data Engineering,Reject,2023-05-20
+CERT542,JMD178,React Native,http://cook.info/,React Native,Development,Reject,2024-03-23
+CERT543,JMD178,Next Js,http://kennedy.org/,Next Js,Development,Accept,2024-01-22
+CERT544,JMD178,Laravel,https://www.carter-smith.com/,Laravel,Development,Reject,2023-05-02
+CERT545,JMD179,Reactjs,http://www.rogers.com/,Reactjs,Development,Reject,2023-04-20
+CERT546,JMD179,Node,http://cuevas.net/,Node,Development,Accept,2023-03-19
+CERT547,JMD179,Angular,https://www.monroe-reynolds.org/,Angular,Development,Reject,2023-05-06
+CERT548,JMD180,Flutter,https://www.rivera.net/,Flutter,Development,Accept,2023-09-03
+CERT549,JMD180,AWS,https://king-clark.net/,AWS,Cloud,Reject,2023-08-19
+CERT550,JMD180,Redis,https://www.joseph.com/,Redis,Cloud,Accept,2023-07-13
+CERT551,JMD181,Next Js,http://www.norton-merritt.info/,Next Js,Development,Reject,2023-09-23
+CERT552,JMD181,Node,http://dean.net/,Node,Development,Reject,2024-06-09
+CERT553,JMD182,GCP,https://davis-thomas.com/,GCP,Cloud,Reject,2022-11-09
+CERT554,JMD182,Web Scraping,http://rice-hart.com/,Web Scraping,Data Engineering,Reject,2023-01-06
+CERT555,JMD182,Data Bricks,http://grant-stone.com/,Data Bricks,Data Engineering,Accept,2024-07-29
+CERT556,JMD182,SnowFlake,http://www.garcia.com/,SnowFlake,Data Engineering,Reject,2024-03-21
+CERT557,JMD183,Next Js,https://www.valentine.com/,Next Js,Development,Accept,2023-09-15
+CERT558,JMD183,React Native,http://king.com/,React Native,Development,Accept,2023-04-13
+CERT559,JMD183,Laravel,http://www.nunez-massey.com/,Laravel,Development,Accept,2023-09-04
+CERT560,JMD184,Redis,https://www.baker-jimenez.com/,Redis,Cloud,Accept,2023-01-04
+CERT561,JMD184,Big Data,https://www.baird.com/,Big Data,Data Science,Accept,2023-02-11
+CERT562,JMD184,Applied ML,http://www.mendez.com/,Applied ML,Data Science,Accept,2024-08-18
+CERT563,JMD185,Big Data,https://www.bryant-harris.info/,Big Data,Data Science,Accept,2024-08-21
+CERT564,JMD185,Python,http://malone-johnston.net/,Python,Data Science,Accept,2024-08-27
+CERT565,JMD185,Applied ML,http://pitts.com/,Applied ML,Data Science,Reject,2023-11-30
+CERT566,JMD185,Python,https://ray.com/,Python,Data Engineering,Reject,2023-09-08
+CERT567,JMD185,Data Bricks,https://www.stokes.com/,Data Bricks,Data Engineering,Reject,2023-10-25
+CERT568,JMD186,Redis,https://gill.net/,Redis,Cloud,Accept,2023-10-15
+CERT569,JMD186,AWS,https://taylor.com/,AWS,Cloud,Reject,2023-11-24
+CERT570,JMD186,GCP,http://www.flowers-graves.com/,GCP,Cloud,Reject,2023-06-14
+CERT571,JMD187,Python,http://www.buchanan.com/,Python,Data Science,Accept,2024-07-21
+CERT572,JMD187,Big Data,http://www.fernandez.com/,Big Data,Data Science,Accept,2024-08-04
+CERT573,JMD187,Applied ML,https://www.walters-williams.com/,Applied ML,Data Science,Reject,2024-03-02
+CERT574,JMD188,GCP,http://www.king.net/,GCP,Cloud,Reject,2024-02-17
+CERT575,JMD188,Python,http://www.ortiz-ayala.biz/,Python,Data Science,Accept,2023-10-28
+CERT576,JMD188,Applied ML,http://luna-marsh.info/,Applied ML,Data Science,Accept,2022-12-28
+CERT577,JMD188,Big Data,https://robinson.com/,Big Data,Data Science,Accept,2023-10-09
+CERT578,JMD189,Applied ML,https://allison.com/,Applied ML,Data Science,Reject,2023-04-28
+CERT579,JMD189,Big Data,https://ray.org/,Big Data,Data Science,Accept,2023-09-10
+CERT580,JMD189,Azure,https://www.wilson.net/,Azure,Cloud,Reject,2024-07-31
+CERT581,JMD190,Web Scraping,http://padilla-acosta.biz/,Web Scraping,Data Engineering,Accept,2023-07-13
+CERT582,JMD190,Python,http://www.young-hernandez.com/,Python,Data Engineering,Accept,2023-02-13
+CERT583,JMD190,MySQL,https://martin-little.info/,MySQL,Data Engineering,Accept,2023-01-08
+CERT584,JMD191,DBT,http://peterson.com/,DBT,Data Engineering,Accept,2022-10-23
+CERT585,JMD191,Data Bricks,http://glover-thompson.org/,Data Bricks,Data Engineering,Accept,2023-01-22
+CERT586,JMD192,Laravel,http://www.robinson.com/,Laravel,Development,Accept,2024-03-14
+CERT587,JMD192,Node,http://perry.biz/,Node,Development,Accept,2023-02-06
+CERT588,JMD192,Flutter,https://tucker-alvarez.com/,Flutter,Development,Reject,2023-07-20
+CERT589,JMD193,Python,http://www.robinson.com/,Python,Data Engineering,Reject,2024-08-05
+CERT590,JMD193,SnowFlake,https://www.sanders-williams.com/,SnowFlake,Data Engineering,Accept,2022-12-11
+CERT591,JMD194,React Native,https://www.kim.com/,React Native,Development,Reject,2022-11-07
+CERT592,JMD194,Web Scraping,http://www.wright-obrien.com/,Web Scraping,Data Engineering,Accept,2023-08-14
+CERT593,JMD194,Data Bricks,https://www.roberts.info/,Data Bricks,Data Engineering,Accept,2023-09-13
+CERT594,JMD194,Python,http://www.gibson.com/,Python,Data Engineering,Accept,2024-10-02
+CERT595,JMD195,React Native,https://www.cook-oneal.com/,React Native,Development,Reject,2023-02-22
+CERT596,JMD195,Next Js,https://www.turner.com/,Next Js,Development,Accept,2022-12-11
+CERT597,JMD195,Reactjs,https://www.carter.com/,Reactjs,Development,Reject,2024-01-01
+CERT598,JMD195,Big Data,http://www.gardner-richardson.com/,Big Data,Data Science,Accept,2024-02-02
+CERT599,JMD195,Applied ML,https://www.sanchez-barrett.com/,Applied ML,Data Science,Reject,2023-06-19
+CERT600,JMD195,Python,http://www.jones-brooks.com/,Python,Data Science,Reject,2024-01-22
+CERT601,JMD196,Web Scraping,http://www.adams.com/,Web Scraping,Data Engineering,Reject,2024-08-24
+CERT602,JMD196,Data Bricks,http://www.ingram-wade.com/,Data Bricks,Data Engineering,Reject,2023-10-14
+CERT603,JMD196,SnowFlake,https://www.wood.net/,SnowFlake,Data Engineering,Reject,2023-06-04
+CERT604,JMD197,SnowFlake,http://brown.com/,SnowFlake,Data Engineering,Accept,2023-08-19
+CERT605,JMD197,DBT,https://www.perry-wright.com/,DBT,Data Engineering,Reject,2024-06-05
+CERT606,JMD198,DBT,https://fowler.net/,DBT,Data Engineering,Accept,2024-02-25
+CERT607,JMD198,Data Bricks,https://barber-bautista.com/,Data Bricks,Data Engineering,Reject,2024-08-27
+CERT608,JMD198,Python,http://hayes.com/,Python,Data Engineering,Accept,2024-02-20
+CERT609,JMD198,Python,http://caldwell.org/,Python,Data Science,Accept,2024-08-29
+CERT610,JMD198,Big Data,https://www.scott.com/,Big Data,Data Science,Reject,2023-04-10
+CERT611,JMD198,Applied ML,http://flores.com/,Applied ML,Data Science,Reject,2023-11-22
+CERT612,JMD199,Big Data,https://vincent.com/,Big Data,Data Science,Accept,2023-03-07
+CERT613,JMD199,Python,https://robinson-chung.com/,Python,Data Science,Accept,2023-08-19
+CERT614,JMD199,Applied ML,https://coleman-edwards.org/,Applied ML,Data Science,Reject,2024-01-15
+CERT615,JMD200,AWS,https://www.arellano.com/,AWS,Cloud,Reject,2024-10-02
+CERT616,JMD200,GCP,http://aguilar.net/,GCP,Cloud,Accept,2022-11-08
+CERT617,JMD200,Azure,https://frye-mack.com/,Azure,Cloud,Accept,2024-02-26
+CERT618,JMD201,MySQL,https://everett-hale.net/,MySQL,Data Engineering,Accept,2024-07-01
+CERT619,JMD201,SnowFlake,http://www.brown.com/,SnowFlake,Data Engineering,Accept,2023-05-26
+CERT620,JMD202,Angular,http://hoffman.com/,Angular,Development,Reject,2023-08-31
+CERT621,JMD202,Node,http://www.thomas-reed.com/,Node,Development,Reject,2022-10-19
+CERT622,JMD203,Python,https://fowler.net/,Python,Data Science,Accept,2023-02-16
+CERT623,JMD203,Applied ML,https://lucas.org/,Applied ML,Data Science,Accept,2023-06-23
+CERT624,JMD203,AWS,http://www.garcia.com/,AWS,Cloud,Accept,2023-04-26
+CERT625,JMD203,Redis,https://www.jones.com/,Redis,Cloud,Accept,2023-08-19
+CERT626,JMD204,GCP,http://anderson-shaw.com/,GCP,Cloud,Reject,2022-12-05
+CERT627,JMD205,Laravel,http://thornton.com/,Laravel,Development,Reject,2023-07-28
+CERT628,JMD205,React Native,http://spears.com/,React Native,Development,Reject,2024-05-14
+CERT629,JMD205,AWS,https://www.watson.com/,AWS,Cloud,Reject,2022-12-07
+CERT630,JMD205,Azure,http://curtis-vargas.com/,Azure,Cloud,Accept,2023-09-13
+CERT631,JMD206,Web Scraping,http://harris.com/,Web Scraping,Data Engineering,Reject,2023-05-19
+CERT632,JMD206,Data Bricks,http://green-nichols.com/,Data Bricks,Data Engineering,Accept,2022-12-19
+CERT633,JMD206,Reactjs,https://wagner.info/,Reactjs,Development,Accept,2023-02-12
+CERT634,JMD206,Node,https://clark.info/,Node,Development,Reject,2024-02-22
+CERT635,JMD206,Next Js,http://www.hicks.com/,Next Js,Development,Reject,2023-12-18
+CERT636,JMD207,Flutter,http://www.clayton.org/,Flutter,Development,Accept,2023-03-20
+CERT637,JMD207,Laravel,http://macdonald.org/,Laravel,Development,Reject,2023-04-18
+CERT638,JMD207,Next Js,https://palmer.info/,Next Js,Development,Reject,2023-09-15
+CERT639,JMD208,GCP,http://www.edwards.com/,GCP,Cloud,Reject,2024-03-14
+CERT640,JMD208,Redis,http://www.rosario-davis.com/,Redis,Cloud,Reject,2024-03-26
+CERT641,JMD208,AWS,https://williams.org/,AWS,Cloud,Accept,2024-04-25
+CERT642,JMD208,Angular,http://www.baker.com/,Angular,Development,Reject,2023-03-15
+CERT643,JMD209,Redis,http://wise-hall.org/,Redis,Cloud,Accept,2023-07-03
+CERT644,JMD209,Azure,https://adkins-chan.net/,Azure,Cloud,Accept,2024-08-21
+CERT645,JMD209,Applied ML,https://www.ruiz-wilson.com/,Applied ML,Data Science,Accept,2022-12-11
+CERT646,JMD209,Python,http://www.richardson.org/,Python,Data Science,Reject,2023-01-06
+CERT647,JMD209,Big Data,http://www.martin.net/,Big Data,Data Science,Accept,2024-07-27
+CERT648,JMD210,SnowFlake,https://hernandez-rodriguez.com/,SnowFlake,Data Engineering,Reject,2023-07-04
+CERT649,JMD210,DBT,https://frederick.org/,DBT,Data Engineering,Accept,2024-02-11
+CERT650,JMD210,Next Js,https://proctor-bennett.biz/,Next Js,Development,Accept,2024-05-02
+CERT651,JMD210,Angular,http://www.castillo-price.biz/,Angular,Development,Accept,2024-04-22
+CERT652,JMD210,React Native,https://sweeney-krueger.com/,React Native,Development,Accept,2024-06-27
+CERT653,JMD211,DBT,https://www.mcclure.com/,DBT,Data Engineering,Accept,2024-03-01
+CERT654,JMD211,Python,http://hood-morales.net/,Python,Data Engineering,Accept,2023-12-10
+CERT655,JMD212,GCP,http://phillips.com/,GCP,Cloud,Accept,2024-08-14
+CERT656,JMD212,Azure,https://www.rodriguez-reed.info/,Azure,Cloud,Reject,2024-02-22
+CERT657,JMD212,AWS,https://www.reynolds.com/,AWS,Cloud,Accept,2023-03-01
+CERT658,JMD213,MySQL,https://www.lopez.com/,MySQL,Data Engineering,Reject,2023-04-04
+CERT659,JMD213,Python,http://www.porter.info/,Python,Data Engineering,Accept,2022-10-25
+CERT660,JMD213,DBT,http://gonzalez-ramirez.com/,DBT,Data Engineering,Accept,2024-09-24
+CERT661,JMD213,Big Data,https://www.campos.com/,Big Data,Data Science,Accept,2022-11-19
+CERT662,JMD213,Python,http://wilson.com/,Python,Data Science,Accept,2023-12-18
+CERT663,JMD214,Redis,https://romero.com/,Redis,Cloud,Accept,2024-04-27
+CERT664,JMD214,GCP,https://gardner-williams.org/,GCP,Cloud,Reject,2023-08-08
+CERT665,JMD214,React Native,http://sanchez-martinez.com/,React Native,Development,Accept,2023-01-06
+CERT666,JMD214,Node,http://www.brennan.net/,Node,Development,Accept,2023-09-15
+CERT667,JMD214,Next Js,http://www.gonzalez-haynes.net/,Next Js,Development,Accept,2024-07-12
+CERT668,JMD215,Web Scraping,http://boyd-eaton.com/,Web Scraping,Data Engineering,Reject,2024-01-08
+CERT669,JMD215,Applied ML,https://www.campbell.com/,Applied ML,Data Science,Reject,2022-12-07
+CERT670,JMD215,Python,http://www.salinas.com/,Python,Data Science,Accept,2024-05-11
+CERT671,JMD216,Applied ML,http://www.davis-johnson.biz/,Applied ML,Data Science,Reject,2024-06-15
+CERT672,JMD216,Big Data,https://lee-cervantes.info/,Big Data,Data Science,Reject,2023-09-23
+CERT673,JMD216,Data Bricks,http://lopez-boyer.biz/,Data Bricks,Data Engineering,Reject,2023-11-09
+CERT674,JMD216,Python,http://www.kelly.com/,Python,Data Engineering,Accept,2023-06-28
+CERT675,JMD217,Azure,https://www.brown.com/,Azure,Cloud,Accept,2024-05-06
+CERT676,JMD217,AWS,https://wood-mitchell.net/,AWS,Cloud,Accept,2024-07-02
+CERT677,JMD217,GCP,https://walsh.com/,GCP,Cloud,Accept,2024-10-06
+CERT678,JMD218,Azure,https://thompson.biz/,Azure,Cloud,Reject,2023-10-10
+CERT679,JMD218,SnowFlake,http://www.mueller.net/,SnowFlake,Data Engineering,Accept,2024-02-05
+CERT680,JMD219,Applied ML,http://www.valdez.com/,Applied ML,Data Science,Accept,2024-09-03
+CERT681,JMD219,Python,https://www.gray-yang.com/,Python,Data Science,Reject,2023-08-03
+CERT682,JMD219,Node,http://harris.com/,Node,Development,Accept,2023-05-07
+CERT683,JMD219,Reactjs,http://www.harris-cook.com/,Reactjs,Development,Reject,2024-04-09
+CERT684,JMD220,Node,http://www.stewart.com/,Node,Development,Accept,2024-03-05
+CERT685,JMD220,Next Js,http://dickerson.com/,Next Js,Development,Reject,2024-05-04
+CERT686,JMD221,DBT,https://fuentes-ortiz.net/,DBT,Data Engineering,Accept,2024-09-22
+CERT687,JMD221,Python,http://williamson-patton.net/,Python,Data Engineering,Accept,2023-09-03
+CERT688,JMD221,SnowFlake,http://www.perry.com/,SnowFlake,Data Engineering,Accept,2023-02-17
+CERT689,JMD221,Flutter,http://www.perry.biz/,Flutter,Development,Reject,2024-04-11
+CERT690,JMD222,Applied ML,https://www.roy.org/,Applied ML,Data Science,Reject,2024-05-27
+CERT691,JMD222,Big Data,http://www.barnes.com/,Big Data,Data Science,Accept,2024-02-06
+CERT692,JMD222,Python,https://www.hill-smith.com/,Python,Data Science,Accept,2023-02-17
+CERT693,JMD223,Python,http://www.norris.net/,Python,Data Engineering,Reject,2023-06-20
+CERT694,JMD223,Data Bricks,https://www.cook-smith.com/,Data Bricks,Data Engineering,Accept,2023-01-02
+CERT695,JMD223,Next Js,https://fields.biz/,Next Js,Development,Reject,2023-02-02
+CERT696,JMD223,Angular,https://gomez-trevino.com/,Angular,Development,Accept,2023-12-23
+CERT697,JMD223,Flutter,http://holder-ramirez.biz/,Flutter,Development,Accept,2023-09-14
+CERT698,JMD224,DBT,http://www.lopez.info/,DBT,Data Engineering,Reject,2024-07-22
+CERT699,JMD224,Web Scraping,http://www.carlson-york.com/,Web Scraping,Data Engineering,Reject,2022-11-16
+CERT700,JMD224,Laravel,https://www.garza.com/,Laravel,Development,Reject,2024-09-06
+CERT701,JMD224,Flutter,https://carter-jackson.com/,Flutter,Development,Accept,2024-07-04
+CERT702,JMD225,DBT,http://www.quinn.com/,DBT,Data Engineering,Accept,2023-02-14
+CERT703,JMD225,Applied ML,https://www.miles.com/,Applied ML,Data Science,Reject,2023-01-05
+CERT704,JMD225,Big Data,https://www.fernandez.com/,Big Data,Data Science,Reject,2023-04-06
+CERT705,JMD226,DBT,https://wade.com/,DBT,Data Engineering,Accept,2024-01-14
+CERT706,JMD226,Redis,https://arellano-horton.org/,Redis,Cloud,Accept,2023-01-21
+CERT707,JMD227,Redis,http://sutton.biz/,Redis,Cloud,Reject,2023-09-09
+CERT708,JMD227,Python,https://williamson-gibbs.info/,Python,Data Engineering,Reject,2023-04-22
+CERT709,JMD227,SnowFlake,http://www.johnston.biz/,SnowFlake,Data Engineering,Accept,2023-07-15
+CERT710,JMD228,Web Scraping,http://www.ross-velazquez.com/,Web Scraping,Data Engineering,Reject,2024-06-12
+CERT711,JMD228,Applied ML,https://www.elliott.biz/,Applied ML,Data Science,Reject,2022-11-03
+CERT712,JMD228,Python,http://west.com/,Python,Data Science,Accept,2023-02-07
+CERT713,JMD228,Big Data,http://www.perry-valdez.com/,Big Data,Data Science,Reject,2024-01-27
+CERT714,JMD229,Python,https://www.maddox.biz/,Python,Data Science,Accept,2023-06-12
+CERT715,JMD229,Applied ML,http://thornton.com/,Applied ML,Data Science,Accept,2023-08-24
+CERT716,JMD229,Big Data,https://www.williams-hunter.com/,Big Data,Data Science,Accept,2023-08-07
+CERT717,JMD229,Data Bricks,http://marks-adkins.com/,Data Bricks,Data Engineering,Reject,2024-07-03
+CERT718,JMD229,SnowFlake,http://www.nichols.com/,SnowFlake,Data Engineering,Accept,2023-02-20
+CERT719,JMD230,Redis,http://www.thomas.net/,Redis,Cloud,Accept,2024-08-26
+CERT720,JMD230,GCP,http://faulkner-miller.org/,GCP,Cloud,Accept,2023-12-16
+CERT721,JMD231,Big Data,https://www.mitchell-paul.net/,Big Data,Data Science,Reject,2023-01-12
+CERT722,JMD231,AWS,https://griffith-gay.com/,AWS,Cloud,Accept,2024-07-08
+CERT723,JMD231,GCP,https://holmes.com/,GCP,Cloud,Accept,2024-08-15
+CERT724,JMD232,Python,http://gilmore.org/,Python,Data Engineering,Accept,2024-03-14
+CERT725,JMD233,Redis,https://www.patel-mason.com/,Redis,Cloud,Reject,2024-04-30
+CERT726,JMD234,DBT,https://www.olson-horne.com/,DBT,Data Engineering,Accept,2023-10-01
+CERT727,JMD234,Data Bricks,https://conway.com/,Data Bricks,Data Engineering,Accept,2024-06-02
+CERT728,JMD234,Python,https://smith-prince.biz/,Python,Data Engineering,Reject,2024-03-18
+CERT729,JMD235,Data Bricks,http://campbell.com/,Data Bricks,Data Engineering,Accept,2024-05-30
+CERT730,JMD236,Azure,http://www.french-kennedy.com/,Azure,Cloud,Accept,2023-01-25
+CERT731,JMD236,GCP,http://www.little-flores.com/,GCP,Cloud,Reject,2023-02-19
+CERT732,JMD236,AWS,http://www.harrell.com/,AWS,Cloud,Reject,2023-02-17
+CERT733,JMD236,MySQL,https://johnson.com/,MySQL,Data Engineering,Reject,2024-09-03
+CERT734,JMD236,SnowFlake,http://ochoa.biz/,SnowFlake,Data Engineering,Reject,2024-07-07
+CERT735,JMD236,DBT,https://hall.info/,DBT,Data Engineering,Reject,2024-01-11
+CERT736,JMD237,AWS,http://www.russell-foster.com/,AWS,Cloud,Accept,2023-12-18
+CERT737,JMD237,Redis,https://www.boyd.info/,Redis,Cloud,Accept,2023-05-22
+CERT738,JMD237,GCP,https://www.davis.com/,GCP,Cloud,Reject,2024-01-27
+CERT739,JMD237,Big Data,http://www.lewis.com/,Big Data,Data Science,Accept,2022-12-10
+CERT740,JMD237,Applied ML,http://mcintyre.com/,Applied ML,Data Science,Reject,2023-04-01
+CERT741,JMD238,Redis,http://hunter.com/,Redis,Cloud,Accept,2024-02-08
+CERT742,JMD238,GCP,http://www.walton.com/,GCP,Cloud,Accept,2024-05-01
+CERT743,JMD239,AWS,http://miller.com/,AWS,Cloud,Accept,2023-04-11
+CERT744,JMD239,Redis,http://french.net/,Redis,Cloud,Reject,2023-03-07
+CERT745,JMD239,Web Scraping,http://www.woodward.biz/,Web Scraping,Data Engineering,Reject,2023-02-12
+CERT746,JMD239,Python,http://www.martin.net/,Python,Data Engineering,Accept,2022-12-25
+CERT747,JMD240,GCP,http://costa.net/,GCP,Cloud,Accept,2024-09-15
+CERT748,JMD240,Flutter,http://brown.com/,Flutter,Development,Reject,2023-02-11
+CERT749,JMD240,Next Js,https://www.long-harvey.com/,Next Js,Development,Reject,2023-01-22
+CERT750,JMD241,GCP,http://anderson-mccall.com/,GCP,Cloud,Accept,2023-10-22
+CERT751,JMD241,AWS,http://www.campbell.biz/,AWS,Cloud,Reject,2023-07-10
+CERT752,JMD242,SnowFlake,https://www.henson-matthews.org/,SnowFlake,Data Engineering,Reject,2024-01-07
+CERT753,JMD242,Python,http://dominguez.com/,Python,Data Engineering,Reject,2024-03-03
+CERT754,JMD242,Data Bricks,https://www.gomez-chen.com/,Data Bricks,Data Engineering,Accept,2024-09-06
+CERT755,JMD242,Python,http://rodriguez.biz/,Python,Data Science,Accept,2022-12-19
+CERT756,JMD243,Redis,http://thomas.info/,Redis,Cloud,Accept,2023-11-03
+CERT757,JMD243,GCP,https://coleman.com/,GCP,Cloud,Accept,2023-08-07
+CERT758,JMD243,AWS,https://www.rodriguez.info/,AWS,Cloud,Reject,2023-07-19
+CERT759,JMD243,Web Scraping,http://atkinson-henderson.com/,Web Scraping,Data Engineering,Accept,2022-11-17
+CERT760,JMD244,MySQL,https://henry.com/,MySQL,Data Engineering,Reject,2023-02-22
+CERT761,JMD245,Applied ML,https://www.larson.biz/,Applied ML,Data Science,Accept,2023-08-15
+CERT762,JMD245,React Native,https://www.robertson.com/,React Native,Development,Accept,2023-03-05
+CERT763,JMD245,Node,https://brown-sanchez.net/,Node,Development,Accept,2023-08-24
+CERT764,JMD245,Flutter,https://klein-hernandez.org/,Flutter,Development,Accept,2023-01-31
+CERT765,JMD246,Reactjs,https://garcia-davis.com/,Reactjs,Development,Accept,2024-08-16
+CERT766,JMD246,Angular,http://www.young.com/,Angular,Development,Accept,2024-06-05
+CERT767,JMD246,Flutter,https://www.bond.com/,Flutter,Development,Reject,2023-11-25
+CERT768,JMD246,Python,http://price-whitehead.com/,Python,Data Engineering,Accept,2023-10-27
+CERT769,JMD246,SnowFlake,http://www.mora.com/,SnowFlake,Data Engineering,Reject,2022-12-12
+CERT770,JMD246,Web Scraping,https://evans-rosario.info/,Web Scraping,Data Engineering,Reject,2023-06-29
+CERT771,JMD247,Laravel,https://www.thompson-miller.com/,Laravel,Development,Reject,2024-02-07
+CERT772,JMD247,Next Js,http://www.edwards-sanders.com/,Next Js,Development,Accept,2023-12-17
+CERT773,JMD247,React Native,https://campos-english.info/,React Native,Development,Reject,2024-01-17
+CERT774,JMD248,Python,http://gomez.com/,Python,Data Science,Reject,2024-03-03
+CERT775,JMD248,Big Data,https://patrick-webb.com/,Big Data,Data Science,Reject,2022-10-10
+CERT776,JMD248,Applied ML,https://www.salazar-chandler.com/,Applied ML,Data Science,Reject,2023-02-13
+CERT777,JMD248,Next Js,https://www.brown.com/,Next Js,Development,Reject,2022-11-12
+CERT778,JMD248,Reactjs,http://carpenter-soto.com/,Reactjs,Development,Reject,2023-01-02
+CERT779,JMD248,Flutter,https://patel-allison.com/,Flutter,Development,Reject,2023-03-04
+CERT780,JMD249,Flutter,https://www.murphy.net/,Flutter,Development,Accept,2023-02-13
+CERT781,JMD249,Angular,http://www.gutierrez-lynn.com/,Angular,Development,Reject,2022-12-14
+CERT782,JMD249,Laravel,https://www.kirby.com/,Laravel,Development,Reject,2024-04-05
+CERT783,JMD250,DBT,http://brown.com/,DBT,Data Engineering,Reject,2023-01-10
+CERT784,JMD250,Data Bricks,http://www.luna.info/,Data Bricks,Data Engineering,Reject,2024-08-22
+CERT785,JMD251,Laravel,https://diaz.com/,Laravel,Development,Reject,2023-10-05
+CERT786,JMD251,Node,http://barker-rogers.com/,Node,Development,Accept,2024-02-01
+CERT787,JMD251,Next Js,https://wilson.org/,Next Js,Development,Reject,2024-01-01
+CERT788,JMD252,Azure,http://www.smith.com/,Azure,Cloud,Accept,2023-01-10
+CERT789,JMD252,GCP,https://barber.info/,GCP,Cloud,Accept,2024-09-11
+CERT790,JMD252,Redis,http://franklin.info/,Redis,Cloud,Accept,2024-01-09
+CERT791,JMD253,Applied ML,https://www.blake-ross.com/,Applied ML,Data Science,Accept,2024-05-09
+CERT792,JMD253,Python,https://www.potts.org/,Python,Data Science,Reject,2023-07-03
+CERT793,JMD254,MySQL,http://gonzalez-green.biz/,MySQL,Data Engineering,Accept,2022-12-28
+CERT794,JMD254,DBT,https://www.richards.com/,DBT,Data Engineering,Accept,2023-05-24
+CERT795,JMD254,Next Js,http://www.pugh.net/,Next Js,Development,Accept,2023-11-17
+CERT796,JMD254,Reactjs,https://duran-taylor.net/,Reactjs,Development,Accept,2023-01-23
+CERT797,JMD254,React Native,http://wise-wells.com/,React Native,Development,Accept,2023-05-25
+CERT798,JMD255,SnowFlake,https://www.watson.info/,SnowFlake,Data Engineering,Accept,2024-06-26
+CERT799,JMD255,Redis,https://dunlap.com/,Redis,Cloud,Accept,2023-03-16
+CERT800,JMD256,GCP,http://macdonald.com/,GCP,Cloud,Accept,2024-08-18
+CERT801,JMD256,Azure,http://www.jimenez-meyer.org/,Azure,Cloud,Reject,2022-12-20
+CERT802,JMD256,DBT,http://kelly.com/,DBT,Data Engineering,Reject,2023-01-31
+CERT803,JMD256,Data Bricks,https://mccoy.com/,Data Bricks,Data Engineering,Reject,2023-09-24
+CERT804,JMD257,DBT,http://avila.com/,DBT,Data Engineering,Reject,2024-01-19
+CERT805,JMD257,Python,http://huffman.com/,Python,Data Engineering,Reject,2024-02-10
+CERT806,JMD258,Reactjs,https://www.fisher.biz/,Reactjs,Development,Accept,2024-03-13
+CERT807,JMD258,Next Js,https://wagner.info/,Next Js,Development,Accept,2023-03-29
+CERT808,JMD258,Angular,https://delgado.com/,Angular,Development,Reject,2023-03-30
+CERT809,JMD258,Python,https://barnes.info/,Python,Data Science,Reject,2023-02-04
+CERT810,JMD259,Data Bricks,http://ellis-moore.com/,Data Bricks,Data Engineering,Accept,2023-11-16
+CERT811,JMD259,DBT,https://www.lynch-hernandez.net/,DBT,Data Engineering,Reject,2023-02-23
+CERT812,JMD259,Python,http://www.porter-baldwin.biz/,Python,Data Engineering,Reject,2023-11-14
+CERT813,JMD260,Node,https://tate-rosales.com/,Node,Development,Reject,2023-05-30
+CERT814,JMD260,Flutter,https://cook.info/,Flutter,Development,Reject,2022-12-22
+CERT815,JMD261,Python,https://kim.com/,Python,Data Science,Reject,2024-07-18
+CERT816,JMD261,Azure,https://www.tyler.biz/,Azure,Cloud,Accept,2023-12-24
+CERT817,JMD262,Web Scraping,https://mitchell.com/,Web Scraping,Data Engineering,Reject,2023-07-10
+CERT818,JMD263,Web Scraping,https://jones.com/,Web Scraping,Data Engineering,Accept,2023-06-18
+CERT819,JMD263,MySQL,https://duffy.org/,MySQL,Data Engineering,Reject,2024-05-25
+CERT820,JMD263,SnowFlake,https://collins.com/,SnowFlake,Data Engineering,Accept,2024-09-12
+CERT821,JMD263,Reactjs,https://www.wolfe.com/,Reactjs,Development,Accept,2024-04-05
+CERT822,JMD263,Angular,http://orr-wilson.com/,Angular,Development,Accept,2022-11-22
+CERT823,JMD264,Flutter,http://www.thornton.com/,Flutter,Development,Reject,2024-04-04
+CERT824,JMD264,Python,https://smith-paul.org/,Python,Data Science,Reject,2023-04-17
+CERT825,JMD265,SnowFlake,http://www.williams.com/,SnowFlake,Data Engineering,Accept,2023-10-15
+CERT826,JMD265,Web Scraping,http://www.jones.com/,Web Scraping,Data Engineering,Accept,2024-08-30
+CERT827,JMD265,MySQL,http://www.donaldson-mack.biz/,MySQL,Data Engineering,Accept,2024-02-17
+CERT828,JMD265,Azure,https://barber.com/,Azure,Cloud,Accept,2023-03-05
+CERT829,JMD265,GCP,http://wolfe-martinez.com/,GCP,Cloud,Accept,2024-09-14
+CERT830,JMD266,Node,https://www.evans.com/,Node,Development,Accept,2024-01-09
+CERT831,JMD266,React Native,http://robinson.com/,React Native,Development,Reject,2023-12-27
+CERT832,JMD266,Next Js,https://smith-moody.info/,Next Js,Development,Reject,2023-09-15
+CERT833,JMD266,Python,https://www.harvey-thomas.com/,Python,Data Science,Accept,2022-12-16
+CERT834,JMD266,Big Data,https://www.bryan-gomez.net/,Big Data,Data Science,Accept,2022-11-26
+CERT835,JMD267,Data Bricks,http://www.rogers.com/,Data Bricks,Data Engineering,Reject,2024-02-11
+CERT836,JMD267,Web Scraping,http://gibbs.com/,Web Scraping,Data Engineering,Accept,2024-04-11
+CERT837,JMD267,Python,http://www.dixon-davis.com/,Python,Data Engineering,Reject,2024-10-04
+CERT838,JMD267,Reactjs,https://www.mayo.com/,Reactjs,Development,Accept,2023-08-24
+CERT839,JMD267,Next Js,https://www.velasquez-wells.info/,Next Js,Development,Accept,2022-11-05
+CERT840,JMD268,Azure,http://www.fleming-klein.com/,Azure,Cloud,Accept,2024-07-12
+CERT841,JMD268,AWS,https://jones.info/,AWS,Cloud,Accept,2024-08-06
+CERT842,JMD268,Applied ML,https://www.brewer-moore.com/,Applied ML,Data Science,Accept,2023-05-16
+CERT843,JMD268,Python,http://www.morris.com/,Python,Data Science,Accept,2024-07-25
+CERT844,JMD269,DBT,https://miller-curry.com/,DBT,Data Engineering,Accept,2023-10-11
+CERT845,JMD269,Python,http://www.perry-montgomery.com/,Python,Data Engineering,Reject,2024-01-02
+CERT846,JMD269,Azure,http://johnson.com/,Azure,Cloud,Reject,2023-11-12
+CERT847,JMD269,AWS,http://moore.com/,AWS,Cloud,Accept,2023-09-10
+CERT848,JMD269,Redis,https://clark-graham.com/,Redis,Cloud,Accept,2023-01-30
+CERT849,JMD270,AWS,http://leblanc-haas.com/,AWS,Cloud,Reject,2022-10-10
+CERT850,JMD270,GCP,https://www.potter-hall.biz/,GCP,Cloud,Reject,2023-01-10
+CERT851,JMD270,Redis,http://www.fitzgerald.com/,Redis,Cloud,Accept,2023-11-01
+CERT852,JMD270,Web Scraping,https://www.fox.biz/,Web Scraping,Data Engineering,Accept,2023-05-17
+CERT853,JMD270,Python,https://www.wise-young.com/,Python,Data Engineering,Reject,2023-01-26
+CERT854,JMD271,DBT,http://schneider.com/,DBT,Data Engineering,Reject,2022-10-18
+CERT855,JMD271,Python,https://tanner.com/,Python,Data Engineering,Reject,2023-02-25
+CERT856,JMD271,MySQL,http://www.smith-morton.com/,MySQL,Data Engineering,Accept,2024-05-02
+CERT857,JMD272,Applied ML,http://warren-best.com/,Applied ML,Data Science,Reject,2024-01-17
+CERT858,JMD272,Big Data,https://ramirez.com/,Big Data,Data Science,Reject,2024-05-06
+CERT859,JMD272,Python,http://allison.net/,Python,Data Science,Accept,2024-04-13
+CERT860,JMD273,Reactjs,http://johnson.org/,Reactjs,Development,Reject,2023-11-12
+CERT861,JMD273,Laravel,https://www.valdez.info/,Laravel,Development,Reject,2023-01-31
+CERT862,JMD274,MySQL,https://edwards-stevenson.com/,MySQL,Data Engineering,Accept,2024-03-16
+CERT863,JMD275,Python,https://mathis-sanchez.com/,Python,Data Science,Accept,2023-02-07
+CERT864,JMD275,Applied ML,https://glenn.info/,Applied ML,Data Science,Accept,2024-05-20
+CERT865,JMD275,Big Data,https://cardenas.net/,Big Data,Data Science,Reject,2023-11-12
+CERT866,JMD276,Azure,http://hoover-dixon.info/,Azure,Cloud,Reject,2024-01-26
+CERT867,JMD276,GCP,http://hamilton.com/,GCP,Cloud,Reject,2023-08-13
+CERT868,JMD276,Redis,http://www.hall.com/,Redis,Cloud,Reject,2023-02-17
+CERT869,JMD277,Python,https://smith-price.com/,Python,Data Science,Accept,2023-11-14
+CERT870,JMD277,Big Data,http://hernandez.com/,Big Data,Data Science,Accept,2023-03-27
+CERT871,JMD277,Applied ML,http://www.webster.com/,Applied ML,Data Science,Accept,2023-08-30
+CERT872,JMD278,Big Data,http://vargas.com/,Big Data,Data Science,Accept,2023-05-23
+CERT873,JMD278,Python,https://www.soto-carroll.info/,Python,Data Science,Accept,2022-12-27
+CERT874,JMD278,DBT,http://www.parrish-wood.info/,DBT,Data Engineering,Reject,2023-04-25
+CERT875,JMD278,Web Scraping,https://www.phillips-murillo.com/,Web Scraping,Data Engineering,Reject,2024-07-04
+CERT876,JMD278,Data Bricks,http://www.reed.com/,Data Bricks,Data Engineering,Reject,2024-09-15
+CERT877,JMD279,Python,https://cooper-watkins.info/,Python,Data Science,Accept,2022-11-25
+CERT878,JMD279,Big Data,https://myers.com/,Big Data,Data Science,Reject,2024-03-09
+CERT879,JMD280,Python,http://lewis-smith.com/,Python,Data Science,Reject,2022-11-19
+CERT880,JMD280,Applied ML,https://price-carpenter.com/,Applied ML,Data Science,Accept,2024-06-08
+CERT881,JMD281,Node,http://williams.com/,Node,Development,Reject,2023-04-22
+CERT882,JMD282,Laravel,https://www.miller.org/,Laravel,Development,Reject,2023-06-26
+CERT883,JMD282,Reactjs,https://webster.org/,Reactjs,Development,Reject,2023-01-10
+CERT884,JMD282,AWS,https://ramirez.com/,AWS,Cloud,Accept,2023-05-15
+CERT885,JMD283,Applied ML,http://powell-lopez.com/,Applied ML,Data Science,Accept,2023-11-22
+CERT886,JMD283,Python,https://www.martin-friedman.org/,Python,Data Science,Accept,2022-11-22
+CERT887,JMD284,Applied ML,https://wilson.com/,Applied ML,Data Science,Accept,2023-07-20
+CERT888,JMD284,Flutter,https://www.robinson.com/,Flutter,Development,Accept,2024-03-04
+CERT889,JMD284,Angular,https://whitney-rodriguez.net/,Angular,Development,Reject,2024-07-08
+CERT890,JMD284,Reactjs,http://pineda-franklin.biz/,Reactjs,Development,Accept,2023-03-27
+CERT891,JMD285,Redis,https://www.coleman-thomas.com/,Redis,Cloud,Reject,2023-01-20
+CERT892,JMD285,Azure,https://www.garrett.biz/,Azure,Cloud,Reject,2024-04-26
+CERT893,JMD285,DBT,https://www.sherman-murphy.com/,DBT,Data Engineering,Accept,2023-06-16
+CERT894,JMD286,Data Bricks,http://www.peterson-thompson.com/,Data Bricks,Data Engineering,Accept,2023-11-13
+CERT895,JMD287,Big Data,http://www.gonzalez-lawrence.com/,Big Data,Data Science,Accept,2023-06-01
+CERT896,JMD287,Applied ML,http://andersen.net/,Applied ML,Data Science,Accept,2023-11-28
+CERT897,JMD287,Python,https://sellers.com/,Python,Data Science,Accept,2023-11-28
+CERT898,JMD287,Next Js,https://owen-lewis.org/,Next Js,Development,Reject,2023-10-07
+CERT899,JMD287,React Native,http://watson-clark.org/,React Native,Development,Accept,2023-05-23
+CERT900,JMD287,Angular,http://robbins-turner.com/,Angular,Development,Reject,2024-03-19
+CERT901,JMD288,AWS,http://www.williams-patterson.com/,AWS,Cloud,Accept,2023-09-28
+CERT902,JMD288,React Native,http://www.novak.com/,React Native,Development,Accept,2023-12-24
+CERT903,JMD288,Next Js,http://morris-cooper.net/,Next Js,Development,Accept,2023-01-21
+CERT904,JMD288,Flutter,https://www.smith-adams.com/,Flutter,Development,Accept,2023-03-01
+CERT905,JMD289,Python,http://harrison.biz/,Python,Data Science,Reject,2023-09-11
+CERT906,JMD289,Applied ML,http://www.white.net/,Applied ML,Data Science,Reject,2024-06-09
+CERT907,JMD290,Azure,https://warren.com/,Azure,Cloud,Reject,2023-11-02
+CERT908,JMD290,AWS,http://www.graves-brown.com/,AWS,Cloud,Reject,2023-04-03
+CERT909,JMD290,GCP,https://www.sosa.com/,GCP,Cloud,Accept,2024-03-25
+CERT910,JMD290,MySQL,https://www.russell.com/,MySQL,Data Engineering,Accept,2024-08-31
+CERT911,JMD291,Big Data,http://www.parks.org/,Big Data,Data Science,Reject,2023-08-29
+CERT912,JMD291,Python,http://evans.com/,Python,Data Science,Accept,2023-04-06
+CERT913,JMD291,Applied ML,http://stark.com/,Applied ML,Data Science,Accept,2022-11-02
+CERT914,JMD291,Next Js,http://www.brooks-kane.org/,Next Js,Development,Accept,2023-11-16
+CERT915,JMD291,Reactjs,https://www.fernandez.info/,Reactjs,Development,Reject,2024-09-12
+CERT916,JMD291,Node,https://palmer.com/,Node,Development,Accept,2023-08-03
+CERT917,JMD292,GCP,http://www.eaton.com/,GCP,Cloud,Reject,2023-03-31
+CERT918,JMD293,Python,http://wallace-higgins.com/,Python,Data Science,Accept,2022-11-30
+CERT919,JMD294,GCP,https://pugh-short.com/,GCP,Cloud,Accept,2024-09-22
+CERT920,JMD294,Redis,http://www.dean-caldwell.com/,Redis,Cloud,Reject,2024-09-13
+CERT921,JMD294,Next Js,https://smith.com/,Next Js,Development,Accept,2023-03-27
+CERT922,JMD295,Data Bricks,http://www.martin.net/,Data Bricks,Data Engineering,Accept,2024-02-24
+CERT923,JMD295,Web Scraping,https://griffin-johnson.net/,Web Scraping,Data Engineering,Reject,2023-08-15
+CERT924,JMD295,Angular,http://www.fisher.com/,Angular,Development,Accept,2024-01-15
+CERT925,JMD295,React Native,http://www.ford-ramos.info/,React Native,Development,Accept,2022-10-10
+CERT926,JMD296,Python,http://www.joseph.com/,Python,Data Science,Accept,2024-01-06
+CERT927,JMD296,Applied ML,http://www.smith.org/,Applied ML,Data Science,Reject,2023-01-05
+CERT928,JMD297,Big Data,https://www.garcia-castillo.com/,Big Data,Data Science,Reject,2024-03-09
+CERT929,JMD297,Applied ML,https://www.allen-johnson.info/,Applied ML,Data Science,Reject,2023-06-10
+CERT930,JMD297,Python,http://gates.info/,Python,Data Science,Reject,2024-01-04
+CERT931,JMD297,Node,https://www.mcpherson-ryan.com/,Node,Development,Reject,2023-12-12
+CERT932,JMD297,Flutter,https://www.clark.org/,Flutter,Development,Accept,2023-08-23
+CERT933,JMD298,Angular,https://ballard.com/,Angular,Development,Reject,2023-04-24
+CERT934,JMD298,Flutter,https://hernandez-williams.com/,Flutter,Development,Reject,2023-07-10
+CERT935,JMD299,AWS,http://www.vaughn-vance.biz/,AWS,Cloud,Reject,2023-06-25
+CERT936,JMD299,MySQL,https://www.vasquez-wood.com/,MySQL,Data Engineering,Reject,2023-01-15
+CERT937,JMD299,Python,https://velez.org/,Python,Data Engineering,Accept,2023-07-02
+CERT938,JMD299,Data Bricks,https://www.gregory.com/,Data Bricks,Data Engineering,Accept,2024-09-08
+CERT939,JMD300,MySQL,http://lucero.com/,MySQL,Data Engineering,Reject,2023-12-23
+CERT940,JMD300,SnowFlake,http://www.robles.biz/,SnowFlake,Data Engineering,Reject,2023-07-11
+CERT941,JMD300,GCP,https://jones-ayala.info/,GCP,Cloud,Reject,2024-02-01
+CERT942,JMD300,Azure,https://www.hunt.com/,Azure,Cloud,Reject,2023-12-24
+CERT943,JMD301,Big Data,http://robinson.org/,Big Data,Data Science,Reject,2023-03-24
+CERT944,JMD301,Python,http://young.com/,Python,Data Science,Reject,2024-01-23
+CERT945,JMD301,Applied ML,https://www.evans-campbell.net/,Applied ML,Data Science,Accept,2023-07-13
+CERT946,JMD302,MySQL,https://mckinney-porter.com/,MySQL,Data Engineering,Reject,2024-09-11
+CERT947,JMD303,SnowFlake,https://www.becker.com/,SnowFlake,Data Engineering,Accept,2023-09-06
+CERT948,JMD304,Angular,https://huber-guerrero.com/,Angular,Development,Accept,2024-04-03
+CERT949,JMD304,AWS,https://garcia-floyd.info/,AWS,Cloud,Reject,2024-06-11
+CERT950,JMD304,GCP,http://www.patel.info/,GCP,Cloud,Reject,2024-05-30
+CERT951,JMD304,Redis,http://www.hicks.org/,Redis,Cloud,Reject,2024-04-21
+CERT952,JMD305,React Native,https://www.foster.biz/,React Native,Development,Accept,2023-07-27
+CERT953,JMD305,Reactjs,https://sullivan.biz/,Reactjs,Development,Accept,2024-06-25
+CERT954,JMD305,Next Js,https://www.smith.com/,Next Js,Development,Accept,2024-03-25
+CERT955,JMD306,React Native,https://carlson.com/,React Native,Development,Accept,2022-10-27
+CERT956,JMD306,Angular,https://phillips-patterson.com/,Angular,Development,Reject,2023-04-06
+CERT957,JMD306,Azure,https://marshall.com/,Azure,Cloud,Accept,2022-12-10
+CERT958,JMD306,GCP,https://mclaughlin.com/,GCP,Cloud,Reject,2023-04-30
+CERT959,JMD306,AWS,https://www.brown-saunders.com/,AWS,Cloud,Reject,2023-11-04
+CERT960,JMD307,Reactjs,http://rodriguez-steele.com/,Reactjs,Development,Reject,2023-03-25
+CERT961,JMD307,Node,http://www.robinson-wood.com/,Node,Development,Accept,2024-04-24
+CERT962,JMD307,Azure,http://www.miller-dean.com/,Azure,Cloud,Reject,2024-09-08
+CERT963,JMD308,Azure,http://www.perez-duncan.org/,Azure,Cloud,Reject,2024-08-30
+CERT964,JMD308,GCP,https://anderson-alvarado.biz/,GCP,Cloud,Accept,2024-03-14
+CERT965,JMD308,Redis,https://richardson-martinez.com/,Redis,Cloud,Accept,2023-11-25
+CERT966,JMD308,Laravel,https://www.ford-ortega.com/,Laravel,Development,Accept,2023-06-28
+CERT967,JMD309,Azure,https://morris.com/,Azure,Cloud,Accept,2024-09-29
+CERT968,JMD310,Angular,http://cooley-benson.net/,Angular,Development,Accept,2023-10-29
+CERT969,JMD310,Next Js,https://vaughn-bennett.info/,Next Js,Development,Accept,2023-02-04
+CERT970,JMD310,Flutter,http://www.parker-cook.com/,Flutter,Development,Accept,2024-09-15
+CERT971,JMD311,Python,http://gonzalez.net/,Python,Data Engineering,Accept,2023-10-31
+CERT972,JMD312,AWS,https://mcgee.com/,AWS,Cloud,Reject,2024-05-24
+CERT973,JMD312,Flutter,http://durham.com/,Flutter,Development,Reject,2023-01-15
+CERT974,JMD312,Angular,https://pierce-ryan.com/,Angular,Development,Accept,2024-05-24
+CERT975,JMD313,Big Data,http://patterson-livingston.com/,Big Data,Data Science,Accept,2024-04-28
+CERT976,JMD313,Applied ML,http://villanueva.com/,Applied ML,Data Science,Accept,2022-10-09
+CERT977,JMD313,Azure,https://lynch-fisher.com/,Azure,Cloud,Accept,2024-06-30
+CERT978,JMD313,Redis,https://www.figueroa.org/,Redis,Cloud,Reject,2024-09-02
+CERT979,JMD313,GCP,https://www.norton-smith.org/,GCP,Cloud,Reject,2024-05-11
+CERT980,JMD314,React Native,http://www.green.com/,React Native,Development,Reject,2023-08-22
+CERT981,JMD314,Flutter,https://higgins.net/,Flutter,Development,Accept,2023-08-24
+CERT982,JMD314,GCP,http://lawson-holmes.com/,GCP,Cloud,Accept,2023-06-23
+CERT983,JMD315,Redis,http://www.richard.com/,Redis,Cloud,Accept,2024-06-28
+CERT984,JMD315,GCP,http://guzman.com/,GCP,Cloud,Accept,2023-01-17
+CERT985,JMD315,Azure,https://weiss-solomon.com/,Azure,Cloud,Accept,2023-04-20
+CERT986,JMD316,MySQL,http://www.jones.biz/,MySQL,Data Engineering,Accept,2024-06-28
+CERT987,JMD317,Redis,https://www.frazier.info/,Redis,Cloud,Accept,2023-09-25
+CERT988,JMD317,Azure,http://calhoun-smith.com/,Azure,Cloud,Reject,2024-01-12
+CERT989,JMD317,Next Js,https://www.summers.org/,Next Js,Development,Reject,2023-05-17
+CERT990,JMD318,Applied ML,https://www.vargas.com/,Applied ML,Data Science,Reject,2024-03-25
+CERT991,JMD318,Big Data,https://www.sparks.com/,Big Data,Data Science,Accept,2024-05-23
+CERT992,JMD318,Python,http://www.miller.com/,Python,Data Science,Reject,2023-05-23
+CERT993,JMD318,MySQL,http://webb.com/,MySQL,Data Engineering,Reject,2024-08-21
+CERT994,JMD318,Web Scraping,http://jackson.com/,Web Scraping,Data Engineering,Accept,2024-09-25
+CERT995,JMD319,Applied ML,http://www.carpenter-ferguson.com/,Applied ML,Data Science,Reject,2023-01-10
+CERT996,JMD319,Python,http://ford.com/,Python,Data Science,Reject,2022-12-25
+CERT997,JMD320,SnowFlake,https://young.com/,SnowFlake,Data Engineering,Reject,2024-01-16
+CERT998,JMD320,Data Bricks,https://www.hansen.net/,Data Bricks,Data Engineering,Reject,2023-03-10
+CERT999,JMD321,React Native,http://reed-farmer.com/,React Native,Development,Reject,2023-09-01
+CERT1000,JMD321,Reactjs,http://www.turner.com/,Reactjs,Development,Accept,2023-09-24
+CERT1001,JMD321,Node,https://www.hunt.com/,Node,Development,Reject,2023-08-26
+CERT1002,JMD321,Data Bricks,https://www.black.info/,Data Bricks,Data Engineering,Reject,2023-01-14
+CERT1003,JMD321,Python,http://www.baxter.com/,Python,Data Engineering,Reject,2023-07-30
+CERT1004,JMD322,Big Data,http://petty-smith.org/,Big Data,Data Science,Accept,2023-06-21
+CERT1005,JMD322,Python,https://www.johnson.com/,Python,Data Engineering,Accept,2023-10-21
+CERT1006,JMD322,MySQL,https://www.johnson-martinez.biz/,MySQL,Data Engineering,Accept,2023-05-30
+CERT1007,JMD323,React Native,https://www.singh-adams.com/,React Native,Development,Accept,2023-04-25
+CERT1008,JMD324,SnowFlake,https://beasley.com/,SnowFlake,Data Engineering,Reject,2024-10-03
+CERT1009,JMD324,Data Bricks,https://www.dudley.net/,Data Bricks,Data Engineering,Reject,2024-05-23
+CERT1010,JMD324,Web Scraping,https://www.martin.net/,Web Scraping,Data Engineering,Accept,2024-02-05
+CERT1011,JMD324,Python,https://www.cruz.info/,Python,Data Science,Accept,2024-07-31
+CERT1012,JMD325,MySQL,https://www.strong.biz/,MySQL,Data Engineering,Reject,2024-07-27
+CERT1013,JMD325,DBT,http://stewart.biz/,DBT,Data Engineering,Accept,2023-08-11
+CERT1014,JMD325,Redis,https://goodman.com/,Redis,Cloud,Accept,2023-07-06
+CERT1015,JMD326,Big Data,https://www.ward-thomas.com/,Big Data,Data Science,Accept,2023-10-22
+CERT1016,JMD327,GCP,https://www.shannon.com/,GCP,Cloud,Reject,2022-12-04
+CERT1017,JMD327,Azure,https://bennett-meadows.net/,Azure,Cloud,Reject,2023-08-30
+CERT1018,JMD328,Big Data,https://www.morrow.com/,Big Data,Data Science,Reject,2024-05-31
+CERT1019,JMD328,Python,https://www.davis.com/,Python,Data Science,Reject,2023-12-12
+CERT1020,JMD328,DBT,http://burke.com/,DBT,Data Engineering,Reject,2023-09-14
+CERT1021,JMD328,Python,http://www.sellers-koch.com/,Python,Data Engineering,Accept,2023-12-11
+CERT1022,JMD328,Web Scraping,http://www.fitzgerald.org/,Web Scraping,Data Engineering,Reject,2024-04-07
+CERT1023,JMD329,Applied ML,https://taylor.info/,Applied ML,Data Science,Reject,2024-02-04
+CERT1024,JMD329,Big Data,http://moody.com/,Big Data,Data Science,Reject,2023-10-15
+CERT1025,JMD329,Python,http://stevens.org/,Python,Data Science,Accept,2023-12-08
+CERT1026,JMD329,Redis,http://www.hernandez.com/,Redis,Cloud,Reject,2023-11-24
+CERT1027,JMD329,Azure,http://www.grant.com/,Azure,Cloud,Accept,2023-11-29
+CERT1028,JMD330,Python,http://www.roman.net/,Python,Data Science,Accept,2023-06-09
+CERT1029,JMD331,Python,https://www.moore.com/,Python,Data Science,Reject,2022-10-27
+CERT1030,JMD331,Big Data,http://medina-williams.org/,Big Data,Data Science,Reject,2024-07-27
+CERT1031,JMD331,Flutter,http://www.dixon.org/,Flutter,Development,Reject,2023-07-24
+CERT1032,JMD332,Python,http://owens.com/,Python,Data Engineering,Reject,2024-04-12
+CERT1033,JMD332,SnowFlake,https://garcia-richardson.info/,SnowFlake,Data Engineering,Reject,2022-11-12
+CERT1034,JMD332,DBT,http://www.johnston.com/,DBT,Data Engineering,Reject,2023-03-28
+CERT1035,JMD333,Next Js,http://newman.info/,Next Js,Development,Reject,2023-11-26
+CERT1036,JMD333,Angular,https://www.stevenson-flores.info/,Angular,Development,Accept,2024-08-20
+CERT1037,JMD333,Reactjs,http://www.willis.org/,Reactjs,Development,Accept,2024-02-06
+CERT1038,JMD333,Data Bricks,http://www.gordon-hubbard.com/,Data Bricks,Data Engineering,Accept,2024-01-10
+CERT1039,JMD333,Web Scraping,http://www.gardner-wolfe.net/,Web Scraping,Data Engineering,Reject,2024-08-29
+CERT1040,JMD334,Node,http://oneill.com/,Node,Development,Accept,2023-07-01
+CERT1041,JMD334,Next Js,https://hamilton.com/,Next Js,Development,Reject,2023-09-29
+CERT1042,JMD334,Laravel,http://harrison.biz/,Laravel,Development,Reject,2023-03-21
+CERT1043,JMD334,Applied ML,https://maddox-brown.com/,Applied ML,Data Science,Reject,2024-07-03
+CERT1044,JMD335,Python,http://www.hammond.biz/,Python,Data Science,Reject,2023-08-30
+CERT1045,JMD336,Data Bricks,https://montoya.net/,Data Bricks,Data Engineering,Reject,2024-09-03
+CERT1046,JMD337,GCP,http://www.walker.com/,GCP,Cloud,Accept,2023-07-21
+CERT1047,JMD338,Applied ML,https://gardner-ortiz.com/,Applied ML,Data Science,Accept,2024-03-13
+CERT1048,JMD338,Python,http://www.moreno.info/,Python,Data Engineering,Reject,2023-04-18
+CERT1049,JMD338,DBT,https://www.wright-williams.com/,DBT,Data Engineering,Reject,2023-05-24
+CERT1050,JMD339,AWS,http://silva-green.com/,AWS,Cloud,Accept,2023-03-17
+CERT1051,JMD339,Azure,http://kerr.info/,Azure,Cloud,Reject,2024-04-30
+CERT1052,JMD339,Redis,https://moran.com/,Redis,Cloud,Reject,2022-12-04
+CERT1053,JMD340,Laravel,http://www.nguyen.com/,Laravel,Development,Reject,2024-04-25
+CERT1054,JMD340,Node,http://ewing.com/,Node,Development,Reject,2023-09-08
+CERT1055,JMD340,React Native,http://ward.info/,React Native,Development,Accept,2024-05-29
+CERT1056,JMD341,Python,https://www.thompson-harris.com/,Python,Data Engineering,Reject,2023-07-04
+CERT1057,JMD341,Web Scraping,https://suarez.net/,Web Scraping,Data Engineering,Reject,2022-12-14
+CERT1058,JMD341,Azure,http://www.flores-santiago.org/,Azure,Cloud,Accept,2024-05-25
+CERT1059,JMD341,Redis,http://moore-kim.com/,Redis,Cloud,Accept,2023-08-20
+CERT1060,JMD342,GCP,https://conway.com/,GCP,Cloud,Accept,2023-05-02
+CERT1061,JMD342,Big Data,http://smith-guerrero.biz/,Big Data,Data Science,Accept,2024-03-28
+CERT1062,JMD343,Node,https://robinson-santana.com/,Node,Development,Reject,2022-11-13
+CERT1063,JMD343,Angular,http://jones.com/,Angular,Development,Reject,2024-04-10
+CERT1064,JMD343,React Native,https://www.herrera-edwards.com/,React Native,Development,Accept,2022-12-25
+CERT1065,JMD343,Redis,https://www.gentry.biz/,Redis,Cloud,Accept,2024-01-11
+CERT1066,JMD343,AWS,http://smith.com/,AWS,Cloud,Accept,2023-02-08
+CERT1067,JMD344,MySQL,http://www.garcia-lopez.info/,MySQL,Data Engineering,Reject,2024-02-04
+CERT1068,JMD344,Web Scraping,https://www.graham.net/,Web Scraping,Data Engineering,Reject,2024-03-04
+CERT1069,JMD344,SnowFlake,http://freeman.info/,SnowFlake,Data Engineering,Reject,2023-04-01
+CERT1070,JMD345,Web Scraping,https://www.garcia-maldonado.com/,Web Scraping,Data Engineering,Reject,2023-03-16
+CERT1071,JMD345,DBT,http://murphy.com/,DBT,Data Engineering,Reject,2023-03-03
+CERT1072,JMD346,Applied ML,https://mcfarland.org/,Applied ML,Data Science,Accept,2024-07-17
+CERT1073,JMD346,Big Data,http://www.meza.net/,Big Data,Data Science,Reject,2023-01-03
+CERT1074,JMD346,Node,https://www.mora.com/,Node,Development,Accept,2023-12-28
+CERT1075,JMD346,Next Js,http://howard.net/,Next Js,Development,Reject,2024-04-05
+CERT1076,JMD346,Angular,https://landry-allen.com/,Angular,Development,Reject,2024-03-14
+CERT1077,JMD347,Python,http://wright-crawford.com/,Python,Data Science,Accept,2022-12-12
+CERT1078,JMD347,Big Data,https://www.cordova-butler.info/,Big Data,Data Science,Reject,2024-04-10
+CERT1079,JMD347,Applied ML,https://www.fisher-smith.net/,Applied ML,Data Science,Accept,2023-08-30
+CERT1080,JMD347,React Native,http://www.brown.com/,React Native,Development,Accept,2023-11-17
+CERT1081,JMD347,Angular,http://www.gregory.org/,Angular,Development,Reject,2024-05-21
+CERT1082,JMD347,Next Js,https://rodriguez.com/,Next Js,Development,Reject,2023-08-27
+CERT1083,JMD348,Data Bricks,https://www.kim.info/,Data Bricks,Data Engineering,Accept,2024-05-10
+CERT1084,JMD348,Angular,https://greene.com/,Angular,Development,Accept,2022-12-14
+CERT1085,JMD348,React Native,http://www.coffey.com/,React Native,Development,Reject,2023-02-14
+CERT1086,JMD349,Data Bricks,http://www.jackson.com/,Data Bricks,Data Engineering,Reject,2022-11-04
+CERT1087,JMD349,Web Scraping,http://cox.com/,Web Scraping,Data Engineering,Accept,2023-11-01
+CERT1088,JMD350,Big Data,https://www.soto.com/,Big Data,Data Science,Accept,2024-02-17
+CERT1089,JMD350,Python,http://edwards-brown.com/,Python,Data Science,Accept,2023-03-18
+CERT1090,JMD350,Applied ML,https://taylor.com/,Applied ML,Data Science,Accept,2024-09-17
+CERT1091,JMD350,React Native,https://white.com/,React Native,Development,Accept,2024-05-12
+CERT1092,JMD351,Big Data,https://www.blankenship.net/,Big Data,Data Science,Reject,2024-07-24
+CERT1093,JMD352,AWS,http://www.smith.org/,AWS,Cloud,Reject,2024-07-11
+CERT1094,JMD352,Redis,https://www.snyder.org/,Redis,Cloud,Reject,2023-07-23
+CERT1095,JMD353,Flutter,https://www.smith-brewer.biz/,Flutter,Development,Reject,2022-12-04
+CERT1096,JMD353,Laravel,https://ellis-sparks.net/,Laravel,Development,Accept,2023-01-06
+CERT1097,JMD354,GCP,http://wells-alvarez.biz/,GCP,Cloud,Reject,2022-11-06
+CERT1098,JMD354,Python,http://lee.com/,Python,Data Science,Reject,2023-10-13
+CERT1099,JMD354,Applied ML,https://lewis-graham.com/,Applied ML,Data Science,Reject,2024-08-02
+CERT1100,JMD355,DBT,https://juarez.net/,DBT,Data Engineering,Accept,2024-07-08
+CERT1101,JMD355,Next Js,https://cortez.com/,Next Js,Development,Reject,2022-10-17
+CERT1102,JMD355,Laravel,https://riley.com/,Laravel,Development,Accept,2023-04-22
+CERT1103,JMD355,React Native,http://www.jacobs.com/,React Native,Development,Accept,2024-01-29
+CERT1104,JMD356,SnowFlake,https://russell.com/,SnowFlake,Data Engineering,Reject,2024-06-06
+CERT1105,JMD356,Data Bricks,https://holt.com/,Data Bricks,Data Engineering,Accept,2024-02-16
+CERT1106,JMD356,Python,https://www.ramirez-larson.com/,Python,Data Engineering,Accept,2024-09-26
+CERT1107,JMD357,SnowFlake,http://www.gregory-wallace.org/,SnowFlake,Data Engineering,Accept,2024-05-19
+CERT1108,JMD358,Python,https://www.smith.net/,Python,Data Science,Accept,2024-06-16
+CERT1109,JMD358,Applied ML,http://evans-anderson.com/,Applied ML,Data Science,Accept,2024-04-30
+CERT1110,JMD358,Azure,https://www.ho.com/,Azure,Cloud,Accept,2023-09-14
+CERT1111,JMD358,AWS,http://hoffman.biz/,AWS,Cloud,Reject,2023-08-01
+CERT1112,JMD358,GCP,https://daniel.com/,GCP,Cloud,Reject,2024-07-16
+CERT1113,JMD359,Redis,https://malone-lopez.com/,Redis,Cloud,Accept,2023-10-13
+CERT1114,JMD360,Next Js,http://taylor.org/,Next Js,Development,Accept,2023-09-11
+CERT1115,JMD360,Reactjs,http://wells.biz/,Reactjs,Development,Accept,2023-06-15
+CERT1116,JMD360,Web Scraping,http://www.goodwin-miller.com/,Web Scraping,Data Engineering,Reject,2023-07-28
+CERT1117,JMD360,DBT,https://www.henderson-harris.com/,DBT,Data Engineering,Accept,2024-06-18
+CERT1118,JMD360,SnowFlake,https://www.lewis.org/,SnowFlake,Data Engineering,Reject,2024-09-29
+CERT1119,JMD361,DBT,http://chen-reid.com/,DBT,Data Engineering,Reject,2024-06-22
+CERT1120,JMD361,MySQL,http://www.green.com/,MySQL,Data Engineering,Reject,2022-10-29
+CERT1121,JMD361,Web Scraping,https://www.shah.biz/,Web Scraping,Data Engineering,Accept,2022-10-25
+CERT1122,JMD362,Web Scraping,http://www.yates-lewis.net/,Web Scraping,Data Engineering,Reject,2023-12-04
+CERT1123,JMD362,Reactjs,https://schroeder-roman.com/,Reactjs,Development,Reject,2023-04-10
+CERT1124,JMD363,Data Bricks,http://www.davis.com/,Data Bricks,Data Engineering,Accept,2024-09-09
+CERT1125,JMD363,SnowFlake,http://murphy.com/,SnowFlake,Data Engineering,Accept,2022-11-09
+CERT1126,JMD363,Python,https://www.bishop.net/,Python,Data Engineering,Accept,2024-05-25
+CERT1127,JMD363,Big Data,https://lowery-woodward.info/,Big Data,Data Science,Accept,2024-05-05
+CERT1128,JMD363,Applied ML,http://welch.com/,Applied ML,Data Science,Reject,2023-08-31
+CERT1129,JMD364,Redis,http://www.clayton.info/,Redis,Cloud,Reject,2022-12-11
+CERT1130,JMD364,GCP,http://gordon.com/,GCP,Cloud,Reject,2024-07-25
+CERT1131,JMD365,Python,http://larsen.org/,Python,Data Engineering,Reject,2024-07-27
+CERT1132,JMD365,DBT,http://www.french.com/,DBT,Data Engineering,Reject,2023-05-16
+CERT1133,JMD365,Angular,http://williams.com/,Angular,Development,Reject,2024-01-06
+CERT1134,JMD365,Node,http://simpson.com/,Node,Development,Reject,2023-01-13
+CERT1135,JMD365,Flutter,http://johnson.com/,Flutter,Development,Reject,2023-01-02
+CERT1136,JMD366,Web Scraping,http://sosa.org/,Web Scraping,Data Engineering,Reject,2024-03-13
+CERT1137,JMD366,Python,https://ochoa.org/,Python,Data Engineering,Accept,2024-03-15
+CERT1138,JMD366,Node,http://www.hill.biz/,Node,Development,Accept,2024-06-14
+CERT1139,JMD366,React Native,https://www.holland.com/,React Native,Development,Accept,2023-03-13
+CERT1140,JMD366,Flutter,https://www.williams.com/,Flutter,Development,Reject,2022-11-25
+CERT1141,JMD367,Redis,https://young.biz/,Redis,Cloud,Reject,2024-02-20
+CERT1142,JMD367,GCP,https://www.miller-jones.info/,GCP,Cloud,Reject,2023-02-01
+CERT1143,JMD367,Azure,http://www.edwards.info/,Azure,Cloud,Accept,2022-12-04
+CERT1144,JMD368,MySQL,http://www.rodriguez.org/,MySQL,Data Engineering,Accept,2024-01-31
+CERT1145,JMD368,Python,https://www.mendez.net/,Python,Data Engineering,Reject,2024-06-30
+CERT1146,JMD368,Web Scraping,http://castillo.com/,Web Scraping,Data Engineering,Accept,2024-03-02
+CERT1147,JMD368,Flutter,http://king.com/,Flutter,Development,Accept,2024-05-09
+CERT1148,JMD369,Python,https://nunez-todd.com/,Python,Data Science,Accept,2023-10-25
+CERT1149,JMD369,Applied ML,http://stuart-welch.biz/,Applied ML,Data Science,Reject,2024-05-26
+CERT1150,JMD370,Next Js,https://stevens.info/,Next Js,Development,Accept,2023-01-17
+CERT1151,JMD370,React Native,http://www.martinez.com/,React Native,Development,Reject,2024-01-25
+CERT1152,JMD371,DBT,http://alexander.com/,DBT,Data Engineering,Reject,2024-06-14
+CERT1153,JMD371,Python,http://higgins.com/,Python,Data Engineering,Reject,2024-01-21
+CERT1154,JMD371,Data Bricks,http://pearson.com/,Data Bricks,Data Engineering,Reject,2024-03-11
+CERT1155,JMD371,Python,https://lowe-smith.com/,Python,Data Science,Accept,2024-10-05
+CERT1156,JMD371,Big Data,http://www.moran.com/,Big Data,Data Science,Accept,2023-08-20
+CERT1157,JMD371,Applied ML,http://www.sampson.com/,Applied ML,Data Science,Accept,2024-07-20
+CERT1158,JMD372,Web Scraping,https://www.johnson-parker.net/,Web Scraping,Data Engineering,Reject,2023-01-08
+CERT1159,JMD372,DBT,http://www.hawkins.com/,DBT,Data Engineering,Accept,2024-06-08
+CERT1160,JMD372,MySQL,https://graham-taylor.biz/,MySQL,Data Engineering,Reject,2024-05-21
+CERT1161,JMD372,Big Data,http://brooks.com/,Big Data,Data Science,Reject,2023-05-03
+CERT1162,JMD373,React Native,https://www.hernandez.net/,React Native,Development,Reject,2024-01-15
+CERT1163,JMD373,Angular,http://rose.info/,Angular,Development,Accept,2023-08-14
+CERT1164,JMD373,Node,https://haynes.info/,Node,Development,Reject,2023-08-18
+CERT1165,JMD374,Redis,https://fowler-ward.com/,Redis,Cloud,Reject,2023-07-27
+CERT1166,JMD374,GCP,http://baldwin.biz/,GCP,Cloud,Accept,2024-01-17
+CERT1167,JMD375,Angular,http://wilson.com/,Angular,Development,Accept,2024-07-30
+CERT1168,JMD375,Reactjs,http://shepard-underwood.net/,Reactjs,Development,Accept,2023-07-09
+CERT1169,JMD376,Python,https://www.williams.com/,Python,Data Science,Reject,2022-12-26
+CERT1170,JMD376,Applied ML,http://www.myers-mueller.com/,Applied ML,Data Science,Accept,2023-01-04
+CERT1171,JMD376,Big Data,https://huang.com/,Big Data,Data Science,Reject,2023-11-24
+CERT1172,JMD377,Applied ML,http://www.patel.biz/,Applied ML,Data Science,Reject,2022-12-14
+CERT1173,JMD377,Python,http://kennedy.org/,Python,Data Science,Accept,2023-08-16
+CERT1174,JMD378,SnowFlake,https://www.davis.com/,SnowFlake,Data Engineering,Accept,2023-12-30
+CERT1175,JMD378,Big Data,http://www.smith.net/,Big Data,Data Science,Reject,2022-12-22
+CERT1176,JMD379,Applied ML,http://hamilton.biz/,Applied ML,Data Science,Reject,2023-06-11
+CERT1177,JMD379,React Native,https://www.brown.org/,React Native,Development,Accept,2023-12-03
+CERT1178,JMD379,Laravel,https://www.bernard-lowe.info/,Laravel,Development,Accept,2023-03-16
+CERT1179,JMD380,React Native,http://www.torres-stewart.com/,React Native,Development,Reject,2022-11-23
+CERT1180,JMD380,Angular,https://campos.com/,Angular,Development,Reject,2022-12-16
+CERT1181,JMD380,Laravel,https://www.newton.com/,Laravel,Development,Reject,2024-08-15
+CERT1182,JMD380,Applied ML,https://www.sims.biz/,Applied ML,Data Science,Accept,2023-06-23
+CERT1183,JMD381,Redis,http://quinn-bailey.biz/,Redis,Cloud,Accept,2023-05-10
+CERT1184,JMD381,GCP,http://mendoza-soto.com/,GCP,Cloud,Reject,2024-07-25
+CERT1185,JMD381,Node,http://www.dixon.com/,Node,Development,Reject,2023-09-26
+CERT1186,JMD381,Angular,http://www.munoz.com/,Angular,Development,Accept,2024-08-07
+CERT1187,JMD381,Laravel,http://www.maldonado.info/,Laravel,Development,Accept,2023-01-15
+CERT1188,JMD382,Node,https://clark-rogers.com/,Node,Development,Reject,2024-06-26
+CERT1189,JMD383,Big Data,http://johnson.net/,Big Data,Data Science,Accept,2023-07-28
+CERT1190,JMD383,Python,http://www.white.com/,Python,Data Science,Reject,2023-05-31
+CERT1191,JMD383,GCP,http://herring.net/,GCP,Cloud,Reject,2023-11-08
+CERT1192,JMD383,Azure,https://www.king.com/,Azure,Cloud,Reject,2023-05-30
+CERT1193,JMD384,Applied ML,https://www.walls.com/,Applied ML,Data Science,Accept,2024-05-07
+CERT1194,JMD384,Big Data,https://www.garcia.com/,Big Data,Data Science,Accept,2022-11-26
+CERT1195,JMD384,Python,https://gomez.net/,Python,Data Science,Reject,2023-05-24
+CERT1196,JMD385,AWS,https://byrd-jenkins.com/,AWS,Cloud,Accept,2023-08-14
+CERT1197,JMD385,DBT,http://www.sandoval.net/,DBT,Data Engineering,Reject,2023-07-10
+CERT1198,JMD385,SnowFlake,http://foster.com/,SnowFlake,Data Engineering,Reject,2022-12-03
+CERT1199,JMD385,Data Bricks,https://young-chambers.com/,Data Bricks,Data Engineering,Reject,2024-02-02
+CERT1200,JMD386,Web Scraping,https://www.carter.biz/,Web Scraping,Data Engineering,Accept,2024-08-27
+CERT1201,JMD386,Angular,http://www.white.biz/,Angular,Development,Accept,2024-04-13
+CERT1202,JMD387,GCP,http://sawyer-garcia.com/,GCP,Cloud,Reject,2023-01-31
+CERT1203,JMD387,Azure,https://www.hernandez.com/,Azure,Cloud,Reject,2022-12-10
+CERT1204,JMD387,Redis,http://baker.net/,Redis,Cloud,Accept,2022-12-03
+CERT1205,JMD387,Python,http://stewart.biz/,Python,Data Science,Accept,2023-02-12
+CERT1206,JMD387,Applied ML,https://walker.com/,Applied ML,Data Science,Accept,2023-09-12
+CERT1207,JMD388,Laravel,https://byrd.net/,Laravel,Development,Accept,2023-01-08
+CERT1208,JMD388,Flutter,https://rocha.com/,Flutter,Development,Reject,2023-04-12
+CERT1209,JMD388,Applied ML,http://www.haynes.org/,Applied ML,Data Science,Accept,2024-02-09
+CERT1210,JMD388,Big Data,https://www.deleon.org/,Big Data,Data Science,Accept,2023-04-10
+CERT1211,JMD389,MySQL,http://nelson.com/,MySQL,Data Engineering,Accept,2024-07-07
+CERT1212,JMD389,Azure,http://livingston.net/,Azure,Cloud,Accept,2024-08-31
+CERT1213,JMD390,Python,https://www.phillips-james.biz/,Python,Data Engineering,Reject,2024-04-23
+CERT1214,JMD391,Reactjs,http://www.haynes.org/,Reactjs,Development,Reject,2024-10-07
+CERT1215,JMD391,Flutter,http://bishop.com/,Flutter,Development,Reject,2024-01-27
+CERT1216,JMD391,Azure,https://bishop-harrison.info/,Azure,Cloud,Reject,2024-04-27
+CERT1217,JMD391,Redis,https://www.weber.com/,Redis,Cloud,Accept,2024-01-27
+CERT1218,JMD391,GCP,https://anderson-vasquez.net/,GCP,Cloud,Accept,2023-05-29
+CERT1219,JMD392,Python,https://www.thompson.info/,Python,Data Engineering,Reject,2023-02-06
+CERT1220,JMD392,GCP,https://www.barnett.info/,GCP,Cloud,Reject,2023-12-01
+CERT1221,JMD393,Big Data,https://www.peterson.com/,Big Data,Data Science,Reject,2024-09-18
+CERT1222,JMD393,Flutter,http://www.gould-miller.com/,Flutter,Development,Accept,2023-07-10
+CERT1223,JMD393,Next Js,https://www.jones.net/,Next Js,Development,Reject,2024-07-04
+CERT1224,JMD393,React Native,http://www.hernandez.biz/,React Native,Development,Reject,2024-08-01
+CERT1225,JMD394,Data Bricks,http://www.jones.info/,Data Bricks,Data Engineering,Accept,2023-12-02
+CERT1226,JMD394,Python,http://www.davis-jackson.com/,Python,Data Engineering,Reject,2023-01-08
+CERT1227,JMD394,Web Scraping,http://www.king.info/,Web Scraping,Data Engineering,Reject,2024-06-16
+CERT1228,JMD395,Data Bricks,https://www.wiggins-johnson.net/,Data Bricks,Data Engineering,Reject,2023-01-11
+CERT1229,JMD395,Python,https://vazquez.com/,Python,Data Engineering,Accept,2023-05-23
+CERT1230,JMD395,DBT,https://page.com/,DBT,Data Engineering,Reject,2023-09-10
+CERT1231,JMD396,GCP,https://www.bryant.com/,GCP,Cloud,Reject,2023-10-12
+CERT1232,JMD396,Redis,https://www.walker-rodgers.com/,Redis,Cloud,Reject,2022-12-17
+CERT1233,JMD396,AWS,http://ellis-johnson.com/,AWS,Cloud,Reject,2024-06-15
+CERT1234,JMD397,Python,https://www.rogers-pena.biz/,Python,Data Science,Reject,2023-03-18
+CERT1235,JMD397,Big Data,https://www.cook.com/,Big Data,Data Science,Accept,2023-04-05
+CERT1236,JMD398,Applied ML,https://alvarez.biz/,Applied ML,Data Science,Reject,2023-05-29
+CERT1237,JMD399,MySQL,http://turner-young.net/,MySQL,Data Engineering,Accept,2024-06-03
+CERT1238,JMD399,DBT,http://www.moore.com/,DBT,Data Engineering,Reject,2023-05-26
+CERT1239,JMD399,SnowFlake,https://valentine.com/,SnowFlake,Data Engineering,Reject,2024-06-05
+CERT1240,JMD399,Big Data,http://www.jimenez-young.info/,Big Data,Data Science,Reject,2024-04-03
+CERT1241,JMD399,Applied ML,https://burnett.net/,Applied ML,Data Science,Reject,2023-11-28
+CERT1242,JMD399,Python,https://lee.com/,Python,Data Science,Accept,2022-11-05
+CERT1243,JMD400,React Native,https://www.guerra.com/,React Native,Development,Reject,2023-08-31
+CERT1244,JMD401,Azure,http://garcia.com/,Azure,Cloud,Reject,2023-09-15
+CERT1245,JMD401,Python,https://www.rodriguez.net/,Python,Data Engineering,Accept,2023-08-16
+CERT1246,JMD401,SnowFlake,http://combs.net/,SnowFlake,Data Engineering,Accept,2023-11-26
+CERT1247,JMD402,Big Data,http://hill-white.com/,Big Data,Data Science,Accept,2024-06-23
+CERT1248,JMD403,Azure,http://www.osborne.com/,Azure,Cloud,Accept,2024-04-26
+CERT1249,JMD403,GCP,https://gomez.net/,GCP,Cloud,Reject,2023-10-27
+CERT1250,JMD403,AWS,https://johnson.org/,AWS,Cloud,Accept,2023-06-29
+CERT1251,JMD403,Flutter,https://mack.com/,Flutter,Development,Accept,2022-11-21
+CERT1252,JMD404,Azure,http://www.smith-beck.org/,Azure,Cloud,Reject,2023-08-24
+CERT1253,JMD404,AWS,http://www.moon-miller.biz/,AWS,Cloud,Accept,2022-11-30
+CERT1254,JMD404,Python,https://www.wilson-baker.com/,Python,Data Science,Reject,2023-12-29
+CERT1255,JMD404,Applied ML,http://www.moreno.com/,Applied ML,Data Science,Accept,2024-01-12
+CERT1256,JMD404,Big Data,http://www.ortega.com/,Big Data,Data Science,Reject,2023-09-29
+CERT1257,JMD405,Reactjs,https://www.smith-thomas.com/,Reactjs,Development,Accept,2024-04-19
+CERT1258,JMD405,Next Js,https://www.mcmillan.com/,Next Js,Development,Accept,2023-12-29
+CERT1259,JMD405,Python,https://kent.biz/,Python,Data Engineering,Accept,2024-04-27
+CERT1260,JMD405,MySQL,https://www.werner-ramirez.com/,MySQL,Data Engineering,Accept,2023-12-26
+CERT1261,JMD405,SnowFlake,http://www.cooper-villarreal.com/,SnowFlake,Data Engineering,Reject,2023-06-24
+CERT1262,JMD406,Next Js,https://www.burke.info/,Next Js,Development,Accept,2024-03-15
+CERT1263,JMD406,Flutter,http://flores.org/,Flutter,Development,Reject,2023-07-10
+CERT1264,JMD407,Applied ML,https://www.callahan-price.biz/,Applied ML,Data Science,Reject,2024-09-12
+CERT1265,JMD407,Python,http://www.collins.com/,Python,Data Science,Reject,2023-11-30
+CERT1266,JMD408,Applied ML,https://martinez.info/,Applied ML,Data Science,Reject,2023-03-26
+CERT1267,JMD408,Python,http://www.murray.org/,Python,Data Science,Accept,2024-01-29
+CERT1268,JMD408,Big Data,http://jones-gordon.com/,Big Data,Data Science,Reject,2023-08-29
+CERT1269,JMD409,Node,http://www.jones.com/,Node,Development,Reject,2023-01-24
+CERT1270,JMD409,Reactjs,https://www.bailey-davis.net/,Reactjs,Development,Reject,2023-09-21
+CERT1271,JMD409,Next Js,https://www.jones.biz/,Next Js,Development,Reject,2023-08-19
+CERT1272,JMD409,Data Bricks,https://bryant.com/,Data Bricks,Data Engineering,Reject,2024-05-02
+CERT1273,JMD410,Redis,https://rodriguez-clark.com/,Redis,Cloud,Reject,2024-06-16
+CERT1274,JMD410,GCP,https://www.parker.com/,GCP,Cloud,Accept,2024-04-16
+CERT1275,JMD410,Azure,http://www.simmons-horn.com/,Azure,Cloud,Accept,2024-02-05
+CERT1276,JMD411,DBT,https://hooper.biz/,DBT,Data Engineering,Reject,2024-01-30
+CERT1277,JMD411,Laravel,http://www.alexander-campbell.biz/,Laravel,Development,Accept,2024-07-15
+CERT1278,JMD411,Next Js,https://thornton.com/,Next Js,Development,Reject,2023-09-16
+CERT1279,JMD411,Reactjs,https://hampton.com/,Reactjs,Development,Accept,2023-11-18
+CERT1280,JMD412,Applied ML,https://www.delacruz.net/,Applied ML,Data Science,Accept,2023-04-23
+CERT1281,JMD412,Python,http://lopez-taylor.biz/,Python,Data Science,Accept,2023-09-09
+CERT1282,JMD412,MySQL,http://www.murphy.net/,MySQL,Data Engineering,Reject,2023-04-02
+CERT1283,JMD413,Big Data,http://www.perez.info/,Big Data,Data Science,Reject,2024-02-28
+CERT1284,JMD413,Applied ML,http://www.mitchell-ayers.com/,Applied ML,Data Science,Reject,2024-01-04
+CERT1285,JMD413,Python,https://harrison.org/,Python,Data Science,Accept,2024-07-19
+CERT1286,JMD414,AWS,https://www.kramer.org/,AWS,Cloud,Accept,2023-08-26
+CERT1287,JMD414,Azure,https://www.phillips.net/,Azure,Cloud,Reject,2024-01-28
+CERT1288,JMD414,Data Bricks,http://www.patel.com/,Data Bricks,Data Engineering,Reject,2023-07-13
+CERT1289,JMD415,Redis,http://miller-wilson.com/,Redis,Cloud,Reject,2023-10-19
+CERT1290,JMD415,Angular,http://lynn-lawrence.org/,Angular,Development,Accept,2023-08-09
+CERT1291,JMD416,Applied ML,https://www.thomas.com/,Applied ML,Data Science,Accept,2024-02-17
+CERT1292,JMD416,Big Data,https://www.dixon.biz/,Big Data,Data Science,Reject,2024-05-26
+CERT1293,JMD416,Python,http://marsh.com/,Python,Data Science,Accept,2023-03-30
+CERT1294,JMD416,Azure,https://www.porter.com/,Azure,Cloud,Reject,2024-04-10
+CERT1295,JMD416,Redis,http://www.williams-hunter.com/,Redis,Cloud,Accept,2023-06-15
+CERT1296,JMD417,React Native,http://www.lynch.net/,React Native,Development,Accept,2023-11-20
+CERT1297,JMD417,Laravel,http://www.welch.com/,Laravel,Development,Accept,2023-08-16
+CERT1298,JMD418,Big Data,http://www.collins.com/,Big Data,Data Science,Reject,2024-10-05
+CERT1299,JMD418,Python,http://www.davis-dalton.net/,Python,Data Science,Reject,2023-12-08
+CERT1300,JMD418,React Native,https://www.jones.com/,React Native,Development,Reject,2023-11-06
+CERT1301,JMD418,Next Js,http://pitts.info/,Next Js,Development,Reject,2023-06-22
+CERT1302,JMD418,Node,https://cochran.com/,Node,Development,Reject,2024-06-11
+CERT1303,JMD419,Data Bricks,https://jones.com/,Data Bricks,Data Engineering,Accept,2023-04-07
+CERT1304,JMD419,DBT,http://jones-simmons.org/,DBT,Data Engineering,Accept,2023-09-29
+CERT1305,JMD420,MySQL,https://www.faulkner-clayton.com/,MySQL,Data Engineering,Accept,2022-12-21
+CERT1306,JMD420,Data Bricks,https://zimmerman-nelson.org/,Data Bricks,Data Engineering,Accept,2024-02-02
+CERT1307,JMD420,Node,https://www.sanford.com/,Node,Development,Accept,2024-01-09
+CERT1308,JMD420,Angular,http://mckenzie-brewer.com/,Angular,Development,Reject,2023-10-22
+CERT1309,JMD420,React Native,https://www.edwards-mills.info/,React Native,Development,Reject,2023-01-22
+CERT1310,JMD421,Python,https://jones.com/,Python,Data Science,Accept,2023-07-16
+CERT1311,JMD422,Python,https://vasquez-fleming.com/,Python,Data Engineering,Reject,2022-12-24
+CERT1312,JMD423,GCP,http://espinoza-kim.com/,GCP,Cloud,Accept,2022-10-21
+CERT1313,JMD424,Big Data,http://fisher-miller.info/,Big Data,Data Science,Reject,2024-05-12
+CERT1314,JMD425,GCP,https://www.carlson-rodriguez.info/,GCP,Cloud,Accept,2023-06-03
+CERT1315,JMD426,Web Scraping,https://www.wallace.com/,Web Scraping,Data Engineering,Accept,2024-02-08
+CERT1316,JMD426,MySQL,http://smith.org/,MySQL,Data Engineering,Reject,2022-12-12
+CERT1317,JMD426,Node,http://lopez.com/,Node,Development,Reject,2024-08-29
+CERT1318,JMD427,React Native,https://www.miller.com/,React Native,Development,Reject,2022-11-14
+CERT1319,JMD427,Angular,https://www.larson-marshall.com/,Angular,Development,Accept,2024-04-07
+CERT1320,JMD427,Next Js,http://www.sullivan-mitchell.com/,Next Js,Development,Reject,2024-03-15
+CERT1321,JMD428,Big Data,http://www.garrison.com/,Big Data,Data Science,Accept,2024-08-28
+CERT1322,JMD428,Python,http://www.henderson-knight.com/,Python,Data Science,Reject,2023-12-10
+CERT1323,JMD428,React Native,http://brock.biz/,React Native,Development,Reject,2023-10-04
+CERT1324,JMD428,Angular,http://www.wolf.net/,Angular,Development,Accept,2023-04-16
+CERT1325,JMD429,AWS,http://www.fisher.com/,AWS,Cloud,Reject,2023-04-22
+CERT1326,JMD429,GCP,https://www.sweeney.com/,GCP,Cloud,Accept,2024-03-22
+CERT1327,JMD429,Azure,http://moore.com/,Azure,Cloud,Accept,2022-12-14
+CERT1328,JMD429,Applied ML,https://brown.org/,Applied ML,Data Science,Reject,2023-05-26
+CERT1329,JMD430,AWS,https://bryant.biz/,AWS,Cloud,Reject,2022-10-15
+CERT1330,JMD430,Redis,https://george.net/,Redis,Cloud,Accept,2023-12-18
+CERT1331,JMD430,Azure,https://www.baker.com/,Azure,Cloud,Reject,2024-05-25
+CERT1332,JMD430,Python,http://lawson.com/,Python,Data Science,Accept,2024-06-24
+CERT1333,JMD430,Applied ML,https://orr-smith.com/,Applied ML,Data Science,Reject,2023-10-05
+CERT1334,JMD431,Redis,http://www.terrell.org/,Redis,Cloud,Reject,2023-05-05
+CERT1335,JMD431,GCP,https://www.hobbs.info/,GCP,Cloud,Accept,2022-11-21
+CERT1336,JMD431,Reactjs,https://www.garrett.com/,Reactjs,Development,Accept,2023-12-27
+CERT1337,JMD431,Node,https://www.park.net/,Node,Development,Accept,2023-10-27
+CERT1338,JMD432,Laravel,http://howe.com/,Laravel,Development,Accept,2023-08-25
+CERT1339,JMD433,Big Data,http://www.clark.com/,Big Data,Data Science,Reject,2024-09-15
+CERT1340,JMD433,Applied ML,http://dalton.com/,Applied ML,Data Science,Reject,2022-10-28
+CERT1341,JMD433,Python,http://swanson-brown.org/,Python,Data Science,Accept,2023-11-29
+CERT1342,JMD434,Laravel,https://www.barnes.com/,Laravel,Development,Reject,2023-07-08
+CERT1343,JMD434,React Native,http://www.solomon.info/,React Native,Development,Accept,2024-06-29
+CERT1344,JMD434,Next Js,https://www.phillips.com/,Next Js,Development,Accept,2022-12-14
+CERT1345,JMD435,Big Data,https://www.foley.com/,Big Data,Data Science,Accept,2024-06-22
+CERT1346,JMD435,Applied ML,https://baxter-spencer.info/,Applied ML,Data Science,Accept,2023-07-12
+CERT1347,JMD435,GCP,http://www.hunter.com/,GCP,Cloud,Accept,2023-01-22
+CERT1348,JMD435,Azure,http://mcgee.info/,Azure,Cloud,Accept,2024-01-25
+CERT1349,JMD435,AWS,https://www.campbell-james.info/,AWS,Cloud,Accept,2024-06-13
+CERT1350,JMD436,DBT,https://kane.net/,DBT,Data Engineering,Reject,2022-12-17
+CERT1351,JMD437,Redis,http://stewart-craig.info/,Redis,Cloud,Accept,2024-07-11
+CERT1352,JMD438,Reactjs,http://garcia.info/,Reactjs,Development,Accept,2023-06-11
+CERT1353,JMD438,Laravel,http://www.white.com/,Laravel,Development,Accept,2024-08-04
+CERT1354,JMD438,Angular,https://www.johnson-villarreal.biz/,Angular,Development,Reject,2022-12-19
+CERT1355,JMD439,SnowFlake,https://www.weber.net/,SnowFlake,Data Engineering,Accept,2023-05-05
+CERT1356,JMD439,Web Scraping,http://rodriguez.com/,Web Scraping,Data Engineering,Reject,2024-02-09
+CERT1357,JMD439,MySQL,https://www.young-smith.com/,MySQL,Data Engineering,Accept,2024-01-02
+CERT1358,JMD439,Next Js,http://www.walton.com/,Next Js,Development,Accept,2023-02-19
+CERT1359,JMD439,Node,https://www.james.com/,Node,Development,Accept,2023-02-01
+CERT1360,JMD439,Reactjs,http://www.rojas.info/,Reactjs,Development,Reject,2023-09-09
+CERT1361,JMD440,SnowFlake,https://ramos.info/,SnowFlake,Data Engineering,Reject,2022-11-12
+CERT1362,JMD440,DBT,http://long-mann.com/,DBT,Data Engineering,Reject,2024-04-08
+CERT1363,JMD440,Big Data,https://www.bailey.info/,Big Data,Data Science,Accept,2022-11-16
+CERT1364,JMD441,Angular,https://www.thompson-allison.com/,Angular,Development,Reject,2023-03-05
+CERT1365,JMD441,Laravel,http://www.durham.org/,Laravel,Development,Accept,2024-05-22
+CERT1366,JMD442,Applied ML,https://www.watson.net/,Applied ML,Data Science,Reject,2024-09-02
+CERT1367,JMD442,Python,http://www.bradford.org/,Python,Data Science,Reject,2022-12-21
+CERT1368,JMD442,Big Data,https://howard.info/,Big Data,Data Science,Reject,2024-01-16
+CERT1369,JMD442,Angular,https://cole.com/,Angular,Development,Accept,2023-12-16
+CERT1370,JMD442,React Native,https://price.biz/,React Native,Development,Accept,2024-02-13
+CERT1371,JMD442,Laravel,https://schultz-fernandez.com/,Laravel,Development,Accept,2024-01-15
+CERT1372,JMD443,Python,https://hall.com/,Python,Data Science,Reject,2024-04-06
+CERT1373,JMD443,Big Data,http://harris-tucker.info/,Big Data,Data Science,Reject,2023-09-24
+CERT1374,JMD443,Applied ML,https://cohen-hines.biz/,Applied ML,Data Science,Reject,2024-05-23
+CERT1375,JMD443,Web Scraping,https://www.murillo.org/,Web Scraping,Data Engineering,Accept,2024-03-19
+CERT1376,JMD444,Azure,http://marquez.biz/,Azure,Cloud,Reject,2023-10-16
+CERT1377,JMD445,Azure,https://english.net/,Azure,Cloud,Accept,2023-03-05
+CERT1378,JMD445,Python,https://goodwin-powell.org/,Python,Data Engineering,Accept,2023-10-10
+CERT1379,JMD445,Data Bricks,http://www.hill.com/,Data Bricks,Data Engineering,Accept,2024-02-06
+CERT1380,JMD445,Web Scraping,https://james.com/,Web Scraping,Data Engineering,Reject,2023-02-10
+CERT1381,JMD446,Python,https://singh-garcia.com/,Python,Data Engineering,Reject,2024-05-08
+CERT1382,JMD447,Applied ML,http://www.perry.org/,Applied ML,Data Science,Accept,2022-10-08
+CERT1383,JMD447,Python,https://www.orozco.biz/,Python,Data Science,Accept,2024-01-29
+CERT1384,JMD448,Redis,https://lee.info/,Redis,Cloud,Accept,2023-09-13
+CERT1385,JMD448,Laravel,https://rodgers.com/,Laravel,Development,Accept,2024-08-08
+CERT1386,JMD448,Next Js,http://www.taylor-holland.biz/,Next Js,Development,Accept,2022-10-24
+CERT1387,JMD449,Applied ML,https://www.smith-schultz.org/,Applied ML,Data Science,Reject,2024-01-18
+CERT1388,JMD449,Python,http://www.delgado.com/,Python,Data Science,Reject,2024-04-17
+CERT1389,JMD449,Web Scraping,http://briggs-choi.net/,Web Scraping,Data Engineering,Reject,2024-03-28
+CERT1390,JMD449,MySQL,https://bradley.com/,MySQL,Data Engineering,Reject,2024-03-13
+CERT1391,JMD450,DBT,https://www.myers.com/,DBT,Data Engineering,Reject,2023-03-23
+CERT1392,JMD450,Python,https://huang.com/,Python,Data Science,Accept,2023-08-26
+CERT1393,JMD450,Applied ML,https://sanchez.org/,Applied ML,Data Science,Accept,2024-04-20
+CERT1394,JMD450,Big Data,https://www.murphy.com/,Big Data,Data Science,Accept,2024-08-29
+CERT1395,JMD451,Web Scraping,http://rollins-harris.com/,Web Scraping,Data Engineering,Reject,2023-11-23
+CERT1396,JMD451,Redis,https://myers.org/,Redis,Cloud,Accept,2024-08-12
+CERT1397,JMD451,AWS,https://schmitt.com/,AWS,Cloud,Reject,2023-03-21
+CERT1398,JMD452,Web Scraping,http://www.kemp.net/,Web Scraping,Data Engineering,Accept,2024-09-18
+CERT1399,JMD452,MySQL,http://reyes.com/,MySQL,Data Engineering,Reject,2024-03-11
+CERT1400,JMD452,Reactjs,http://mendoza.com/,Reactjs,Development,Accept,2024-09-25
+CERT1401,JMD452,Next Js,http://www.wood-flores.com/,Next Js,Development,Reject,2023-06-28
+CERT1402,JMD453,Azure,http://ramirez.biz/,Azure,Cloud,Accept,2023-10-13
+CERT1403,JMD453,AWS,http://blair.org/,AWS,Cloud,Accept,2024-02-28
+CERT1404,JMD453,GCP,https://www.sparks.com/,GCP,Cloud,Accept,2022-12-30
+CERT1405,JMD453,React Native,http://www.lang-cobb.com/,React Native,Development,Reject,2023-11-18
+CERT1406,JMD453,Next Js,http://www.flynn.net/,Next Js,Development,Reject,2024-09-21
+CERT1407,JMD453,Flutter,http://www.hernandez.biz/,Flutter,Development,Reject,2023-03-28
+CERT1408,JMD454,Python,http://sanchez.com/,Python,Data Science,Reject,2022-12-01
+CERT1409,JMD454,Big Data,http://lewis.net/,Big Data,Data Science,Accept,2023-07-03
+CERT1410,JMD454,Angular,http://clark-steele.com/,Angular,Development,Reject,2023-04-21
+CERT1411,JMD454,Reactjs,https://henderson.com/,Reactjs,Development,Reject,2023-08-01
+CERT1412,JMD454,Next Js,http://www.newton.biz/,Next Js,Development,Accept,2022-12-18
+CERT1413,JMD455,Node,https://choi-johnson.com/,Node,Development,Reject,2023-05-21
+CERT1414,JMD455,Next Js,https://www.bishop.net/,Next Js,Development,Accept,2023-06-29
+CERT1415,JMD455,Reactjs,https://www.francis.biz/,Reactjs,Development,Accept,2023-11-30
+CERT1416,JMD456,GCP,http://ross.net/,GCP,Cloud,Reject,2022-11-10
+CERT1417,JMD456,Redis,https://www.simpson-hinton.com/,Redis,Cloud,Accept,2023-10-30
+CERT1418,JMD457,Big Data,http://wilson-kelly.org/,Big Data,Data Science,Accept,2024-08-05
+CERT1419,JMD458,Reactjs,https://lewis-wood.com/,Reactjs,Development,Accept,2023-03-02
+CERT1420,JMD458,Laravel,http://www.powell.com/,Laravel,Development,Accept,2024-01-16
+CERT1421,JMD458,AWS,https://russell.info/,AWS,Cloud,Reject,2024-06-20
+CERT1422,JMD458,Azure,http://www.taylor.com/,Azure,Cloud,Accept,2024-07-04
+CERT1423,JMD458,Redis,https://mendoza-calhoun.org/,Redis,Cloud,Reject,2023-10-11
+CERT1424,JMD459,Applied ML,http://www.wiley.com/,Applied ML,Data Science,Accept,2023-04-24
+CERT1425,JMD459,Big Data,https://www.johnson.com/,Big Data,Data Science,Accept,2023-11-13
+CERT1426,JMD459,Azure,https://www.clark.info/,Azure,Cloud,Accept,2024-02-04
+CERT1427,JMD459,AWS,http://kelley.biz/,AWS,Cloud,Reject,2024-07-09
+CERT1428,JMD460,Big Data,https://dunlap-reeves.com/,Big Data,Data Science,Reject,2024-09-22
+CERT1429,JMD460,Applied ML,https://ortiz-medina.info/,Applied ML,Data Science,Reject,2024-04-14
+CERT1430,JMD460,Python,http://phillips.biz/,Python,Data Science,Reject,2024-05-21
+CERT1431,JMD460,React Native,https://www.romero.com/,React Native,Development,Reject,2022-11-17
+CERT1432,JMD460,Laravel,https://kaiser-mcdonald.info/,Laravel,Development,Accept,2024-07-18
+CERT1433,JMD461,Python,https://davis.org/,Python,Data Science,Reject,2023-03-02
+CERT1434,JMD461,Python,https://neal.com/,Python,Data Engineering,Reject,2022-11-23
+CERT1435,JMD462,Big Data,https://richards.com/,Big Data,Data Science,Accept,2024-03-12
+CERT1436,JMD462,Applied ML,https://reyes.com/,Applied ML,Data Science,Accept,2024-06-08
+CERT1437,JMD462,Python,http://www.bright.com/,Python,Data Science,Reject,2023-01-07
+CERT1438,JMD462,Next Js,http://www.barnes.com/,Next Js,Development,Reject,2024-08-02
+CERT1439,JMD462,Laravel,https://hansen-nguyen.com/,Laravel,Development,Accept,2023-08-18
+CERT1440,JMD463,AWS,http://www.carr.net/,AWS,Cloud,Reject,2024-07-16
+CERT1441,JMD463,Azure,https://www.walters.com/,Azure,Cloud,Reject,2023-04-30
+CERT1442,JMD464,Applied ML,http://bailey-ward.org/,Applied ML,Data Science,Accept,2024-04-30
+CERT1443,JMD464,Python,https://harrison-palmer.com/,Python,Data Science,Accept,2023-03-31
+CERT1444,JMD464,Web Scraping,http://williams-hernandez.info/,Web Scraping,Data Engineering,Reject,2023-11-17
+CERT1445,JMD464,DBT,https://avila-smith.net/,DBT,Data Engineering,Accept,2023-03-02
+CERT1446,JMD465,Python,http://www.gonzalez.biz/,Python,Data Engineering,Accept,2023-07-03
+CERT1447,JMD465,MySQL,http://www.lloyd.com/,MySQL,Data Engineering,Accept,2023-03-24
+CERT1448,JMD466,Reactjs,https://www.smith-mason.org/,Reactjs,Development,Reject,2022-10-09
+CERT1449,JMD466,Angular,http://www.adams.com/,Angular,Development,Reject,2023-05-05
+CERT1450,JMD466,React Native,http://fox.biz/,React Native,Development,Accept,2024-03-18
+CERT1451,JMD467,DBT,http://anthony.net/,DBT,Data Engineering,Accept,2022-10-18
+CERT1452,JMD467,Web Scraping,https://bass.com/,Web Scraping,Data Engineering,Accept,2023-10-10
+CERT1453,JMD468,Applied ML,https://www.herrera.net/,Applied ML,Data Science,Reject,2023-04-23
+CERT1454,JMD468,Big Data,http://www.davis.com/,Big Data,Data Science,Accept,2024-05-19
+CERT1455,JMD469,Redis,https://www.hodges-bruce.info/,Redis,Cloud,Reject,2022-10-17
+CERT1456,JMD469,SnowFlake,https://phillips.com/,SnowFlake,Data Engineering,Reject,2023-08-05
+CERT1457,JMD470,Applied ML,https://rogers.com/,Applied ML,Data Science,Accept,2023-09-17
+CERT1458,JMD470,Python,http://nelson-gilbert.org/,Python,Data Science,Accept,2023-05-12
+CERT1459,JMD471,Node,https://www.sanders-wright.com/,Node,Development,Reject,2022-12-28
+CERT1460,JMD471,Big Data,http://santos.com/,Big Data,Data Science,Accept,2023-04-30
+CERT1461,JMD471,Python,http://www.bowers.com/,Python,Data Science,Reject,2023-04-15
+CERT1462,JMD472,SnowFlake,http://hernandez.net/,SnowFlake,Data Engineering,Reject,2024-07-16
+CERT1463,JMD473,Python,https://www.baldwin-torres.org/,Python,Data Science,Accept,2023-10-12
+CERT1464,JMD473,Applied ML,https://www.west-brown.com/,Applied ML,Data Science,Reject,2023-09-05
+CERT1465,JMD473,AWS,http://www.morris.info/,AWS,Cloud,Accept,2024-07-13
+CERT1466,JMD473,GCP,https://www.rodriguez.com/,GCP,Cloud,Accept,2023-11-17
+CERT1467,JMD473,Azure,https://www.byrd.com/,Azure,Cloud,Reject,2023-03-03
+CERT1468,JMD474,Next Js,https://kelly.com/,Next Js,Development,Reject,2023-03-14
+CERT1469,JMD474,Web Scraping,https://jones.com/,Web Scraping,Data Engineering,Reject,2024-03-13
+CERT1470,JMD474,MySQL,http://www.morales.com/,MySQL,Data Engineering,Accept,2023-06-28
+CERT1471,JMD475,Reactjs,http://ford.com/,Reactjs,Development,Accept,2022-11-01
+CERT1472,JMD475,MySQL,https://www.herrera.com/,MySQL,Data Engineering,Reject,2023-07-06
+CERT1473,JMD475,Web Scraping,http://duke-terry.info/,Web Scraping,Data Engineering,Reject,2023-07-28
+CERT1474,JMD476,Reactjs,https://www.wright.com/,Reactjs,Development,Reject,2024-04-18
+CERT1475,JMD476,Node,http://jones.info/,Node,Development,Reject,2023-10-12
+CERT1476,JMD476,React Native,https://www.maldonado.net/,React Native,Development,Accept,2023-01-25
+CERT1477,JMD477,Data Bricks,https://cole-wagner.com/,Data Bricks,Data Engineering,Accept,2023-12-09
+CERT1478,JMD477,Flutter,http://www.santana-mathis.com/,Flutter,Development,Reject,2022-12-18
+CERT1479,JMD478,Azure,https://barber.org/,Azure,Cloud,Reject,2022-10-24
+CERT1480,JMD478,GCP,http://dixon.com/,GCP,Cloud,Reject,2023-06-13
+CERT1481,JMD478,Angular,https://www.curry.com/,Angular,Development,Reject,2023-01-01
+CERT1482,JMD478,Next Js,http://www.armstrong-wallace.biz/,Next Js,Development,Reject,2024-03-21
+CERT1483,JMD478,Node,http://fox-luna.com/,Node,Development,Accept,2024-04-20
+CERT1484,JMD479,Next Js,https://www.brewer.com/,Next Js,Development,Accept,2023-04-17
+CERT1485,JMD479,React Native,http://paul.com/,React Native,Development,Accept,2023-12-30
+CERT1486,JMD479,Flutter,http://moore-graham.com/,Flutter,Development,Reject,2023-08-29
+CERT1487,JMD479,GCP,https://www.phillips.com/,GCP,Cloud,Accept,2023-10-30
+CERT1488,JMD479,Redis,https://www.walker.biz/,Redis,Cloud,Accept,2024-09-17
+CERT1489,JMD479,AWS,http://www.stewart.org/,AWS,Cloud,Reject,2022-10-25
+CERT1490,JMD480,Python,http://martinez.org/,Python,Data Science,Reject,2024-03-29
+CERT1491,JMD480,DBT,https://burke.biz/,DBT,Data Engineering,Reject,2023-10-14
+CERT1492,JMD480,Data Bricks,http://www.ortiz.com/,Data Bricks,Data Engineering,Accept,2022-11-29
+CERT1493,JMD480,Web Scraping,https://watkins.net/,Web Scraping,Data Engineering,Accept,2023-03-20
+CERT1494,JMD481,Flutter,http://www.chavez.com/,Flutter,Development,Reject,2024-07-22
+CERT1495,JMD481,Reactjs,http://www.mcbride.info/,Reactjs,Development,Accept,2023-08-04
+CERT1496,JMD481,Applied ML,http://wright-campos.net/,Applied ML,Data Science,Reject,2024-05-21
+CERT1497,JMD482,GCP,https://www.stewart.info/,GCP,Cloud,Accept,2024-08-30
+CERT1498,JMD482,Redis,https://clark-huffman.com/,Redis,Cloud,Reject,2023-04-10
+CERT1499,JMD482,AWS,https://diaz-smith.net/,AWS,Cloud,Reject,2023-08-18
+CERT1500,JMD482,SnowFlake,https://gilbert.com/,SnowFlake,Data Engineering,Accept,2023-04-03
+CERT1501,JMD482,Data Bricks,http://www.coleman.com/,Data Bricks,Data Engineering,Reject,2022-11-28
+CERT1502,JMD482,DBT,https://www.moore.net/,DBT,Data Engineering,Reject,2023-08-02
+CERT1503,JMD483,AWS,http://www.cohen.com/,AWS,Cloud,Accept,2024-06-04
+CERT1504,JMD483,Azure,https://www.rodriguez-jones.com/,Azure,Cloud,Reject,2024-03-16
+CERT1505,JMD483,Redis,http://jackson.com/,Redis,Cloud,Reject,2024-04-09
+CERT1506,JMD483,Applied ML,http://martin-gould.com/,Applied ML,Data Science,Accept,2023-05-11
+CERT1507,JMD484,Laravel,https://blevins-hill.com/,Laravel,Development,Accept,2024-03-11
+CERT1508,JMD484,Node,https://smith.com/,Node,Development,Accept,2022-11-19
+CERT1509,JMD484,GCP,http://brooks-clayton.com/,GCP,Cloud,Accept,2024-04-09
+CERT1510,JMD484,Redis,https://hayes-adkins.com/,Redis,Cloud,Accept,2023-09-20
+CERT1511,JMD484,AWS,http://www.cook-flowers.com/,AWS,Cloud,Reject,2023-09-20
+CERT1512,JMD485,Applied ML,http://www.wallace.biz/,Applied ML,Data Science,Reject,2024-01-05
+CERT1513,JMD485,Angular,http://brown.com/,Angular,Development,Reject,2023-05-14
+CERT1514,JMD485,Flutter,http://wilson.com/,Flutter,Development,Accept,2024-06-29
+CERT1515,JMD486,Flutter,http://www.cummings-alvarez.com/,Flutter,Development,Accept,2024-05-12
+CERT1516,JMD486,Laravel,https://www.chavez.com/,Laravel,Development,Accept,2023-05-15
+CERT1517,JMD487,Next Js,https://www.ramirez.com/,Next Js,Development,Reject,2023-09-09
+CERT1518,JMD487,MySQL,https://www.tucker.com/,MySQL,Data Engineering,Reject,2024-04-16
+CERT1519,JMD488,Laravel,http://watts-shields.info/,Laravel,Development,Accept,2024-05-31
+CERT1520,JMD489,Next Js,https://www.thomas.biz/,Next Js,Development,Reject,2023-02-01
+CERT1521,JMD489,Laravel,https://www.yang.biz/,Laravel,Development,Accept,2023-04-26
+CERT1522,JMD490,Redis,https://campbell.com/,Redis,Cloud,Reject,2023-06-26
+CERT1523,JMD490,Azure,http://www.martin.com/,Azure,Cloud,Accept,2023-03-18
+CERT1524,JMD490,AWS,http://www.guzman-campbell.com/,AWS,Cloud,Reject,2024-01-21
+CERT1525,JMD491,Laravel,http://roth.com/,Laravel,Development,Reject,2022-10-09
+CERT1526,JMD491,Flutter,https://warren.com/,Flutter,Development,Accept,2023-04-25
+CERT1527,JMD491,SnowFlake,http://hernandez-hernandez.com/,SnowFlake,Data Engineering,Reject,2024-08-12
+CERT1528,JMD492,Angular,https://www.bird.biz/,Angular,Development,Accept,2024-03-26
+CERT1529,JMD492,Laravel,http://www.doyle.com/,Laravel,Development,Accept,2024-07-07
+CERT1530,JMD492,Next Js,http://www.hill.com/,Next Js,Development,Reject,2024-09-17
+CERT1531,JMD492,GCP,https://www.pham-cohen.com/,GCP,Cloud,Accept,2023-10-07
+CERT1532,JMD493,Python,http://www.sherman.com/,Python,Data Engineering,Reject,2024-04-23
+CERT1533,JMD493,AWS,http://williams.com/,AWS,Cloud,Accept,2023-06-23
+CERT1534,JMD493,Redis,http://hernandez.net/,Redis,Cloud,Reject,2023-06-20
+CERT1535,JMD494,GCP,https://www.allen.com/,GCP,Cloud,Reject,2024-01-09
+CERT1536,JMD494,Azure,http://www.lopez.com/,Azure,Cloud,Accept,2024-09-16
+CERT1537,JMD494,AWS,http://www.watts-parker.com/,AWS,Cloud,Reject,2022-12-29
+CERT1538,JMD495,MySQL,http://brewer.com/,MySQL,Data Engineering,Accept,2024-03-27
+CERT1539,JMD495,DBT,https://james.com/,DBT,Data Engineering,Reject,2023-01-10
+CERT1540,JMD495,SnowFlake,https://smith.com/,SnowFlake,Data Engineering,Reject,2024-04-12
+CERT1541,JMD496,Python,https://www.lopez.com/,Python,Data Science,Accept,2023-02-13
+CERT1542,JMD496,Big Data,https://ramirez-snow.com/,Big Data,Data Science,Accept,2024-01-21
+CERT1543,JMD496,Applied ML,http://www.perkins.org/,Applied ML,Data Science,Accept,2023-11-06
+CERT1544,JMD497,Next Js,http://irwin.com/,Next Js,Development,Accept,2024-05-30
+CERT1545,JMD497,React Native,https://singh.com/,React Native,Development,Accept,2023-11-11
+CERT1546,JMD497,Node,https://howard.com/,Node,Development,Reject,2024-02-16
+CERT1547,JMD497,Redis,https://leblanc.com/,Redis,Cloud,Reject,2024-08-18
+CERT1548,JMD498,Data Bricks,https://www.wilson.com/,Data Bricks,Data Engineering,Accept,2022-12-11
+CERT1549,JMD499,Data Bricks,http://randall.com/,Data Bricks,Data Engineering,Accept,2024-02-27
+CERT1550,JMD499,Python,https://www.brown-cox.com/,Python,Data Engineering,Reject,2023-11-29
+CERT1551,JMD499,GCP,https://www.hughes.com/,GCP,Cloud,Accept,2024-06-03
+CERT1552,JMD499,AWS,https://alvarez.com/,AWS,Cloud,Reject,2022-10-09
+CERT1553,JMD499,Redis,http://hughes-vang.info/,Redis,Cloud,Accept,2023-10-30
+CERT1554,JMD500,GCP,https://www.wu-long.com/,GCP,Cloud,Accept,2024-02-16
+CERT1555,JMD500,AWS,https://bauer-rogers.com/,AWS,Cloud,Accept,2024-02-04
+CERT1556,JMD500,Azure,https://www.myers.com/,Azure,Cloud,Reject,2024-07-12

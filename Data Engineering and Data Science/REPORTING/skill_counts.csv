@@ -1,0 +1,21 @@
+Department,Skill,Count
+Development,Reactjs,31
+Development,Node,34
+Development,Next Js,36
+Development,Laravel,29
+Development,Angular,30
+Development,Flutter,45
+Development,React Native,37
+Data Science,Python,87
+Data Science,Applied ML,89
+Data Science,Big Data,87
+Data Engineering,Python,41
+Data Engineering,MySQL,32
+Data Engineering,Web Scraping,37
+Data Engineering,DBT,37
+Data Engineering,SnowFlake,47
+Data Engineering,Data Bricks,44
+Cloud,AWS,68
+Cloud,Azure,77
+Cloud,GCP,74
+Cloud,Redis,79
